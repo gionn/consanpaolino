@@ -2,10 +2,9 @@ version: 2
 jobs:
   build:
     docker:
-      - image: ruby:2.4
+      - image: circleci/ruby:2.4-node-browsers
         environment:
-          LC_ALL: en_US.UTF-8
-          LANG: en_US.UTF-8
+          BUNDLE_PATH: vendor/bundle
       
     working_directory: ~/repo
 
@@ -14,23 +13,16 @@ jobs:
 
       - restore_cache:
           keys:
-          - v2-dependencies-{{ checksum "Gemfile.lock" }}
-          - v2-dependencies-
+          - v3-dependencies-{{ checksum "Gemfile.lock" }}
+          - v3-dependencies-
 
       - run: bundle install
-
-      - run:
-          name: Setup locales
-          command: | 
-            apt-get update && apt-get install locales
-            echo "en_US.UTF-8 UTF-8" >> /etc/locale.gen
-            echo "LANG=en_US.UTF-8" > /etc/locale.conf
-            locale-gen en_US.UTF-8
+      - run: npm install gh-pages
 
       - save_cache:
           paths:
-            - /usr/local/bundle
-          key: v2-dependencies-{{ checksum "Gemfile.lock" }}
+            - vendor/bundle
+          key: v3-dependencies-{{ checksum "Gemfile.lock" }}
 
       - run: bundle exec jekyll build --verbose
       
@@ -40,4 +32,7 @@ jobs:
 
       - run:
           name: Deploy
-          command: ./deploy.sh
+          command: |
+            git config --global user.email "circleci@gionn.net"
+            git config --global user.name "circleci build"
+            npm run deploy
