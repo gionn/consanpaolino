@@ -10,6 +10,6 @@ Scrivici a consanpaolino@gmail.com oppure su [Facebook Messenger](http://m.me/co
 
 *Maestro d'Armi*: Mauro Tolomei +39 335 681 2160
 
-Vuoi rimanere in contatto con noi? [Iscriviti alla newsletter](/news)!
+Vuoi rimanere in contatto con noi? [Iscriviti alla newsletter](/newsletter.html)!
 
 La nostra sede è a Porta San Pietro, 1/3, 55100 Lucca LU, Italy.
