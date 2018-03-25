@@ -1,0 +1,43 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: ruby:2.4
+        environment:
+          LC_ALL: en_US.UTF-8
+          LANG: en_US.UTF-8
+      
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      - restore_cache:
+          keys:
+          - v2-dependencies-{{ checksum "Gemfile.lock" }}
+          - v2-dependencies-
+
+      - run: bundle install
+
+      - run:
+          name: Setup locales
+          command: | 
+            apt-get update && apt-get install locales
+            echo "en_US.UTF-8 UTF-8" >> /etc/locale.gen
+            echo "LANG=en_US.UTF-8" > /etc/locale.conf
+            locale-gen en_US.UTF-8
+
+      - save_cache:
+          paths:
+            - /usr/local/bundle
+          key: v2-dependencies-{{ checksum "Gemfile.lock" }}
+
+      - run: bundle exec jekyll build --verbose
+      
+      - run:
+          name: Test
+          command: bundle exec htmlproofer ./_site --check-html --disable-external --empty_alt_ignore --allow_hash_href || true
+
+      - run:
+          name: Deploy
+          command: ./deploy.sh
