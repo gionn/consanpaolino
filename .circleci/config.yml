@@ -35,4 +35,5 @@ jobs:
           command: |
             git config --global user.email "circleci@gionn.net"
             git config --global user.name "circleci build"
+            mkdir _site/.circleci && cp .circleci/ignore.yml _site/.circleci/config.yml
             npm run deploy
