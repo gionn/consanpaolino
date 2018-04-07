@@ -3,7 +3,7 @@ locale: it
 title: "Contrade San Paolino"
 description: "Associazione rievocazione storica di Lucca"
 baseurl: 
-url: https://new.consanpaolino.org
+url: https://consanpaolino.org
 logo: "/images/logo.png"
 date_format: "%F"
 read_time: true
