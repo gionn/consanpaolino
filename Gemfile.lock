@@ -8,6 +8,10 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    amp-jekyll (1.0.2)
+      fastimage (>= 1.8.0)
+      jekyll (~> 3.0)
+      nokogiri (>= 1.6.0)
     colorator (1.1.0)
     colorize (0.8.1)
     concurrent-ruby (1.0.5)
@@ -16,6 +20,7 @@ GEM
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
     fastercsv (1.5.5)
+    fastimage (2.1.1)
     ffi (1.9.23)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
@@ -122,6 +127,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  amp-jekyll
   html-proofer
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
