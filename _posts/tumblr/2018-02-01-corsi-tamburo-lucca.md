@@ -16,6 +16,6 @@ Vuoi conoscere la **storia di Lucca**?
 
 Chiamaci o scrivi un messaggio *whatsapp* a Luca (capo tamburino) al 328 634 0934.
 
-{: .text-truncate}
+<!-- more -->
 
 ![volantino tamburini lucca corso 2018](/tumblr_files/tumblr_p4rxd9P8IE1vc0hzqo1_1280.png)
