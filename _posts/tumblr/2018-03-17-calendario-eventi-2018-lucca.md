@@ -15,7 +15,7 @@ Ecco di seguito le date del **calendario eventi 2018** degli appuntamenti di **r
 * **8 Aprile** - [2° Disfida della
   Libertà - vai all'articolo dedicato](/2018-04-03-disfida-della-libertà-lucca-festa-2018/)
 * **1 Maggio** - 1° Palio dei Balistarii della Repubblica di Lucca
-* **1-2-3 Giugno** - Lucca Medievale
+* **1-2-3 Giugno** - Lucca Medievale - [vai al sito web dedicato](https://luccamedievale.it)
 * **24 Giugno** - Torneo di Primavera
 * **11 Luglio** (*) - Luminara San Paolino
 * **12 Luglio** (*) - Palio di San Paolino
@@ -23,8 +23,9 @@ Ecco di seguito le date del **calendario eventi 2018** degli appuntamenti di **r
 * **29 Settembre**: 2° Palio delle Contrade San Paolino  
 * **2 Dicembre**: Frecce e Bandiere di Natale
 
-# [Iscriviti alla newsletter per rimanere aggiornato!](/newsletter)
+Consigliamo di iscriverti gratuitamente alla [newsletter](/newsletter) per
+ricevere ogni aggiornamento direttamente nella tua casella di posta!
 
-(*) Date non ancora confermate a causa dei concerti del Summer Festival (per cui
-abbiamo organizzato una [raccolta
+(*) Le date dei giorni di San Paolino non ancora confermate a causa dei concerti
+del Summer Festival, per cui è ancora attiva la [raccolta
 firme](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
