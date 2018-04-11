@@ -28,7 +28,10 @@ Per il terziere di **San Paolino**:
 * Gonfalone del _Granchio_: pennoni di S.Maria Filicorbi, S.Alessandro, S.Maria Rotonda e della Magione;
 * Gonfalone del _Falcone_: pennoni di S.Donato, S.Giustina, S.Pellegrino e Ospedale di S.Matteo;
 
-![](https://78.media.tumblr.com/69b334d1d17c981316881aaf3438c1d4/tumblr_inline_ob66d72SEz1qbpldy_500.png) ![](https://78.media.tumblr.com/e3405d67f9c25a56aa451acd11e5c302/tumblr_inline_ob66djyCoE1qbpldy_500.png) ![](https://78.media.tumblr.com/bbf5cb177690eea4f57046f732ff8563/tumblr_inline_ob66dpVZbT1qbpldy_500.png) ![](https://78.media.tumblr.com/fab5b0c4578ce0eaca1b8ce4cf7ab0f1/tumblr_inline_ob66dxrUeQ1qbpldy_500.png)
+![](/images/terzieri/sirena.png)
+![](/images/terzieri/luna.png)
+![](/images/terzieri/granchio.png)
+![](/images/terzieri/falcone.png)
 
 Per il terziere di **San Salvatore**:
 
@@ -37,7 +40,10 @@ Per il terziere di **San Salvatore**:
 * Gonfalone della Rosa
 * Gonfalone del Gallo
 
-![](https://78.media.tumblr.com/5d1aea82b9291d77abdf57657760111e/tumblr_inline_ob66f0vxHE1qbpldy_500.png) ![](https://78.media.tumblr.com/b9112353f4803a5797455bac927d2632/tumblr_inline_ob66f7XPZe1qbpldy_500.png) ![](https://78.media.tumblr.com/b00996c6107fea8b94577a4aded3ef6f/tumblr_inline_ob66fesKCR1qbpldy_500.png) ![](https://78.media.tumblr.com/d021632bf329a66b71b64d7a2a72f873/tumblr_inline_ob66fiSgkS1qbpldy_500.png)
+![](/images/terzieri/sole.png)
+![](/images/terzieri/corona.png)
+![](/images/terzieri/rosa.png)
+![](/images/terzieri/gallo.png)
 
 Per il terziere di **San Martino**:
 
@@ -46,7 +52,10 @@ Per il terziere di **San Martino**:
 * Gonfalone della Stella
 * Gonfalone del Cavallo
 
-![](https://78.media.tumblr.com/74e253ec4e652f6679c599ebea7723f3/tumblr_inline_ob66gaIHku1qbpldy_500.png) ![](https://78.media.tumblr.com/0851af2d9abfda9fefa798edba9f6007/tumblr_inline_ob66gfm6m41qbpldy_500.png) ![](https://78.media.tumblr.com/4eb704d03850e61c7b963fc15cddaab0/tumblr_inline_ob66gmwm7B1qbpldy_500.png) ![](https://78.media.tumblr.com/3b8a7105dbc5a328dd6d726f80fbae21/tumblr_inline_ocfojtDTMX1qbpldy_500.png)
+![](/images/terzieri/rota.png)
+![](/images/terzieri/pappagallo.png)
+![](/images/terzieri/stella.png)
+![](/images/terzieri/cavallo.png)
 
 Il terziere di San Paolino, simbolo del **patrono cittadino**, ebbe sempre il posto d'onore e la precedenza nella cariche; di seguito il terziere di San Salvatore situato nel centro della città quello **più ricco** con attività commerciali e il terziere di San Martino molto più grande e il **meno abitato**. Le divisioni dei gonfaloni vennero chiamati pennoni o quartieri.
 
@@ -60,4 +69,4 @@ Questa fu l'ultima divisione del territorio interno alle Mura Urbane e durante i
 * Memorie e documenti per servire alla storia di Lucca, La divisione rionale di Lucca nella storia della Citta,R. Caras, Lucca 1928;
 * Appunti sull’antica divisione rionale della città di Lucca, E.Barsotti, Tip. A. Amadei, Lucca 1907
 
-Rimani connesso con noi, **[iscriviti alla newsletter](https://consanpaolino.org/news)**!
+Rimani connesso con noi, **[iscriviti alla newsletter](https://consanpaolino.org/newsletter**!
