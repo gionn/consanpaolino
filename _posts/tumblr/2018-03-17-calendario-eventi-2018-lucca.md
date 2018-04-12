@@ -25,7 +25,7 @@ Ecco di seguito le date del **calendario eventi 2018** degli appuntamenti di **r
 * **29 Settembre**: 2° Palio delle Contrade San Paolino  
 * **2 Dicembre**: Frecce e Bandiere di Natale
 
-Consigliamo di iscriverti gratuitamente alla [newsletter](/newsletter) per
+Consigliamo di iscriverti gratuitamente alla [newsletter](/newsletter.html) per
 ricevere ogni aggiornamento direttamente nella tua casella di posta!
 
 (*) Le date dei giorni di San Paolino non ancora confermate a causa dei concerti
