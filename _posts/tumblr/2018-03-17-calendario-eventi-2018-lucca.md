@@ -8,6 +8,8 @@ tags:
 - '2018'
 - manifestazioni
 tumblr_url: https://consanpaolino.org/post/171962254318/calendario-eventi-2018-lucca
+image:
+  path: /images/2018/04/12/events-hero.jpg
 ---
 
 Ecco di seguito le date del **calendario eventi 2018** degli appuntamenti di **rievocazione storica** a cui l’associazione _Contrade San Paolino_ prenderà parte a **Lucca**:  
