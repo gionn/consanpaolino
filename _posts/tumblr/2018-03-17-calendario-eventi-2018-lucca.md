@@ -12,7 +12,7 @@ image:
   path: /images/2018/04/12/events-hero.jpg
 ---
 
-Ecco di seguito le date del **calendario eventi 2018** degli appuntamenti di **rievocazione storica** a cui l’associazione _Contrade San Paolino_ prenderà parte a **Lucca**:  
+Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di **rievocazione storica** a cui l’associazione _Contrade San Paolino_ organizzerà o prenderà parte a **Lucca**:
 
 * **8 Aprile** - [2° Disfida della Libertà](/2018-04-03-disfida-della-libertà-lucca-festa-2018/)
   ([risultati](/2018/04/08/risultati-disfida-liberta.htm))
@@ -25,9 +25,25 @@ Ecco di seguito le date del **calendario eventi 2018** degli appuntamenti di **r
 * **29 Settembre**: 2° Palio delle Contrade San Paolino  
 * **2 Dicembre**: Frecce e Bandiere di Natale
 
-Consigliamo di iscriverti gratuitamente alla [newsletter](/newsletter.html) per
-ricevere ogni aggiornamento direttamente nella tua casella di posta!
+Iscrivendoti gratuitamente alla [newsletter](/newsletter.html), riceverai il
+programma di ogni evento comodamente nella tua casella di posta appena
+disponibile.
 
 (*) Le date dei giorni di San Paolino non ancora confermate a causa dei concerti
 del Summer Festival, per cui è ancora attiva la [raccolta
 firme](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-luccam.jpg' | absolute_url }}" alt="giullari lucca medievale">
+  <figcaption>Giullari a Lucca Medievale</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-castle.jpg' | absolute_url }}" alt="fortezza di montecarlo">
+  <figcaption>Rievocazione alla Fortezza di Montecarlo</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-palio.jpg' | absolute_url }}" alt="Palio delle Contrade San Paolino">
+  <figcaption>Palio delle Contrade San Paolino</figcaption>
+</figure>
