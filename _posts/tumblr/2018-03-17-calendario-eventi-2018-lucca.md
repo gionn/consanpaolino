@@ -15,7 +15,7 @@ Ecco di seguito le date del **calendario eventi 2018** degli appuntamenti di **r
 * **8 Aprile** - [2° Disfida della
   Libertà - vai all'articolo dedicato](/2018-04-03-disfida-della-libertà-lucca-festa-2018/)
 * **1 Maggio** - 1° Palio dei Balistarii della Repubblica di Lucca
-* **1-2-3 Giugno** - Lucca Medievale - [vai al sito web dedicato](https://luccamedievale.it)
+* **1-2-3 Giugno** - Lucca Medievale - [vai al sito web dedicato](http://luccamedievale.it)
 * **24 Giugno** - Torneo di Primavera
 * **11 Luglio** (*) - Luminara San Paolino
 * **12 Luglio** (*) - Palio di San Paolino
