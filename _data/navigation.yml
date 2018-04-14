@@ -1,9 +1,9 @@
 - title: Home
   url: /
 - title: Chi Siamo
-  url: /about
+  url: /about/
 - title: Contatti
-  url: /contatti
+  url: /contatti/
 - title: Partecipa
   url: https://docs.google.com/forms/d/e/1FAIpQLSeXur3ne-rYsx1DyrSxkjQAvraULddga86xBTuXArKQ4tgmlw/viewform?c=0&w=1
 - title: Calendario 2018
@@ -11,7 +11,7 @@
 - title: Donazioni
   url: /donazioni/
 - title: Raccolta firme Summer
-  url: https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono
+  url: /2018-01-15-appello-summer-festival/
 - title: Book
   url: http://www.blurb.com/b/8353950-contrade-san-paolino-2017
 - title: Newsletter
