@@ -34,16 +34,17 @@ firme](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-
 ## Cos'è il Palio
 
 Durante l'epoca medievale, Lucca è stata una delle città in cui l'impiego di
-balestrieri fu scelta determinante per la difesa della città.
+balestrieri fu scelta **determinante per la difesa** della città.
 
 L'atto più importante e storicamente riconosciuto come uno dei più antichi ad
-oggi pervenuto sul tiro con la balestra, è l'"Ordo Pro Balistari": il
-regolamento con cui venivano disputate le gare di tiro con cui i balestrieri si
-tenevano in allenamento durante i periodi di pace.
+oggi pervenuto sul tiro con la balestra, è l'*Ordo Pro Balistari*: il
+regolamento con cui venivano disputate le **gare di tiro** con cui i balestrieri
+si tenevano in allenamento durante i periodi di pace.
 
-Il particolare bersaglio si chiama "brocca" (o tasso o corniolo), e consiste in
+Il particolare bersaglio si chiama *brocca* (o tasso o corniolo), e consiste in
 un fusto di legno di forma allunga su cui i balestrieri, a turno, scoccano la
-propria verretta. Chi si avvicinierà di più al centro, ottiene la vittoria.
+propria verretta, senza che siano rimosse fra un tiro e l'altro. Chi si
+avvicinierà di più al centro, otterrà la vittoria.
 
 <figure class="align-center">
   <img src="{{ '/images/2018/04/12/events-palio.jpg' | absolute_url }}" alt="Palio delle Contrade San Paolino">
@@ -52,9 +53,9 @@ propria verretta. Chi si avvicinierà di più al centro, ottiene la vittoria.
 
 ## Cos'è Lucca Medievale
 
-È una delle più popolari manifestazioni storiche di Lucca, che consiste in un
-mercatino artigianale in cui riscoprire mestieri perduti, spettacoli di strada,
-avvincenti combattimenti fra uomini d'arme e disfide fra balestrieri.
+È una delle più popolari **manifestazioni** a tema medievale di Lucca, che consiste
+in un mercatino artigianale in cui riscoprire mestieri perduti, spettacoli di
+strada, avvincenti combattimenti fra uomini d'arme e disfide fra balestrieri.
 
 <figure class="align-center">
   <img src="{{ '/images/2018/04/12/events-luccam.jpg' | absolute_url }}" alt="giullari lucca medievale">
@@ -63,7 +64,7 @@ avvincenti combattimenti fra uomini d'arme e disfide fra balestrieri.
 
 ## Cos'è la Luminara
 
-Una volta l'anno tutta la città viene illuminata con candele e un grande corteo
+Una volta l'anno tutta la città viene **illuminata con candele** e un grande corteo
 storico attraversa il centro storico, con associazioni e compagnie provenienti
 da tutta la toscana, in uno spettacolo che porta Lucca indietro nel tempo.
 
@@ -72,9 +73,9 @@ da tutta la toscana, in uno spettacolo che porta Lucca indietro nel tempo.
   <figcaption>Corteggio per la Luminara di San Paolino 2017</figcaption>
 </figure>
 
-## cos'è il Trofeo LITAB
+## Cos'è il Trofeo Nazionale LITAB
 
-Quest'anno Lucca ospiterà il campionato nazionale di balestra da banco, a cui
+Quest'anno Lucca ospiterà il **campionato nazionale di balestra da banco**, a cui
 prenderanno parte 13 squadre di tiratori provenienti da tutta Italia che si
 contenderanno il titolo di campioni d'Italia, e in uno spettacolo che porterà
 600 persone in costume a sfilare in città.
