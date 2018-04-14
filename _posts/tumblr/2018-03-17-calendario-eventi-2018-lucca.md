@@ -27,25 +27,83 @@ Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di *
 
 <!-- more -->
 
-Iscrivendoti gratuitamente alla [newsletter](/newsletter.html), riceverai il
-programma di ogni evento comodamente nella tua casella di posta appena
-disponibile.
-
 (*) Le date dei giorni di San Paolino non ancora confermate a causa dei concerti
 del Summer Festival, per cui è ancora attiva la [raccolta
 firme](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
 
-<figure class="align-center">
-  <img src="{{ '/images/2018/04/12/events-luccam.jpg' | absolute_url }}" alt="giullari lucca medievale">
-  <figcaption>Giullari a Lucca Medievale</figcaption>
-</figure>
+## Cos'è il Palio
 
-<figure class="align-center">
-  <img src="{{ '/images/2018/04/12/events-castle.jpg' | absolute_url }}" alt="fortezza di montecarlo">
-  <figcaption>Rievocazione alla Fortezza di Montecarlo</figcaption>
-</figure>
+Durante l'epoca medievale, Lucca è stata una delle città in cui l'impiego di
+balestrieri fu scelta determinante per la difesa della città.
+
+L'atto più importante e storicamente riconosciuto come uno dei più antichi ad
+oggi pervenuto sul tiro con la balestra, è l'"Ordo Pro Balistari": il
+regolamento con cui venivano disputate le gare di tiro con cui i balestrieri si
+tenevano in allenamento durante i periodi di pace.
+
+Il particolare bersaglio si chiama "brocca" (o tasso o corniolo), e consiste in
+un fusto di legno di forma allunga su cui i balestrieri, a turno, scoccano la
+propria verretta. Chi si avvicinierà di più al centro, ottiene la vittoria.
 
 <figure class="align-center">
   <img src="{{ '/images/2018/04/12/events-palio.jpg' | absolute_url }}" alt="Palio delle Contrade San Paolino">
-  <figcaption>Palio delle Contrade San Paolino</figcaption>
+  <figcaption>Balestrieri al tiro durante il Palio</figcaption>
+</figure>
+
+## Cos'è Lucca Medievale
+
+È una delle più popolari manifestazioni storiche di Lucca, che consiste in un
+mercatino artigianale in cui riscoprire mestieri perduti, spettacoli di strada,
+avvincenti combattimenti fra uomini d'arme e disfide fra balestrieri.
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-luccam.jpg' | absolute_url }}" alt="giullari lucca medievale">
+  <figcaption>Saltimbanco a Lucca Medievale 2017</figcaption>
+</figure>
+
+## Cos'è la Luminara
+
+Una volta l'anno tutta la città viene illuminata con candele e un grande corteo
+storico attraversa il centro storico, con associazioni e compagnie provenienti
+da tutta la toscana, in uno spettacolo che porta Lucca indietro nel tempo.
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-luminara.jpg' | absolute_url }}" alt="corteggio luminara san paolino">
+  <figcaption>Corteggio per la Luminara di San Paolino 2017</figcaption>
+</figure>
+
+## cos'è il Trofeo LITAB
+
+Quest'anno Lucca ospiterà il campionato nazionale di balestra da banco, a cui
+prenderanno parte 13 squadre di tiratori provenienti da tutta Italia che si
+contenderanno il titolo di campioni d'Italia, e in uno spettacolo che porterà
+600 persone in costume a sfilare in città.
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-litab.jpg' | absolute_url }}" alt="Campionato nazionale LITAB balestra banco">
+  <figcaption>Lucca 3° classificata al campionato 2017</figcaption>
+</figure>
+
+
+## Newsletter
+
+Iscrivendoti gratuitamente alla [newsletter](/newsletter/), riceverai il
+programma di ogni evento comodamente nella tua casella di posta non appena
+sarà disponibile.
+
+## Altre manifestazioni
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-castle.jpg' | absolute_url }}" alt="fortezza di montecarlo">
+  <figcaption>Rievocazione alla Fortezza di Montecarlo 2017</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-frecce-natale.jpg' | absolute_url }}" alt="fortezza di montecarlo">
+  <figcaption>Frecce e Bandiere di Natale 2017</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-pietrasanta.jpg' | absolute_url }}" alt="pietrasanta medievale">
+  <figcaption>Pietrasanta Medievale 2017</figcaption>
 </figure>
