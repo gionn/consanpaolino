@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Origini storiche dei terzieri di Lucca
-permalink: /terzieri-lucca.html
-redirect_from: /terzieri-lucca/
+permalink: /terzieri-lucca/
 ---
 
 Intorno all'anno 1000 la maggior parte delle città italiane erano divise in **regioni** e la più comune era la divisione per porte. Lucca intorno alla metà dell’ anno 1000 era divisa in cinque regioni, quattro portavano i nomi delle porte della città: S. Pietro, S. Gervasio, S. Donato e S. Frediano e una Porta di Borgo S. Frediano (attualmente Porta di Borgo).
