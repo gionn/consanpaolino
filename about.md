@@ -48,5 +48,5 @@ figuranti, contribuiscono a creare e mantenere un importante punto di
 aggregazione sociale per tutti gli abitanti di Lucca e zone limitrofe,
 interessati a conoscerne la storia e viverla in prima persona.
 
-[Contattaci](/contatti) per avere maggiori informazioni, e per non perdere i
-prossimi eventi, [Iscriviti alla nostra newsletter](/newsletter.html).
+[Contattaci](/contatti/) per avere maggiori informazioni, e per non perdere i
+prossimi eventi, [Iscriviti alla nostra newsletter](/newsletter/).

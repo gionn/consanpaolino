@@ -69,4 +69,4 @@ Questa fu l'ultima divisione del territorio interno alle Mura Urbane e durante i
 * Memorie e documenti per servire alla storia di Lucca, La divisione rionale di Lucca nella storia della Citta,R. Caras, Lucca 1928;
 * Appunti sull’antica divisione rionale della città di Lucca, E.Barsotti, Tip. A. Amadei, Lucca 1907
 
-Rimani connesso con noi, **[iscriviti alla newsletter](https://consanpaolino.org/newsletter**!
+Rimani connesso con noi, [iscriviti alla newsletter](https://consanpaolino.org/newsletter/)!
