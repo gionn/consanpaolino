@@ -4,6 +4,7 @@ title: Social
 permalink: /social
 redirect_from: 
   - /youtube/
+  - /social/
 ---
 
 Rimani aggiornato sulle ultime novità, foto e video, seguendoci sui principali Social Media.
