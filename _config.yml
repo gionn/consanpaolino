@@ -43,6 +43,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-youtube
 
 # Front Matter Defaults
 defaults:
