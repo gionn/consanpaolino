@@ -19,6 +19,17 @@ disqus:
   shortname: consanpaolino
 twitter:
   username: consanpaolino
+facebook:
+ publisher: 1787905061499575
+ admins: 511505670
+social:
+  name: Contrade San Paolino
+  links:
+    - https://twitter.com/consanpaolino
+    - https://www.facebook.com/consanpaolino
+    - https://plus.google.com/+ConsanpaolinoOrg
+lang: it_IT
+
 
 # Liquid
 liquid:
