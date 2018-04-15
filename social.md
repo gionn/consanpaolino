@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social
-permalink: /social/
+permalink: /social
 redirect_from: 
   - /youtube/
 ---

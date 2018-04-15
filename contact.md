@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contatti
-permalink: /contatti/
+permalink: /contatti
 ---
 
 Scrivici a consanpaolino@gmail.com oppure su [Facebook Messenger](http://m.me/consanpaolino).

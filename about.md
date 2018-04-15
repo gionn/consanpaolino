@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chi Siamo
-permalink: /about/
+permalink: /about
 ---
 
 ![foto gruppo contrade san paolino](/images/contrade-san-paolino.jpg)

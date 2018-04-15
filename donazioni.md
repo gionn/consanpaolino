@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donazioni
-permalink: /donazioni/
+permalink: /donazioni
 ---
 
 L'Associazione Contrade San Paolino finanzia ogni anno le proprie attività
