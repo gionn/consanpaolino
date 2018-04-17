@@ -37,9 +37,10 @@ Durante l'epoca medievale, Lucca è stata una delle città in cui l'impiego di
 balestrieri fu scelta **determinante per la difesa** della città.
 
 L'atto più importante e storicamente riconosciuto come uno dei più antichi ad
-oggi pervenuto sul tiro con la balestra, è l'*Ordo Pro Balistari*: il
-regolamento con cui venivano disputate le **gare di tiro** con cui i balestrieri
-si tenevano in allenamento durante i periodi di pace.
+oggi pervenuto sul tiro con la balestra, è l’*Ordo Pro Balistari*: il regolamento
+con cui venivano disputate le **gare di tiro** così che i balestrieri potessero
+tenersi in allenamento durante i periodi di pace. Questo documento è ancora oggi
+conservato presso l'*Archivio di Stato* di Lucca.
 
 Il particolare bersaglio si chiama *brocca* (o tasso o corniolo), e consiste in
 un fusto di legno di forma allunga su cui i balestrieri, a turno, scoccano la
