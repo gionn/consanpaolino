@@ -7,6 +7,8 @@ tags:
 - lucca
 - concorso fotografico
 - fotografia
+image:
+  path: /images/2018/04/22/diffidate-hero.jpg
 ---
 
 Anche quest'anno abbiamo deciso di rinnovare il **concorso di fotografia** in

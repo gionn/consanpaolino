@@ -9,7 +9,6 @@ tags:
 - balestra
 - palio
 permalink: /2018/04/18/primo-palio-repubblica-lucca.htm
-hidden: true
 ---
 
 Arriva la **novità del calendario 2018** delle attività promosse
@@ -42,6 +41,6 @@ Molti anche i premi e riconoscimenti conseguiti, che avvalorano un portfolio gi�
 decisamente ricco.
 
 La presentazione del Palio realizzato per questa occasione si terrà il **28
-Aprile** alle ore **16.30** presso i locali dell’associazione Contrade San
+Aprile** alle ore **16.30** presso i locali dell'associazione Contrade San
 Paolino situati a Porta San Pietro - Lucca. La cittadinanza e gli organi di
 stampa sono invitati a partecipare.
