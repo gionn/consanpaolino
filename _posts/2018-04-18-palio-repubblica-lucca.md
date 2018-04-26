@@ -44,3 +44,9 @@ La presentazione del Palio realizzato per questa occasione si terrà il **28
 Aprile** alle ore **16.30** presso i locali dell'associazione Contrade San
 Paolino situati a Porta San Pietro - Lucca. La cittadinanza e gli organi di
 stampa sono invitati a partecipare.
+
+Anche quest'anno si rinnova il [concorso di
+fotografia](/2018-04-22-diffidate-dalle-imitazioni-2018/) indetto
+dall'associazione Contrade San Paolino. L'autore del miglior scatto realizzato
+durante le manifestazioni a cui l'associazione partecipa, si aggiudicherà un
+buono per una cena in un ristorante di Lucca.
