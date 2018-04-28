@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ricerca sponsor per Trofeo Nazionale LITAB
-date: '2018-04-22T12:00:00+02:00'
+date: '2018-04-27T12:00:00+02:00'
 tags:
 - consanpaolino
 - lucca
