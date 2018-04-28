@@ -138,7 +138,9 @@ IBAN: IT83G0626013711100000009749
 ## Contatti
 
 Paolo Gianni
+
 Presidente ACSP
+
 Cellulare:  347 35 79 286
 
 Email: consanpaolino@gmail.com
