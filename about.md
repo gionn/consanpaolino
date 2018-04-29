@@ -4,6 +4,7 @@ title: Chi Siamo
 permalink: /about
 redirect_from:
   - /about/
+  - /balestrieri-lucca
 ---
 
 ![foto gruppo contrade san paolino](/images/contrade-san-paolino.jpg)
