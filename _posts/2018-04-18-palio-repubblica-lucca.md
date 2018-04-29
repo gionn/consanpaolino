@@ -50,3 +50,29 @@ fotografia](/2018-04-22-diffidate-dalle-imitazioni-2018/) indetto
 dall'associazione Contrade San Paolino. L'autore del miglior scatto realizzato
 durante le manifestazioni a cui l'associazione partecipa, si aggiudicherà un
 buono per una cena in un ristorante di Lucca.
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "1° Palio dei Balistarii della Repubblica di Lucca",
+  "startDate": "2018-05-01T10:30+02:00",
+  "location": {
+    "@type": "Place",
+    "name": "Piazza Napoleone, Lucca",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Piazza Napoleone",
+      "addressLocality": "Lucca",
+      "postalCode": "55100",
+      "addressRegion": "LU",
+      "addressCountry": "IT"
+    }
+  },
+  "image": [
+    "https://consanpaolino.org/images/2018/04/28/palio-balistarii-repubblica-lucca-hero.jpg"
+   ],
+  "description": "Gara di balestra in costume medievale fra le contrade di Lucca",
+  "endDate": "2018-05-01T23:00+02:00"
+}
+</script>
