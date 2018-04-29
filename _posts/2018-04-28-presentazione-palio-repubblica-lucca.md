@@ -42,4 +42,5 @@ centro di Lucca, al passo con il rimbombo dei tamburi.
 ## Galleria fotografica
 
 [Guarda le foto di Domenico Bertuccelli](https://photos.app.goo.gl/sQsEpi6IL560bSvw2)
+
 [Guarda le foto di Giovanni Toraldo](https://photos.app.goo.gl/pbG8D5hB4Nibn3o18)
