@@ -51,6 +51,8 @@ dall'associazione Contrade San Paolino. L'autore del miglior scatto realizzato
 durante le manifestazioni a cui l'associazione partecipa, si aggiudicherà un
 buono per una cena in un ristorante di Lucca.
 
+![locandina palio repubblica lucca](/images/2018/04/28/locandina-palio-repubblica.jpg)
+
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -70,7 +72,8 @@ buono per una cena in un ristorante di Lucca.
     }
   },
   "image": [
-    "https://consanpaolino.org/images/2018/04/28/palio-balistarii-repubblica-lucca-hero.jpg"
+    "https://consanpaolino.org/images/2018/04/28/palio-balistarii-repubblica-lucca-hero.jpg",
+    "https://consanpaolino.org/images/2018/04/28/locandina-palio-repubblica.jpg"
    ],
   "description": "Gara di balestra in costume medievale fra le contrade di Lucca",
   "endDate": "2018-05-01T23:00+02:00"
