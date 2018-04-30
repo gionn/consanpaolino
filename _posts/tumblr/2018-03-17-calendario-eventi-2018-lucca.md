@@ -17,8 +17,7 @@ Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di
 o prenderà parte a **Lucca**:
 
 * **1 Maggio** - [1° Palio dei Balistarii della Repubblica di
-  Lucca](/2018/04/18/primo-palio-repubblica-lucca.htm) (programma dettagliato in
-  arrivo)
+  Lucca](/2018/04/18/primo-palio-repubblica-lucca.htm)
 * **1-2-3 Giugno** - Lucca Medievale -
   [luccamedievale.it](http://luccamedievale.it)
 * **24 Giugno** - Torneo di Primavera
