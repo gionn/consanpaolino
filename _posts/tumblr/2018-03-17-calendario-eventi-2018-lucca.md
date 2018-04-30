@@ -43,7 +43,6 @@ legato agli eventi, in palio una cena per due in un ristorante di Lucca!
   Libertà](/2018-04-03-disfida-della-libertà-lucca-festa-2018/)
   ([risultati](/2018/04/08/risultati-disfida-liberta.htm))
 
-
 ## Cos'è il Palio
 
 Durante l'epoca medievale, Lucca è stata una delle città in cui l'impiego di
@@ -98,7 +97,6 @@ contenderanno il titolo di campioni d'Italia, e in uno spettacolo che porterà
   <img src="{{ '/images/2018/04/12/events-litab.jpg' | absolute_url }}" alt="Campionato nazionale LITAB balestra banco">
   <figcaption>Lucca 3° classificata al campionato 2017</figcaption>
 </figure>
-
 
 ## Newsletter
 
