@@ -11,6 +11,8 @@ tags:
 permalink: /2018/04/18/primo-palio-repubblica-lucca.htm
 ---
 
+**AGGIORNAMENTO: EVENTO RIMANDATO CAUSA MALTEMPO A DATA DA DESTINARSI**
+
 Arriva la **novità del calendario 2018** delle attività promosse
 dall’associazione Contrade San Paolino, che organizza il **1° Palio dei
 Balistarii della Repubblica di Lucca**.
@@ -76,6 +78,7 @@ buono per una cena in un ristorante di Lucca.
     "https://consanpaolino.org/images/2018/04/28/locandina-palio-repubblica.jpg"
    ],
   "description": "Gara di balestra in costume medievale fra le contrade di Lucca",
-  "endDate": "2018-05-01T23:00+02:00"
+  "endDate": "2018-05-01T23:00+02:00",
+  "eventStatus": "EventPostponed"
 }
 </script>
