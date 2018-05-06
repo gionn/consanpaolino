@@ -65,6 +65,10 @@ defaults:
     values:
       layout: post
       share: true
+  - scope:
+      path:            "post"
+    values:
+      sitemap:         false
 
 # Site Author
 author:
