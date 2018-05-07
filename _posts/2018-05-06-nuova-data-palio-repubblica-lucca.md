@@ -13,15 +13,16 @@ tags:
 permalink: /2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm
 ---
 
-Era il 1° Maggio quando, a causa del conclamato maltempo, siamo stati costretti
-ad annullare la manifestazione del **1° Palio dei Balistarii della Repubblica di
-Lucca**. Sperando in condizioni meteo più favorevoli, la nuova data è il **20
-Maggio 2018 in Piazza Napoleone a Lucca**: ancora una volta i balestrieri
-cittadini si sfideranno in una gara a colpi di verrette per ottenere il miglior
-risultato sul corniolo, il bersaglio composto da un fusto di legno di forma
-allunga su cui ogni tiratore, a turno, scoccherà la propria verretta, senza che
-siano rimosse le precedenti fra un tiro e l’altro. Chi si avvicinerà di più al
-centro, otterrà la vittoria, e la contrada si aggiudicherà il Palio.
+Era il [1° Maggio](/2018/04/18/primo-palio-repubblica-lucca.htm) quando, a causa
+del conclamato maltempo, siamo stati costretti ad annullare la manifestazione
+del **1° Palio dei Balistarii della Repubblica di Lucca**. Sperando in
+condizioni meteo più favorevoli, la nuova data è il **20 Maggio 2018 in Piazza
+Napoleone a Lucca**: ancora una volta i balestrieri cittadini si sfideranno in
+una gara a colpi di verrette per ottenere il miglior risultato sul corniolo, il
+bersaglio composto da un fusto di legno di forma allunga su cui ogni tiratore, a
+turno, scoccherà la propria verretta, senza che siano rimosse le precedenti fra
+un tiro e l’altro. Chi si avvicinerà di più al centro, otterrà la vittoria, e la
+contrada si aggiudicherà il Palio.
 
 <!-- more -->
 
