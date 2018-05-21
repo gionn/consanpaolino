@@ -41,4 +41,5 @@ si terrà il primo weekend di Giugno (2-3), nei giardini adiacenti Piazzale
 Verdi, con tante novità sul programma che sarà disponibile a giorni e che vedrà
 nuovamente i balestrieri impegnati in una nuova gara di tiro.
 
-* [Foto di Giuseppe Leonardi](https://flic.kr/s/aHsmc7APiW)
+* [Foto di Giuseppe Leonardi](https://photos.app.goo.gl/IgvBygygRb1Nq82x2)
+  [(album originale)](https://flic.kr/s/aHsmc7APiW)
