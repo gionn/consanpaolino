@@ -16,8 +16,6 @@ Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di
 **rievocazione storica** a cui l’associazione _Contrade San Paolino_ organizzerà
 o prenderà parte a **Lucca**:
 
-* **20 Maggio** - [1° Palio dei Balistarii della Repubblica di
-  Lucca](/2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm)
 * **2-3 Giugno** - Lucca Medievale -
   [luccamedievale.it](http://luccamedievale.it)
 * **24 Giugno** - Torneo di Primavera
@@ -42,6 +40,8 @@ legato agli eventi, in palio una cena per due in un ristorante di Lucca!
 * **8 Aprile** - [2° Disfida della
   Libertà](/2018-04-03-disfida-della-libertà-lucca-festa-2018/)
   ([risultati](/2018/04/08/risultati-disfida-liberta.htm))
+* **20 Maggio** - [1° Palio dei Balistarii della Repubblica di
+  Lucca](/2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm) ([risultati](/2018/05/20/risultati-palio-repubblica-lucca.htm))
 
 ## Cos'è il Palio
 
