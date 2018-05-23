@@ -44,6 +44,10 @@ Medievale](http://luccamedievale.it) che si terrà il primo weekend di Giugno
 novità sul programma che sarà disponibile a giorni e che vedrà nuovamente i
 balestrieri impegnati in una gara di tiro, oltre a molte altre attività.
 
+{% youtube 'https://www.youtube.com/watch?v=70VLfU-aimk' %}
+
+## Album fotografici
+
 * [Foto di Domenico Bertolucci](https://www.facebook.com/media/set/?set=ms.c.eJxVlUmOIEEIA380whiz~%3BP9jo~_xDt~_sacrGYhEIksEswd68w~%3B~%3BBLjnma~%3BSMVzOugk~_trnJHMvVb~_kbsV4vBLMqIAhJz0AUgn~_8gYQQrINlILJDyOMMgs~%3B4oD5H3qAeLCNQ2AHifzgG8XQ8Sua95X7XFyH~%3BE4FIGlkxaw3gVfp~_e9q4SkO1YkMjyOXu~%3Bl2Tse8eydeqZ5nBc5LDviBuwzAhAcy4UXR2FxsHtQ23QyUmjXZBzRMMcSQzQ~%3BZIUu~%3B4og2rNn5WEinZAYdyNVh6FrJGLomllgfO65HGzYa8mrNy7TMOKwZZ1ScbixXKX7KcpIF14JTp6mrffaQtK3QPGIfyXeZJVVKM1krc2rA0ydRe6nGbpm9nL8jfWSue5h716ub1yfmOseTjRy~%3Bc1PpvJ87i91HvwrxuWlZZ8BGemaaTB8B2cXDN~_mOQ1j~%3B9zg21y2ffWCDluuUYKTrmkO56OZEGdgZGe4MA0ixK02UnE8exuEfkbmmu2r6DRymvp0gdursOm8tVQhrZ58VwGePRMs1BphvBPucVgqrMepUvkFYGqm0l7LG8ZUrpMVi2G5GJyie0jkFcfceH1UufN8lpZdLVKaKneD3SjBNdMq0WrmlUreF5~_Hcg~%3BrVdi23XyOVns9lXXVspqLx7erRiqv~%3BP6wFKrx6VQ~%3BjVwzT~_MvqvaRsy4Uw9q2XMKb6FrvSrIuXMNQnWdXvfunDznW2bWh1Khb610TUKTnmqPC7hg7QgqvuaNP~%3Bqdm8ygc~%3BwOTDqfz.bps.a.10211883132649411.1073742751.1103863358&type=1)
 * [Foto di Giuseppe Leonardi](https://photos.app.goo.gl/IgvBygygRb1Nq82x2)
   [(album dell'autore su flickr.com)](https://flic.kr/s/aHsmc7APiW)
