@@ -16,12 +16,11 @@ Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di
 **rievocazione storica** a cui l’associazione _Contrade San Paolino_ organizzerà
 o prenderà parte a **Lucca**:
 
-* **2-3 Giugno** - Lucca Medievale -
-  [luccamedievale.it](http://luccamedievale.it)
-* **24 Giugno** - Torneo di Primavera
-* **11 Luglio** (*) - Luminara San Paolino
-* **12 Luglio** (*) - Palio di San Paolino
-* **8-9 Settembre**: 34° Trofeo Nazionale LITAB
+* **2-3 Giugno** - Lucca Medievale - [Programma adesso disponibile!](/2018/programma-lucca-medievale.htm)
+* **24 Giugno** - Torneo di Primavera (posticipato)
+* **11 Luglio** (*) - Luminara San Paolino (da confermare)
+* **12 Luglio** (*) - Palio di San Paolino (da confermare)
+* **8-9 Settembre**: [34° Trofeo Nazionale LITAB](#cosè-il-trofeo-nazionale-litab)
 * **29 Settembre**: 2° Palio delle Contrade San Paolino
 * **2 Dicembre**: Frecce e Bandiere di Natale
 
