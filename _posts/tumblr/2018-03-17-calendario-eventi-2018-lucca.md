@@ -16,6 +16,8 @@ Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di
 **rievocazione storica** a cui l’associazione _Contrade San Paolino_ organizzerà
 o prenderà parte a **Lucca**:
 
+<!-- more -->
+
 * **2-3 Giugno** - Lucca Medievale - [Programma adesso disponibile!](/2018/programma-lucca-medievale.htm)
 * **24 Giugno** - Torneo di Primavera (posticipato)
 * **11 Luglio** (*) - Luminara San Paolino (da confermare)
@@ -31,8 +33,6 @@ firme](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-
 **Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
 perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
 legato agli eventi, in palio una cena per due in un ristorante di Lucca!
-
-<!-- more -->
 
 ### Eventi passati
 
