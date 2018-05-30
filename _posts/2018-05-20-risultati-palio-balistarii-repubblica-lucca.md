@@ -52,3 +52,4 @@ balestrieri impegnati in una gara di tiro, oltre a molte altre attività.
 * [Foto di Giuseppe Leonardi](https://photos.app.goo.gl/IgvBygygRb1Nq82x2)
   [(album dell'autore su flickr.com)](https://flic.kr/s/aHsmc7APiW)
 * [Foto di Andrea Rossi](https://photos.app.goo.gl/FuCnWHxN4YwK74Bi2) ([album dell'autore su facebook.com](https://www.facebook.com/media/set/?set=ms.c.eJxVkcENAzAIAzeq4DAE9l~_syqMq~_UUn22DihmcPh4r7PB~%3B~%3BkcguYmqTusT~%3BhOPCTy~%3BNhFDH1qjwfnKmiZlF~_hiqPf24ITYRReTOOWEoeIhQxHZFE7lnjQs9O8tF5Ha1FcrdNFTY04J7H5ZGlk26lqsEXrZcPgbz9LpXrZ1sKai9T1HItmZGaFYLuUGSa~%3Brt5bb~%3BIrPxmC~%3BxIWVk.bps.a.10215892722222055.1073741884.1566200842&type=1))
+* [Foto di Domenico Bertuccelli](https://photos.app.goo.gl/nRpEslIHpqCHpbA23)
