@@ -76,7 +76,7 @@ dal Comune di Lucca e soppressa dal 2012.
 
 ![lucca medievale 2018](/assets/images/2018/lucca-medievale/leonardi_10.jpg)
 
-* [Tutto gli scatti di Giuseppe Leonardi](https://photos.app.goo.gl/rYBy4dJ9TUD31QxA3)
+* [Tutti gli scatti di Giuseppe Leonardi](https://photos.app.goo.gl/rYBy4dJ9TUD31QxA3)
 
 ## Altre gallerie fotografiche
 
