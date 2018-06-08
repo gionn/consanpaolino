@@ -10,6 +10,9 @@ tags:
 tumblr_url: https://consanpaolino.org/post/171962254318/calendario-eventi-2018-lucca
 image:
   path: /images/2018/04/12/events-hero.jpg
+redirect_from:
+  - /2018-03-17-calendario-eventi-2018-lucca/
+permalink: /calendario-eventi-lucca-2018
 ---
 
 Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di
