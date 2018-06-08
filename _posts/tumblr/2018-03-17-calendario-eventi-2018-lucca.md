@@ -18,8 +18,8 @@ o prenderà parte a **Lucca**:
 
 <!-- more -->
 
-* **2-3 Giugno** - Lucca Medievale - [Programma adesso disponibile!](/2018/programma-lucca-medievale.htm)
-* **24 Giugno** - Torneo di Primavera (posticipato)
+* **24 Giugno** - Torneo di Primavera, gara di tiro con la balestra in borghese,
+  presso il Campo Tiri della Repubblica di Lucca a Pontetetto (Via Pattana)
 * **11 Luglio** (*) - Luminara San Paolino (da confermare)
 * **12 Luglio** (*) - Palio di San Paolino (da confermare)
 * **8-9 Settembre**: [34° Trofeo Nazionale LITAB](#cosè-il-trofeo-nazionale-litab)
@@ -41,6 +41,7 @@ legato agli eventi, in palio una cena per due in un ristorante di Lucca!
   ([risultati](/2018/04/08/risultati-disfida-liberta.htm))
 * **20 Maggio** - [1° Palio dei Balistarii della Repubblica di
   Lucca](/2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm) ([risultati](/2018/05/20/risultati-palio-repubblica-lucca.htm))
+* **2-3 Giugno** - Lucca Medievale - [foto](/2018/foto-lucca-medievale.htm)
 
 ## Cos'è il Palio
 
