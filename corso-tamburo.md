@@ -18,4 +18,4 @@ attività, il divertimento è assicurato!
 
 Chiamaci o scrivici per fissare un appuntamento senza impegno.
 
-![volantino corso tamburo Lucca](/assets/images/2018/corsi/corsi-tamburo.png)
+![volantino corso tamburo Lucca](/assets/images/2018/corsi/corsi-tamburo.jpg)

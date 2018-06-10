@@ -18,10 +18,9 @@ L'obiettivo principale del gruppo balestrieri è quello di preparare, anno dopo
 anno, la rosa dei **12 tiratori** che parteciperanno al **campionato nazionale**
 LITAB, a cui aderiscono altre 12 città provenienti da tutta Italia.
 
-Accettiamo iscrizioni solo **dai 18 anni di età**, l'inizio dell'attività di
-tiro richiede un corso teorico di 4 ore tenuto dal maestro d'armi e al suo
-insindacabile giudizio in quanto responsabile delle attività sul campo.
+Accettiamo iscrizioni **dai 16 anni di età**. L'inizio dell'attività di
+tiro richiede un corso teorico di 4 ore tenuto dal maestro d'armi, che servirà ad apprendere le norme di sicurezza da seguire sul campo tiro e i principi fondamentali su cui si basa il tiro con la balestra.
 
 Chiamaci o scrivici per fissare un appuntamento senza impegno.
 
-![volantino corso balestra Lucca](/assets/images/2018/corsi/corsi-balestra.png)
+![volantino corso balestra Lucca](/assets/images/2018/corsi/corsi-balestra.jpg)
