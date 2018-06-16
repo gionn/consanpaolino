@@ -5,8 +5,11 @@ date: '2018-04-09T20:00:00+01:00'
 categories:
   - albo
   - foto
+  - news
 tags:
   - balestrieri
+  - lucca
+  - festa della libertà
 image:
   path: /images/2018/04/08/disfida-hero.jpg
 permalink: /2018/04/08/risultati-disfida-liberta.htm

@@ -3,7 +3,7 @@ layout: post
 title: Diffidate dalle imitazioni... edizione 2018!
 date: '2018-04-22T12:00:00+02:00'
 categories:
-  - news
+  - associazione
 tags:
   - concorso fotografico
   - fotografia

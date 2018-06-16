@@ -5,9 +5,11 @@ date: '2018-04-28T19:15:00+02:00'
 categories:
   - eventi
   - foto
+  - news
 tags:
   - lucca
   - palio
+  - palio repubblica
 image:
   path: /images/2018/04/28/palio-balistarii-repubblica-lucca-hero.jpg
 permalink: /2018/04/28/presentazione-palio-balistarii-repubblica-lucca

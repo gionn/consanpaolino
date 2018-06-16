@@ -4,9 +4,11 @@ title: Nuova data per il Palio di Maggio
 date: '2018-05-06T10:00:00+02:00'
 categories:
   - eventi
+  - news
 tags:
-  - palio
   - lucca
+  - palio
+  - palio repubblica
 permalink: /2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm
 ---
 

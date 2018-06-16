@@ -3,11 +3,10 @@ layout: post
 title: Swords, knights and dames, it’s Lucca Medievale 2018 (free entrance)
 date: '2018-05-27T11:00:00+02:00'
 categories:
-  - news
+  - english
 tags:
   - lucca
   - lucca medievale
-  - english
 permalink: /2018/lucca-medievale-schedule-english.htm
 ---
 

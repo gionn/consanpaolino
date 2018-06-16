@@ -2,12 +2,13 @@
 layout: post
 title: Risultati XXXIII Trofeo Nazionale LITAB 2017
 date: '2017-06-11T22:23:50+02:00'
+categories:
+  - albo
+  - news
 tags:
-- consanpaolino
-- campionato
 - litab
-- balestra
-- terradelsole
+- balestrieri
+- terra del sole
 tumblr_url: https://consanpaolino.org/post/161707246453/risultati-xxxiii-campionato-nazionale-litab-2017
 ---
 

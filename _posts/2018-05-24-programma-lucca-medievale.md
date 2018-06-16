@@ -4,8 +4,10 @@ title: Lucca Medievale 2018, storia, tradizione e spettacolo
 date: '2018-05-24T19:00:00+02:00'
 categories:
   - eventi
+  - news
 tags:
   - lucca
+  - lucca medievale
 permalink: /2018/programma-lucca-medievale.htm
 ---
 
