@@ -2,14 +2,12 @@
 layout: post
 title: Swords, knights and dames, it’s Lucca Medievale 2018 (free entrance)
 date: '2018-05-27T11:00:00+02:00'
+categories:
+  - news
 tags:
-- '2018'
-- manifestazioni
-- eventi
-- balestra
-- palio
-- balestrieri
-- lucca
+  - lucca
+  - lucca medievale
+  - english
 permalink: /2018/lucca-medievale-schedule-english.htm
 ---
 

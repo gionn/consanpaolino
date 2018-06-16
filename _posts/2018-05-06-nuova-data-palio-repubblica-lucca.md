@@ -2,14 +2,11 @@
 layout: post
 title: Nuova data per il Palio di Maggio
 date: '2018-05-06T10:00:00+02:00'
+categories:
+  - eventi
 tags:
-- '2018'
-- manifestazioni
-- eventi
-- balestra
-- palio
-- balestrieri
-- lucca
+  - palio
+  - lucca
 permalink: /2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm
 ---
 

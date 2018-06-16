@@ -2,14 +2,14 @@
 layout: post
 title: Il Granchio vince il Palio dei Balistarii
 date: '2018-05-20T22:00:00+02:00'
+categories:
+  - albo
+  - foto
+  - news
 tags:
-- '2018'
-- manifestazioni
-- eventi
-- balestra
-- palio
-- balestrieri
-- lucca
+  - palio
+  - balestrieri
+  - lucca
 permalink: /2018/05/20/risultati-palio-repubblica-lucca.htm
 image:
   path: /images/2018/05/palio-hero.jpg

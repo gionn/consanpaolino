@@ -2,10 +2,13 @@
 layout: post
 title: Lucca Medievale 2018, le foto
 date: '2018-06-06T08:00:00+02:00'
+categories:
+  - foto
+  - news
 tags:
-- "2018"
-- luccamedievale
-- lucca
+  - lucca medievale
+  - lucca
+  - giuseppe leonardi
 permalink: /2018/foto-lucca-medievale.htm
 ---
 

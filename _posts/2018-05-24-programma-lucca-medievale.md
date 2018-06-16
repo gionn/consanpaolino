@@ -2,14 +2,10 @@
 layout: post
 title: Lucca Medievale 2018, storia, tradizione e spettacolo
 date: '2018-05-24T19:00:00+02:00'
+categories:
+  - eventi
 tags:
-- '2018'
-- manifestazioni
-- eventi
-- balestra
-- palio
-- balestrieri
-- lucca
+  - lucca
 permalink: /2018/programma-lucca-medievale.htm
 ---
 

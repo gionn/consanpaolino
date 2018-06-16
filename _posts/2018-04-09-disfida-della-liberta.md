@@ -2,10 +2,11 @@
 layout: post
 title: Disfida a Pontetto, buon inizio per i balestrieri di San Paolino
 date: '2018-04-09T20:00:00+01:00'
+categories:
+  - albo
+  - foto
 tags:
-- '2018'
-- manifestazioni
-- balestra
+  - balestrieri
 image:
   path: /images/2018/04/08/disfida-hero.jpg
 permalink: /2018/04/08/risultati-disfida-liberta.htm
@@ -38,11 +39,13 @@ Al termine della contesa, i risultati finali sono:
 <!-- more -->
 
 Gara a mini-squadre (10 da 5 tiratori ciascuna)
+
 * 1° Classificata: Ventimiglia A
 * 2° Classificata: Terra del Sole B
 * 3° Classificata: Terra del Sole A
 
 Gara individuale
+
 * 1° Classificato: Giuseppe Merollini di Gualdo Tadino
 * 2° Classificato: Massimo Conte di Ventimiglia
 * 3° Classificato: Matteo Toraldo di Contrade San Paolino

@@ -2,12 +2,11 @@
 layout: post
 title: Ricerca sponsor per Trofeo Nazionale LITAB
 date: '2018-04-27T12:00:00+02:00'
+categories:
+  - news
 tags:
-- consanpaolino
-- lucca
-- sponsorizzazione
-- sponsorship
-- cercasi sponsor
+  - lucca
+  - sponsor
 image:
   path: /images/contrade-san-paolino.jpg
 permalink: /sponsor-cercasi

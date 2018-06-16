@@ -2,8 +2,9 @@
 layout: post
 title: Il miglior scatto 2017 a Giuseppe Leonardi
 date: '2017-11-27T23:13:21+01:00'
+categories:
+  - news
 tags:
-- consanpaolino
 - lucca
 - fotografia
 tumblr_url: https://consanpaolino.org/post/167953802793/miglior-scatto-2017-giuseppe-leonardi

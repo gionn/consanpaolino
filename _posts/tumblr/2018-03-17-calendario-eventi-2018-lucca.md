@@ -2,11 +2,10 @@
 layout: post
 title: Calendario Eventi 2018 a Lucca
 date: '2018-03-17T14:17:58+01:00'
+categories:
+  - eventi
 tags:
-- calendario
-- eventi
-- '2018'
-- manifestazioni
+  - calendario
 tumblr_url: https://consanpaolino.org/post/171962254318/calendario-eventi-2018-lucca
 image:
   path: /images/2018/04/12/events-hero.jpg

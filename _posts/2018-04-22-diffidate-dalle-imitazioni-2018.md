@@ -2,11 +2,12 @@
 layout: post
 title: Diffidate dalle imitazioni... edizione 2018!
 date: '2018-04-22T12:00:00+02:00'
+categories:
+  - news
 tags:
-- consanpaolino
-- lucca
-- concorso fotografico
-- fotografia
+  - concorso fotografico
+  - fotografia
+  - contest fotografico
 image:
   path: /images/2018/04/22/diffidate-hero.jpg
 ---
