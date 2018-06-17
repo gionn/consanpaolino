@@ -6,7 +6,6 @@ categories:
   - eventi
 tags:
   - calendario
-tumblr_url: https://consanpaolino.org/post/171962254318/calendario-eventi-2018-lucca
 image:
   path: /images/2018/04/12/events-hero.jpg
 redirect_from:
@@ -20,8 +19,9 @@ o prenderà parte a **Lucca**:
 
 <!-- more -->
 
-* **24 Giugno** - Torneo di Primavera, gara di tiro con la balestra in borghese,
-  presso il Campo Tiri della Repubblica di Lucca a Pontetetto (Via Pattana)
+* **24 Giugno** - Torneo di Primavera, gara di tiro con la balestra da banco in
+  borghese, presso il Campo Tiri della Repubblica di Lucca a Pontetetto (Via
+  Pattana) - [Evento FB](https://www.facebook.com/events/554761111586654)
 * **11 Luglio** (*) - Luminara San Paolino (da confermare)
 * **12 Luglio** (*) - Palio di San Paolino (da confermare)
 * **8-9 Settembre**: [34° Trofeo Nazionale LITAB](#cosè-il-trofeo-nazionale-litab)

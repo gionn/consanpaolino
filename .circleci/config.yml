@@ -34,6 +34,7 @@ jobs:
       - run:
           name: Deploy
           command: |
+            if [ "$CIRCLE_BRANCH" != "master" ]; then exit 0; fi
             git config --global user.email "circleci@gionn.net"
             git config --global user.name "circleci build"
             mkdir _site/.circleci && cp .circleci/ignore.yml _site/.circleci/config.yml
