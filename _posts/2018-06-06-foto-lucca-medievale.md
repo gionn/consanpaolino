@@ -103,3 +103,4 @@ Falcone, seguita da Granchio, Sirena e Luna.
 * [Scatti di Tommaso Giannini](https://photos.app.goo.gl/GsSJ2Kd6KBZPxVLm8)
 * [Scatti di Andrea della Spora](https://photos.app.goo.gl/rOgVXxYDhnxjTbb02)
 * [Scatti di Francesco Pallini](https://photos.app.goo.gl/6sKqhrRPbygWLciw2)
+* [Scatti di Riccardo Bonuccelli](https://photos.app.goo.gl/YgxETn3ZVmzddxDG6)
