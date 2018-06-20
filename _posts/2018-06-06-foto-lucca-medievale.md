@@ -96,11 +96,24 @@ Falcone, seguita da Granchio, Sirena e Luna.
 
 ![lucca medievale 2018](/assets/images/2018/lucca-medievale/leonardi_10.jpg)
 
-* [Tutti gli scatti di Giuseppe Leonardi](https://photos.app.goo.gl/rYBy4dJ9TUD31QxA3)
+[Tutti gli scatti di Giuseppe Leonardi](https://photos.app.goo.gl/rYBy4dJ9TUD31QxA3)
+
+## Scatti di Riccardo Bonuccelli (@askthepixel)
+
+![lucca medievale 2018](/assets/images/2018/lucca-medievale/askthepixel_01.jpg)
+
+![lucca medievale 2018](/assets/images/2018/lucca-medievale/askthepixel_02.jpg)
+
+![lucca medievale 2018](/assets/images/2018/lucca-medievale/askthepixel_03.jpg)
+
+![lucca medievale 2018](/assets/images/2018/lucca-medievale/askthepixel_04.jpg)
+
+![lucca medievale 2018](/assets/images/2018/lucca-medievale/askthepixel_05.jpg)
+
+[Tutti gli scatti di Riccardo Bonuccelli](https://photos.app.goo.gl/YgxETn3ZVmzddxDG6)
 
 ## Altre gallerie fotografiche
 
 * [Scatti di Tommaso Giannini](https://photos.app.goo.gl/GsSJ2Kd6KBZPxVLm8)
 * [Scatti di Andrea della Spora](https://photos.app.goo.gl/rOgVXxYDhnxjTbb02)
 * [Scatti di Francesco Pallini](https://photos.app.goo.gl/6sKqhrRPbygWLciw2)
-* [Scatti di Riccardo Bonuccelli](https://photos.app.goo.gl/YgxETn3ZVmzddxDG6)
