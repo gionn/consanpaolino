@@ -28,9 +28,9 @@ o prenderà parte a **Lucca**:
 * **11 Luglio** - Luminara San Paolino - [Evento
   FB](https://www.facebook.com/events/235073973753898/)
 * **12 Luglio** - Palio di San Paolino (da confermare, leggi note in calce)
-* **8-9 Settembre**: [34° Trofeo Nazionale LITAB](#cosè-il-trofeo-nazionale-litab)
-* **29 Settembre**: 2° Palio delle Contrade San Paolino
-* **2 Dicembre**: Frecce e Bandiere di Natale
+* **8-9 Settembre** - [34° Trofeo Nazionale LITAB](#cosè-il-trofeo-nazionale-litab)
+* **29 Settembre** - 2° Palio delle Contrade San Paolino
+* **2 Dicembre** - Frecce e Bandiere di Natale
 
 Note:
 
