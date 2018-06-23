@@ -32,7 +32,22 @@ o prenderà parte a **Lucca**:
 * **29 Settembre** - 2° Palio delle Contrade San Paolino
 * **2 Dicembre** - Frecce e Bandiere di Natale
 
-Note:
+## Newsletter degli eventi per gli smemorati
+
+Non rischiare di dimenticarti del prossimo evento, ci pensiamo noi! [Iscriviti
+gratuitamente alla **newsletter**](/newsletter) e riceverai il programma di
+ogni evento comodamente nella tua casella di posta non appena sarà disponibile!
+
+## Eventi passati che potresti aver perso
+
+* **8 Aprile** - [2° Disfida della
+  Libertà](/2018-04-03-disfida-della-libertà-lucca-festa-2018/)
+  ([risultati](/2018/04/08/risultati-disfida-liberta.htm))
+* **20 Maggio** - [1° Palio dei Balistarii della Repubblica di
+  Lucca](/2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm) ([risultati](/2018/05/20/risultati-palio-repubblica-lucca.htm))
+* **2-3 Giugno** - Lucca Medievale - [Le migliori foto](/2018/foto-lucca-medievale.htm)
+
+## Note
 
 * per la Luminara dell'11 Luglio è prevista scarsità di parcheggi a Lucca a
   causa della concomitanza con i concerti del Summer Festival, problema che
@@ -41,19 +56,9 @@ Note:
   Change.org](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
 * ad oggi non sappiamo se anche quest'anno non parteciperemo al Palio di San
   Paolino [perché non invitati a farlo come l'anno scorso dall'associazione che lo organizza](/2017-07-12-comunicato-stampa-acsp-palio-san-paolino-balestre-2017/)
-
-**Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
-perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
-legato agli eventi, in palio una cena per due in un ristorante di Lucca!
-
-### Eventi passati
-
-* **8 Aprile** - [2° Disfida della
-  Libertà](/2018-04-03-disfida-della-libertà-lucca-festa-2018/)
-  ([risultati](/2018/04/08/risultati-disfida-liberta.htm))
-* **20 Maggio** - [1° Palio dei Balistarii della Repubblica di
-  Lucca](/2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm) ([risultati](/2018/05/20/risultati-palio-repubblica-lucca.htm))
-* **2-3 Giugno** - Lucca Medievale - [Le migliori foto](/2018/foto-lucca-medievale.htm)
+* **Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
+  perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
+  legato agli eventi, in palio una cena per due in un ristorante di Lucca!
 
 ## Cos'è il Palio
 
@@ -109,12 +114,6 @@ contenderanno il titolo di campioni d'Italia, e in uno spettacolo che porterà
   <img src="{{ '/images/2018/04/12/events-litab.jpg' | absolute_url }}" alt="Campionato nazionale LITAB balestra banco">
   <figcaption>Lucca 3° classificata al campionato 2017</figcaption>
 </figure>
-
-## Newsletter
-
-Iscrivendoti gratuitamente alla [newsletter](/newsletter/), riceverai il
-programma di ogni evento comodamente nella tua casella di posta non appena
-sarà disponibile.
 
 ## Altre manifestazioni
 
