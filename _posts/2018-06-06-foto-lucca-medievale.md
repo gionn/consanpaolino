@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lucca Medievale 2018, le foto
+title: Lucca Medievale 2018 - le migliori foto
 date: '2018-06-06T08:00:00+02:00'
 categories:
   - foto
