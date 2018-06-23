@@ -19,18 +19,28 @@ o prenderà parte a **Lucca**:
 
 <!-- more -->
 
-* **24 Giugno** - Torneo di Primavera, gara di tiro con la balestra da banco in
-  borghese, presso il Campo Tiri della Repubblica di Lucca a Pontetetto (Via
-  Pattana) - [Evento FB](https://www.facebook.com/events/554761111586654)
-* **11 Luglio** (*) - Luminara San Paolino (da confermare)
-* **12 Luglio** (*) - Palio di San Paolino (da confermare)
+* **24 Giugno** - 1° Giostra Ghibellina, gara di tiro con balestre da banco in
+  abiti civili, presso il Campo Tiri della Repubblica di Lucca a Pontetetto (Via
+  Pattana) - [Vai all'articolo](/2018/giostra-ghibellina) o all'[Evento
+  FB](https://www.facebook.com/events/554761111586654)
+* **1 Luglio** - Conferenza stampa di presentazione del 34° Campionato Nazionale
+  LITAB - [Evento FB](https://www.facebook.com/events/270318550179406/)
+* **11 Luglio** - Luminara San Paolino - [Evento
+  FB](https://www.facebook.com/events/235073973753898/)
+* **12 Luglio** - Palio di San Paolino (da confermare, leggi note in calce)
 * **8-9 Settembre**: [34° Trofeo Nazionale LITAB](#cosè-il-trofeo-nazionale-litab)
 * **29 Settembre**: 2° Palio delle Contrade San Paolino
 * **2 Dicembre**: Frecce e Bandiere di Natale
 
-(*) Le date dei giorni di San Paolino non ancora confermate a causa dei concerti
-del Summer Festival, per cui è ancora attiva la [raccolta
-firme](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
+Note:
+
+* per la Luminara dell'11 Luglio è prevista scarsità di parcheggi a Lucca a
+  causa della concomitanza con i concerti del Summer Festival, problema che
+  avevamo già portato all'attenzione della communità con la nostra [raccolta
+  firme su
+  Change.org](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
+* ad oggi non sappiamo se anche quest'anno non parteciperemo al Palio di San
+  Paolino [perché non invitati a farlo come l'anno scorso dall'associazione che lo organizza](/2017-07-12-comunicato-stampa-acsp-palio-san-paolino-balestre-2017/)
 
 **Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
 perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
@@ -43,7 +53,7 @@ legato agli eventi, in palio una cena per due in un ristorante di Lucca!
   ([risultati](/2018/04/08/risultati-disfida-liberta.htm))
 * **20 Maggio** - [1° Palio dei Balistarii della Repubblica di
   Lucca](/2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm) ([risultati](/2018/05/20/risultati-palio-repubblica-lucca.htm))
-* **2-3 Giugno** - Lucca Medievale - [foto](/2018/foto-lucca-medievale.htm)
+* **2-3 Giugno** - Lucca Medievale - [Le migliori foto](/2018/foto-lucca-medievale.htm)
 
 ## Cos'è il Palio
 
