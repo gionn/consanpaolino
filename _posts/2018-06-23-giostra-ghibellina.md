@@ -7,6 +7,8 @@ categories:
   - eventi
 tags:
   - pontetetto
+  - giostra ghibellina
+  - balestrieri
 permalink: /2018/giostra-ghibellina
 ---
 
