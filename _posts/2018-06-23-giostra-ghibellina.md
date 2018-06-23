@@ -33,3 +33,6 @@ effettuare i migliori tiri sulla distanza di 36 metri. L’occasione è ottima p
 chi volesse osservare da vicino in cosa consiste il tiro con la balestra, in
 vista dei [corsi che l’associazione si è offerta di
 organizzare](https://consanpaolino.org/corsi-lucca) nelle prossime settimane.
+
+![locandina prima giostra ghibellina balestra
+lucca](/assets/images/2018/giostra-ghibellina/manifesto.jpg)
