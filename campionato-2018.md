@@ -14,7 +14,8 @@ Tiro Alla Balestra.
 
 L'evento richiama ogni anno le 13 compagnie aderenti alla LITAB provenienti da
 tutta Italia, per incontrarsi e sfidarsi in diverse gare per ottenere il titolo
-di Campioni Italiani in questa particolare specialità.
+di Campioni d'Italia in questa particolare specialità chiamata Balestra da
+banco.
 
 Per Lucca partecipa l'associazione Contrade San Paolino, assieme alle compagnie
 provenienti dalle città di: Amelia, Assisi, Chioggia, Gualdo Tadino, Iglesias,
