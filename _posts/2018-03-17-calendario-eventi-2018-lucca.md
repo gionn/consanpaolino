@@ -19,16 +19,12 @@ o prenderà parte a **Lucca**:
 
 <!-- more -->
 
-* **24 Giugno** - 1° Giostra Ghibellina, gara di tiro con balestre da banco in
-  abiti civili, presso il Campo Tiri della Repubblica di Lucca a Pontetetto (Via
-  Pattana) - [Vai all'articolo](/2018/giostra-ghibellina) o all'[Evento
-  FB](https://www.facebook.com/events/554761111586654)
 * **1 Luglio** - Conferenza stampa di presentazione del 34° Campionato Nazionale
   LITAB - [Evento FB](https://www.facebook.com/events/270318550179406/)
 * **11 Luglio** - Luminara San Paolino - [Evento
   FB](https://www.facebook.com/events/235073973753898/)
 * **12 Luglio** - Palio di San Paolino (da confermare, leggi note in calce)
-* **8-9 Settembre** - [34° Trofeo Nazionale LITAB](#cosè-il-trofeo-nazionale-litab)
+* **8-9 Settembre** - [34° Campionato Nazionale LITAB](/campionato-litab-lucca-2018)
 * **29 Settembre** - 2° Palio delle Contrade San Paolino
 * **2 Dicembre** - Frecce e Bandiere di Natale
 
@@ -46,14 +42,18 @@ ogni evento comodamente nella tua casella di posta non appena sarà disponibile!
 * **20 Maggio** - [1° Palio dei Balistarii della Repubblica di
   Lucca](/2018/05/06/nuova-data-primo-palio-repubblica-lucca.htm) ([risultati](/2018/05/20/risultati-palio-repubblica-lucca.htm))
 * **2-3 Giugno** - Lucca Medievale - [Le migliori foto](/2018/foto-lucca-medievale.htm)
+* **24 Giugno** - 1° Giostra Ghibellina, gara di tiro con balestre da banco in
+  abiti civili, presso il Campo Tiri della Repubblica di Lucca a Pontetetto (Via
+  Pattana) - [Vai all'articolo](/2018/giostra-ghibellina) o all'[Evento
+  FB](https://www.facebook.com/events/554761111586654)
+  ([risultati](/2018/risultati-giostra-ghibellina))
 
 ## Note
 
 * per la Luminara dell'11 Luglio è prevista scarsità di parcheggi a Lucca a
   causa della concomitanza con i concerti del Summer Festival, problema che
-  avevamo già portato all'attenzione della communità con la nostra [raccolta
-  firme su
-  Change.org](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
+  avevamo già portato all'attenzione della comunità con la nostra [raccolta
+  firme su Change](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
 * ad oggi non sappiamo se anche quest'anno non parteciperemo al Palio di San
   Paolino [perché non invitati a farlo come l'anno scorso dall'associazione che lo organizza](/2017-07-12-comunicato-stampa-acsp-palio-san-paolino-balestre-2017/)
 * **Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
