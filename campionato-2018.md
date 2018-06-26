@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Campionato Nazionale LITAB 2018 Lucca
+title: Campionato Italiano LITAB 2018 Lucca
 permalink: /campionato-litab-lucca-2018
 redirect_from:
   - /campionato
+  - /sponsor-cercasi
 ---
 
 Come [già annunciato](2017-04-11-campionato-litab-2018-lucca/), l'8-9 Settembre

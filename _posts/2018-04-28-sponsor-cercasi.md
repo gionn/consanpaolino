@@ -10,6 +10,7 @@ tags:
 image:
   path: /images/contrade-san-paolino.jpg
 permalink: /sponsor-cercasi
+published: false
 ---
 
 La nostra Associazione "Contrade San Paolino" si propone di organizzare, per l'8
@@ -18,7 +19,7 @@ banco, che vedrà tredici compagnie provenienti da tutta Italia sfidarsi nel
 magnifico scenario della città di Lucca, in un'occasione di grande spettacolo e
 di promozione del nostro territorio, della tradizione, dell’arte, della storia e
 cultura, e l’enogastronomia. La manifestazione si svolgerà a Lucca in Piazza
-Napoleone e Piazza San Michele, con gare di tiro con balestra da banco
+Napoleone e Piazza San Martino, con gare di tiro con balestra da banco
 medievale, sia individuali che a squadre, e un corteo composto da tamburini,
 porta vessilli, sbandieratori, nobili, dame e armigeri rigorosamente in costume
 medievale a formare una sfilata di circa 650 persone che attraverserà l’intero
