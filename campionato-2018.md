@@ -41,7 +41,11 @@ Gli organi di stampa sono invitati a partecipare.
 
 ## Cos'è il Campionato Italiano LITAB
 
-La manifestazione si compone di due giornate (sabato e domenica), e prenderà il via il sabato pomeriggio in Piazza San Martino con la **gara dei Maestri d'Arme** e la **gara dei Campioni**: è una gara a tiro singolo, dove il miglior tiratore di ciascuna città cercherà di effettuare il miglior risultato, in entrambe le categorie.
+La manifestazione si compone di due giornate (sabato e domenica), e prenderà il
+via il sabato pomeriggio in Piazza San Martino con la **gara dei Maestri
+d'Arme** e la **gara dei Campioni**: è una gara a tiro singolo, dove il miglior
+tiratore di ciascuna città cercherà di effettuare il miglior risultato, in
+entrambe le categorie.
 
 La domenica invece la manifestazione entrerà nel vivo in Piazza Napoleone, dove
 saranno allestite le 13 postazioni di tiro già dalla mattina per i tiri di
@@ -50,6 +54,9 @@ città scaglieranno a turno la propria verretta nel bersaglio, senza togliere le
 verrette precedenti. A seguire, la **gara individuale su corniolo**, dove tutti
 e 12 tiratori di ogni città (156 in tutto) scaglieranno a turno la propria
 verretta su un bersaglio particolare formato da un fusto di legno.
+
+Per entrambe le giornate è previsto un grande corteggio in costume per le vie
+del centro, gli orari saranno noti una volta pubblicato il programma definitivo.
 
 ## Perché la balestra a Lucca
 
