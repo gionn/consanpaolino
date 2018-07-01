@@ -31,29 +31,22 @@ come la manifestazione più partecipata dell'anno.
 Su questa pagina troverete sempre le informazioni più aggiornate riguardo
 l'evento.
 
-## Prossimo appuntamento: conferenza stampa
-
-Domenica **1° Luglio dalle ore 11:00** alle ore 13:00, presso la **Biblioteca
-Civica Agorà**, in Piazza dei Servi a Lucca, sarà presentato l'evento, il
-programma definitivo e la locandina.
-
-Gli organi di stampa sono invitati a partecipare.
-
 ## Cos'è il Campionato Italiano LITAB
 
 La manifestazione si compone di due giornate (sabato e domenica), e prenderà il
 via il sabato pomeriggio in Piazza San Martino con la **gara dei Maestri
 d'Arme** e la **gara dei Campioni**: è una gara a tiro singolo, dove il miglior
-tiratore di ciascuna città cercherà di effettuare il miglior risultato, in
-entrambe le categorie.
+tiratore e "l'insegnante" di ciascuna città cercherà di effettuare il miglior
+risultato, in entrambe le categorie.
 
-La domenica invece la manifestazione entrerà nel vivo in Piazza Napoleone, dove
-saranno allestite le 13 postazioni di tiro già dalla mattina per i tiri di
-prova, e nel pomeriggio partirà la **gara a squadre**: 12 tiratori per ogni
-città scaglieranno a turno la propria verretta nel bersaglio, senza togliere le
+La domenica la manifestazione entrerà nel vivo in Piazza Napoleone, dove saranno
+allestite le 13 postazioni di tiro già dalla mattina per i tiri di prova, e nel
+pomeriggio partirà la **gara a squadre**: 12 tiratori per ogni città
+scaglieranno a turno la propria verretta nel bersaglio, senza togliere le
 verrette precedenti. A seguire, la **gara individuale su corniolo**, dove tutti
 e 12 tiratori di ogni città (156 in tutto) scaglieranno a turno la propria
-verretta su un bersaglio particolare formato da un fusto di legno.
+verretta su un bersaglio particolare formato da un fusto di legno, creando un
+vero e proprio groviglio di verrette.
 
 Per entrambe le giornate è previsto un grande corteggio in costume per le vie
 del centro, gli orari saranno noti una volta pubblicato il programma definitivo.
