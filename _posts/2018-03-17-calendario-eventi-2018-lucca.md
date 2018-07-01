@@ -19,8 +19,6 @@ o prenderà parte a **Lucca**:
 
 <!-- more -->
 
-* **1 Luglio** - Conferenza stampa di presentazione del 34° Campionato Nazionale
-  LITAB - [Evento FB](https://www.facebook.com/events/270318550179406/)
 * **11 Luglio** - Luminara San Paolino - [Evento
   FB](https://www.facebook.com/events/235073973753898/)
 * **12 Luglio** - Palio di San Paolino (da confermare, leggi note in calce)
@@ -47,6 +45,8 @@ ogni evento comodamente nella tua casella di posta non appena sarà disponibile!
   Pattana) - [Vai all'articolo](/2018/giostra-ghibellina) o all'[Evento
   FB](https://www.facebook.com/events/554761111586654)
   ([risultati](/2018/risultati-giostra-ghibellina))
+* **1 Luglio** - Conferenza stampa di presentazione del 34° Campionato Nazionale
+  LITAB - [Evento FB](https://www.facebook.com/events/270318550179406/)
 
 ## Note
 
