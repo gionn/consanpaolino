@@ -9,7 +9,7 @@ redirect_from:
   - /sponsor-cercasi
 ---
 
-Ultima modifica a questa pagina: 01/07/2018
+**Ultima modifica** 01/07/2018
 
 Il weekend dell'8-9 Settembre 2018 si terrà a Lucca per la prima volta in
 assoluto il **Campionato Italiano di Balestra da banco** fra le associazioni di
@@ -36,6 +36,10 @@ l'evento.
 ## Programma dell'evento
 
 Programma dettagliato presto disponibile.
+
+## Locandina dell'evento
+
+![locandina campionato italiano balestra banco litab](/assets/images/2018/campionato/locandina.jpg)
 
 ## Cos'è il Campionato Italiano LITAB
 
