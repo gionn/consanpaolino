@@ -9,6 +9,8 @@ redirect_from:
   - /sponsor-cercasi
 ---
 
+Ultima modifica a questa pagina: 01/07/2018
+
 Il weekend dell'8-9 Settembre 2018 si terrà a Lucca per la prima volta in
 assoluto il **Campionato Italiano di Balestra da banco** fra le associazioni di
 rievocazione storica aderenti alla **Lega Italiana Tiro Alla Balestra** (LITAB).
@@ -30,6 +32,10 @@ come la manifestazione più partecipata dell'anno.
 
 Su questa pagina troverete sempre le informazioni più aggiornate riguardo
 l'evento.
+
+## Programma dell'evento
+
+Programma dettagliato presto disponibile.
 
 ## Cos'è il Campionato Italiano LITAB
 
@@ -76,3 +82,29 @@ lucchese per la balestra.
   <img src="{{ '/images/2018/04/12/events-litab.jpg' | absolute_url }}" alt="Campionato nazionale LITAB balestra banco">
   <figcaption>Lucca 3° classificata al campionato 2017</figcaption>
 </figure>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "XXXIV Campionato Italiano Balestra Antica da Banco LITAB",
+  "startDate": "2018-09-08T15:00+02:00",
+  "endDate":   "2018-09-09T18:30+02:00",
+  "location": {
+    "@type": "Place",
+    "name": "Piazza Napoleone, Lucca",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Piazza Napoleone",
+      "addressLocality": "Lucca",
+      "postalCode": "55100",
+      "addressRegion": "LU",
+      "addressCountry": "IT"
+    }
+  },
+  "image": [
+    "https://consanpaolino.org/images/assets/images/2018/hero/balestra-lucca-medievale.jpg"
+   ],
+  "description": "Gara di tiro con balestra antica da banco in costume storico fra le 13 città aderenti alla LITAB"
+}
+</script>
