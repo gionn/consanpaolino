@@ -37,6 +37,8 @@ l'evento.
 
 Programma dettagliato presto disponibile.
 
+Segui gli ultimi aggiornamenti sull'[evento Facebook](https://www.facebook.com/events/1742269145826602/).
+
 ## Locandina dell'evento
 
 ![locandina campionato italiano balestra banco litab](/assets/images/2018/campionato/locandina.jpg)
