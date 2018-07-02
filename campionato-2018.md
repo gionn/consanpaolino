@@ -10,7 +10,13 @@ redirect_from:
   - /2017-04-11-campionato-litab-2018-lucca/
 ---
 
-**Ultima modifica** 01/07/2018
+**Ultimo aggiornamento:** 02/07/2018
+
+## Download
+
+* [Scarica il libretto dell'evento in formato PDF](/assets/files/2018/campionato/libretto.pdf)
+
+## Descrizione dell'evento
 
 Il weekend dell'8-9 Settembre 2018 si terrà a Lucca per la prima volta in
 assoluto il **Campionato Italiano di Balestra da banco** fra le associazioni di
@@ -36,9 +42,34 @@ l'evento.
 
 ## Programma dell'evento
 
-Programma dettagliato presto disponibile.
+### Sabato 8 Settembre 2018 (Piazza San Martino)
 
-Segui gli ultimi aggiornamenti sull'[evento Facebook](https://www.facebook.com/events/1742269145826602/).
+* 14:30 - Ritrovo delle compagnie davanti la biblioteca civica Agorà in
+  preparazione al corteggio;
+* 15:00 - Partenza corteggio storico da Piazza dei Servi verso Piazza San Martino
+* 15:45 - Inizio dei tiri di prova, a seguire Gara dei Maestri d'Arme e dei
+  Campioni
+* 17:30 - Termine della gara, cerimonia dello scambio dei doni e sorteggio delle
+  postazioni per le gare della domenica presso la bilbioteca civica Agorà
+
+### Domenica 9 Settembre 2018 (Piazza Napoleone)
+
+* 09:30 - Allestimento banchi di tiro, tiri di prova, verifica delle attrezzature
+  in Piazza Napoleone
+* 12:30 - Termine sessione tiri di prova
+* 15:00 - Partenza del corteggio da Piazza dei Servi verso Piazza Napoleone,
+  esibizioni dei gruppi partecipanti
+* 15:30 - Inizio gara a squadre
+* 16:00 - Esibizioni dei gruppi partecipanti
+* 16:30 - Inizio gara individuale
+* 17:00 - Esibizioni dei gruppi partecipanti
+* 17:30 - Cerimonia di premiazione, saluti
+
+## Non perdere gli aggiornamenti
+
+Segui gli ultimi aggiornamenti sull'[evento
+Facebook](https://www.facebook.com/events/1742269145826602/) oppure
+iscrivendoti alla nostra [newsletter](/newsletter.html).
 
 ## Locandina dell'evento
 
