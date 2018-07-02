@@ -75,6 +75,31 @@ iscrivendoti alla nostra [newsletter](/newsletter.html).
 
 ![locandina campionato italiano balestra banco litab](/assets/images/2018/campionato/locandina.jpg)
 
+## Sponsors
+
+Senza l'appoggio economico di alcune attività commerciali di Lucca e provincia,
+non sarebbe stato possibile realizzare al meglio questo evento. Grazie di cuore
+a tutti quelli che hanno voluto contribuire attivamente alla nostra
+manifestazione.
+
+* [Pizzeria MaraMeo](http://www.marameo-lucca.it/)
+* [Sadas Group](http://www.sadasgroup.it)
+* [Arte in Stampa](http://www.arteinstampa.com)
+* [Santini Legnami](http://www.santinilegnami.it/)
+* [Unipol Sai Lucca](http://www.unipolsailucca.com/)
+* Ferramenta S.Margherita Snc - 0583 955209
+* [Marlia Express](http://lnx.marliaexpress.it/)
+* [Piccolo Mondo Ristorante](http://www.piccolomondo.lucca.it/)
+* [Alimentari KM 0](https://www.facebook.com/Km-0-310049566091322/)
+* [La Culla della Fenice Gioielli](https://www.facebook.com/fenicejewels/)
+* Paoletti Claudio Macchine agricole - 0583 426038
+* Bianchini Francesco Impresa Edile - 329 4073395
+* [The Clutch Wedding planner](https://www.facebook.com/The-Clutch-Societ%C3%A0-Cooperativa-415326778661652/)
+
+Vuoi contribuire anche tu? **[Contattaci](/contatti)**!
+
+![lista sponsors campionato italiano balestra banco litab](/assets/images/2018/campionato/sponsors.jpg)
+
 ## Cos'è il Campionato Italiano LITAB
 
 La manifestazione si compone di due giornate (sabato e domenica), e prenderà il
