@@ -16,4 +16,4 @@ permalink: /2018/campionato-italiano-litab-noitv
 
 <!-- more -->
 
-[Vai alla sezione Speciale Campionato Italiano LITAB](/campionato-litab-lucca-2018)
+# [Vai alla sezione Speciale Campionato Italiano LITAB](/campionato-litab-lucca-2018)
