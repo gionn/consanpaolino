@@ -7,6 +7,7 @@ image:
 redirect_from:
   - /campionato
   - /sponsor-cercasi
+  - /2017-04-11-campionato-litab-2018-lucca/
 ---
 
 **Ultima modifica** 01/07/2018
