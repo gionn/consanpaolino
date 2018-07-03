@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Campionato Italiano LITAB 2018 Lucca
+title: XXXIV Campionato Italiano di Balestra da banco LITAB 2018 a Lucca
 permalink: /campionato-litab-lucca-2018
 image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
