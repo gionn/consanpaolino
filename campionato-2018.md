@@ -50,7 +50,7 @@ l'evento.
 * 15:45 - Inizio dei tiri di prova, a seguire Gara dei Maestri d'Arme e dei
   Campioni
 * 17:30 - Termine della gara, cerimonia dello scambio dei doni e sorteggio delle
-  postazioni per le gare della domenica presso la bilbioteca civica Agorà
+  postazioni per le gare della domenica presso la biblioteca civica Agorà
 
 ### Domenica 9 Settembre 2018 (Piazza Napoleone)
 
@@ -67,7 +67,7 @@ l'evento.
 
 ## Non perdere gli aggiornamenti
 
-Segui gli ultimi aggiornamenti sull'[evento
+Segui gli ultimi aggiornamenti sulla pagina dell'[evento
 Facebook](https://www.facebook.com/events/1742269145826602/) oppure
 iscrivendoti alla nostra [newsletter](/newsletter.html).
 
@@ -120,6 +120,11 @@ vero e proprio groviglio di verrette.
 Per entrambe le giornate è previsto un grande corteggio in costume per le vie
 del centro, gli orari saranno noti una volta pubblicato il programma definitivo.
 
+<figure class="align-center">
+  <img src="{{ '/images/2018/04/12/events-litab.jpg' | absolute_url }}" alt="Campionato nazionale LITAB balestra banco">
+  <figcaption>Lucca 3° classificata al campionato 2017</figcaption>
+</figure>
+
 ## Perché la balestra a Lucca
 
 Lucca vanta un'antica tradizione sulla balestra da banco, il cui utilizzo è
@@ -141,10 +146,16 @@ partecipare tutti i possessori di balestra nel raggio delle 6 miglia cittadine.
 Questa manifestazione non può quindi che risvegliare l'antica tradizione
 lucchese per la balestra.
 
-<figure class="align-center">
-  <img src="{{ '/images/2018/04/12/events-litab.jpg' | absolute_url }}" alt="Campionato nazionale LITAB balestra banco">
-  <figcaption>Lucca 3° classificata al campionato 2017</figcaption>
-</figure>
+## Stampa
+
+{% youtube "https://www.youtube.com/watch?v=FEsugC3REfQ" %}
+
+* [Lucca capitale del 34° campionato italiano di balestra antica da
+  banco - Gazzetta di Lucca](https://www.lagazzettadilucca.it/sport/2018/06/lucca-capitale-del-34-campionato-italiano-di-balestra-antica-da-banco/)
+* [Presentato il Campionato italiano di tiro con la balestra -
+  NoiTV](http://www.noitv.it/2018/07/presentato-il-campionato-italiano-di-tiro-con-la-balestra-218661/)
+* [A settembre i tricolori di tiro con la balestra da banco - Lucca In
+  Diretta](http://www.luccaindiretta.it/dalla-citta/item/121951-a-settembre-i-tricolori-di-tiro-con-la-balestra-da-banco.html)
 
 <script type="application/ld+json">
 {
