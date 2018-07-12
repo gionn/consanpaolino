@@ -23,6 +23,8 @@ verificatosi nell’edizione 2017, **non si ripresentasse anche nel 2018**, ma �
 evidente che le iniziative percorse dell’Assessorato alla Cultura non hanno
 saputo raggiungere lo scopo prefissato.
 
+<!-- more -->
+
 Il Comune di Lucca ha stipulato una specifica convenzione con ogni gruppo di
 rievocazione storica della città con l’obiettivo di fissare i contributi
 economici per le manifestazioni organizzate a Lucca e col fine ultimo di
@@ -84,5 +86,4 @@ possa finalmente prendere una ferma posizione su questa questione e risolverla
 definitivamente perché la rievocazione storica a Lucca si merita molto di più di
 quello che abbiamo visto negli ultimi due anni.
 
-Paolo Gianni
-Presidente ACSP
+Paolo Gianni - Presidente ACSP
