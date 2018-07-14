@@ -143,6 +143,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-theme-so-simple
   jekyll-youtube
+  jemoji
 
 BUNDLED WITH
    1.16.1

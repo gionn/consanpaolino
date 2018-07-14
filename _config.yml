@@ -57,6 +57,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-youtube
+  - jemoji
 
 # Front Matter Defaults
 defaults:

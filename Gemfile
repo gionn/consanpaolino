@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-youtube"
   gem "amp-jekyll"
+  gem "jemoji"
 end
 
 # Validate HTML
