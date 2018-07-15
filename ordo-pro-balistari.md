@@ -4,6 +4,8 @@ title: Ordo Pro Balistarii (Lucca)
 permalink: /ordo-pro-balistarii
 image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
+redirect_from:
+  - ordo
 ---
 
 Traduzione dal latino dell'Ordo Pro Balistarii, la normativa che regolamentava
