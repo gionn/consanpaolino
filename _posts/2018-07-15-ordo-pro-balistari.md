@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: post
 title: Ordo Pro Balistarii (Lucca)
+date: '2018-07-15T21:00:00+02:00'
 permalink: /ordo-pro-balistarii
+categories:
+  - lucca
 image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
 redirect_from:

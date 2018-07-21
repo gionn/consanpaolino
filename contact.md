@@ -4,6 +4,7 @@ title: Contatti
 permalink: /contatti
 redirect_from:
   - /contatti/
+  - /social
 ---
 
 Scrivici a consanpaolino@gmail.com oppure su [Facebook Messenger](http://m.me/consanpaolino).
@@ -13,6 +14,13 @@ Scrivici a consanpaolino@gmail.com oppure su [Facebook Messenger](http://m.me/co
 **Maestro d'Armi**: Mauro Tolomei +39 335 681 2160
 
 Vuoi rimanere in contatto con noi? [Iscriviti alla newsletter](/newsletter/)!
+
+Rimani aggiornato sulle ultime novità, foto e video, seguendoci sui principali Social Media:
+
+[![facebook](/tumblr_files/tumblr_inline_of35jxCyhm1qbpldy_500.png)](https://fb.com/consanpaolino)
+[![instagram](/tumblr_files/tumblr_inline_of35kb7R6z1qbpldy_500.png)](https://instagram.com/consanpaolino)
+[![youtube](/tumblr_files/tumblr_inline_of35kgaBj61qbpldy_500.png)](https://www.youtube.com/channel/UC8fqZye7eBrSWTbd5dzyUCg)
+[![twitter](/tumblr_files/tumblr_inline_ogg7koeRYY1qbpldy_500.png)](https://twitter.com/consanpaolino)
 
 La nostra sede istituzionale è a Sortita Porta San Pietro 1/3 a Lucca.
 
