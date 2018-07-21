@@ -19,8 +19,8 @@ o prenderà parte a **Lucca**:
 
 <!-- more -->
 
-* **11 Luglio** - [Luminara di San Paolino](/2018/luminara-san-paolino) - [Evento FB](https://www.facebook.com/events/235073973753898/)
-* **8-9 Settembre** - [34° Campionato Nazionale LITAB](/campionato-litab-lucca-2018) - [Evento FB](https://www.facebook.com/events/1742269145826602/)
+* **24 Luglio** - Processione di San Cristoforo a Barga (LU) - [Evento FB](https://www.facebook.com/events/652132165133409/)
+* **8-9 Settembre** - [34° Campionato Italiano Balestra antica da banco LITAB a Lucca](/campionato-litab-lucca-2018) - [Evento FB](https://www.facebook.com/events/1742269145826602/)
 * **29 Settembre** - 2° Palio delle Contrade San Paolino
 * **2 Dicembre** - Frecce e Bandiere di Natale
 
@@ -45,18 +45,13 @@ ogni evento comodamente nella tua casella di posta non appena sarà disponibile!
   ([risultati](/2018/risultati-giostra-ghibellina))
 * **1 Luglio** - Conferenza stampa di presentazione del 34° Campionato Nazionale
   LITAB - [Evento FB](https://www.facebook.com/events/270318550179406/)
+* **11 Luglio** - [Luminara di San Paolino](/2018/luminara-san-paolino) - [Evento FB](https://www.facebook.com/events/235073973753898/)
 
-## Note
+## Partecipa al concorso fotografico
 
-* per la Luminara dell'11 Luglio è prevista scarsità di parcheggi a Lucca a
-  causa della concomitanza con i concerti del Summer Festival, problema che
-  avevamo già portato all'attenzione della comunità con la nostra [raccolta
-  firme su Change](https://www.change.org/p/lucca-summer-festival-nessun-concerto-del-lucca-summer-festival-durante-i-festeggiamenti-del-santo-patrono))
-* ad oggi non sappiamo se anche quest'anno non parteciperemo al Palio di San
-  Paolino [perché non invitati a farlo come l'anno scorso dall'associazione che lo organizza](/2017-07-12-comunicato-stampa-acsp-palio-san-paolino-balestre-2017/)
-* **Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
-  perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
-  legato agli eventi, in palio una cena per due in un ristorante di Lucca!
+**Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
+perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
+legato agli eventi, in palio una cena per due in un ristorante di Lucca!
 
 ## Cos'è il Palio
 
