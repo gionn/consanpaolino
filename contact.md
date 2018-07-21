@@ -3,7 +3,6 @@ layout: page
 title: Contatti
 permalink: /contatti
 redirect_from:
-  - /contatti/
   - /social
 ---
 

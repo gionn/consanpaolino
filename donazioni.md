@@ -2,8 +2,6 @@
 layout: page
 title: Donazioni
 permalink: /donazioni
-redirect_from:
-  - /donazioni/
 ---
 
 L'Associazione Contrade San Paolino finanzia ogni anno le proprie attività

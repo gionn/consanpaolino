@@ -50,6 +50,8 @@ balestrieri aderenti al Terziere di San Paolino, suddivisi per Contrada o
 Gonfalone. Il bersaglio è la classica Brocca (Corniolo) e il Palio dipinto da
 un'artista va alla Contrada cui appartiene il Primo et Meliore.
 
+A fine 2017, pubblichiamo il [primo album fotografico dell'associazione](http://www.blurb.com/b/8353950-contrade-san-paolino-2017) tramite l'editore online Blurb.
+
 Nel 2018, prende vita per il 1° di Maggio il **Palio dei Balistarii della Repubblica di Lucca**, come voluto da Castruccio Castracani nell'[ordo pro balistarii](/ordo-pro-balistarii), al quale possono partecipare tutti i possessori di balestra di Lucca.
 
 Oltre ai balestrieri, il gruppo dei giovani tamburini, insieme agli altri

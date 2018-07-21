@@ -1,5 +1,5 @@
 ---
-title: "Lucca: storia e curiosità"
+title: "Lucca: storia, curiosità e avvenimenti"
 layout: category
 permalink: /lucca
 taxonomy: lucca
