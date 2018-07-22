@@ -22,11 +22,12 @@ Il weekend dell'8-9 Settembre 2018 si terrà a Lucca per la prima volta in
 assoluto il **Campionato Italiano di Balestra da banco** fra le associazioni di
 rievocazione storica aderenti alla **Lega Italiana Tiro Alla Balestra** (LITAB).
 L'ultima volta che questo evento è passato in provincia di Lucca era il 2003 e
-fu fatto a Barga. Da allora ne è passata di acqua sotto ai ponti.
+fu fatto a Barga, e si dovranno aspettare altri 10 anni come minimo prima che
+quest'evento sarà riproposto a Lucca.
 
 ![litab logo](/images/litab.gif){: .align-right}
 
-L'evento richiama ogni anno le **13 compagnie** aderenti alla LITAB di balestra
+L'evento richiama ogni anno le **13 compagnie LITAB** di balestra
 da banco provenienti da tutta Italia, per incontrarsi e sfidarsi in diverse gare
 per ottenere il titolo di Campioni d'Italia in questa particolare specialità.
 
@@ -34,8 +35,8 @@ Per Lucca partecipa l'associazione **Contrade San Paolino**, assieme alle
 compagnie provenienti dalle città di: Amelia, Assisi, Chioggia, Gualdo Tadino,
 Iglesias, Norcia, Montefalco, Roccapiatta, Pisa, Terra Del Sole, Ventimiglia e
 Volterra. In tutto si parla di circa **200 balestrieri in costume storico**, più
-tamburi e figuranti che ogni associazione porta in quello che è da tutte visto
-come la manifestazione più partecipata dell'anno.
+tamburi, sbandieratori e figuranti con cui ogni associazione partecipa, e lo
+spettacolo è quindi assicurato.
 
 Su questa pagina troverete sempre le informazioni più aggiornate riguardo
 l'evento.
@@ -46,7 +47,7 @@ l'evento.
 
 * 14:30 - Ritrovo delle compagnie davanti la biblioteca civica Agorà in
   preparazione al corteggio;
-* 15:00 - Partenza corteggio storico da Piazza dei Servi verso Piazza San Martino
+* 15:00 - Partenza del corteggio storico da Piazza dei Servi verso Piazza San Martino
 * 15:45 - Inizio dei tiri di prova, a seguire Gara dei Maestri d'Arme e dei
   Campioni
 * 17:30 - Termine della gara, cerimonia dello scambio dei doni e sorteggio delle
@@ -65,7 +66,7 @@ l'evento.
 * 17:00 - Esibizioni dei gruppi partecipanti
 * 17:30 - Cerimonia di premiazione, saluti
 
-## Non perdere gli aggiornamenti
+## Non perdere gli ultimi aggiornamenti
 
 Segui gli ultimi aggiornamenti sulla pagina dell'[evento
 Facebook](https://www.facebook.com/events/1742269145826602/) oppure
