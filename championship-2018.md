@@ -6,7 +6,7 @@ image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
 ---
 
-**Last update:** 02/07/2018
+**Last update:** 02/07/2018 (Articolo originale: [:it:](/campionato-litab-lucca-2018))
 
 ## Download
 

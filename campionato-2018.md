@@ -10,7 +10,7 @@ redirect_from:
   - /2017-04-11-campionato-litab-2018-lucca/
 ---
 
-**Ultimo aggiornamento:** 02/07/2018
+**Ultimo aggiornamento:** 02/07/2018 (English version: [:uk:](/championship-litab-lucca-2018))
 
 ## Download
 
