@@ -7,7 +7,7 @@ permalink: /donazioni
 L'Associazione Contrade San Paolino finanzia ogni anno le proprie attività
 mediante la quota associativa versata dai soci (20 euro) e attraverso i
 contributi ricevuti dagli enti (Comune di Lucca, Fondazione CRL) per
-l'organizzazione delle [nostre attività](/about/).
+l'organizzazione delle [nostre attività](/about).
 
 Tuttavia, spesso ci troviamo a confrontarci con **spese inattese**, come i costi di
 riparazione dell'attrezzatura utilizzata durante le manifestazioni (tende,
