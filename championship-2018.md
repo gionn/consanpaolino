@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XXXIV Italian Championship Historic Crossbow LITAB 2018 in Lucca
+title: XXXIV Historical Crossbow Italian Championship 2018 (LITAB) in Lucca
 permalink: /championship-litab-lucca-2018
 image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
@@ -10,12 +10,12 @@ image:
 
 ## Download
 
-* [Download event booklet (italian only)](/assets/files/2018/campionato/libretto.pdf)
+* [Download event booklet (Italian only)](/assets/files/2018/campionato/libretto.pdf)
 
 ## Description of the event
 
 The weekend of 8-9 September 2018 will take place in Lucca for the first time, the
-Italian Championship of Heavy Crossbow between the associations of medieval
+Italian Championship of Historical Crossbow between the associations of medieval
 reenactment members of LITAB league.
 The last time this event took place near Lucca, was the 2003 in Barga.
 
@@ -25,12 +25,12 @@ This yearly event is attended by 13 different associations, members of the LITAB
 league, to meet and challenge themselves in multiple shooting competition to obtain
 the most valuable title of "Italian Champion" on these particular specialties.
 
-For Lucca partecipate the **Contrade San Paolino** association, together with
-the associations coming from the cities of: Amelia, Assisi, Chioggia, Gualdo
-Tadino, Iglesias, Norcia, Montefalco, Roccapiatta, Pisa, Terra Del Sole,
-Ventimiglia e Volterra. You will find around **200 crossbowers in historic
-costumes**, drum corps and other dressed people in one of the most partecipated
-event of the year.
+For Lucca will participate the **Contrade San Paolino** association, together
+with the associations coming from the cities of: Amelia, Assisi, Chioggia,
+Gualdo Tadino, Iglesias, Norcia, Montefalco, Roccapiatta, Pisa, Terra Del Sole,
+Ventimiglia e Volterra. You will find around **200 crossbowers in historical
+costumes**, drum corps and other dressed people in one of the most awaited
+events of the year.
 
 On this page you will find all the updated information to follow the event.
 
@@ -47,8 +47,8 @@ On this page you will find all the updated information to follow the event.
 
 ### Sunday 9 Semptember 2018 (Piazza Napoleone)
 
-* 09:30 - Mount of the shooting field, trial shooting, equipment checking
-* 12:30 - End of trial shooting.
+* 09:30 - Preparation of the shooting field, trial shooting, equipment checking
+* 12:30 - End of trial shootings.
 * 15:00 - Parade start from Piazza dei Servi to Piazza Napoleone, exhibitions of
   drummers, flag-thrower and fencers
 * 15:30 - Start of the team competition
