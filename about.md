@@ -3,15 +3,14 @@ layout: page
 title: Chi Siamo
 permalink: /about
 redirect_from:
-  - /about/
   - /balestrieri-lucca
 ---
 
 ![foto gruppo contrade san paolino](/images/contrade-san-paolino.jpg)
 
-L’Associazione Contrade San Paolino (ACSP) nasce a **Lucca** nel 1991 con rogito
-del notaio Puliti il 27 Febbraio, e diviene operativa dal 1994, con l’intento
-di rievocare le origini e la storia di Lucca durante il periodo medioevale. È
+L’Associazione Contrade San Paolino (ACSP) nasce a **Lucca** il 27 Febbraio 1991
+con rogito del notaio Puliti, e diviene operativa dal 1994 con l’intento di
+rievocare le origini e la storia di Lucca durante il periodo medioevale. È
 iscritta nel **registro del volontariato** (legge 266/91) dal 6 Febbraio 2004 al
 nr. 31, ed è inserita nell'**elenco regionale delle associazioni e
 manifestazioni di rievocazione e ricostruzione storica**, previsti dalla Legge
@@ -21,43 +20,49 @@ secolo.
 ![regione toscana](/images/regtosc.png){: .align-right}
 
 Dal 1994, anno della prima edizione, organizza ogni anno la sera dell'11 Luglio
-la **Luminara di San Paolino**, un corteo storico per le vie del centro fino
-alla Basilica di San Paolino, a cui partecipano i vari gruppi storici della
-lucchesia e gruppi amici dell'associazione. L'intero centro storico di Lucca
-viene immerso in un'atmosfera d'altri tempi, con le strade illuminate da torce e
-addobbate dalle bandiere del terziere San Paolino.
-Dal 2006 partecipa anche alla Luminara di Santa Croce, la sera del 13 Settembre.
+la **Luminara di San Paolino**, un corteggio per le vie del centro storico di
+Lucca fino alla Basilica di San Paolino a cui partecipano i vari gruppi storici
+della lucchesia e gruppi amici dell'associazione. L'intera città viene immersa
+in un'atmosfera d'altri tempi, con le strade illuminate da torce e addobbate
+dalle bandiere del terziere San Paolino. Dal 2006 l'associazione partecipa anche
+alla Luminara di Santa Croce organizzata dal Comune di Lucca per il calendario
+del *Settembre Lucchese*, la sera del 13 Settembre.
 
 Durante il mese di giugno, dal 2015, organizza la manifestazione **Lucca
-Medievale** che comprende, in due giorni di festa, mercatino medievale,
-falconieri, spettacoli di strada, musica e il Torneo dei Balestrieri in Onore de
-lo Santo Francesco. L'edizione 2018 ha superato tutte le aspettative di
-partecipazione da parte del pubblico che fa presagire scenari di crescita per
-questa manifestazione.
+Medievale** che comprende, in due giorni di allestimento in piazza: mercatino
+medievale, spettacoli di strada, esibizioni di falconeria, musica e il Torneo
+dei Balestrieri in Onore de lo Santo Francesco. L'edizione 2018 ha superato
+tutte le aspettative di partecipazione da parte del pubblico che fa presagire
+buone prospettive di crescita per il futuro.
 
 ![litab lega italiana tiro alla balestra](/images/litab.gif){: .align-right}
 
-L'associazione è affiliata alla **Lega Italiana Tiro Alla Balestra** (LITAB) dal
+L'associazione è iscritta alla **Lega Italiana Tiro Alla Balestra** (LITAB) dal
 1995, e ogni anno è impegnata a tenere alto il nome di Lucca durante il
-campionato nazionale, a cui partecipano 13 città provenienti da tutta Italia. Ha
-organizzato a Barga nel Settembre 2003 il XIX Campionato Italiano Balestre da Banco LITAB e ha preso l'incarico di organizzare il [XXXIV
-Campionato Italiano Balestre da Banco LITAB per il Settembre
-2018](/campionato-litab-lucca-2018).
+campionato nazionale a cui partecipano 13 città provenienti da tutta Italia. Ha
+organizzato a Barga nel Settembre 2003 il XIX Campionato Italiano Balestre da
+Banco LITAB e ha preso l'incarico di organizzare il [XXXIV Campionato Italiano
+Balestre da Banco LITAB per il Settembre 2018](/campionato-litab-lucca-2018).
 
 Nel 2017 l'Associazione ha dato vita al terzo Palio cittadino, denominato
 **Palio delle Contrade San Paolino**, al quale possono partecipare solamente i
 balestrieri aderenti al Terziere di San Paolino, suddivisi per Contrada o
 Gonfalone. Il bersaglio è la classica Brocca (Corniolo) e il Palio dipinto da
-un'artista va alla Contrada cui appartiene il Primo et Meliore.
+un'artista va alla contrada a cui appartiene il Primo et Meliore.
 
-A fine 2017, pubblichiamo il [primo album fotografico dell'associazione](http://www.blurb.com/b/8353950-contrade-san-paolino-2017) tramite l'editore online Blurb.
+A fine 2017, viene pubblicato il [primo libro fotografico
+dell'associazione](http://www.blurb.com/b/8353950-contrade-san-paolino-2017)
+tramite l'editore online Blurb.
 
-Nel 2018, prende vita per il 1° di Maggio il **Palio dei Balistarii della Repubblica di Lucca**, come voluto da Castruccio Castracani nell'[ordo pro balistarii](/ordo-pro-balistarii), al quale possono partecipare tutti i possessori di balestra di Lucca.
+Nel 2018, prende vita per il 1° di Maggio il **Palio dei Balistarii della
+Repubblica di Lucca**, come voluto da Castruccio Castracani nell'[ordo pro
+balistarii](/ordo-pro-balistarii), al quale possono partecipare tutti i
+possessori di balestra di Lucca che ne facciano richiesta.
 
-Oltre ai balestrieri, il gruppo dei giovani tamburini, insieme agli altri
-figuranti, contribuiscono a creare e mantenere un importante punto di
-aggregazione sociale per tutti gli abitanti di Lucca e zone limitrofe,
-interessati a conoscerne la storia e viverla in prima persona.
+Oltre ai balestrieri, il gruppo dei giovani tamburini, insieme ai figuranti,
+contribuiscono a creare e mantenere un importante punto di aggregazione sociale
+per tutti gli abitanti di Lucca e zone limitrofe, interessati a conoscerne la
+storia e viverla in prima persona.
 
 [Contattaci](/contatti) per avere maggiori informazioni, e per non perdere i
 prossimi eventi, [Iscriviti alla nostra newsletter](/newsletter/).
