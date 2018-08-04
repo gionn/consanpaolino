@@ -7,7 +7,7 @@ categories:
 tags:
   - calendario
 image:
-  path: /images/2018/04/12/events-hero.jpg
+  path: /assets/images/2018/hero/guinigi.jpg
 redirect_from:
   - /2018-03-17-calendario-eventi-2018-lucca/
 permalink: /calendario-eventi-lucca-2018
@@ -19,16 +19,21 @@ o prenderà parte a **Lucca**:
 
 <!-- more -->
 
-* **24 Luglio** - Processione di San Cristoforo a Barga (LU) - [Evento FB](https://www.facebook.com/events/652132165133409/)
 * **8-9 Settembre** - [34° Campionato Italiano Balestra antica da banco LITAB a Lucca](/campionato-litab-lucca-2018) - [Evento FB](https://www.facebook.com/events/1742269145826602/)
-* **29 Settembre** - 2° Palio delle Contrade San Paolino
+* **29 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/)
 * **2 Dicembre** - Frecce e Bandiere di Natale
 
-## Newsletter degli eventi per gli smemorati
+## Newsletter eventi per gli smemorati
 
 Non rischiare di dimenticarti del prossimo evento, ci pensiamo noi! [Iscriviti
 gratuitamente alla **newsletter**](/newsletter) e riceverai il programma di
 ogni evento comodamente nella tua casella di posta non appena sarà disponibile!
+
+## Concorso fotografico amatoriale - in palio una cena
+
+**Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
+perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
+legato agli eventi, in palio una cena per due in un ristorante di Lucca!
 
 ## Eventi passati che potresti aver perso
 
@@ -46,12 +51,7 @@ ogni evento comodamente nella tua casella di posta non appena sarà disponibile!
 * **1 Luglio** - Conferenza stampa di presentazione del 34° Campionato Nazionale
   LITAB - [Evento FB](https://www.facebook.com/events/270318550179406/)
 * **11 Luglio** - [Luminara di San Paolino](/2018/luminara-san-paolino) - [Evento FB](https://www.facebook.com/events/235073973753898/)
-
-## Partecipa al concorso fotografico
-
-**Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
-perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
-legato agli eventi, in palio una cena per due in un ristorante di Lucca!
+* **24 Luglio** - Processione di San Cristoforo a Barga (LU) - [Evento FB](https://www.facebook.com/events/652132165133409/)
 
 ## Cos'è il Palio
 
