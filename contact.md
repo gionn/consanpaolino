@@ -12,7 +12,7 @@ Scrivici a consanpaolino@gmail.com oppure su [Facebook Messenger](http://m.me/co
 
 **Maestro d'Armi**: Mauro Tolomei +39 335 681 2160
 
-Vuoi rimanere in contatto con noi? [Iscriviti alla newsletter](/newsletter/)!
+Vuoi rimanere in contatto con noi? [Iscriviti alla newsletter](/newsletter)!
 
 Rimani aggiornato sulle ultime novità, foto e video, seguendoci sui principali Social Media:
 

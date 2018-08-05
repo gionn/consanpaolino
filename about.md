@@ -65,4 +65,4 @@ per tutti gli abitanti di Lucca e zone limitrofe, interessati a conoscerne la
 storia e viverla in prima persona.
 
 [Contattaci](/contatti) per avere maggiori informazioni, e per non perdere i
-prossimi eventi, [Iscriviti alla nostra newsletter](/newsletter/).
+prossimi eventi, [Iscriviti alla nostra newsletter](/newsletter).

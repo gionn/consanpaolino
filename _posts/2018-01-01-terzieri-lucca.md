@@ -106,4 +106,4 @@ percepibile e nota al maggior numero di persone.
 * Appunti sull’antica divisione rionale della città di Lucca, E.Barsotti, Tip.
   A. Amadei, Lucca 1907
 
-Rimani connesso con noi, [iscriviti alla newsletter](https://consanpaolino.org/newsletter/)!
+Rimani connesso con noi, [iscriviti alla newsletter](/newsletter)!
