@@ -6,7 +6,7 @@ image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
 ---
 
-**Last update:** 02/07/2018 (Articolo originale: [:it:](/campionato-litab-lucca-2018))
+**Last update:** 07/08/2018 (Articolo originale: [:it:](/campionato-litab-lucca-2018))
 
 ## Download
 
@@ -34,7 +34,7 @@ events of the year.
 
 On this page you will find all the updated information to follow the event.
 
-## Event Schedule
+## Event Schedule (FREE ENTRY)
 
 ### Saturday 8 Semptember 2018 (Piazza San Martino)
 
