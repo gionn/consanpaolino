@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calendario Eventi 2018 a Lucca
+title: Eventi a Lucca
 date: '2018-03-17T14:17:58+01:00'
 categories:
   - eventi
@@ -10,12 +10,13 @@ image:
   path: /assets/images/2018/hero/guinigi.jpg
 redirect_from:
   - /2018-03-17-calendario-eventi-2018-lucca/
-permalink: /calendario-eventi-lucca-2018
+  - /calendario-eventi-lucca-2018
+permalink: /eventi-lucca-2018
 ---
 
 Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di
 **rievocazione storica** a cui l’associazione _Contrade San Paolino_ organizzerà
-o prenderà parte a **Lucca**:
+o prenderà parte a **Lucca** o città limitrofe:
 
 <!-- more -->
 
