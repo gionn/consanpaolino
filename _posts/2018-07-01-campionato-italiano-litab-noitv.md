@@ -12,8 +12,11 @@ tags:
 permalink: /2018/campionato-italiano-litab-noitv
 ---
 
-{% youtube "https://www.youtube.com/watch?v=FEsugC3REfQ" %}
+Ecco il servizio video che ci ha dedicato NoiTV in occasione della conferenza
+stampa di presentazione del [Campionato Italiano di Balestra da Banco
+LITAB](/campionato-litab-lucca-2018) che si terrà a Lucca la prima settimana di
+settembre.
 
 <!-- more -->
 
-# [Vai alla sezione Speciale Campionato Italiano LITAB](/campionato-litab-lucca-2018)
+{% youtube "https://www.youtube.com/watch?v=FEsugC3REfQ" %}
