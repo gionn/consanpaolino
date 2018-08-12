@@ -20,6 +20,8 @@ o prenderà parte a **Lucca** o città limitrofe:
 
 <!-- more -->
 
+{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
+
 * **8-9 Settembre** - [34° Campionato Italiano Balestra antica da banco LITAB a Lucca](/campionato-litab-lucca-2018) - [Evento FB](https://www.facebook.com/events/1742269145826602/)
 * **29 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/)
 * **2 Dicembre** - Frecce e Bandiere di Natale

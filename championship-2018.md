@@ -6,11 +6,9 @@ image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
 ---
 
-**Last update:** 07/08/2018 (Articolo originale: [:it:](/campionato-litab-lucca-2018))
+**Last update:** 12/08/2018 (Articolo originale: [:it:](/campionato-litab-lucca-2018))
 
-## Download
-
-* [Download event booklet (Italian only)](/assets/files/2018/campionato/libretto.pdf)
+{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
 ## Description of the event
 
@@ -33,6 +31,8 @@ costumes**, drum corps and other dressed people in one of the most awaited
 events of the year.
 
 On this page you will find all the updated information to follow the event.
+
+* [Download event booklet (Italian only)](/assets/files/2018/campionato/libretto.pdf)
 
 ## Event Schedule (FREE ENTRY)
 

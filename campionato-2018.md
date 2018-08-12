@@ -10,9 +10,11 @@ redirect_from:
   - /2017-04-11-campionato-litab-2018-lucca/
 ---
 
-**Ultimo aggiornamento:** 07/08/2018 (English version: [:uk:](/championship-litab-lucca-2018))
+**Ultimo aggiornamento:** 12/08/2018 (English version: [:uk:](/championship-litab-lucca-2018))
 
-## Download
+{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
+
+## Materiale scaricabile
 
 * [Scarica il libretto dell'evento in formato PDF](/assets/files/2018/campionato/libretto.pdf)
 
@@ -149,8 +151,7 @@ lucchese per la balestra.
 
 ## Stampa
 
-{% youtube "https://www.youtube.com/watch?v=FEsugC3REfQ" %}
-
+* [Servizio NoiTV presentazione evento](https://youtu.be/FEsugC3REfQ)
 * [Lucca capitale del 34° campionato italiano di balestra antica da
   banco - Gazzetta di Lucca](https://www.lagazzettadilucca.it/sport/2018/06/lucca-capitale-del-34-campionato-italiano-di-balestra-antica-da-banco/)
 * [Presentato il Campionato italiano di tiro con la balestra -
