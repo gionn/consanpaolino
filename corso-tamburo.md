@@ -7,15 +7,19 @@ redirect_from:
 ---
 
 Organizziamo **corsi** per diventare **tamburino** e partecipare alle nostre
-manifestazioni di rievocazione medievale a Lucca e dintorni.
+manifestazioni di rievocazione storica a Lucca e dintorni.
 
-La **musica** è un ottimo modo per crescere, divertirsi e creare legami con
-altre persone che condividono la stessa **passione**.
+![volantino corso tamburo Lucca](/assets/images/2018/corsi/corsi-tamburo.jpg)
+
+La **musica** è un ottimo strumento per imparare cose nuove divertendosi e
+creare legami con altre persone che condividono la stessa **passione**.
 
 Accettiamo iscrizioni a partire **dagli 8 anni** di età per il gruppo juniores,
 ma anche **ragazzi** e **adulti** che vogliono mettersi in gioco con una nuova
 attività, il divertimento è assicurato!
 
-Chiamaci o scrivici per fissare un appuntamento senza impegno.
+[Contattaci](/contatti) per avere maggiori informazioni o fissare un appuntamento
+senza impegno.
 
-![volantino corso tamburo Lucca](/assets/images/2018/corsi/corsi-tamburo.jpg)
+Le armi ti affascinano? Allora potrebbe interessarti anche il nostro [corso di
+balestra](/corso-balestra-lucca)!
