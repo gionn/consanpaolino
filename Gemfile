@@ -4,7 +4,7 @@ gem "jekyll", "~> 3.6"
 gem "jekyll-theme-so-simple"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed"
   gem "jekyll-redirect-from"
   gem "jekyll-youtube"
   gem "amp-jekyll"
