@@ -16,7 +16,7 @@ fra le due federazioni **FIB** e **LITAB**.
 
 <!-- more -->
 
-Quest’anno, per la prima volta, ha preso parte alla manifestazione anche
+Quest’anno, per la prima volta dal 2009, ha preso parte alla manifestazione anche
 Contrade San Paolino a rappresentare Lucca per la LITAB, insieme ai compagni
 d’arme dei Balestrieri della Marciliana di Chioggia e la Compagnia Balestrieri
 della città di Volterra. Per la FIB, hanno partecipato la Società dei Terzieri
