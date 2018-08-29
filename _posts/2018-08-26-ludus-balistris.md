@@ -45,3 +45,5 @@ Marittima.
 A chiudere la serata, lo spettacolo di **giocoleria col fuoco** e fuochi
 d’artificio a cura della Compagnia Balestrieri di Volterra, che ha stregato il
 pubblico e dato l’arrivederci all’edizione 2019.
+
+{% youtube "https://www.youtube.com/watch?v=_hnOW6nHEn8" %}
