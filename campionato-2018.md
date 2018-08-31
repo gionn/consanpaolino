@@ -10,7 +10,7 @@ redirect_from:
   - /2017-04-11-campionato-litab-2018-lucca/
 ---
 
-**Ultimo aggiornamento:** 12/08/2018 (English version: [:uk:](/championship-litab-lucca-2018))
+**Ultimo aggiornamento:** 31/08/2018 (English version: [:uk:](/championship-litab-lucca-2018))
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
@@ -158,6 +158,8 @@ lucchese per la balestra.
   NoiTV](http://www.noitv.it/2018/07/presentato-il-campionato-italiano-di-tiro-con-la-balestra-218661/)
 * [A settembre i tricolori di tiro con la balestra da banco - Lucca In
   Diretta](http://www.luccaindiretta.it/dalla-citta/item/121951-a-settembre-i-tricolori-di-tiro-con-la-balestra-da-banco.html)
+* [Comune di Lucca](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/18620)
+* [Settembre Lucchese 2018](http://www.comune.lucca.it/Settembre_Lucchese_2018)
 
 <script type="application/ld+json">
 {
@@ -212,3 +214,5 @@ lucchese per la balestra.
   "description": "Gara di tiro con balestra antica da banco in costume storico fra le 13 città aderenti alla LITAB"
 }
 </script>
+
+Keywords: **Trofeo Nazionale balestra antica**, **Campionato nazionale balestra antica**
