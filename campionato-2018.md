@@ -16,7 +16,7 @@ redirect_from:
 
 ## Materiale scaricabile
 
-* [Scarica il libretto dell'evento in formato PDF](/assets/files/2018/campionato/libretto.pdf)
+* [:book: Scarica il libretto dell'evento in formato PDF](/assets/files/2018/campionato/libretto.pdf)
 
 ## Descrizione dell'evento
 

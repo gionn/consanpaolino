@@ -32,7 +32,7 @@ events of the year.
 
 On this page you will find all the updated information to follow the event.
 
-* [Download event booklet (Italian only)](/assets/files/2018/campionato/libretto.pdf)
+* [:book: Download event booklet (Italian only)](/assets/files/2018/campionato/libretto.pdf)
 
 ## Event Schedule (FREE ENTRY)
 
