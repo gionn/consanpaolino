@@ -10,7 +10,7 @@ redirect_from:
   - /2017-04-11-campionato-litab-2018-lucca/
 ---
 
-**Ultimo aggiornamento:** 31/08/2018 (English version: [:uk:](/championship-litab-lucca-2018))
+**Ultimo aggiornamento:** 03/09/2018 (English version: [:uk:](/championship-litab-lucca-2018))
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
@@ -122,6 +122,11 @@ vero e proprio groviglio di verrette.
 
 Per entrambe le giornate è previsto un grande corteggio in costume per le vie
 del centro, gli orari saranno noti una volta pubblicato il programma definitivo.
+
+<figure class="align-center">
+  <a href="#"><img src="{{ '/assets/images/2018/campionato/corniolo.jpg' | absolute_url }}" alt="corniolo lucca 2018" width="580" height="300"></a>
+  <figcaption>Il corniolo che sarà utilizzato per la gara individuale</figcaption>
+</figure>
 
 <figure class="align-center">
   <img src="{{ '/images/2018/04/12/events-litab.jpg' | absolute_url }}" alt="Campionato nazionale LITAB balestra banco">

@@ -6,7 +6,7 @@ image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
 ---
 
-**Last update:** 12/08/2018 (Articolo originale: [:it:](/campionato-litab-lucca-2018))
+**Last update:** 03/09/2018 (Articolo originale: [:it:](/campionato-litab-lucca-2018))
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
@@ -90,4 +90,9 @@ Do you want to sponsor us? **[Write us](/contatti)**!
 <figure class="align-center">
   <img src="{{ '/images/2018/04/12/events-litab.jpg' | absolute_url }}" alt="Campionato nazionale LITAB balestra banco">
   <figcaption>Lucca 3° classificata al campionato 2017</figcaption>
+</figure>
+
+<figure class="align-center">
+  <a href="#"><img src="{{ '/assets/images/2018/campionato/corniolo.jpg' | absolute_url }}" alt="corniolo lucca 2018" width="580" height="300"></a>
+  <figcaption>Il corniolo che sarà utilizzato per la gara individuale</figcaption>
 </figure>

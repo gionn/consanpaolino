@@ -52,4 +52,6 @@ imitazioni"](https://consanpaolino.org/2018-04-22-diffidate-dalle-imitazioni-201
 Per il programma completo della manifestazione, si rimanda alla [pagina ufficiale
 dell’evento](/campionato-litab-lucca-2018).
 
-[:camera: Guarda le foto dell'album Corniolo XXXIV Campionato Italiano LITAB](https://photos.app.goo.gl/2gM6vo1wCwzf9yxs6)
+![corniolo](/assets/images/2018/campionato/corniolo.jpg)
+
+[:camera: Guarda tutte le foto dell'album Corniolo XXXIV Campionato Italiano LITAB](https://photos.app.goo.gl/2gM6vo1wCwzf9yxs6)
