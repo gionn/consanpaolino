@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Una settimana al campionato di balestra antica a Lucca
-date: '2018-08-26T16:30:00+02:00'
+date: '2018-09-03T09:00:00+02:00'
 permalink: /2018/road-to-lucca-campionato-corniolo
 categories:
   - eventi
