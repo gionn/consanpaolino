@@ -13,9 +13,11 @@ Lucca sul gradino più alto nelle competizioni per il *XXXIV Campionato Italiano
 di Balestra antica da banco LITAB* svoltosi proprio a Lucca in Piazza Napoleone,
 a vincere nella gara individuale su corniolo è **Simona Stefani** di **Contrade
 San Paolino** che riesce all’ultima tornata di tiri ad infilarsi nel centro del
-bersaglio poco prima dell’arrivo di un’altra freccia che ha letteralmente
-frantumato la propria ma grazie al puntale di ferro rimasto conficcato ha
-ottenuto la vittoria.
+bersaglio poco prima dell’arrivo di un’altra freccia, quella del secondo
+classificato Giovanni Rubiu di Iglesias, che ha letteralmente frantumato la
+verretta vincitrice, ma grazie al puntale di ferro rimasto conficcato nel
+bersaglio è stato possibile decretare la lucchese come vincitrice. Terzo
+classificato **Roberto Mescolini** di Terra del Sole.
 
 <!-- more -->
 
@@ -42,3 +44,5 @@ prossimo appuntamento è per il 30 Settembre in Piazza San Michele con la second
 edizione del **Palio delle Contrade San Paolino**, dove i balestrieri si
 sfideranno nuovamente per veder primeggiare il proprio gonfalone: Falcone,
 Granchio, Luna o Sirena.
+
+**Nei prossimi giorni pubblicheremo le foto, se volete 
