@@ -14,7 +14,7 @@ di Balestra antica da banco LITAB* svoltosi proprio a Lucca in Piazza Napoleone,
 a vincere nella gara individuale su corniolo è **Simona Stefani** di **Contrade
 San Paolino** che riesce all’ultima tornata di tiri ad infilarsi nel centro del
 bersaglio poco prima dell’arrivo di un’altra freccia, quella del secondo
-classificato Giovanni Rubiu di Iglesias, che ha letteralmente frantumato la
+classificato **Giovanni Rubiu** di Iglesias, che ha letteralmente frantumato la
 verretta vincitrice, ma grazie al puntale di ferro rimasto conficcato nel
 bersaglio è stato possibile decretare la lucchese come vincitrice. Terzo
 classificato **Roberto Mescolini** di Terra del Sole.
