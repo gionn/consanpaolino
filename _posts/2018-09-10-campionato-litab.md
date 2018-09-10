@@ -23,8 +23,8 @@ classificato **Roberto Mescolini** di Terra del Sole.
 
 Nella gara a squadre, che è risultata **la più combattuta di sempre** con ben 7
 squadre su 13 sopra il muro dei 300 punti, si sono riconfermati al primo posto i
-campioni in carica di *Volterra* con 333 punti, seguiti da *Terra del Sole* con
-331 punti e *Assisi* con 320 punti.
+campioni in carica di *Volterra* con 334 punti, seguiti da *Terra del Sole* con
+333 punti e *Assisi* con 320 punti.
 
 Nelle gare del sabato, hanno primeggiato il Maestro d’Arme **Stefano Funari** di
 *Norcia* e il Campione **Letizia Lenzi** di *Pisa* nella ventosa Piazza San
