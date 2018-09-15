@@ -10,7 +10,13 @@ redirect_from:
   - /2017-04-11-campionato-litab-2018-lucca/
 ---
 
-**Ultimo aggiornamento:** 03/09/2018 (English version: [:uk:](/championship-litab-lucca-2018))
+**Ultimo aggiornamento:** 15/09/2018 (English version: [:uk:](/championship-litab-lucca-2018))
+
+## Risultati finali
+
+Vai all'articolo dedicato per conoscere i [risultati e classifica del campionato](/2018/risultati-campionato-italiano-litab-lucca).
+
+## Video promozionale
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 

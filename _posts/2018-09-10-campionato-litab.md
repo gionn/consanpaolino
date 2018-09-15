@@ -45,4 +45,15 @@ edizione del **Palio delle Contrade San Paolino**, dove i balestrieri si
 sfideranno nuovamente per veder primeggiare il proprio gonfalone: Falcone,
 Granchio, Luna o Sirena.
 
-**Nei prossimi giorni pubblicheremo le foto, se volete 
+Scarica il riepilogo con la [Classifica finale e risultati :floppy_disk:](/assets/files/2018/campionato/risultati.pdf).
+
+## Album fotografici
+
+* [Foto di Stefano Puccetti](https://photos.app.goo.gl/YUREesfUZ7TaFQST8)
+* [Foto di Giuseppe Leonardi](https://flic.kr/s/aHskHGRUo3)
+
+## Altri articoli correlati
+
+* [La balestriera d’Italia è la lucchese Simona Stefani](http://www.noitv.it/2018/09/la-balestriera-ditalia-e-la-lucchese-simona-stefani-229177/)
+* [Simona Stefani campionessa di balestra antica](http://www.luccaindiretta.it/dalla-citta/item/126725-simona-stefani-campionessa-di-balestra-antica.html)
+* [È lucchese la balestriera d’Italia](https://www.lagazzettadilucca.it/sport/2018/09/e-lucchese-la-balestriera-ditalia/)
