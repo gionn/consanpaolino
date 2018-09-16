@@ -51,6 +51,7 @@ Scarica il riepilogo con la [Classifica finale e risultati :floppy_disk:](/asset
 
 * [Foto di Stefano Puccetti](https://photos.app.goo.gl/YUREesfUZ7TaFQST8)
 * [Foto di Giuseppe Leonardi](https://flic.kr/s/aHskHGRUo3)
+* [Foto di Loretta Magrini](https://photos.app.goo.gl/ssj228PeHuAy37rW9)
 
 ## Altri articoli correlati
 
