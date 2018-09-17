@@ -7,6 +7,7 @@ categories:
   - eventi
 image:
   path: /assets/images/2018/hero/ludus.jpg
+skip_amp: true
 ---
 
 Sabato 25 Agosto 2018 si è rinnovato a Volterra l’annuale appuntamento con il

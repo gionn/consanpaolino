@@ -7,6 +7,7 @@ categories:
   - eventi
 image:
   path: /assets/images/2018/hero/campionato-terra-del-sole-tabellone.jpg
+skip_amp: true
 ---
 
 Disponibile già dalla mattina di domenica sui principali social e su YouTube, il
