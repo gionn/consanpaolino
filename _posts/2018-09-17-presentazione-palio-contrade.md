@@ -41,3 +41,6 @@ sarà allestito già dalla mattina, quando saranno effettuati i tiri di prova de
 balestrieri e si esibiranno gli Sbandieratori e Musici Città di Lucca. Prima
 dell’inizio della gara i gruppi effettueranno un corteggio per le vie del centro
 storico.
+
+![locandina presentazione palio contrade san
+paolino](/assets/images/2018/palio-contrade/locandina.jpg)
