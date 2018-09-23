@@ -39,7 +39,6 @@ liquid:
 permalink: /:name/
 markdown: kramdown
 category_archive_path: "/"
-tag_archive_path: "/tag/#"
 feed:
   path: atom.xml
 
