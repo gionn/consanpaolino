@@ -6,7 +6,6 @@ permalink: /2018/palio-contrade-san-paolino
 categories:
   - eventi
   - news
-  - lucca
 ---
 
 Sabato pomeriggio si è tenuta la presentazione del drappo dipinto dall’artista

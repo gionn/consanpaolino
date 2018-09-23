@@ -6,7 +6,6 @@ permalink: /2018/presentazione-palio-contrade-lazzerini
 categories:
   - eventi
   - news
-  - lucca
 image:
   path: /assets/images/2018/hero/lazzerini.png
 ---
