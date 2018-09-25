@@ -20,11 +20,8 @@ o prenderà parte a **Lucca** o città limitrofe:
 
 <!-- more -->
 
-* **23 Settembre** - Esposizione Palio e altri dipinti di Paolo Lazzerini - fino
-  alle ore 19.00 orario continuato presso la casermetta del Baluardo San
-  Paolino.
-* **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/)
-* **2 Dicembre** - Frecce e Bandiere di Natale
+* **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/) - [Programma](/2018/palio-contrade-san-paolino)
+* **2 Dicembre** - Frecce e Bandiere di Natale (da definire)
 
 ## Newsletter eventi per gli smemorati
 

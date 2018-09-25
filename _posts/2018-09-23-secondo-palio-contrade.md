@@ -18,14 +18,16 @@ Sirena.
 
 <!-- more -->
 
+Ecco il programma presentato:
+
+![programma palio delle contrade san paolino 2018](/assets/images/2018/palio-contrade/programma.jpg)
+
 Alla presentazione sono intervenuti **Paolo Gianni** (presidente contrade san
 paolino), **Rosella Simoncelli** (presidente Contrada S.Anna) e **Liliana
 Ciaccio**, Presidente del Centro Arti Visive del Comune di Pietrasanta, che ha
 saputo descrivere i lavori di Paolo Lazzerini come la porta di accesso ad un
 mondo fantastico privo della negatività con cui invece siamo, ahinoi, abituati a
 convivere ogni giorno tramite i mezzi di informazione.
-
-![palio delle contrade san paolino 2018](/assets/images/2018/palio-contrade/palio_contrade.jpg)
 
 In primo piano sul Palio troviamo i gonfaloni del terziere San Paolino e una
 balestra dorata, con inciso nel teniere in legno la parola **Libertas** (Libertà
@@ -44,3 +46,5 @@ Sarà possibile vedere il Palio dal vivo, insieme alle tante altre opere
 realizzate da Paolo Lazzerini, anche **domenica 23 Settembre** presso la casermetta
 del Baluardo San Paolino (Lucca) in orario continuato **dalle ore 9.30 alle ore
 19.00**.
+
+![drappo palio delle contrade san paolino 2018](/assets/images/2018/palio-contrade/palio_contrade.jpg)
