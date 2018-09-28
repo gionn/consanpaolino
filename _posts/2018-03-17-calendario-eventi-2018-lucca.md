@@ -20,7 +20,7 @@ o prenderà parte a **Lucca** o città limitrofe:
 
 <!-- more -->
 
-* **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/) - [Programma](/2018/palio-contrade-san-paolino)
+* **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/) - [Programma](/2018/programma-palio-contrade-san-paolino)
 * **2 Dicembre** - Frecce e Bandiere di Natale (da definire)
 
 ## Newsletter eventi per gli smemorati
