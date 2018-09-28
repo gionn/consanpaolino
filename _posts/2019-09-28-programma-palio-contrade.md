@@ -2,7 +2,9 @@
 layout: post
 title: Programma 2° Palio delle Contrade San Paolino 2018
 date: '2018-09-28T08:00:00+02:00'
-permalink: /2018/programma-contrade-san-paolino
+permalink: /2018/programma-palio-contrade-san-paolino
+redirect_from:
+  - /2018/programma-contrade-san-paolino
 categories:
   - eventi
 image:
