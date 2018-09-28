@@ -33,4 +33,8 @@ sarà l’occasione per un confronto con tali istituzioni per metterci nuovament
 nelle condizioni di proseguire nelle nostre attività di promozione sociale, del
 territorio e della storia della nostra città.
 
+Se hai a cuore le nostre attività, ti invitiamo a condividere l'immagine
+sottostante e a lasciare un tuo commento sul nostro post [su Facebook](https://www.facebook.com/consanpaolino/photos/a.341416209351535/1073188816174267/) o [su
+Instagram](https://www.instagram.com/p/BoSPGqpiy-r/).
+
 ![volantino aggiornato](/assets/images/2018/palio-contrade/programma_v2.jpg)
