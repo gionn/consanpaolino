@@ -40,15 +40,15 @@ buone prospettive di crescita per il futuro.
 L'associazione è iscritta alla **Lega Italiana Tiro Alla Balestra** (LITAB) dal
 1995, e ogni anno è impegnata a tenere alto il nome di Lucca durante il
 campionato nazionale a cui partecipano 13 città provenienti da tutta Italia. Ha
-organizzato a Barga nel Settembre 2003 il XIX Campionato Italiano Balestre da
-Banco LITAB e ha preso l'incarico di organizzare il [XXXIV Campionato Italiano
-Balestre da Banco LITAB per il Settembre 2018](/campionato-litab-lucca-2018).
+organizzato a Barga nel Settembre 2003 la 19esima edizione del Campionato
+Italiano di Balestra Antica da Banco, e a Lucca la [34esima edizione a settembre
+2018](/campionato-litab-lucca-2018).
 
 Nel 2017 l'Associazione ha dato vita al terzo Palio cittadino, denominato
 **Palio delle Contrade San Paolino**, al quale possono partecipare solamente i
-balestrieri aderenti al Terziere di San Paolino, suddivisi per Contrada o
-Gonfalone. Il bersaglio è la classica Brocca (Corniolo) e il Palio dipinto da
-un'artista va alla contrada a cui appartiene il Primo et Meliore.
+balestrieri aderenti al Terziere di San Paolino, suddivisi per Contrada. Il
+bersaglio è la classica Brocca (Corniolo) e il Palio dipinto da un'artista va
+alla contrada a cui appartiene il tiratore Primo et Meliore.
 
 A fine 2017, viene pubblicato il [primo libro fotografico
 dell'associazione](http://www.blurb.com/b/8353950-contrade-san-paolino-2017)
