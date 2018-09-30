@@ -36,3 +36,26 @@ Già previsto per la prossima settimana un incontro chiarificatore fra i vertici
 delle associazioni e il Comune di Lucca, per evitare che si ripresenti una
 situazione del genere anche per altri eventi regolarmente approvati all’interno
 della pianificazione del "ViviLucca".
+
+L'ordine di tiro estratto a sorte prima della gara era:
+
+1. Giovanni Toraldo
+2. Valentina Fatiguso
+3. Francesco Bianchini
+4. Giovanni Barsanti
+5. Matteo Toraldo
+6. Mario Puccetti
+7. Alessandro Iacopini
+8. Azzurra Ciccone
+9. Stefano Puccetti
+10. Simona Stefani
+11. Samuele Lombardi
+12. Luca Viviani
+13. Paolo Iacopini
+14. Massimo Mazzei
+15. Paolo Gianni
+16. Michele Satta
+17. Lorenzo Coppi
+18. Antonino Lino
+19. Mauro Tolomei
+20. Federico Iacopini
