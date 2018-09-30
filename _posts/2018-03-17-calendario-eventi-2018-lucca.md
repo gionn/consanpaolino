@@ -20,7 +20,6 @@ o prenderà parte a **Lucca** o città limitrofe:
 
 <!-- more -->
 
-* **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/) - [Programma](/2018/programma-palio-contrade-san-paolino)
 * **2 Dicembre** - Frecce e Bandiere di Natale (da definire)
 
 ## Newsletter eventi per gli smemorati
@@ -55,6 +54,7 @@ legato agli eventi, in palio una cena per due in un ristorante di Lucca!
 * **11 Luglio** - [Luminara di San Paolino](/2018/luminara-san-paolino) - [Evento FB](https://www.facebook.com/events/235073973753898/)
 * **24 Luglio** - Processione di San Cristoforo a Barga (LU) - [Evento FB](https://www.facebook.com/events/652132165133409/)
 * **8-9 Settembre** - [34° Campionato Italiano Balestra antica da banco LITAB a Lucca](/campionato-litab-lucca-2018) - [Evento FB](https://www.facebook.com/events/1742269145826602/)
+* **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/) - [Programma](/2018/programma-palio-contrade-san-paolino)
 
 ## Cos'è il Palio
 
