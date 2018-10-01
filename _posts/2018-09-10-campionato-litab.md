@@ -53,6 +53,7 @@ Scarica il riepilogo con la [Classifica finale e risultati :floppy_disk:](/asset
 * [Foto di Giuseppe Leonardi](https://flic.kr/s/aHskHGRUo3)
 * [Foto di Loretta Magrini](https://photos.app.goo.gl/ssj228PeHuAy37rW9)
 * [Foto di Giacomo Bini](https://photos.app.goo.gl/GM1KShm2Mqkkv2GU7)
+* [Foto di Luca Della Croce](https://photos.app.goo.gl/WFMac2g1Uxzytrad9)
 
 ## Altri articoli correlati
 
