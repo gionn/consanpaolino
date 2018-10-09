@@ -14,25 +14,16 @@ redirect_from:
 permalink: /eventi-lucca-2018
 ---
 
-Ecco di seguito le date del **calendario eventi 2018** con gli appuntamenti di
-**rievocazione storica** a cui l’associazione _Contrade San Paolino_ organizzerà
-o prenderà parte a **Lucca** o città limitrofe:
+Il **calendario eventi 2018** con gli appuntamenti **rievocazione storica** a
+cui l’associazione _Contrade San Paolino_ organizzerà o prenderà parte a
+**Lucca** o città limitrofe è esaurito!
+
+Non rischiare di perderti gli eventi 2019, ci pensiamo noi a informarti!
+[Iscriviti gratuitamente alla **newsletter**](/newsletter) e riceverai il
+programma di ogni evento comodamente nella tua casella di posta non appena sarà
+disponibile!
 
 <!-- more -->
-
-* **2 Dicembre** - Frecce e Bandiere di Natale (da definire)
-
-## Newsletter eventi per gli smemorati
-
-Non rischiare di dimenticarti del prossimo evento, ci pensiamo noi! [Iscriviti
-gratuitamente alla **newsletter**](/newsletter) e riceverai il programma di
-ogni evento comodamente nella tua casella di posta non appena sarà disponibile!
-
-## Concorso fotografico amatoriale - in palio una cena
-
-**Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
-perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
-legato agli eventi, in palio una cena per due in un ristorante di Lucca!
 
 ## Eventi passati che potresti aver perso
 
@@ -55,6 +46,12 @@ legato agli eventi, in palio una cena per due in un ristorante di Lucca!
 * **24 Luglio** - Processione di San Cristoforo a Barga (LU) - [Evento FB](https://www.facebook.com/events/652132165133409/)
 * **8-9 Settembre** - [34° Campionato Italiano Balestra antica da banco LITAB a Lucca](/campionato-litab-lucca-2018) - [Evento FB](https://www.facebook.com/events/1742269145826602/)
 * **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/) - [Programma](/2018/programma-palio-contrade-san-paolino)
+
+## Concorso fotografico amatoriale - in palio una cena
+
+**Sei un fotografo** esperto o semplicemente ti piace cogliere l'attimo? Non
+perderti il nostro [concorso](/2018-04-22-diffidate-dalle-imitazioni-2018/)
+legato agli eventi, in palio una cena per due in un ristorante di Lucca!
 
 ## Cos'è il Palio
 
