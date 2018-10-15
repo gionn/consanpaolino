@@ -9,3 +9,4 @@ attualmente attivi:
 
 * [Corso di tamburo storico a Lucca](/corso-tamburo-lucca)
 * [Corso di balestra storica a Lucca](/corso-balestra-lucca)
+* [Corsi per bambini](/corsi-bambini-tamburo-balestra-lucca)
