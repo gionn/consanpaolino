@@ -56,7 +56,11 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-youtube
+  - jekyll-minifier
   - jemoji
+
+jekyll-minifier:
+  exclude: '*.html'
 
 # Front Matter Defaults
 defaults:
