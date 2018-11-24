@@ -16,7 +16,9 @@ permalink: /eventi-lucca-2018
 
 Il **calendario eventi 2018** con gli appuntamenti **rievocazione storica** a
 cui l’associazione _Contrade San Paolino_ organizzerà o prenderà parte a
-**Lucca** o città limitrofe è esaurito!
+**Lucca** o città limitrofe è ormai agli sgoccioli!
+
+* Sabato 8 Dicembre: Frecce e Bandiere di Natale [Evento FB](https://www.facebook.com/events/342612496287452/)
 
 Non rischiare di perderti gli eventi 2019, ci pensiamo noi a informarti!
 [Iscriviti gratuitamente alla **newsletter**](/newsletter) e riceverai il
@@ -25,7 +27,7 @@ disponibile!
 
 <!-- more -->
 
-## Eventi passati che potresti aver perso
+## Eventi passati
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
