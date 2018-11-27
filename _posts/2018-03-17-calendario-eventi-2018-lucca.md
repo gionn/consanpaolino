@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eventi a Lucca nel 2018
+title: Eventi a Lucca del 2018
 date: '2018-03-17T14:17:58+01:00'
 categories:
   - eventi
