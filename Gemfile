@@ -13,6 +13,3 @@ end
 
 # Validate HTML
 gem "html-proofer"
-
-# Import from tumblr
-gem 'jekyll-import'
