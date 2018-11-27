@@ -59,3 +59,5 @@ L'ordine di tiro estratto a sorte prima della gara era:
 18. Antonino Lino
 19. Mauro Tolomei
 20. Federico Iacopini
+
+* [Album fotografico di Giacomo Bini](https://photos.app.goo.gl/GNRimC3RW2UJzmS39)

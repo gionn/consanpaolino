@@ -43,3 +43,5 @@ storico.
 
 ![locandina presentazione palio contrade san
 paolino](/assets/images/2018/palio-contrade/locandina.jpg)
+
+* [Album fotografico di Giovanni Toraldo](https://photos.app.goo.gl/ukBMZFCQXmXgeZ4x7)
