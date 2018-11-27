@@ -29,7 +29,7 @@ social:
     - https://www.facebook.com/consanpaolino
     - https://plus.google.com/+ConsanpaolinoOrg
 lang: it_IT
-exclude: [bin, package.json]
+exclude: [bin, package.json, vendor]
 
 # Liquid
 liquid:
