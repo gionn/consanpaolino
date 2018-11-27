@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eventi a Lucca
+title: Eventi a Lucca nel 2018
 date: '2018-03-17T14:17:58+01:00'
 categories:
   - eventi
@@ -14,22 +14,22 @@ redirect_from:
 permalink: /eventi-lucca-2018
 ---
 
-Il **calendario eventi 2018** con gli appuntamenti **rievocazione storica** a
-cui l’associazione _Contrade San Paolino_ organizzerà o prenderà parte a
+Il **calendario eventi 2018** con gli appuntamenti di **rievocazione storica** a
+cui l'associazione _Contrade San Paolino_ organizza o prenderà parte a
 **Lucca** o città limitrofe è ormai agli sgoccioli!
 
-* Sabato 8 Dicembre: Frecce e Bandiere di Natale [Evento FB](https://www.facebook.com/events/342612496287452/)
+* **Sabato 8 Dicembre**: Frecce e Bandiere di Natale - [Evento FB](https://www.facebook.com/events/342612496287452/)
 
-Non rischiare di perderti gli eventi 2019, ci pensiamo noi a informarti!
-[Iscriviti gratuitamente alla **newsletter**](/newsletter) e riceverai il
-programma di ogni evento comodamente nella tua casella di posta non appena sarà
+Non rischiare di perderti gli **eventi a Lucca del 2019**, ci pensiamo noi a informarti!
+
+## [Iscriviti alla **newsletter** eventi](/newsletter)
+
+Riceverai il programma di ogni evento comodamente nella tua casella di posta non appena sarà
 disponibile!
 
 <!-- more -->
 
-## Eventi passati
-
-{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
+## Eventi passati del 2018
 
 * **8 Aprile** - [2° Disfida della
   Libertà](/2018-04-03-disfida-della-libertà-lucca-festa-2018/)
@@ -48,6 +48,8 @@ disponibile!
 * **24 Luglio** - Processione di San Cristoforo a Barga (LU) - [Evento FB](https://www.facebook.com/events/652132165133409/)
 * **8-9 Settembre** - [34° Campionato Italiano Balestra antica da banco LITAB a Lucca](/campionato-litab-lucca-2018) - [Evento FB](https://www.facebook.com/events/1742269145826602/)
 * **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/) - [Programma](/2018/programma-palio-contrade-san-paolino)
+
+{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
 ## Concorso fotografico amatoriale - in palio una cena
 
