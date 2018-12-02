@@ -18,7 +18,7 @@ Il **calendario eventi 2018** con gli appuntamenti di **rievocazione storica** a
 cui l'associazione _Contrade San Paolino_ organizza o prenderà parte a
 **Lucca** o città limitrofe è ormai agli sgoccioli!
 
-* **Sabato 8 Dicembre**: Frecce e Bandiere di Natale - [Evento FB](https://www.facebook.com/events/342612496287452/)
+* **Sabato 8 Dicembre**: [Frecce e Bandiere di Natale](/2018/frecce-bandiere-natale-lucca) - [Evento FB](https://www.facebook.com/events/342612496287452/)
 
 Non rischiare di perderti gli **eventi a Lucca del 2019**, ci pensiamo noi a informarti!
 
