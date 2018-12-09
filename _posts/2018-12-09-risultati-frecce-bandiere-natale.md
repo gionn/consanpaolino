@@ -29,3 +29,4 @@ Appuntamento al 2019 con il nuovo calendario eventi!
 
 * [Foto di Giovanni Toraldo](https://photos.app.goo.gl/8sHMULpKz3DrTBwq6)
 * [Foto di Giacomo Bini](https://photos.app.goo.gl/QEcvHB28z3mDiMLh9)
+* [Foto di Tommaso Giannini](https://photos.app.goo.gl/uBoXkdR5PT64cCZZ7)
