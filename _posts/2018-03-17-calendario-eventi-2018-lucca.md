@@ -18,8 +18,6 @@ Il **calendario eventi 2018** con gli appuntamenti di **rievocazione storica** a
 cui l'associazione _Contrade San Paolino_ organizza o prenderà parte a
 **Lucca** o città limitrofe è ormai agli sgoccioli!
 
-* **Sabato 8 Dicembre**: [Frecce e Bandiere di Natale](/2018/frecce-bandiere-natale-lucca) - [Evento FB](https://www.facebook.com/events/342612496287452/)
-
 Non rischiare di perderti gli **eventi a Lucca del 2019**, ci pensiamo noi a informarti!
 
 ## [Iscriviti alla **newsletter** eventi](/newsletter)
@@ -48,6 +46,7 @@ disponibile!
 * **24 Luglio** - Processione di San Cristoforo a Barga (LU) - [Evento FB](https://www.facebook.com/events/652132165133409/)
 * **8-9 Settembre** - [34° Campionato Italiano Balestra antica da banco LITAB a Lucca](/campionato-litab-lucca-2018) - [Evento FB](https://www.facebook.com/events/1742269145826602/)
 * **30 Settembre** - 2° Palio delle Contrade San Paolino - [Evento FB](https://www.facebook.com/events/429780250852766/) - [Programma](/2018/programma-palio-contrade-san-paolino)
+* **Sabato 8 Dicembre**: [Frecce e Bandiere di Natale](/2018/frecce-bandiere-natale-lucca) - [Evento FB](https://www.facebook.com/events/342612496287452/)
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
