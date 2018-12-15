@@ -9,8 +9,9 @@ sitemap: false
   margin-bottom: 1em;
 }
 
-p, h2 {
+article p, h3 {
   margin-bottom: 1rem;
+  text-align: justify;
 }
 
 .intro-header {
@@ -19,4 +20,8 @@ p, h2 {
 
 .emoji {
   vertical-align: sub;
+}
+
+.masthead {
+  margin-bottom: 2em;
 }

@@ -1,13 +1,13 @@
 theme: jekyll-theme-so-simple
 locale: it
 title: "Contrade San Paolino"
-description: "Associazione di rievocazione storica a Lucca: balestrieri, tamburi e molto altro"
+description: "Associazione di rievocazione storica a Lucca: balestrieri, tamburi e molto altro   :dart: :european_castle: :it:"
 baseurl: 
 url: https://consanpaolino.org
 logo: "/images/logo.png"
 date_format: "%F"
 read_time: true
-words_per_minute: 100
+words_per_minute: 80
 mathjax: false
 excerpt_separator: "<!-- more -->"
 google_fonts:
@@ -82,16 +82,12 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Giovanni Toraldo
   picture:
   email: consanpaolino@gmail.com
   twitter: consanpaolino
-  links:
-    - title:
-      url:
-      icon:
-
-# Footer Links
+        
+# Footer
 footer_links:
   - title: Feed
     url: atom.xml
