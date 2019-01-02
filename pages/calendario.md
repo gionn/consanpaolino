@@ -11,11 +11,12 @@ image:
   path: /assets/images/2018/hero/guinigi.jpg
 ---
 
-Ecco gli eventi a cui l'associazione Contrade San Paolino organizzerà o prenderà parte a Lucca, nella provincia e dintorni.
+Ecco gli eventi di rievocazione medievale a cui l'associazione [Contrade San Paolino](/about) organizzerà o prenderà parte a Lucca, nella provincia e dintorni.
 
 ## Prossimi eventi
 
-* **28 Aprile* - Festa della Libertà**: corteo storico per le vie dellà città, esibizioni in piazza San Martino, gara di tiro con la balestra antica a Pontetetto;
+* **6 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**: conferenza aperta al pubblico sulla storia e la confezione di abiti medievali, tenuta da [Sara Piccolo Paci](https://www.sarapacipiccolo.com/), esperta di Storia del Costume e della Moda, Storia dell'Arte e Sartoria Storica che spiegherà tecniche e trucchi per tagliare e cucire un vestito medievale;
+* **28 Aprile - Festa della Libertà**: corteo storico per le vie della città, esibizioni in piazza San Martino, gara di tiro con la balestra antica a Pontetetto;
 * **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: con corteo storico per le vie della città e gara di tiro con la balestra antica in piazza Napoleone;
 * **1-2 Giugno - Lucca Medievale**: allestimento villaggio Baluardo San Paolino e giardini Ex-Cavallerizza, corteo storico per le vie della città, e gara di tiro con la balestra antica;
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città allestite con fiaccole e bandiere, esibizioni in piazza San Martino;
