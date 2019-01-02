@@ -25,3 +25,9 @@ Ecco gli eventi a cui l'associazione Contrade San Paolino organizzerà o prender
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane immediatamente precedenti all'evento.
 
 Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella tua casella di posta non appena sarà disponibile!
+
+{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
+
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/635566" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
