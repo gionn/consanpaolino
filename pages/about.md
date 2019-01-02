@@ -44,7 +44,7 @@ organizzato a Barga nel Settembre 2003 la 19esima edizione del Campionato
 Italiano di Balestra Antica da Banco, e a Lucca la [34esima edizione a settembre
 2018](/campionato-litab-lucca-2018).
 
-Nel 2017 l'Associazione ha dato vita al terzo Palio cittadino, denominato
+Nel 2017 l'Associazione ha dato vita al primo Palio cittadino, denominato
 **Palio delle Contrade San Paolino**, al quale possono partecipare solamente i
 balestrieri aderenti al Terziere di San Paolino, suddivisi per Contrada. Il
 bersaglio è la classica Brocca (Corniolo) e il Palio dipinto da un'artista va
@@ -54,18 +54,18 @@ A fine 2017, viene pubblicato il [primo libro fotografico
 dell'associazione](http://www.blurb.com/b/8353950-contrade-san-paolino-2017)
 tramite l'editore online Blurb.
 
-Nel 2018, prende vita per il 1° di Maggio il **Palio dei Balistarii della
-Repubblica di Lucca**, come voluto da Castruccio Castracani nell'[ordo pro
-balistarii](/ordo-pro-balistarii), al quale possono partecipare tutti i
-possessori di balestra di Lucca che ne facciano richiesta.
+Nel 2018, prende vita il secondo palio cittadino nel mese di Maggio, con il nome
+di **Palio dei Balistarii della Repubblica di Lucca**, come voluto da Castruccio
+Castracani nell'[ordo pro balistarii](/ordo-pro-balistarii), al quale possono
+partecipare tutti i possessori di balestra di Lucca che ne facciano richiesta.
 
 Oltre ai balestrieri, il gruppo dei giovani tamburini, insieme ai figuranti,
 contribuiscono a creare e mantenere un importante punto di aggregazione sociale
 per tutti gli abitanti di Lucca e zone limitrofe, interessati a conoscerne la
-storia e viverla in prima persona.
+storia e riviverla in prima persona.
 
 [Contattaci](/contatti) per avere maggiori informazioni, e per non perdere i
-prossimi eventi, [Iscriviti alla nostra newsletter](/newsletter).
+prossimi eventi, [iscriviti alla nostra newsletter](/newsletter).
 
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
