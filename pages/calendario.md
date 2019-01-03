@@ -20,6 +20,7 @@ Ecco gli eventi di rievocazione medievale a cui l'associazione [Contrade San Pao
 * **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: con corteo storico per le vie della città e gara di tiro con la balestra antica in piazza Napoleone;
 * **1-2 Giugno - Lucca Medievale**: allestimento villaggio Baluardo San Paolino e giardini Ex-Cavallerizza, corteo storico per le vie della città, e gara di tiro con la balestra antica;
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città allestite con fiaccole e bandiere, esibizioni in piazza San Martino;
+* **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della città;
 * **29 Settembre - 3° Palio delle Contrade San Paolino**: gara di tiro con la balestra antica nel giardino all'interno di Porta San Donato e corteo storico per le vie della città;
 * **1 Dicembre - Frecce e Bandiere di Natale**: corteo storico per le vie della città e gara di tiro con la balestra antica nei sotterranei delle mura urbane.
 
