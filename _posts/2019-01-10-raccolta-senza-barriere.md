@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Balestrieri senza barriere"
-date: '2018-12-09T08:00:00+01:00'
+date: '2019-01-10T08:25:00+01:00'
 permalink: /2019/raccolta-fondi-luccasenzabarriere
 categories:
   - news
