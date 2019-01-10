@@ -11,6 +11,8 @@ image:
 
 I balestrieri dell’associazione Contrade San Paolino decidono di iniziare il nuovo anno all’insegna del sociale: in occasione della giornata di festa dell’Epifania, è stata organizzata una classica gara di tiro presso il Campo Tiri della Repubblica di Lucca a Pontetetto e al contempo una piccola **raccolta fondi** fra i membri dell’associazione.
 
+<!-- more -->
+
 Il denaro raccolto è stato devoluto all’associazione [Luccasenzabarriere](http://www.luccasenzabarriere.org/), attiva sul territorio di Lucca dal 2017, che porta avanti numerose battaglie contro le barriere architettoniche che limitano, o addirittura impediscono, la mobilità di persone con **disabilità fisica** temporanea o permanente.
 A raccogliere l’assegno è stato il presidente *Domenico Passalacqua*, presso la sede operativa di Contrade San Paolino situata sotto Porta San Pietro, consegnato dal presidente ACSP *Paolo Gianni*.
 
