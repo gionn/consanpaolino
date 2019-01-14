@@ -8,7 +8,7 @@ redirect_from:
 
 ![foto gruppo contrade san paolino](/images/contrade-san-paolino.jpg)
 
-L’Associazione Contrade San Paolino (ACSP) nasce a **Lucca** il 27 Febbraio 1991
+L’Associazione Contrade San Paolino (ACSP) nasce a **Lucca** il [27 Febbraio 1991](/2019/nascita-associazione-contrade-san-paolino)
 con rogito del notaio Puliti, e diviene operativa dal 1994 con l’intento di
 rievocare le origini e la storia di Lucca durante il periodo medioevale. È
 iscritta nel **registro del volontariato** (legge 266/91) dal 6 Febbraio 2004 al
