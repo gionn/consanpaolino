@@ -21,7 +21,11 @@ Nel 1994 questo statuto venne utilizzato come base per la nascita di una nuova a
 
 Negli anni antecedenti al 1994, il terziere San Paolino aveva instaurato un buon rapporto con l'omonima parrocchia, rendendosi attivo in diverse attività che però venivano poco seguite dagli altri due terzieri poiché meno legati a queste realtà.
 
-Cominciarono a prendere vita **animate discussion**i riguardo diversi aspetti dell'attività del tiro con la balestra da banco, fra cui quelle riguardanti il **pancaccio in dotazione al terziere**: ad ogni terziere veniva fornito un pancaccio che doveva essere utilizzato durante i Palii. Il terziere San Paolino riportava criticità nell'utilizzo del proprio pancaccio e richiesero di poterlo adattare o costruirne uno nuovo, seguendo comunque le specifiche dettate dalla federazione nazionale FIB. La proposta venne rigettata in più occasioni dai vertici della Compagnia.
+Cominciarono a prendere vita **animate discussioni** riguardo diversi aspetti
+dell'attività del tiro con la balestra da banco con i dirigenti del Terziere che
+facevano parte dell'Organo dirigente della Compagnia.
+
+Una di queste riguardava il **pancaccio in dotazione al terziere**: ad ogni terziere veniva fornito un pancaccio che doveva essere utilizzato durante i Palii. Il terziere San Paolino riportava criticità nell'utilizzo del proprio pancaccio e richiesero di poterlo adattare o costruirne uno nuovo, seguendo comunque le specifiche dettate dalla federazione nazionale FIB. La proposta venne rigettata in più occasioni dai vertici della Compagnia.
 
 Un'altra criticità fu l'impossibilità di **personalizzare il costume in dotazione** ad ogni balestriere, per cui la richiesta di aggiungere un pugnale al fianco venne rigettata dai vertici perché avrebbe creato difformità all'interno dei terzieri.
 
@@ -64,7 +68,14 @@ Le attività dell'associazione vanno avanti: aderisce alla **Lega Italiana Tiro 
 
 Dal 1997 aderisce alla “Federazione Toscana Giochi Storici” e al “Coordinamento Toscano Gruppi e Manifestazioni storiche”, e sono numerose le manifestazioni di rievocazione a cui prende parte negli anni come ad esempio: la **Luminara di Santa Croce** a Lucca, il Castello Rivive a Nozzano, la processione per **San Cristoforo** a Barga, la festa del vino a Montecarlo, il Palio in piazza a Boveglio, la vita nella fortezza delle Verrucole a San Romano in Garfagnana, il Palio delle Contrade - Giostra della Stella a Ripoli (Pisa), a Pietralunga per il **Palio della Mannaja**, a Ponte a Elsa per il Palio di San Lazzaro e al Castello di Pandino in provincia di Cremona. In un paio di occasioni l'associazione ha addirittura oltrepassato i confini nazionali, a Unna in Germania, e Angers in Francia, entrambe insieme alla *Compagnia Balestrieri di Pisa*.
 
-Nel 1998 l'associazione si trova a Volterra per una manifestazione, e i balestrieri Mario Puccetti e Bruno Giannoni trasmettono la propria passione ad un gruppo di sbandieratori locali e prestano loro una balestra così che potessero studiarla e apprenderne i meccanismi. In quel momento scattò la prima scintilla che portò alla **nascita della Compagnia Balestrieri di Volterra** (26 giugno 1998) e in loro onore la prima balestra di fattura volterrana prese il nome di “Maria-Bruna”.
+Nel 1997 l'associazione si trova a Teggiano (SA) per una manifestazione e lì
+incontra per la prima volta il gruppo sbandieratori della città di Volterra. In
+quell'occasione i balestrieri **Mario Puccetti** e **Bruno Giannoni** trasmettono la
+propria passione per il tiro ad alcuni componenti del gruppo sbandieratori, e
+poco tempo dopo prestano loro una balestra così che potessero studiarla e
+apprenderne i meccanismi. Scattò così la prima scintilla che portò alla
+**nascita della Compagnia Balestrieri di Volterra** (26 giugno 1998) e in loro
+onore la prima balestra di fattura volterrana prese il nome di “Maria-Bruna”.
 
 <figure class="align-center">
   <a href="{{ '/assets/images/2019/giannoni-balestrieri-lucca/giannoni-benassai-1998.jpg' | absolute_url }}">
