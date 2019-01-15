@@ -34,6 +34,7 @@ social:
   links:
     - https://twitter.com/consanpaolino
     - https://www.facebook.com/consanpaolino
+    - https://www.instagram.com/consanpaolino/
     - https://plus.google.com/+ConsanpaolinoOrg
 lang: it_IT
 exclude: [bin, package.json, package-lock.json, vendor, .circleci, node_modules, Gemfile, Gemfile.lock]
