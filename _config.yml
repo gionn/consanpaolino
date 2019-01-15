@@ -77,7 +77,7 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
+      share: false
   - scope:
       path:            "post"
     values:
