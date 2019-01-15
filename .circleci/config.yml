@@ -26,7 +26,6 @@ jobs:
           key: v3-dependencies-{{ checksum "Gemfile.lock" }}
 
       - run: bundle exec jekyll build
-      - run: bundle exec jekyll build
       
       - run:
           name: Test
