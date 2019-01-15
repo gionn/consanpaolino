@@ -37,7 +37,15 @@ social:
     - https://www.instagram.com/consanpaolino/
     - https://plus.google.com/+ConsanpaolinoOrg
 lang: it_IT
-exclude: [bin, package.json, package-lock.json, vendor, .circleci, node_modules, Gemfile, Gemfile.lock]
+exclude:
+  - bin
+  - package.json
+  - package-lock.json
+  - vendor
+  - .circleci
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
 
 # Liquid
 liquid:
@@ -66,9 +74,6 @@ plugins:
   - jekyll-youtube
   - jekyll-minifier
   - jemoji
-
-jekyll-minifier:
-  exclude: '*.html'
 
 # Front Matter Defaults
 defaults:
