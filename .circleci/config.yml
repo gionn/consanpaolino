@@ -17,6 +17,7 @@ jobs:
           - v3-dependencies-{{ checksum "Gemfile.lock" }}
           - v3-dependencies-
 
+      - run: gem install bundler
       - run: bundle install
       - run: npm install gh-pages
 
