@@ -5,6 +5,7 @@ jobs:
       - image: circleci/ruby:2.4-node-browsers
         environment:
           BUNDLE_PATH: vendor/bundle
+          JEKYLL_ENV: production
       
     working_directory: ~/repo
 
