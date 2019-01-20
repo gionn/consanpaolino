@@ -33,3 +33,5 @@ In primo piano troviamo il **drappo rosso e bianco** con sopra l’effige di una
 Gli altri scatti selezionati dalla giuria dell’associazione sono ad opera di Luca Della Croce, Michael Gaddini, Giuseppe Leonardi, Loretta Magrini, e Stefano Puccetti, e saranno esposti presso la [Bottega di Anna e Leo](http://www.labottegadiannaeleo.it/) in via San Frediano a partire dalla seconda metà del mese di febbraio (data e ora di apertura saranno comunicatw prossimamente).
 
 Per i curiosi o gli appassionati, potete trovare tutte le [foto pubblicate sul profilo Instagram](https://www.instagram.com/consanpaolino/) dell’associazione.
+
+Appuntamento ad aprile per l’edizione 2019 del concorso con la prima manifestazione a calendario, la **Festa della Libertà**, che vedrà protagoniste alcune squadre di tiratori provenienti da tutta Italia per cimentarsi in duello al Campo Tiri della Repubblica di Lucca a Pontetetto, e un corteggio per il centro storico di Lucca.
