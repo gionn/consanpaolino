@@ -7,7 +7,11 @@ categories:
   - news
 ---
 
-Anche quest’anno si è rinnovato l'appuntamento con il **contest fotografico** indetto dall’associazione di rievocazione storica Contrade San Paolino, con cui il popolo del web è stato chiamato ad inviare o pubblicare autonomamente i proprio scatti realizzati durante le manifestazioni a tema medievale a cui l’associazione partecipa, mediante l’hashtag [#consanpaolino](https://www.instagram.com/explore/tags/consanpaolino/).
+Terminato l’anno di manifestazioni di rievocazione, si è rinnovato
+l’appuntamento con il **contest fotografico** indetto dall’associazione,
+con cui il popolo del web è stato chiamato ad inviare o pubblicare
+autonomamente i proprio scatti realizzati durante le manifestazioni a tema
+medievale a cui l’associazione partecipa, mediante l’hashtag [#consanpaolino](https://www.instagram.com/explore/tags/consanpaolino/).
 
 <!-- more -->
 
