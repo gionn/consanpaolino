@@ -32,4 +32,3 @@ Grazie in anticipo a tutti i fotografi!
   <img src="{{ '/tumblr_files/tumblr_inline_oof0loFicH1qbpldy_540.jpg' | absolute_url }}" alt="tamburi contrade san paolino">
   <figcaption>Il gruppo tamburi dell'associazione Contrade San Paolino di Lucca.</figcaption>
 </figure>
-
