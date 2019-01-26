@@ -32,6 +32,13 @@ le ricondusse all'antica realtà dei terzieri.
 Dopo la liberazione di Lucca dai Pisani nel 1369 la città venne nuovamente
 sistemata dalla commissione e divisa in **tre terzieri**.
 
+<figure class="align-center">
+  <a href="{{ '/assets/images/2019/lucca/lucca-mappa-terzieri.jpg' | absolute_url }}">
+    <img src="{{ '/assets/images/2019/lucca/lucca-mappa-terzieri_thumb.jpg' | absolute_url }}" alt="lucca mappa terzieri medioevo">
+  </a>
+  <figcaption>In rosso il terziere San Paolino, in verde il terziere San Salvatore e in giallo il terziere San Martino</figcaption>
+</figure>
+
 I terzieri vennero approvati il 20 luglio 1653:
 
 * Terziere di **San Paolino**;
