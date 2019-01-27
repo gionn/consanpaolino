@@ -6,7 +6,12 @@ redirect_from:
   - /balestrieri-lucca
 ---
 
-![foto gruppo contrade san paolino](/images/contrade-san-paolino.jpg)
+<figure class="align-center">
+  <a href="{{ '/images/contrade-san-paolino-big.jpg' | absolute_url }}">
+    <img src="{{ '/images/contrade-san-paolino.jpg' | absolute_url }}" alt="balestrieri lucca contrade san paolino foto gruppo">
+  </a>
+  <figcaption>Foto di gruppo durante l'inaugurazione del Campo Tiri della Repubblica di Lucca nel maggio 2017</figcaption>
+</figure>
 
 L’Associazione Contrade San Paolino (ACSP) nasce a **Lucca** il [27 Febbraio 1991](/2019/nascita-associazione-contrade-san-paolino)
 con rogito del notaio Puliti, e diviene operativa dal 1994 con l’intento di
