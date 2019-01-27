@@ -45,15 +45,24 @@ buone prospettive di crescita per il futuro.
 L'associazione è iscritta alla **Lega Italiana Tiro Alla Balestra** (LITAB) dal
 1995, e ogni anno è impegnata a tenere alto il nome di Lucca durante il
 campionato nazionale a cui partecipano 13 città provenienti da tutta Italia. Ha
-organizzato a Barga nel Settembre 2003 la 19esima edizione del Campionato
+organizzato a Barga nel settembre 2003 la 19esima edizione del Campionato
 Italiano di Balestra Antica da Banco, e a Lucca la [34esima edizione a settembre
 2018](/campionato-litab-lucca-2018).
 
-Nel 2017 l'Associazione ha dato vita al primo Palio cittadino, denominato
-**Palio delle Contrade San Paolino**, al quale possono partecipare solamente i
-balestrieri aderenti al Terziere di San Paolino, suddivisi per Contrada. Il
-bersaglio è la classica Brocca (Corniolo) e il Palio dipinto da un'artista va
-alla contrada a cui appartiene il tiratore Primo et Meliore.
+A fine 2016, il Comune di Lucca concede in affitto all’associazione un terreno
+incolto a Pontetetto (LU), che è stato riqualificato e inaugurato come il [Campo
+Tiri della Repubblica di
+Lucca](https://consanpaolino.org/2017-05-15-inaugurato-il-campo-tiri-della-repubblica-di-lucca/)
+nel giugno 2017 ed è tutt'oggi utilizzato per gli allenamenti e le gare dei
+balestrieri.
+
+Nel settembre 2017 l'Associazione ha dato vita al primo
+[Palio](https://consanpaolino.org/2017-10-03-luna-vince-primo-palio-contrade-san-paolino/)
+cittadino, denominato **Palio delle Contrade San Paolino**, al quale possono
+partecipare solamente i balestrieri aderenti al Terziere di San Paolino,
+suddivisi per Contrada. Il bersaglio è la classica Brocca (Corniolo) e il Palio
+dipinto da un'artista va alla contrada a cui appartiene il tiratore Primo et
+Meliore.
 
 A fine 2017, viene pubblicato il [primo libro fotografico
 dell'associazione](http://www.blurb.com/b/8353950-contrade-san-paolino-2017)
