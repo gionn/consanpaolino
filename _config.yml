@@ -75,6 +75,11 @@ plugins:
   - jekyll-minifier
   - jemoji
 
+collections:
+  competitions:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -83,6 +88,12 @@ defaults:
       type: posts
     values:
       layout: post
+      share: false
+  - scope:
+      path: "_competitions"
+      type: competitions
+    values:
+      layout: competition
       share: false
   - scope:
       path:            "post"

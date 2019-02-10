@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<main id="main" class="main-content" aria-label="Content">
+    <article class="h-entry">
+        {% include page-image.html %}
+        <div class="page-wrapper">
+            <header class="page-header">
+                {% assign title = page.title | markdownify | strip_html %}
+                {% if page.link %}
+                <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+                {% else %}
+                <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
+                {% endif %}
+            </header>
+
+            <div class="page-content" style="width: 78%; float: right;">
+                <div class="e-content">
+                    <p>
+                      <strong>Quando</strong>: {{ page.date | date: "%-d/%m/%Y" }}<br/>
+                      <strong>Dove</strong>:   {{ page.where }}
+                    </p>
+                    <p>
+                    {% for match in page.results %}
+                      <h2>{{ match.title }}</h2>
+                      <ol>
+                      {% for ranking in match.rankings %}
+                        {% if ranking.name %}
+                        <li>{{ ranking.name }} ({{ ranking.score }} punti) {% if ranking.image %}<a href="{{ ranking.image }}">:dart:</a>{% endif%}</li>
+                        {% else %}
+                        <li>{{ ranking }}</li>
+                        {% endif %}
+                      {% endfor %}
+                      </ol>
+                      {% for image in match.images %}
+                        <img src="{{ image.path }}" alt="{{ image.alt }}" /><br/>
+                      {% endfor %}
+                    {% endfor %}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </article>
+</main>
