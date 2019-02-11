@@ -22,8 +22,9 @@ layout: default
                       <strong>Dove</strong>:   {{ page.where }}
                     </p>
                     <p>
-                    {% for match in page.results %}
+                    {% for match in page.matches %}
                       <h2>{{ match.title }}</h2>
+                      <h3>Classifica finale</h3>
                       <ol>
                       {% for ranking in match.rankings %}
                         {% if ranking.name %}
@@ -36,6 +37,14 @@ layout: default
                       {% for image in match.images %}
                         <img src="{{ image.path }}" alt="{{ image.alt }}" /><br/>
                       {% endfor %}
+                      {% if match.shooters %}
+                      <h3>Tiratori</h3>
+                      <ul>
+                      {% for shooter in match.shooters %}
+                        <li>{{ shooter }}</li>
+                      {% endfor %}
+                      </ul>
+                      {% endif %}
                     {% endfor %}
                     </p>
                 </div>

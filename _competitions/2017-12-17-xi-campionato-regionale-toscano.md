@@ -2,7 +2,7 @@
 date: '2017-12-17T00:00:00+02:00'
 title: XI Campionato Regionale Toscano LITAB
 where: Sotterranei Baluardo San Paolino, Lucca
-results:
+matches:
   - title: Gara a squadre
     rankings:
       - name: Compagnia Balestrieri Città di Volterra
