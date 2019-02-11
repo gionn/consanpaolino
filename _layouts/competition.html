@@ -21,7 +21,6 @@ layout: default
                       <strong>Quando</strong>: {{ page.date | date: "%-d/%m/%Y" }}<br/>
                       <strong>Dove</strong>:   {{ page.where }}
                     </p>
-                    <p>
                     {% for match in page.matches %}
                       <h2>{{ match.title }}</h2>
                       <h3>Classifica finale</h3>
@@ -46,7 +45,6 @@ layout: default
                       </ul>
                       {% endif %}
                     {% endfor %}
-                    </p>
                 </div>
             </div>
         </div>
