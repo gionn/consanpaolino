@@ -47,9 +47,13 @@ all'interno dei terzieri.
 In occasione di un torneo nazionale (FIB), un altro punto di rottura scaturì con
 **l'esclusione di due donne** aderenti al terziere San Paolino che si erano
 qualificate con un punteggio che permetteva loro di far parte della rosa dei
-tiratori che avrebbero gareggiato al torneo. Nonostante questo, furono escluse
-dal maestro d'armi per inaffidabilità e i successivi due balestrieri in
-graduatoria presero il loro posto.
+tiratori che avrebbero gareggiato al torneo. Nonostante questo furono escluse a
+causa del regolamento FIB che non prevedeva donne al tiro e i successivi due
+balestrieri in graduatoria presero il loro posto.
+
+> Nel frattempo era nata una nuova consociazione a livello nazionale per la
+> rievocazione del tiro con la balestra (LITAB), a cui l'associazione Contrade
+> San Paolino aderì dal 1995.
 
 L'atto finale di questi scontri, come atto di protesta contro i vertici della
 compagnia, fu la decisione dei balestrieri del terziere San Paolino di scagliare
@@ -63,7 +67,7 @@ di San Paolino e dar vita ad un percorso indipendente.
 
 La prima manifestazione con cui l'associazione recentemente costituita si
 presentò al pubblico fu la **Luminara di San Paolino** la sera dell'11 Luglio
-1994. Per l'occasione furono realizzati in autonomia dei **nuovi costumi**,
+del 1994. Per l'occasione furono realizzati in autonomia dei **nuovi costumi**,
 privilegiando costi e facilità di realizzazione dato che l'associazione non
 riceveva alcun tipo di contributo. I motivi sulle vesti furono presi da
 documenti lucchesi del XIV secolo (Sercambi) ma anche prendendo ampia
@@ -96,7 +100,7 @@ parrocchia di San Paolino risultano da subito evidenti con le **raccolte doni**
 organizzate in favore dei ragazzi meno fortunati dell'Istituto "De Sortis" di
 Viareggio, con le feste sulle mura dedicate agli anziani, con le caldarroste sul
 sagrato della chiesa e i babbi natale durante il periodo natalizio, la raccolta
-fondi per i bambini terremotati di Gualdo Tadino (1998).
+fondi per i bambini terremotati di **Gualdo Tadino** (1998).
 
 <figure class="align-center">
   <a href="{{ '/assets/images/2019/giannoni-balestrieri-lucca/boveglio-1999.jpg' | absolute_url }}">
