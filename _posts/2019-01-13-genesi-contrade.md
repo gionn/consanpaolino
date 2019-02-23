@@ -68,14 +68,15 @@ di San Paolino e dar vita ad un percorso indipendente.
 La prima manifestazione con cui l'associazione recentemente costituita si
 presentò al pubblico fu la **Luminara di San Paolino** la sera dell'11 Luglio
 del 1994. Per l'occasione furono realizzati in autonomia dei **nuovi costumi**,
-privilegiando costi e facilità di realizzazione dato che l'associazione non
-riceveva alcun tipo di contributo. I motivi sulle vesti furono presi da
-documenti lucchesi del XIV secolo (Sercambi) ma anche prendendo ampia
-ispirazione da quelli del **Palio di Siena**. I materiali usati sono il velluto,
-il broccato, il panno; i colori principali rosso e bianco, poi blu, verde e oro.
-Niente cappelli, ma l'abito si completava con cintura, borsa e scarpe in cuoio.
-Per i balestrieri non fu adottata una tenuta da battaglia ma si preferì una
-veste da addestramento, senza bisogno di particolari protezioni.
+da dei bozzetti realizzati dal socio *Giuliano Barsotti*, privilegiando costi e
+facilità di realizzazione dato che l'associazione non riceveva alcun tipo di
+contributo. I motivi sulle vesti furono presi da documenti lucchesi del XIV
+secolo (Sercambi) ma anche prendendo ampia ispirazione da quelli del **Palio di
+Siena**. I materiali usati sono il velluto, il broccato, il panno; i colori
+principali rosso e bianco, poi blu, verde e oro. Niente cappelli, ma l'abito si
+completava con cintura, borsa e scarpe in cuoio. Per i balestrieri non fu
+adottata una tenuta da battaglia ma si preferì una veste da addestramento, senza
+bisogno di particolari protezioni.
 
 <figure class="align-center">
   <a href="{{ '/assets/images/2019/giannoni-balestrieri-lucca/luminara-san-paolino-lucca1994.jpg' | absolute_url }}">
