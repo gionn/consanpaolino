@@ -29,7 +29,7 @@ In primo piano troviamo il **drappo rosso e bianco** con sopra l’effige di una
   <figcaption>Lo scatto 2018 selezionato come vincitore</figcaption>
 </figure>
 
-Gli altri scatti selezionati dalla giuria dell’associazione sono ad opera di Luca Della Croce, Michael Gaddini, Giuseppe Leonardi, Loretta Magrini, e Stefano Puccetti, e saranno esposti presso la [Bottega di Anna e Leo](http://www.labottegadiannaeleo.it/) in via San Frediano a partire dalla seconda metà del mese di febbraio (data e ora di apertura saranno comunicatw prossimamente).
+Gli altri scatti selezionati dalla giuria dell’associazione sono ad opera di Luca Della Croce, Michael Gaddini, Giuseppe Leonardi, Loretta Magrini, e Stefano Puccetti, e saranno esposti presso la [Bottega di Anna e Leo](http://www.labottegadiannaeleo.it/) in via San Frediano a partire dalla seconda metà del mese di febbraio (data e ora di apertura saranno comunicate prossimamente).
 
 Per i curiosi o gli appassionati, potete trovare tutte le [foto pubblicate sul profilo Instagram](https://www.instagram.com/consanpaolino/) dell’associazione.
 
