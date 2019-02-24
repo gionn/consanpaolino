@@ -10,6 +10,8 @@ tags:
 - balestrieri
 - terra del sole
 tumblr_url: https://consanpaolino.org/post/161707246453/risultati-xxxiii-campionato-nazionale-litab-2017
+redirect_from:
+ - /post/161707246453
 ---
 
 ![](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo1_1280.jpg)
