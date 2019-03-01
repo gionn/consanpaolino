@@ -191,6 +191,19 @@ lucchese per la balestra.
       "addressCountry": "IT"
     }
   },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "url": "https://luccamedievale.it",
+    "availability": "http://schema.org/InStock",
+    "validFrom": "2018-01-01T00:00"
+  },
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Contrade San Paolino",
+    "email": "consanpaolino@gmail.com"
+  },
   "image": [
     "https://consanpaolino.org/assets/images/2018/campionato/locandina.jpg",
     "https://consanpaolino.org/images/assets/images/2018/hero/balestra-lucca-medievale.jpg"
@@ -217,6 +230,19 @@ lucchese per la balestra.
       "addressRegion": "LU",
       "addressCountry": "IT"
     }
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "url": "https://luccamedievale.it",
+    "availability": "http://schema.org/InStock",
+    "validFrom": "2018-01-01T00:00"
+  },
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Contrade San Paolino",
+    "email": "consanpaolino@gmail.com"
   },
   "image": [
     "https://consanpaolino.org/assets/images/2018/campionato/locandina.jpg",
