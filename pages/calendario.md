@@ -15,7 +15,7 @@ Ecco gli eventi di rievocazione medievale a cui l'associazione [Contrade San Pao
 
 ## Prossimi eventi
 
-* **6 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**: conferenza aperta al pubblico sulla storia e la confezione di abiti medievali, tenuta da [Sara Piccolo Paci](https://www.sarapacipiccolo.com/), esperta di Storia del Costume e della Moda, Storia dell'Arte e Sartoria Storica che spiegherà tecniche e trucchi per tagliare e cucire un vestito medievale;
+* **7 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**: conferenza aperta al pubblico sulla storia e la confezione di abiti medievali, tenuta da [Sara Piccolo Paci](https://www.sarapacipiccolo.com/), esperta di Storia del Costume e della Moda, Storia dell'Arte e Sartoria Storica che spiegherà tecniche e trucchi per tagliare e cucire un vestito medievale, presso il *Baluardo San Regolo* (Lucca) dalle ore 15.00;
 * **28 Aprile - Festa della Libertà**: corteo storico per le vie della città, esibizioni in piazza San Martino, gara di tiro con la balestra antica a Pontetetto;
 * **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: con corteo storico per le vie della città e gara di tiro con la balestra antica in piazza Napoleone;
 * **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei balestrieri, tornei di scherma medievale, falconeria, gastronomia e molto altro - [:mag: vai al sito dedicato all'evento](https://luccamedievale.it);
