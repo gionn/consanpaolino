@@ -11,19 +11,39 @@ image:
   path: /assets/images/2018/hero/guinigi.jpg
 ---
 
-Ecco gli eventi di rievocazione medievale a cui l'associazione [Contrade San Paolino](/about) organizzerà o prenderà parte a Lucca, nella provincia e dintorni.
+Ecco gli eventi di rievocazione medievale a cui l'associazione [Contrade San
+Paolino](/about) organizzerà o prenderà parte a Lucca, nella provincia e
+dintorni.
 
 ## Prossimi eventi
 
-* **7 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**: conferenza aperta al pubblico sulla storia e la confezione di abiti medievali, tenuta da [Sara Piccolo Paci](https://www.sarapacipiccolo.com/), esperta di Storia del Costume e della Moda, Storia dell'Arte e Sartoria Storica che spiegherà tecniche e trucchi per tagliare e cucire un vestito medievale, presso il *Baluardo San Regolo* (Lucca) dalle ore 15.00;
-* **28 Aprile - Festa della Libertà**: corteo storico per le vie della città, esibizioni in piazza San Martino, gara di tiro con la balestra antica a Pontetetto;
-* **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: con corteo storico per le vie della città e gara di tiro con la balestra antica in piazza Napoleone;
-* **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei balestrieri, tornei di scherma medievale, falconeria, gastronomia e molto altro - [:mag: vai al sito dedicato all'evento](https://luccamedievale.it);
-* **30 Giugno - 2° Giostra Ghibellina**: gara di tiro con la balestra antica al Campo Tiri della Repubblica di Lucca.
-* **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città allestite con fiaccole e bandiere, esibizioni in piazza San Martino;
-* **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della città;
-* **29 Settembre - 3° Palio delle Contrade San Paolino**: gara di tiro con la balestra antica nel giardino all'interno di Porta San Donato e corteo storico per le vie della città;
-* **1 Dicembre - Frecce e Bandiere di Natale**: corteo storico per le vie della città e gara di tiro con la balestra antica nei sotterranei delle mura urbane.
+* **7 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**:
+  conferenza aperta al pubblico sui costumi medievali tenuta da Sara Piccolo
+  Paci, esperta di Storia del Costume e Sartoria Storica. [:mag: Leggi
+  l'articolo](/2019/lucca-ad-costume-milizie)
+* **28 Aprile - Festa della Libertà**: corteo storico per le vie della città,
+  esibizioni in piazza San Martino, gara di tiro con la balestra antica al
+  [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con
+  diverse compagnie LITAB;
+* **1 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: data da
+  confermare, location da confermare
+* **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
+  giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
+  Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
+  balestrieri, tornei di scherma medievale, falconeria, gastronomia e molto
+  altro - [:mag: vai al sito dedicato all'evento](https://luccamedievale.it);
+* **30 Giugno - 2° Giostra Ghibellina**: gara di tiro con la balestra antica al
+  [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/Cz3SQuVr9YE2).
+* **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
+  allestite con fiaccole e bandiere, esibizioni in piazza San Martino
+  (organizzato dal Comune di Lucca);
+* **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
+  città (organizzato dal Comune di Lucca);
+* **29 Settembre - 3° Palio delle Contrade San Paolino**: gara di tiro con la
+  balestra antica nel giardino all'interno di Porta San Donato e corteo storico
+  per le vie della città (location e data da confermare);
+* **1 Dicembre - Frecce e Bandiere di Natale**: corteo storico per le vie della
+  città e gara di tiro con la balestra antica nei sotterranei delle mura urbane.
 
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane immediatamente precedenti all'evento.
 
