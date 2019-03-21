@@ -7,6 +7,8 @@ categories:
   - eventi
 tags:
   - calendario
+redirect_from:
+ - /calendario-eventi
 image:
   path: /assets/images/2018/hero/guinigi.jpg
 ---
