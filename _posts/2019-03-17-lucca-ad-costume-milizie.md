@@ -12,9 +12,9 @@ categories:
 > carattere storico, sia sul territorio nazionale che all'estero. Con l'aiuto di
 > Sara Piccolo Paci, Contrade San Paolino si interroga sul significato e le
 > convenzioni dell'abito medievale, così come poteva essere realmente e come lo
-> possiamo soluzioni diverse - ciascuna con le sue specifiche caratteristiche e
-> rispondenti interpretare oggi, cercando di fare il punto su una situazione
-> ricca di ad esigenze differenti - e in continua evoluzione.
+> possiamo interpretare oggi, cercando di fare il punto su una situazione ricca
+> di soluzioni diverse - ciascuna con le sue specifiche caratteristiche e
+> rispondenti ad esigenze differenti - e in continua evoluzione.
 
 <!-- more -->
 
