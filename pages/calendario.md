@@ -27,8 +27,8 @@ dintorni.
   esibizioni in piazza San Martino, gara di tiro con la balestra antica al
   [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con
   diverse compagnie LITAB;
-* **1 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: data da
-  confermare, location da confermare
+* **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: presso la
+  Rocca del Cerruglio a Montecarlo, programma ancora da definire!
 * **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
   giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
   Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
