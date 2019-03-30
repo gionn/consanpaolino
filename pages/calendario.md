@@ -22,30 +22,32 @@ dintorni.
 * **7 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**:
   conferenza aperta al pubblico sui costumi medievali tenuta da Sara Piccolo
   Paci, esperta di Storia del Costume e Sartoria Storica. [:mag: Leggi
-  l'articolo](/2019/lucca-ad-costume-milizie)
-* **28 Aprile - Festa della Libertà**: corteo storico per le vie della città,
-  esibizioni in piazza San Martino, gara di tiro con la balestra antica al
-  [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con
-  diverse compagnie LITAB;
+  l'articolo](/2019/lucca-ad-costume-milizie) o vai all'[evento facebook](https://www.facebook.com/events/306928230004879)
+* **28 Aprile - Festa della Libertà (3a Disfida della Libertà)**: corteo storico
+  per le vie della città, esibizioni in piazza San Martino, gara di tiro con la
+  balestra antica al [Campo Tiri della Repubblica di
+  Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB - vai
+  all'[evento facebook](https://www.facebook.com/events/2578040852268084)
 * **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: presso la
   Rocca del Cerruglio a Montecarlo, programma ancora da definire!
 * **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
   giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
   Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
   balestrieri, tornei di scherma medievale, falconeria, gastronomia e molto
-  altro - [:mag: vai al sito dedicato all'evento](https://luccamedievale.it);
+  altro - [:mag: vai al sito dedicato a Lucca Medievale](https://luccamedievale.it) o all'[evento facebook](https://www.facebook.com/events/2088772917854661)
 * **30 Giugno - 2° Giostra Ghibellina**: gara di tiro con la balestra antica al
   [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/Cz3SQuVr9YE2).
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni in piazza San Martino
-  (organizzato dal Comune di Lucca);
+  (organizzato dal Comune di Lucca)
 * **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
-  città (organizzato dal Comune di Lucca);
+  città (organizzato dal Comune di Lucca)
 * **29 Settembre - 3° Palio delle Contrade San Paolino**: gara di tiro con la
   balestra antica nel giardino all'interno di Porta San Donato e corteo storico
-  per le vie della città (location e data da confermare);
+  per le vie della città (location e data da confermare - non accolto nel
+  ViviLucca)
 * **1 Dicembre - Frecce e Bandiere di Natale**: corteo storico per le vie della
-  città e gara di tiro con la balestra antica nei sotterranei delle mura urbane.
+  città (da confermare - non accolto nel ViviLucca)
 
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane immediatamente precedenti all'evento.
 
