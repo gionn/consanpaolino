@@ -19,17 +19,16 @@ dintorni.
 
 ## Prossimi eventi
 
-* **7 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**:
-  conferenza aperta al pubblico sui costumi medievali tenuta da Sara Piccolo
-  Paci, esperta di Storia del Costume e Sartoria Storica. [:mag: Leggi
-  l'articolo](/2019/lucca-ad-costume-milizie) o vai all'[evento facebook](https://www.facebook.com/events/306928230004879)
 * **28 Aprile - Festa della Libertà (3a Disfida della Libertà)**: corteo storico
   per le vie della città, esibizioni in piazza San Martino, gara di tiro con la
   balestra antica al [Campo Tiri della Repubblica di
-  Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB - vai
-  all'[evento facebook](https://www.facebook.com/events/2578040852268084)
+  Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB - [:mag:
+  Leggi l'articolo](/2019/650-festa-liberta-lucca) o vai all'[evento
+  facebook](https://www.facebook.com/events/2578040852268084)
 * **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: presso la
-  Rocca del Cerruglio a Montecarlo, programma ancora da definire!
+  Rocca del Cerruglio a Montecarlo, accampamento medievale e palio dei
+  balestrieri, programma definitivo non ancora disponibile. Vai all'[evento
+  facebook](https://www.facebook.com/events/2267112130275959/)
 * **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
   giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
   Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
@@ -52,6 +51,13 @@ dintorni.
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane immediatamente precedenti all'evento.
 
 Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella tua casella di posta non appena sarà disponibile!
+
+## Eventi passati
+
+* **7 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**:
+  conferenza aperta al pubblico sui costumi medievali tenuta da Sara Piccolo
+  Paci, esperta di Storia del Costume e Sartoria Storica. [:mag: Leggi
+  l'articolo](/2019/lucca-ad-costume-milizie) o vai all'[evento facebook](https://www.facebook.com/events/306928230004879)
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
