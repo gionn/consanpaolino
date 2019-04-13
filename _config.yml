@@ -46,6 +46,7 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
+  - SNIPPETS.md
 
 # Liquid
 liquid:
