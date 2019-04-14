@@ -5,6 +5,7 @@ date: '2018-08-05T10:30:00+02:00'
 permalink: /2018/video-campionato-balestra-lucca
 categories:
   - eventi
+  - associazione
 image:
   path: /assets/images/2018/hero/campionato-terra-del-sole-tabellone.jpg
 skip_amp: true

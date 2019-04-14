@@ -1,5 +1,5 @@
 ---
-title: Associazione ACSP
+title: Articoli in evidenza sulle Contrade San Paolino
 layout: category
 permalink: /associazione
 taxonomy: associazione

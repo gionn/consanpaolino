@@ -6,8 +6,6 @@ redirect_from:
   - /social
 ---
 
-## Chi siamo
-
 Associazione Contrade di San Paolino<br/>
 Sortita Porta San Pietro, 1/3<br/>
 55100 - Lucca (LU) - Italy<br/>
@@ -21,7 +19,7 @@ CF 9205057046<br/>
 
 **Segreteria** Giovanni Toraldo +39 393 50 18 541
 
-## Social
+## Seguici sui Social
 
 Puoi contattarci e rimanere aggiornato sulle ultime attività dell'associazione
 seguendoci sui principali Social:
@@ -35,7 +33,7 @@ Non vuoi perderti gli aggiornamenti più importanti? [Iscriviti alla newsletter]
 
 ## Dove siamo
 
-* Sede istituzionale: Sortita Porta San Pietro 1/3 a Lucca.
+* Sede principale: Sortita Porta San Pietro 1/3 a Lucca.
 * Campo Tiri della Repubblica di Lucca: Via Pattana a Pontetetto (LU).
 
 ### Mappa sede istituzionale

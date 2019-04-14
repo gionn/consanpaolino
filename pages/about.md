@@ -78,14 +78,18 @@ contribuiscono a creare e mantenere un importante punto di aggregazione sociale
 per tutti gli abitanti di Lucca e zone limitrofe, interessati a conoscerne la
 storia e riviverla in prima persona.
 
-* [Contattaci](/contatti) per avere maggiori informazioni
+## Ti interessa quello che facciamo?
+
+* Seguici sui [social o contattaci](/contatti) per avere maggiori informazioni
 * Per non perdere i prossimi eventi devi assolutamente [iscriverti alla
   newsletter](/newsletter) oppure dai una occhiata al [calendario
   eventi](/calendario-eventi)
 * Vuoi sostenerci? [Fai una donazione](/donazioni)
 * Stare a guardare non fa per te? Dai una occhiata ai nostri
   [corsi](/corsi-lucca)!
+* Leggi altri articoli in rilievo sulla nostra [associazione](/associazione)
 
+## Ultime foto da Instagram
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
 <iframe src="https://snapwidget.com/embed/635566" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
