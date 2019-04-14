@@ -4,7 +4,7 @@ title: "Il Palio delle Contrade esposto fino a Natale alla mostra di Lazzerini"
 date: '2018-12-09T08:00:00+01:00'
 permalink: /2018/mostra-lucca-lazzerini
 categories:
-  - eventi
+  - news
 image:
   path: /assets/images/2018/hero/lazzerini.png
 ---

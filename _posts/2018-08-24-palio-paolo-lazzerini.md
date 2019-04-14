@@ -4,7 +4,6 @@ title: Sarà Paolo Lazzerini l’autore del prossimo Palio delle Contrade
 date: '2018-08-24T07:30:00+02:00'
 permalink: /2018/paolo-lazzerini-palio-contrade-san-paolino
 categories:
-  - eventi
   - news
 image:
   path: /assets/images/2018/hero/lazzerini.png

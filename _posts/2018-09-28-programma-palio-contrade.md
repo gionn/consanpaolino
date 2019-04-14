@@ -6,7 +6,7 @@ permalink: /2018/programma-palio-contrade-san-paolino
 redirect_from:
   - /2018/programma-contrade-san-paolino
 categories:
-  - eventi
+  - news
 image:
   path: /assets/images/2018/hero/palio-balestrieri.jpg
 ---

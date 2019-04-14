@@ -5,7 +5,6 @@ date: '2018-12-09T08:00:00+01:00'
 permalink: /2018/risultati-frecce-bandiere-natale-lucca
 categories:
   - albo
-  - eventi
   - foto
 image:
   path: /assets/images/2018/hero/frecce-natale.jpg

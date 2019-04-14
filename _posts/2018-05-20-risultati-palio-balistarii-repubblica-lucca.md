@@ -5,10 +5,8 @@ date: '2018-05-20T22:00:00+02:00'
 categories:
   - albo
   - foto
-  - news
 tags:
   - palio
-  - balestrieri
   - lucca
 permalink: /2018/05/20/risultati-palio-repubblica-lucca.htm
 image:

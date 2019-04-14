@@ -4,7 +4,7 @@ title: Completato allestimento delle piazze per il Campionato di balestra antica
 date: '2018-09-07T08:45:00+02:00'
 permalink: /2018/pronti-campionato-litab
 categories:
-  - eventi
+  - news
 image:
   path: /assets/images/2018/hero/campionato-napoleone.jpg
 ---

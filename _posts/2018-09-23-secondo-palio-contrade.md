@@ -5,7 +5,6 @@ date: '2018-09-23T08:20:00+02:00'
 permalink: /2018/palio-contrade-san-paolino
 categories:
   - eventi
-  - news
 ---
 
 Sabato pomeriggio si è tenuta la presentazione del drappo dipinto dall’artista

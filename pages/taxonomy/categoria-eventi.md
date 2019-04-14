@@ -1,5 +1,5 @@
 ---
-title: Eventi, rievocazioni, manifestazioni
+title: Eventi, rievocazioni e manifestazioni
 layout: category
 permalink: /eventi
 taxonomy: eventi

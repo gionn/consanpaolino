@@ -4,7 +4,7 @@ title: "Un mese al Campionato di balestra a Lucca"
 date: '2018-08-05T10:30:00+02:00'
 permalink: /2018/campionato-balestra-lucca-meno-un-mese
 categories:
-  - eventi
+  - news
 image:
   path: /assets/images/2018/hero/campionato-terra-del-sole-tabellone.jpg
 ---

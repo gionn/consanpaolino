@@ -4,7 +4,6 @@ title: Nasce il 1° Palio dei Balistarii della Repubblica di Lucca
 date: '2018-04-18T20:00:00+01:00'
 categories:
   - eventi
-  - news
 tags:
   - balestrieri
   - palio

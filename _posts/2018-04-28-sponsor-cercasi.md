@@ -3,7 +3,7 @@ layout: post
 title: Ricerca sponsor per Trofeo Nazionale LITAB
 date: '2018-04-27T12:00:00+02:00'
 categories:
-  - associazione
+  - news
 tags:
   - lucca
   - sponsor

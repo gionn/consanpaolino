@@ -3,7 +3,6 @@ layout: post
 title: Presentato il drappo del prossimo Palio
 date: '2018-04-28T19:15:00+02:00'
 categories:
-  - eventi
   - foto
   - news
 tags:

@@ -4,7 +4,7 @@ title: Risultati Ludus Balistris 2018
 date: '2018-08-26T16:30:00+02:00'
 permalink: /2018/ludus-balistris
 categories:
-  - eventi
+  - news
 image:
   path: /assets/images/2018/hero/ludus.jpg
 skip_amp: true

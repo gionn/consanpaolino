@@ -4,7 +4,6 @@ title: Risultati 2° Palio delle Contrade San Paolino
 date: '2018-09-30T19:45:00+02:00'
 permalink: /2018/risultati-palio-contrade-san-paolino
 categories:
-  - eventi
   - albo
 image:
   path: /assets/images/2018/hero/vincitori-secondo-palio-contrade.jpg

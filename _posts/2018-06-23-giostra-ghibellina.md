@@ -3,7 +3,6 @@ layout: post
 title: 1° Giostra Ghibellina - Gara di tiro a Pontetetto
 date: '2018-06-23T09:50:00+02:00'
 categories:
-  - news
   - eventi
 tags:
   - pontetetto

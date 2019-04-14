@@ -4,7 +4,6 @@ title: Arriva il drappo di Lazzerini per il Palio delle Contrade e mostra dei su
 date: '2018-09-17T08:00:00+02:00'
 permalink: /2018/presentazione-palio-contrade-lazzerini
 categories:
-  - eventi
   - news
 image:
   path: /assets/images/2018/hero/lazzerini.png

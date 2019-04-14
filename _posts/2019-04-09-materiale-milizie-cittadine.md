@@ -4,7 +4,7 @@ title: "Registrazione video e materiale di Lucca A.D. 1350-1410 ~ Il costume del
 date: '2019-01-24T12:00:00+01:00'
 permalink: /2019/slides-video-lucca-ad-costume-milizie
 categories:
-  - eventi
+  - news
 ---
 
 Qui abbiamo raccolto tutto il materiale della conferenza *Lucca A.D. 1350-1410 ~ Il costume delle milizie cittadine* tenuta da **Sara Piccolo Paci** domenica 7 Aprile 2019 a Lucca.

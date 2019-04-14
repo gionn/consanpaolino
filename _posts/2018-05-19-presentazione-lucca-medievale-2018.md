@@ -3,7 +3,7 @@ layout: post
 title: Conferenza stampa per Lucca Medievale 2018
 date: '2018-05-19T11:40:00+02:00'
 categories:
-  - eventi
+  - news
 tags:
   - lucca medievale
 permalink: /2018/05/19/conferenza-stampa-lucca-medievale-2018.htm

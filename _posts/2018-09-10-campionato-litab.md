@@ -4,7 +4,7 @@ title: È lucchese la balestriera d’Italia
 date: '2018-09-10T08:20:00+02:00'
 permalink: /2018/risultati-campionato-italiano-litab-lucca
 categories:
-  - eventi
+  - news
 image:
   path: /assets/images/2018/campionato/simona-vince.jpg
 ---
