@@ -26,8 +26,8 @@ dintorni.
   Leggi l'articolo](/2019/650-festa-liberta-lucca) o vai all'[evento
   facebook](https://www.facebook.com/events/2578040852268084)
 * **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: presso la
-  Rocca del Cerruglio a Montecarlo, accampamento medievale e palio dei
-  balestrieri, programma definitivo non ancora disponibile. Vai all'[evento
+  Rocca del Cerruglio a Montecarlo, accampamento medievale, falconieri, palio dei
+  balestrieri, dolcetti medievali e ippocrasso! Programma definitivo non ancora disponibile - Vai all'[evento
   facebook](https://www.facebook.com/events/2267112130275959/)
 * **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
   giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
@@ -39,14 +39,16 @@ dintorni.
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni in piazza San Martino
   (organizzato dal Comune di Lucca)
+* **12 Luglio - Palio di San Paolino**: palio dei balestrieri in piazza San
+  Martino (organizzato dal Comune di Lucca)
 * **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
   città (organizzato dal Comune di Lucca)
 * **29 Settembre - 3° Palio delle Contrade San Paolino**: gara di tiro con la
   balestra antica nel giardino all'interno di Porta San Donato e corteo storico
   per le vie della città (location e data da confermare - non accolto nel
-  ViviLucca)
+  ViviLucca 2019)
 * **1 Dicembre - Frecce e Bandiere di Natale**: corteo storico per le vie della
-  città (da confermare - non accolto nel ViviLucca)
+  città (da confermare - non accolto nel ViviLucca 2019)
 
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane immediatamente precedenti all'evento.
 
