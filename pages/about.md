@@ -87,6 +87,7 @@ storia e riviverla in prima persona.
 * Vuoi sostenerci? [Fai una donazione](/donazioni)
 * Stare a guardare non fa per te? Dai una occhiata ai nostri
   [corsi](/corsi-lucca)!
+* Guarda una selezione delle nostre [foto](/gallery)
 * Leggi altri articoli in rilievo sulla nostra [associazione](/associazione)
 
 ## Ultime foto da Instagram
