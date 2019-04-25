@@ -26,14 +26,13 @@ dintorni.
   Leggi l'articolo](/2019/650-festa-liberta-lucca) o vai all'[evento
   facebook](https://www.facebook.com/events/2578040852268084)
 * **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: presso la
-  Rocca del Cerruglio a Montecarlo, accampamento medievale, falconieri, palio dei
-  balestrieri, dolcetti medievali e ippocrasso! Programma definitivo non ancora disponibile - Vai all'[evento
-  facebook](https://www.facebook.com/events/2267112130275959/)
+  Rocca del Cerruglio a Montecarlo, accampamento medievale, falconieri, palio
+  dei balestrieri, dolcetti medievali e ippocrasso! [:mag: Leggi l'articolo](/2019/eventi-palio-balistarii-repubblica-lucca) o vai all'[evento facebook](https://www.facebook.com/events/2267112130275959/)
 * **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
   giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
   Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
   balestrieri, tornei di scherma medievale, falconeria, gastronomia e molto
-  altro - [:mag: vai al sito dedicato a Lucca Medievale](https://luccamedievale.it) o all'[evento facebook](https://www.facebook.com/events/2088772917854661)
+  altro - [:mag: vai al sito dedicato di Lucca Medievale](https://luccamedievale.it) o all'[evento facebook](https://www.facebook.com/events/2088772917854661)
 * **30 Giugno - 2° Giostra Ghibellina**: gara di tiro con la balestra antica al
   [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/Cz3SQuVr9YE2).
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
@@ -58,8 +57,7 @@ Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella t
 
 * **7 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**:
   conferenza aperta al pubblico sui costumi medievali tenuta da Sara Piccolo
-  Paci, esperta di Storia del Costume e Sartoria Storica. [:mag: Leggi
-  l'articolo](/2019/lucca-ad-costume-milizie) o vai all'[evento facebook](https://www.facebook.com/events/306928230004879)
+  Paci, esperta di Storia del Costume e Sartoria Storica. [:mag: Leggi l'articolo](/2019/lucca-ad-costume-milizie) o vai all'[evento facebook](https://www.facebook.com/events/306928230004879)
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
