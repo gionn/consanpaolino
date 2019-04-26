@@ -60,3 +60,44 @@ Segue l'estratto del programma dove sarà presente il nostro gruppo:
 * Ore 12.00 - fine tiri di prova
 * Ore 15.00 - Inizio gara
 * Ore 18.00 - Premiazione e saluti
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lucca",
+      "addressRegion": "LU",
+      "postalCode": "55100",
+      "streetAddress": "Lucca"
+    },
+    "name": "Centro storico di Lucca"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "url": "https://consanpaolino.org/2019/650-festa-liberta-lucca",
+    "availability": "http://schema.org/InStock",
+    "validFrom": "2019-04-01T00:00"
+  },
+  "image": [
+    "https://consanpaolino.org/assets/images/2019/palio-balistarii/balistarii-2019.jpg"
+  ],
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Contrade San Paolino",
+    "email": "consanpaolino@gmail.com"
+  },
+  "name": "650° Festa della Libertà a Lucca",
+  "description": "Corteo storico e esibizioni in Piazza San Martino in occasione della liberazione di Lucca dal dominio pisano.",
+  "eventStatus": "EventScheduled",
+  "isAccessibleForFree": true,
+  "startDate": "2019-04-28T07:30",
+  "endDate": "2019-04-28T16:30",
+  "url": "https://consanpaolino.org/2019/650-festa-liberta-lucca"
+}
+</script>

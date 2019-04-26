@@ -77,7 +77,6 @@ sostenute per l'organizzazione.
   "name": "2° Palio dei Balistarii della Repubblica di Lucca",
   "description": "Accampamento medievale con falconieri, gara di tiro dei balestrieri, gastronomia medievale.",
   "eventStatus": "EventScheduled",
-  "isAccessibleForFree": true,
   "startDate": "2019-05-19T09:00",
   "endDate": "2019-05-19T16:30",
   "url": "https://consanpaolino.org/2019/eventi-palio-balistarii-repubblica-lucca"
