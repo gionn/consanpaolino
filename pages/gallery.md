@@ -9,6 +9,7 @@ images:
   - /assets/images/gallery/balestriere-al-tiro-lato.jpg
   - /assets/images/gallery/tamburino.jpg
   - /assets/images/gallery/campo-tiri-balestrieri.jpg
+  - /assets/images/gallery/campo-tiri.jpg
   - /assets/images/gallery/balestrieri-retro.jpg
   - /assets/images/gallery/balestriere-torre-guinigi.jpg
   - /assets/images/2018/corsi/elisa-tamburina.jpg

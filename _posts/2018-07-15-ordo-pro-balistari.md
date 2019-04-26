@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ordo Pro Balistarii (Lucca)
+title: "Ordo Pro Balistarii: l'antico regolamento per la disputa del palio dei balestrieri"
 date: '2018-07-15T21:00:00+02:00'
 permalink: /ordo-pro-balistarii
 categories:
