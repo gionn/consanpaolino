@@ -77,6 +77,19 @@ buono per una cena in un ristorante di Lucca.
     "https://consanpaolino.org/images/2018/04/28/palio-balistarii-repubblica-lucca-hero.jpg",
     "https://consanpaolino.org/images/2018/04/28/locandina-palio-repubblica.jpg"
    ],
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Contrade San Paolino",
+    "email": "consanpaolino@gmail.com"
+  },
+    "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "url": "https://consanpaolino.org/2018/04/18/primo-palio-repubblica-lucca.htm",
+    "availability": "http://schema.org/InStock",
+    "validFrom": "2018-01-01T00:00"
+  },
   "description": "Gara di balestra in costume medievale fra le contrade di Lucca",
   "endDate": "2018-05-01T23:00+02:00",
   "eventStatus": "EventPostponed"
