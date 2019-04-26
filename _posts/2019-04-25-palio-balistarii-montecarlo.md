@@ -42,3 +42,44 @@ sostenute per l'organizzazione.
 <figure class="align-center">
     <img src="{{ 'assets/images/2019/palio-balistarii/balistarii-2019.jpg' | absolute_url }}" alt="programma locandina 2° palio balistarii repubblica lucca 2019">
 </figure>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Montecarlo",
+      "addressRegion": "LU",
+      "postalCode": "55015",
+      "streetAddress": "Via Fortezza, 4"
+    },
+    "name": "Fortezza di Montecarlo"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "2",
+    "priceCurrency": "EUR",
+    "url": "https://consanpaolino.org/2019/eventi-palio-balistarii-repubblica-lucca",
+    "availability": "http://schema.org/InStock",
+    "validFrom": "2019-01-01T00:00"
+  },
+  "image": [
+    "https://consanpaolino.org/assets/images/2019/palio-balistarii/balistarii-2019.jpg"
+  ],
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Contrade San Paolino",
+    "email": "consanpaolino@gmail.com"
+  },
+  "name": "2° Palio dei Balistarii della Repubblica di Lucca",
+  "description": "Accampamento medievale con falconieri, gara di tiro dei balestrieri, gastronomia medievale.",
+  "eventStatus": "EventScheduled",
+  "isAccessibleForFree": true,
+  "startDate": "2019-05-19T09:00",
+  "endDate": "2019-05-19T16:30",
+  "url": "https://consanpaolino.org/2019/eventi-palio-balistarii-repubblica-lucca"
+}
+</script>
