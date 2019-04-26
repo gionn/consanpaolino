@@ -40,3 +40,7 @@ jobs:
             git config --global user.name "circleci build"
             mkdir _site/.circleci && cp .circleci/ignore.yml _site/.circleci/config.yml
             npm run deploy
+
+      - run:
+          name: Ping google
+          command: curl -sS http://www.google.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
