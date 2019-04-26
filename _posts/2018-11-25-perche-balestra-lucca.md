@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lucca e la balestra: un legame che dura da secoli"
+title: "🎯 Lucca e la balestra: un legame che dura da secoli"
 date: '2018-11-25T08:00:00+02:00'
 permalink: /lucca-balestrieri-medioevo-storia
 categories:

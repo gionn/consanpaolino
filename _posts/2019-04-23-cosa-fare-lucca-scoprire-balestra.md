@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cosa fare a Lucca: scoprire il tiro con la balestra"
+title: "🎯 Cosa fare a Lucca: scoprire il tiro con la balestra"
 categories:
   - lucca
 permalink: /cosa-fare-lucca-scopri-balestra

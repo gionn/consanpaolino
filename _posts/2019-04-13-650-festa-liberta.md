@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "650° Festa della Libertà a Lucca"
+title: "📅 650° Festa della Libertà a Lucca"
 date: '2019-04-13T08:00:00+01:00'
 permalink: /2019/650-festa-liberta-lucca
 categories:

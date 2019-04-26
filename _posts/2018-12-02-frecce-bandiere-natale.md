@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frecce e Bandiere di Natale 2018 a Lucca Sabato 8 dicembre"
+title: "📅 Frecce e Bandiere di Natale 2018 a Lucca Sabato 8 dicembre"
 date: '2018-12-02T18:00:00+01:00'
 permalink: /2018/frecce-bandiere-natale-lucca
 categories:

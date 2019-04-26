@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Il miglior scatto 2018 a Tommaso Giannini"
+title: "📷 Il miglior scatto 2018 a Tommaso Giannini"
 date: '2019-01-20T19:21:00+01:00'
 permalink: /2019/vincitore-concorso-fotografico-consanpaolino
 categories:

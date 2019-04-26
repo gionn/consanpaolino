@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chi Siamo
+title: 🎯🥁🏰 Chi Siamo
 permalink: /about
 redirect_from:
   - /balestrieri-lucca

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendario Eventi a Lucca del 2019
+title: 🗓️ Calendario Eventi a Lucca del 2019 🎫
 date: '2019-01-02T14:00:00+01:00'
 permalink: /eventi-lucca-2019
 categories:
