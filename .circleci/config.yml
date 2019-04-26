@@ -44,3 +44,7 @@ jobs:
       - run:
           name: Ping google
           command: curl -sS http://www.google.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
+
+      - run:
+          name: Ping bing
+          command: curl -sS http://www.bing.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
