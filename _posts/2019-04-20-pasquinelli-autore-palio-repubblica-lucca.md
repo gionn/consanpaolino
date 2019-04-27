@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roberto Pasquinelli sarà l’autore del drappo del prossimo palio a Montecarlo"
+title: "Pasquinelli autore del drappo del Palio a Montecarlo"
 date: '2019-04-20T19:12:00+01:00'
 permalink: /2019/roberto-pasquinelli-autore-palio-repubblica-lucca
 categories:
