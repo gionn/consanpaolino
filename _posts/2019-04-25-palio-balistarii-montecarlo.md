@@ -14,14 +14,19 @@ fascino: la Fortezza di Montecarlo.
 
 <!-- more -->
 
-In programma per il 19 Maggio, all’interno dei giardini della Fortezza, la seconda edizione del **Palio dei Balistarii della Repubblica di Lucca** vedrà cimentarsi in un duello a colpi di verretta i balestrieri dell’associazione suddivisi per contrada: *Falcone*, *Granchio*, *Luna* e *Sirena*. Il miglior tiratore si aggiudicherà la vittoria e alla relativa contrada sarà assegnato il Palio dipinto da [Roberto Pasquinelli](/2019/roberto-pasquinelli-autore-palio-repubblica-lucca).
+In programma per il 19 Maggio, all’interno dei giardini della Fortezza, la seconda edizione del **Palio dei Balistarii della Repubblica di Lucca** vedrà cimentarsi in un duello a colpi di verretta i balestrieri dell’associazione suddivisi per contrada: *Falcone*, *Granchio*, *Luna* e *Sirena*. Il miglior tiratore si aggiudicherà la vittoria e alla relativa contrada sarà assegnato il Palio dipinto da [Roberto Pasquinelli](/2019/roberto-pasquinelli-autore-palio-repubblica-lucca), grazie al contributo del *Comune di Montecarlo*.
 
-Alla manifestazione partecipano:
+Alla manifestazione partecipano i seguenti gruppi:
 
-* Balestrieri, tamburini e figuranti di **Contrade San Paolino** di Lucca;
-* I **Falconieri di Madre Terra** di Fivizzano, con i suoi affascinanti rapaci;
-* **Gruppo Storico Casteldurante** di San Ginese di Compito;
-* Stand gastronomico con Ippocrasso artigianale, dolcetti medievali, pasticci salati e dolci, a cura di **M&T associazione culturale culinaria** di Lucca.
+* Balestrieri, tamburini e figuranti dell'associazione **Contrade San Paolino**
+  di Lucca;
+* I **Falconieri di Madre Terra** di Fivizzano, che vi rapirà con i suoi
+  affascinanti rapaci;
+* **Gruppo Storico Casteldurante** di San Ginese di Compito con l'accampamento e
+  i figuranti;
+* **M&T associazione culturale culinaria** di Lucca, con un piccolo stand
+  gastronomico con Ippocrasso artigianale, dolcetti medievali, pasticci salati e
+  dolci.
 
 ## Programma della giornata
 
