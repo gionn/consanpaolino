@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Risultati 3a Disfida della Libertà"
+title: "🎯 Risultati 3a Disfida della Libertà"
 categories:
   - eventi
 permalink: /2019/risultati-3a-disfida-liberta
