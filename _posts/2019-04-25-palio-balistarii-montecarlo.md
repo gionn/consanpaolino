@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📅 2° Palio dei Balistarii della Repubblica di Lucca"
+title: "📣 2° Palio dei Balistarii della Repubblica di Lucca"
 categories:
   - eventi
 permalink: /2019/eventi-palio-balistarii-repubblica-lucca

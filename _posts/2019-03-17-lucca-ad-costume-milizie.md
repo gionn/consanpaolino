@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📅 Lucca A.D. 1350-1410 ~ Il costume delle milizie cittadine"
+title: "📣 Lucca A.D. 1350-1410 ~ Il costume delle milizie cittadine"
 date: '2019-01-24T12:00:00+01:00'
 permalink: /2019/lucca-ad-costume-milizie
 categories:

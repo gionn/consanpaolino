@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "🛡️ Origini della Festa della Libertà di Lucca"
+title: "🛡️ Origini storiche della Festa della Libertà"
 categories:
   - lucca
 image:
-  path: /assets/images/2019/hero/campo-tiri.jpg
+  path: /assets/images/2019/hero/lucca-medievale.jpg
 ---
 
 Con la morte del grande condottiero **Castruccio Castracani** nel 1328, si

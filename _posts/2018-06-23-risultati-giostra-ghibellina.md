@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Risultati 1° Giostra Ghibellina, Montefalco la spunta ma Lucca insegue
+title: 🎯 Risultati 1° Giostra Ghibellina, Montefalco la spunta ma Lucca insegue
 date: '2018-06-25T09:00:00+02:00'
 categories:
   - albo

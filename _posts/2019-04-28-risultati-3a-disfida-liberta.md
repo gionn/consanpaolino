@@ -2,7 +2,7 @@
 layout: post
 title: "🎯 Risultati 3a Disfida della Libertà"
 categories:
-  - eventi
+  - albo
 permalink: /2019/risultati-3a-disfida-liberta
 image:
   path: /assets/images/2019/hero/campo-tiri.jpg

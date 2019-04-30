@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Risultati Frecce e Bandiere di Natale 2018"
+title: "🎯 Risultati Frecce e Bandiere di Natale 2018"
 date: '2018-12-09T08:00:00+01:00'
 permalink: /2018/risultati-frecce-bandiere-natale-lucca
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📅Il Palio delle Contrade San Paolino 2018
+title: "📣 Il Palio delle Contrade San Paolino 2018"
 date: '2018-09-23T08:20:00+02:00'
 permalink: /2018/palio-contrade-san-paolino
 categories:

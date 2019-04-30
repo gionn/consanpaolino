@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Risultati XXXIII Trofeo Nazionale LITAB 2017
+title: 🎯 Risultati XXXIII Trofeo Nazionale LITAB 2017
 date: '2017-06-11T22:23:50+02:00'
 categories:
   - albo
-  - news
 tags:
 - litab
 - balestrieri

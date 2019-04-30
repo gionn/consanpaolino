@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il Granchio vince il Palio dei Balistarii
+title: 🎯 Il Granchio vince il 1° Palio dei Balistarii
 date: '2018-05-20T22:00:00+02:00'
 categories:
   - albo
