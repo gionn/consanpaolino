@@ -35,14 +35,7 @@ indimenticabile. Segue una selezione di eventi a carattere storico-culturale,
 fiere, festival, mostre, spettacoli d'intrattenimento e manifestazioni che si
 tengono a Lucca e provincia durante tutto il 2019.
 
-## Prossimi eventi a Lucca
-
-* **28 Aprile: Festa della Libertà (3a Disfida della Libertà)** - Corteo storico
-  per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
-  di tiro con la balestra antica al [Campo Tiri della Repubblica di
-  Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB<br/>
-  [:mag: Leggi l'articolo](/2019/650-festa-liberta-lucca) o vai all'[evento
-  facebook](https://www.facebook.com/events/2578040852268084).
+## Prossimi eventi a Lucca e dintorni
 
 * **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: giornata
   medievale presso la Rocca del Cerruglio a Montecarlo con accampamento medievale,
@@ -98,6 +91,13 @@ Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella t
   esposizioni, degustazioni, concerti in onore della Camelia. [:mag: vai al sito ufficiale](http://www.camelielucchesia.it/)
 
 * **5-6-7 Aprile - VerdeMura**: mostra mercato del giardinaggio e del vivere all'aria aperta. [:mag: vai al sito ufficiale](https://www.verdemura.it)
+
+* **28 Aprile: Festa della Libertà (3a Disfida della Libertà)** - Corteo storico
+  per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
+  di tiro con la balestra antica al [Campo Tiri della Repubblica di
+  Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB<br/>
+  [:mag: Leggi l'articolo](/2019/650-festa-liberta-lucca) o vai all'[evento
+  facebook](https://www.facebook.com/events/2578040852268084).
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
