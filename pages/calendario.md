@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🗓️ Calendario Eventi a Lucca del 2019 🎫
+title: Calendario prossimi eventi a Lucca
 date: '2019-01-02T14:00:00+01:00'
 permalink: /eventi-lucca-2019
 categories:
@@ -9,6 +9,9 @@ tags:
   - calendario
 redirect_from:
  - /calendario-eventi
+ - /2018-03-17-calendario-eventi-2018-lucca/
+ - /eventi-lucca-2018
+ - /calendario-eventi-lucca-2018
 image:
   path: /assets/images/2018/hero/guinigi.jpg
 ---
@@ -16,7 +19,7 @@ image:
 La **Toscana** è una regione ricca di storia e tradizioni e che custodisce
 luoghi meravigliosi, fra cui la città di [Lucca](/lucca).
 
-Lucca è una città molto antica, probabilmente di origine etrusca ma che ha
+**Lucca** è una città molto antica, probabilmente di origine etrusca ma che ha
 iniziato a svilupparsi a partire dal 180 a.C. come città romana, come ci ricorda
 l'attuale Piazza Anfiteatro. Ma è nel **medioevo** che la città crebbe
 notevolmente, grazie all'antica *Via Francigena* di cui Lucca era una tappa
