@@ -1,8 +1,15 @@
 ---
 layout: page
-title: Newsletter
+title: Iscriviti alla newsletter eventi
 permalink: /newsletter
 ---
+
+Riceverai comodamente nella tua casella di posta tutte le informazioni su **eventi
+e manifestazioni** organizzati a **Lucca e dintorni**, come [Lucca
+Medievale](https://luccamedievale.it), il Palio dei balestrieri e gli spettacoli
+in piazza con falconieri, mangiafuoco e artisti di strada. È l'ideale per non
+perdere nessuno dei [prossimi eventi a Lucca](/calendario-eventi)! Inviamo non
+più di due email al mese da metà primavera a fine autunno, promesso.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -14,10 +21,6 @@ permalink: /newsletter
 <div id="mc_embed_signup">
 <form action="https://consanpaolino.us5.list-manage.com/subscribe/post?u=be5b31284c803823eb8c27688&amp;id=18610a5fa1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <h2>Iscriviti alla nostra newsletter</h2>
-  Riceverai comodamente nella tua casella di posta tutte le informazioni sugli
-  eventi organizzati dall'associazione. È l'ideale per non perdere nessun evento!<br/>
-  Circa una o due email al mese, promesso.
 <div class="indicates-required"><span class="asterisk">*</span> campi obbligatori</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Indirizzo Email (obbligatorio)  <span class="asterisk">*</span>
