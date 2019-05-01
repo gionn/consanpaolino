@@ -36,6 +36,7 @@
     <footer class="entry-meta">
       {% if site.read_time %}{% include read-time.html %}{% endif %}
       {% if entry.date %}{% include entry-date.html %}{% endif %}
+      {% if entry.categories %}{% include entry-category.html %}{% endif %}
     </footer>
   {% endif %}
 </article>

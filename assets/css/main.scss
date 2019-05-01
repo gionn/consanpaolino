@@ -34,3 +34,11 @@ article p {
   font-style: normal;
   text-align: left;
 }
+
+.entry-meta .entry-date + .entry-category::before {
+    content: "\2022";
+    padding: 0 0.5em;
+    font-family: "Lora", serif;
+    font-style: italic;
+    white-space: nowrap;
+}
