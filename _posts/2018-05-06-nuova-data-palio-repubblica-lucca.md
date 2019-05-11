@@ -70,6 +70,6 @@ Non puoi partecipare? Iscriviti alla [newsletter](/newsletter) per non perdere i
   "description": "Gara di balestra in costume medievale fra le contrade di Lucca",
   "endDate": "2018-05-20T19:00+02:00",
   "eventStatus" : "EventRescheduled",
-  "previousStartDate" : "2013-05-01T10:30+02:00",
+  "previousStartDate" : "2013-05-01T10:30+02:00"
 }
 </script>
