@@ -51,9 +51,6 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 * **28 Giugno al 29 Luglio - Lucca Summer Festival**: 17 concerti nell'arco di un mese, artisti sia nazionale che internazionali, nel centro storico di Lucca o sotto gli spalti delle mura. [:mag: Vedi le date dei concerti](https://www.welcome2lucca.com/lucca-summer-festival-2019/)
 
-* **30 Giugno - 2° Giostra Ghibellina**: gara di tiro con la balestra antica al
-  [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/Cz3SQuVr9YE2).
-
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici in
   piazza San Martino (organizzato dal Comune di Lucca)
