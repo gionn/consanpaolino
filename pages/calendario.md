@@ -37,12 +37,6 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 ## Prossimi eventi a Lucca e dintorni
 
-* **19 Maggio - 2° Palio dei Balistarii della Repubblica di Lucca**: giornata
-  medievale presso la Rocca del Cerruglio a Montecarlo con accampamento medievale,
-  falconieri, palio dei balestrieri, dolcetti medievali e ippocrasso!<br/>
-  [:mag: Leggi l'articolo](/2019/eventi-palio-balistarii-repubblica-lucca) o vai
-  all'[evento facebook](https://www.facebook.com/events/2267112130275959/)
-
 * **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
   giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
   Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
@@ -50,6 +44,12 @@ tengono a Lucca e provincia durante tutto il 2019.
   [:mag: Vai al sito dedicato di Lucca Medievale](https://luccamedievale.it) o all'[evento facebook](https://www.facebook.com/events/2088772917854661)
 
 * **28 Giugno al 29 Luglio - Lucca Summer Festival**: 17 concerti nell'arco di un mese, artisti sia nazionale che internazionali, nel centro storico di Lucca o sotto gli spalti delle mura. [:mag: Vedi le date dei concerti](https://www.welcome2lucca.com/lucca-summer-festival-2019/)
+
+* **30 Giugno - 2° Palio dei Balistarii della Repubblica di Lucca**: giornata
+  medievale presso la Rocca del Cerruglio a Montecarlo con accampamento medievale,
+  falconieri, palio dei balestrieri, dolcetti medievali e ippocrasso!<br/>
+  [:mag: Leggi l'articolo](/2019/eventi-palio-balistarii-repubblica-lucca) o vai
+  all'[evento facebook](https://www.facebook.com/events/2267112130275959/)
 
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici in

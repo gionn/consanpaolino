@@ -14,6 +14,8 @@ fascino: la Fortezza di Montecarlo.
 
 <!-- more -->
 
+**ATTENZIONE**: l'evento è stato [posticipato causa maltempo](/2019/rinvio-palio-balistarii-repubblica-lucca).
+
 In programma per il 19 Maggio, all’interno dei giardini della Fortezza, la seconda edizione del **Palio dei Balistarii della Repubblica di Lucca** vedrà cimentarsi in un duello a colpi di verretta i balestrieri dell’associazione suddivisi per contrada: *Falcone*, *Granchio*, *Luna* e *Sirena*. Il miglior tiratore si aggiudicherà la vittoria e alla relativa contrada sarà assegnato il Palio dipinto da [Roberto Pasquinelli](/2019/roberto-pasquinelli-autore-palio-repubblica-lucca), grazie al contributo del *Comune di Montecarlo*.
 
 Alla manifestazione partecipano i seguenti gruppi:
@@ -81,9 +83,10 @@ sostenute per l'organizzazione.
   },
   "name": "2° Palio dei Balistarii della Repubblica di Lucca",
   "description": "Accampamento medievale con falconieri, gara di tiro dei balestrieri, gastronomia medievale.",
-  "eventStatus": "EventScheduled",
-  "startDate": "2019-05-19T09:00",
-  "endDate": "2019-05-19T16:30",
+  "eventStatus": "EventRescheduled",
+  "previousStartDate": "2019-05-19T09:00",
+  "startDate": "2019-06-30T09:00",
+  "endDate": "2019-06-30T16:30",
   "url": "https://consanpaolino.org/2019/eventi-palio-balistarii-repubblica-lucca"
 }
 </script>
