@@ -36,6 +36,7 @@ social:
     - https://www.facebook.com/consanpaolino
     - https://www.instagram.com/consanpaolino/
     - https://plus.google.com/+ConsanpaolinoOrg
+    - https://t.me/consanpaolino
 lang: it_IT
 exclude:
   - bin
@@ -129,6 +130,9 @@ footer_links:
   - title: youtube
     url: https://www.youtube.com/channel/UC8fqZye7eBrSWTbd5dzyUCg
     icon: fab fa-youtube
+  - title: telegram
+    url: https://t.me/consanpaolino
+    icon: fab fa-telegram
 
 jekyll-minifier:
   exclude: 'robots.txt'
