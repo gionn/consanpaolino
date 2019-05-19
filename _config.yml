@@ -1,5 +1,6 @@
 theme: jekyll-theme-so-simple
 locale: it
+lang: it_IT
 title: "🎯 Contrade San Paolino 🥁"
 description: "Associazione di rievocazione storica a Lucca: balestrieri, tamburi e molto altro."
 copyright: |
@@ -38,7 +39,6 @@ social:
     - https://www.instagram.com/consanpaolino/
     - https://plus.google.com/+ConsanpaolinoOrg
     - https://t.me/consanpaolino
-lang: it_IT
 exclude:
   - bin
   - package.json
