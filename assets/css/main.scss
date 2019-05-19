@@ -18,6 +18,14 @@ article p {
   text-align: justify;
 }
 
+.page-content a {
+  font-weight: bolder;
+}
+
+.page-content a:hover {
+  background-color: lightsalmon;
+}
+
 .intro-header {
   margin-bottom: 2rem;
 }
