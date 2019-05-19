@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cartellonistica di sicurezza per l'accesso al campo tiri"
+title: "⚠️ Cartellonistica di sicurezza per l'accesso al campo tiri"
 categories:
   - litab
 image:
