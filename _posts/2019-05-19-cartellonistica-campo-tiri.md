@@ -28,4 +28,4 @@ Le regole contenute nel cartello sono:
 Per i fratelli d'arme che desiderino adattare e riutilizzare il nostro cartello,
 pubblichiamo qui i sorgenti in formato DOC di libero utilizzo:
 
-* Download [cartello divieto campo tiri.odt :floppy_disk:](https://github.com/gionn/litab/raw/master/cartello%20divieto%20campo%20tiri.odt)
+[:floppy_disk: Download cartello divieto campo tiri.odt](https://github.com/gionn/litab/raw/master/cartello%20divieto%20campo%20tiri.odt)
