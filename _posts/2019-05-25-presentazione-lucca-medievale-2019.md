@@ -39,6 +39,13 @@ la presenza del gruppo lucchese di Fuoricentro Danza con l’ormai consueta
 esibizione di **danza del ventre** e il gruppo **danze storiche** della
 Compagnia Balestrieri Lucca.
 
+Per gli appassionati di sartoria storica, la docente universitaria **Sara
+Piccolo Paci** torna a Lucca con una conferenza dal titolo *"È uno sporco
+lavoro, ma qualcuno deve pur farlo! Abiti da lavoro nel medioevo"*, dove si
+parlerà di materiali, tecniche, vestibilità e innovazione negli abiti del
+passato, in programma per le 11.00 di domenica 2 Giugno all'interno del Museo
+della Zecca, adiacente all'area della manifestazione.
+
 Altra importante novità di quest’anno riguarda l’area enogastronomica, con un
 menù completamente rinnovato all’insegna della **tradizione e del chilometro
 0**, grazie alla preziosa collaborazione con l’oste della *Bottega di Anna e
