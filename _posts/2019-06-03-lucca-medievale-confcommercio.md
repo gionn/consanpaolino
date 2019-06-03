@@ -9,9 +9,9 @@ image:
 
 Si è conclusa la quarta edizione di *Lucca Medievale* con una affluenza di
 pubblico in linea con la precedente edizione in Piazzale Verdi. Tante le
-soddisfazioni per l’associazione Contrade San Paolino, promotrice dell’evento,
-grazie all’alto interesse dimostrato dal pubblico attorno all’area del tiro con
-la balestra, sia per i risultati sportivi ottenuti nella gara di domenica con la
+soddisfazioni per la nostra associazione che ha promosso l’evento, grazie
+all’alto interesse dimostrato dal pubblico attorno all’area del tiro con la
+balestra, sia per i risultati sportivi ottenuti nella gara di domenica con la
 *Compagnia Balestrieri di Norcia*.
 
 <!-- more -->
@@ -33,21 +33,19 @@ dai responsabili dell’associazione, quando sono state **rinvenute divelte** le
 targhette con il nome dell’associazione che erano affisse alle porte della sede
 situata sotto Porta San Pietro.
 
-L’associazione **non si fermerà** di fronte a gesti pavidi e promette maggior
+L’associazione **non si fermerà** di fronte a gesti pavidi e promettiamo maggior
 impegno nell’organizzazione e promozione di attività sul territorio di Lucca,
-finché continueranno ad avere il supporto e la partecipazione della
+finché continueremo ad avere il supporto e la partecipazione della
 cittadinanza.
 
 <figure class="align-center">
   <a href="{{ 'assets/images/2019/lucca-medievale/targhetta-porta-divelta-01.jpeg' | absolute_url }}">
-    <img src="{{ 'assets/images/2019/lucca-medievale/targhetta-porta-divelta-01.jpeg' | absolute_url }}" alt="">
+    <img src="{{ 'assets/images/2019/lucca-medievale/targhetta-porta-divelta-01.jpeg' | absolute_url }}" alt="porta san pietro contrade danneggiate">
   </a>
-  <figcaption></figcaption>
 </figure>
 
 <figure class="align-center">
   <a href="{{ 'assets/images/2019/lucca-medievale/targhetta-porta-divelta-02.jpeg' | absolute_url }}">
-    <img src="{{ 'assets/images/2019/lucca-medievale/targhetta-porta-divelta-02.jpeg' | absolute_url }}" alt="">
+    <img src="{{ 'assets/images/2019/lucca-medievale/targhetta-porta-divelta-02.jpeg' | absolute_url }}" alt="porta san pietro contrade danneggiate">
   </a>
-  <figcaption></figcaption>
 </figure>
