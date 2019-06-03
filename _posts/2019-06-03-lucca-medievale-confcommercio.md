@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lucca Medievale è un successo e attira le invidie dei commercianti del centro storico"
+title: "😠 Lucca Medievale è un successo e attira le invidie dei commercianti del centro storico"
 categories:
   - news
 image:
