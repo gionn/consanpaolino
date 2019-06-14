@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "📖 È uno sporco lavoro ma qualcuno deve pur farlo - Sara Piccolo Paci"
+title: "📚 È uno sporco lavoro ma qualcuno deve pur farlo - Sara Piccolo Paci"
 categories:
   - news
 ---
 
- Per gli appassionati di sartoria storica, la docente universitaria Sara Piccolo
- Paci è tornata a Lucca per Lucca Medievale 2019, con una conferenza dal titolo
- "È uno sporco lavoro, ma qualcuno deve pur farlo! Abiti da lavoro nel
- medioevo", dove ha parlato di materiali, tecniche, vestibilità e innovazione
- negli abiti del passato, il 2 Giugno 2019 presso il Museo della Zecca. 
+ Per gli appassionati di sartoria storica, la docente universitaria [Sara
+ Piccolo Paci](https://www.sarapacipiccolo.com/) è tornata a Lucca per Lucca
+ Medievale 2019, con una conferenza dal titolo "È uno sporco lavoro, ma qualcuno
+ deve pur farlo! Abiti da lavoro nel medioevo", dove ha parlato di materiali,
+ tecniche, vestibilità e innovazione negli abiti del passato, il 2 Giugno 2019
+ presso il Museo della Zecca. 
 
  <!-- more -->
 
