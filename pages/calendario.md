@@ -37,12 +37,6 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 ## Prossimi eventi a Lucca e dintorni
 
-* **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
-  giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
-  Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
-  balestrieri, scherma medievale, falconeria, artigianato medievale, intrattenimento per grandi e piccini, gastronomia e molto altro ancora.<br/>
-  [:mag: Vai al sito dedicato di Lucca Medievale](https://luccamedievale.it) o all'[evento facebook](https://www.facebook.com/events/2088772917854661)
-
 * **28 Giugno al 29 Luglio - Lucca Summer Festival**: 17 concerti nell'arco di un mese, artisti sia nazionale che internazionali, nel centro storico di Lucca o sotto gli spalti delle mura. [:mag: Vedi le date dei concerti](https://www.welcome2lucca.com/lucca-summer-festival-2019/)
 
 * **30 Giugno - 2° Palio dei Balistarii della Repubblica di Lucca**: giornata
@@ -79,6 +73,12 @@ Il programma dettagliato di ogni evento sarà disponibile nelle settimane immedi
 Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella tua casella di posta non appena sarà disponibile!
 
 ## Eventi che potresti aver perso
+
+* **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
+  giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
+  Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
+  balestrieri, scherma medievale, falconeria, artigianato medievale, intrattenimento per grandi e piccini, gastronomia e molto altro ancora.<br/>
+  [:mag: Vai al sito dedicato di Lucca Medievale](https://luccamedievale.it) o all'[evento facebook](https://www.facebook.com/events/2088772917854661)
 
 * **28 Aprile: Festa della Libertà (3a Disfida della Libertà)** - Corteo storico
   per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
