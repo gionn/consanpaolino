@@ -25,6 +25,10 @@ vittoria e alla relativa contrada sarà assegnato il Palio dipinto da [Roberto
 Pasquinelli](/2019/roberto-pasquinelli-autore-palio-repubblica-lucca), grazie al
 contributo del *Comune di Montecarlo*.
 
+Il palio sarà presentato al pubblico questo **sabato 22 Giugno alle ore 17.00**,
+presso la Fortezza di Montecarlo, in concomitanza con la manifestazione di
+Ritorno al Medioevo, organizzata dal Gruppo Storico Montecarlese.
+
 Alla manifestazione partecipano i seguenti gruppi:
 
 * Balestrieri, tamburini e figuranti dell'associazione **Contrade San Paolino**
@@ -33,6 +37,7 @@ Alla manifestazione partecipano i seguenti gruppi:
   affascinanti rapaci;
 * **Gruppo Storico Casteldurante** di San Ginese di Compito con l'accampamento e
   i figuranti;
+* **Gruppo Storico Montecarlese** per il corteo storico;
 * **M&T associazione culturale culinaria** di Lucca, con un piccolo stand
   gastronomico con Ippocrasso artigianale, dolcetti medievali, pasticci salati e
   dolci.
