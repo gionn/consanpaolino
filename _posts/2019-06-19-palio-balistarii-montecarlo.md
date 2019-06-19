@@ -31,9 +31,9 @@ Ritorno al Medioevo, organizzata dal Gruppo Storico Montecarlese.
 
 Alla manifestazione partecipano i seguenti gruppi:
 
-* Balestrieri, tamburini e figuranti dell'associazione **Contrade San Paolino**
-  di Lucca;
-* I **Falconieri di Madre Terra** di Fivizzano, che vi rapirà con i suoi
+* **Contrade San Paolino** di Lucca con i balestrieri, tamburini e figuranti
+  dell'associazione;
+* **I Falconieri di Madre Terra** di Fivizzano, che vi stupirà con i suoi
   affascinanti rapaci;
 * **Gruppo Storico Casteldurante** di San Ginese di Compito con l'accampamento e
   i figuranti;
