@@ -14,14 +14,17 @@ fascino: la Fortezza di Montecarlo.
 
 <!-- more -->
 
-**ATTENZIONE**: l'evento è stato [posticipato causa maltempo al 30 Giugno](/2019/rinvio-palio-balistarii-repubblica-lucca).
+**ATTENZIONE**: programma aggiornato il 28/06 a causa dell'ondata di caldo,
+controlla i nuovi orari!
 
-Inizialmente in programma per il 19 Maggio e rimandato per maltempo al **30
-Giugno**, all’interno dei giardini della Fortezza, la seconda edizione del
-**Palio dei Balistarii della Repubblica di Lucca** vedrà cimentarsi in un duello
-a colpi di verretta i balestrieri dell’associazione suddivisi per contrada:
-*Falcone*, *Granchio*, *Luna* e *Sirena*. Il miglior tiratore si aggiudicherà la
-vittoria e alla relativa contrada sarà assegnato il Palio dipinto da [Roberto
+Inizialmente in programma per il [19
+Maggio](/2019/rinvio-palio-balistarii-repubblica-lucca) e rimandato per maltempo
+al **30 Giugno**, all’interno dei giardini della Fortezza, la seconda edizione
+del **Palio dei Balistarii della Repubblica di Lucca** vedrà cimentarsi in un
+duello a colpi di verretta i balestrieri dell’associazione suddivisi per
+contrada: *Falcone*, *Granchio*, *Luna* e *Sirena*. Il miglior tiratore si
+aggiudicherà la vittoria e alla relativa contrada sarà assegnato il Palio
+dipinto da [Roberto
 Pasquinelli](/2019/roberto-pasquinelli-autore-palio-repubblica-lucca), grazie al
 contributo del *Comune di Montecarlo*.
 
@@ -38,16 +41,17 @@ Alla manifestazione partecipano i seguenti gruppi:
 * **Gruppo Storico Casteldurante** di San Ginese di Compito con l'accampamento e
   i figuranti;
 * **Gruppo Storico Montecarlese** per il corteo storico;
-* **M&T associazione culturale culinaria** di Lucca, con un piccolo stand
-  gastronomico con Ippocrasso artigianale, dolcetti medievali, pasticci salati e
-  dolci.
 
 ## Programma della giornata
 
-* Ore 11.00 - apertura del villaggio medievale, tiri di prova dei balestrieri
-* Ore 15.00 - corteo storico per le vie del centro storico, Palio dei balestrieri
-* Ore 17.00 - dimostrazione di volo con i Falconieri di Madre Terra
-* Ore 18.30 - chiusura del villaggio medievale
+Attenzione: programma modificato il 28/06 a causa dell'ondata di caldo
+
+* Ore 10.00 - Apertura dell'accampamento medievale, tiri di prova dei balestrieri
+* Ore 17.00 - Palio dei balestrieri
+* Ore 18.00 - Corteo storico per le vie del centro di Montecarlo
+* Ore 19.00 - Premiazione dei vincitori e saluti delle autorità
+* Ore 19.30 - Dimostrazione di volo a cura dei falconieri
+* Ore 20.00 - Chiusura dell’accampamento medievale
 
 Per l'ingresso è richiesto un **contributo  di 2 €** (i minori accompagnati
 entrano gratuitamente), che consente di accedere alla manifestazione e a tutto
@@ -98,7 +102,7 @@ sostenute per l'organizzazione.
   "eventStatus": "EventRescheduled",
   "previousStartDate": "2019-05-19T09:00",
   "startDate": "2019-06-30T09:00",
-  "endDate": "2019-06-30T16:30",
+  "endDate": "2019-06-30T18:00",
   "url": "https://consanpaolino.org/2019/eventi-palio-balistarii-repubblica-lucca"
 }
 </script>
