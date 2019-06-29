@@ -17,18 +17,16 @@ fascino: la Fortezza di Montecarlo.
 **ATTENZIONE**: programma aggiornato il 28/06 a causa dell'ondata di caldo,
 controlla i nuovi orari!
 
-Inizialmente in programma per il [19
-Maggio](/2019/rinvio-palio-balistarii-repubblica-lucca) e rimandato per maltempo
-al **30 Giugno**, all’interno dei giardini della Fortezza, la seconda edizione
-del **Palio dei Balistarii della Repubblica di Lucca** vedrà cimentarsi in un
-duello a colpi di verretta i balestrieri dell’associazione suddivisi per
-contrada: *Falcone*, *Granchio*, *Luna* e *Sirena*. Il miglior tiratore si
-aggiudicherà la vittoria e alla relativa contrada sarà assegnato il Palio
-dipinto da [Roberto
+In programma per il **30 Giugno** all’interno dei giardini della Fortezza di
+Montecarlo, la seconda edizione del **Palio dei Balistarii della Repubblica di
+Lucca** vedrà cimentarsi in un duello a colpi di verretta i balestrieri
+dell’associazione suddivisi per contrada: *Falcone*, *Granchio*, *Luna* e
+*Sirena*. Il miglior tiratore si aggiudicherà la vittoria e alla relativa
+contrada sarà assegnato il Palio dipinto da [Roberto
 Pasquinelli](/2019/roberto-pasquinelli-autore-palio-repubblica-lucca), grazie al
 contributo del *Comune di Montecarlo*.
 
-Il palio sarà presentato al pubblico questo **sabato 22 Giugno alle ore 17.00**,
+Il palio è stato presentato al pubblico **sabato 22 Giugno alle ore 17.00**,
 presso la Fortezza di Montecarlo, in concomitanza con la manifestazione di
 Ritorno al Medioevo, organizzata dal Gruppo Storico Montecarlese.
 
