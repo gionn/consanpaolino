@@ -42,7 +42,7 @@ balestriere terzo classificato la verretta scoccata durante la gara.
 Soddisfatto il presidente delle contrade Paolo Gianni per la riuscita della
 manifestazione e della fattiva collaborazione con il Comune di Montecarlo
 (sindaco, vicesindaco, ufficio cultura e polizia municipale), con la famiglia
-Menchini che gestisce la Fortezza di Montecarlo e tutti i gruppi storici che
+Menchini proprietaria della Fortezza di Montecarlo e tutti i gruppi storici che
 hanno preso parte alla manifestazione, auspicando in una nuova fruttuosa
 collaborazione nel 2020 per una Montecarlo sempre più all'insegna del medioevo.
 
