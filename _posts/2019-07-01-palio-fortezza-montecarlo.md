@@ -46,4 +46,4 @@ Menchini proprietaria della Fortezza di Montecarlo e tutti i gruppi storici che
 hanno preso parte alla manifestazione, auspicando in una nuova fruttuosa
 collaborazione nel 2020 per una Montecarlo sempre più all'insegna del medioevo.
 
-Presto online l'album con le foto!
+* Guarda l'[album delle nostre foto](https://photos.app.goo.gl/K5QAcyQYzJtbFqrs9)
