@@ -44,4 +44,6 @@ responsabile dell’associazione.
 In caso di mancato raggiungimento del numero minimo di persone, la trasferta in
 bus sarà annullata e le caparre saranno restituite.
 
+Se hai altri dubbi o domande, [contattaci](/contatti)!
+
 Grazie della collaborazione!
