@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🚌 Gita a Gualdo Tadino"
+title: "🚌 Gita a Gualdo Tadino da Lucca"
 categories:
   - news
 permalink: /2019/gita-gualdo-tadino
