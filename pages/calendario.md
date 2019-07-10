@@ -2,6 +2,8 @@
 layout: page
 title: Calendario prossimi eventi a Lucca
 date: '2019-01-02T14:00:00+01:00'
+seo:
+  date_modified: '2019-07-10T20:40:00+02:00'
 permalink: /eventi-lucca-2019
 categories:
   - eventi
@@ -37,29 +39,32 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 ## Prossimi eventi a Lucca e dintorni
 
-* **28 Giugno al 29 Luglio - Lucca Summer Festival**: 17 concerti nell'arco di un mese, artisti sia nazionale che internazionali, nel centro storico di Lucca o sotto gli spalti delle mura. [:mag: Vedi le date dei concerti](https://www.welcome2lucca.com/lucca-summer-festival-2019/)
+* **28 Giugno al 29 Luglio - Lucca Summer Festival**: 17 concerti nell'arco di
+  un mese, artisti sia nazionale che internazionali, nel centro storico di Lucca
+  o sotto gli spalti delle mura.<br/>
+  [:mag: Vedi le date dei concerti](https://www.welcome2lucca.com/lucca-summer-festival-2019/)
 
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici in
-  piazza San Martino (organizzato dal Comune di Lucca).
+  piazza San Martino (organizzato dal Comune di Lucca).<br/>
   [:mag: Leggi l'articolo](/2019/giorni-san-paolino) o vai
   all'[evento facebook](https://www.facebook.com/events/631569770586405/)
 
 * **12 Luglio - Palio di San Paolino**: palio dei balestrieri in piazza San
-  Martino (organizzato dal Comune di Lucca)
+  Martino (organizzato dal Comune di Lucca).<br/>
   [:mag: Leggi l'articolo](/2019/giorni-san-paolino) o vai
   all'[evento facebook](https://www.facebook.com/events/631569770586405/)
+
+* **7-8 Settembre - Campionato Italiano Balestra antica**: i balestrieri delle
+  Contrade saranno in trasferta a Montefalco (PG) in occasione della
+  35° competizione nazionale a cui prenderanno parte le 12 città che compongono la
+  Lega Italiana Tiro Alla Balestra, per un weekend fra sport e medioevo.
 
 * **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
   città (organizzato dal Comune di Lucca)
 
 * **15 Settembre - Palio della Santa Croce**: palio dei balestrieri in piazza
   San Michele (organizzato dal Comune di Lucca)
-
-* **29 Settembre - 3° Palio delle Contrade San Paolino**: gara di tiro con la
-  balestra antica nel giardino all'interno di Porta San Donato e corteo storico
-  per le vie della città (location e data da confermare - non accolto nel
-  ViviLucca 2019)
 
 * **30 Ottobre al 3 Novembre - Lucca Comics&Games**: festival internazionale del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: vai al sito ufficiale](https://www.luccacomicsandgames.com)
 
