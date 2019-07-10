@@ -39,18 +39,16 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 * **28 Giugno al 29 Luglio - Lucca Summer Festival**: 17 concerti nell'arco di un mese, artisti sia nazionale che internazionali, nel centro storico di Lucca o sotto gli spalti delle mura. [:mag: Vedi le date dei concerti](https://www.welcome2lucca.com/lucca-summer-festival-2019/)
 
-* **30 Giugno - 2° Palio dei Balistarii della Repubblica di Lucca**: giornata
-  medievale presso la Rocca del Cerruglio a Montecarlo con accampamento medievale,
-  falconieri, palio dei balestrieri, dolcetti medievali e ippocrasso!<br/>
-  [:mag: Leggi l'articolo](/2019/eventi-palio-balistarii-repubblica-lucca) o vai
-  all'[evento facebook](https://www.facebook.com/events/2267112130275959/)
-
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici in
-  piazza San Martino (organizzato dal Comune di Lucca)
+  piazza San Martino (organizzato dal Comune di Lucca).
+  [:mag: Leggi l'articolo](/2019/giorni-san-paolino) o vai
+  all'[evento facebook](https://www.facebook.com/events/631569770586405/)
 
 * **12 Luglio - Palio di San Paolino**: palio dei balestrieri in piazza San
   Martino (organizzato dal Comune di Lucca)
+  [:mag: Leggi l'articolo](/2019/giorni-san-paolino) o vai
+  all'[evento facebook](https://www.facebook.com/events/631569770586405/)
 
 * **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
   città (organizzato dal Comune di Lucca)
@@ -73,6 +71,12 @@ Il programma dettagliato di ogni evento sarà disponibile nelle settimane immedi
 Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella tua casella di posta non appena sarà disponibile!
 
 ## Eventi che potresti aver perso
+
+* **30 Giugno - 2° Palio dei Balistarii della Repubblica di Lucca**: giornata
+  medievale presso la Rocca del Cerruglio a Montecarlo con accampamento medievale,
+  falconieri, palio dei balestrieri, dolcetti medievali e ippocrasso!<br/>
+  [:mag: Leggi l'articolo](/2019/eventi-palio-balistarii-repubblica-lucca) o vai
+  all'[evento facebook](https://www.facebook.com/events/2267112130275959/)
 
 * **1-2 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
   giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
