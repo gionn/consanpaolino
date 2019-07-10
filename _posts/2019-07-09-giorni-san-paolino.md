@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📆 San Paolino: 3 giorni di medioevo"
+title: "📣 San Paolino: 3 giorni di medioevo"
 categories:
   - eventi
 permalink: /2019/giorni-san-paolino

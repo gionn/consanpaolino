@@ -2,7 +2,7 @@
 layout: post
 title: "🔥 Ecco la quarta Lucca Medievale"
 categories:
-  - news
+  - eventi
 image:
   path: /assets/images/2019/lucca-medievale-presentazione.jpg
 ---

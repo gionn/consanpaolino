@@ -2,7 +2,7 @@
 layout: post
 title: "🏆 Il falcone vince il 2° Palio dei Balistarii"
 categories:
-  - news
+  - albo
 permalink: /2019/falcone-palio-balistarii
 image:
   path: /assets/images/2019/hero/palio-balistarii.jpg
