@@ -9,7 +9,7 @@ redirect_from:
 Associazione Contrade di San Paolino<br/>
 Sortita Porta San Pietro, 1/3<br/>
 55100 - Lucca (LU) - Italy<br/>
-CF 9205057046<br/>
+CF 92050570461<br/>
 
 **Email** consanpaolino@gmail.com
 
