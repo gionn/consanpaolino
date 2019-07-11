@@ -19,12 +19,12 @@ rievocare le origini e la storia di Lucca durante il periodo medioevale. È
 iscritta nel **registro del volontariato** (legge 266/91) dal 6 Febbraio 2004 al
 nr. 31, ed è inserita nell'**elenco regionale delle associazioni e
 manifestazioni di rievocazione e ricostruzione storica**, previsti dalla Legge
-Regionale 5/2012. Il periodo storico di riferimento è quello della metà del XIV
+Regionale 5/2012. Il periodo storico di riferimento è quello di fine XIV
 secolo.
 
 ![regione toscana](/images/regtosc.png){: .align-right}
 
-Dal 1994, anno della prima edizione, organizza ogni anno la sera dell'11 Luglio
+Dal 1994, anno della prima edizione, organizza la sera dell'11 Luglio
 la **Luminara di San Paolino**, un corteggio per le vie del centro storico di
 Lucca fino alla Basilica di San Paolino a cui partecipano i vari gruppi storici
 della lucchesia e gruppi amici dell'associazione. L'intera città viene immersa
@@ -34,25 +34,25 @@ alla Luminara di Santa Croce organizzata dal Comune di Lucca per il calendario
 del *Settembre Lucchese*, la sera del 13 Settembre.
 
 Durante il mese di giugno, dal 2015, organizza la manifestazione **Lucca
-Medievale** che comprende, in due giorni di allestimento in piazza: mercatino
-medievale, spettacoli di strada, esibizioni di falconeria, musica e il Torneo
-dei Balestrieri in Onore de lo Santo Francesco. L'edizione 2018 ha superato
-tutte le aspettative di partecipazione da parte del pubblico che fa presagire
-buone prospettive di crescita per il futuro.
+Medievale** che presenta, in due giorni di allestimento in piazza: il villaggio
+degli artigiani, spettacoli di strada, esibizioni di falconeria, musica e il
+Torneo dei Balestrieri in Onore de lo Santo Francesco. Con lo spostamento in
+Piazzale Verdi dal 2018, ha superato tutte le aspettative di partecipazione da
+parte del pubblico che fa sperare in buone prospettive di crescita per il
+futuro.
 
 ![litab lega italiana tiro alla balestra](/images/litab.gif){: .align-right}
 
 L'associazione è iscritta alla **Lega Italiana Tiro Alla Balestra** (LITAB) dal
 1995, e ogni anno è impegnata a tenere alto il nome di Lucca durante il
-campionato nazionale a cui partecipano 13 città provenienti da tutta Italia. Ha
-organizzato a Barga nel settembre 2003 la 19esima edizione del Campionato
-Italiano di Balestra Antica da Banco, e a Lucca la [34esima edizione a settembre
+Campionato Italiano di Balestra Antica da Banco a cui partecipano 13 città
+provenienti da tutta Italia. Ha organizzato a Barga nel settembre 2003 la
+19esima edizione e a Lucca la [34esima edizione a settembre
 2018](/campionato-litab-lucca-2018).
 
 A fine 2016, il Comune di Lucca concede in affitto all’associazione un terreno
-incolto a Pontetetto (LU), che è stato riqualificato e inaugurato come il [Campo
-Tiri della Repubblica di
-Lucca](https://consanpaolino.org/2017-05-15-inaugurato-il-campo-tiri-della-repubblica-di-lucca/)
+incolto a Pontetetto (LU), che è stato riqualificato e inaugurato come il
+[Campo Tiri della Repubblica di Lucca](https://consanpaolino.org/2017-05-15-inaugurato-il-campo-tiri-della-repubblica-di-lucca/)
 nel giugno 2017 ed è tutt'oggi utilizzato per gli allenamenti e le gare dei
 balestrieri.
 
@@ -73,7 +73,7 @@ di **Palio dei Balistarii della Repubblica di Lucca**, come voluto da Castruccio
 Castracani nell'[ordo pro balistarii](/ordo-pro-balistarii), al quale possono
 partecipare tutti i possessori di balestra di Lucca che ne facciano richiesta.
 
-Oltre ai balestrieri, il gruppo dei giovani tamburini, insieme ai figuranti,
+Oltre ai balestrieri, il gruppo dei giovani tamburini, insieme ai popolani,
 contribuiscono a creare e mantenere un importante punto di aggregazione sociale
 per tutti gli abitanti di Lucca e zone limitrofe, interessati a conoscerne la
 storia e riviverla in prima persona.
