@@ -13,6 +13,8 @@ dell'anno 1000 era divisa in cinque regioni, quattro portavano i nomi delle
 porte della città: S. Pietro, S. Gervasio, S. Donato e S. Frediano e una Porta
 di Borgo S. Frediano (attualmente Porta di Borgo).
 
+<!-- more -->
+
 Ciascuna Regione con elezioni popolari eleggeva il **gonfaloniere** che regolava
 la vita civile e sociale della comunità di appartenenza. Le Regioni vennero
 divise in **contrade** sotto la reggenza di un **priore** e in ogni contrada,
@@ -20,8 +22,6 @@ oltre alla magistratura civile, esisteva una divisione militare detta Società
 d'Armi del popolo che venne istituita nel 1198. A seguito del naturale aumento
 della popolazione e l'ampliamento del perimetro della città il numero delle
 contrade aumentò fino a diciassette.
-
-<!-- more -->
 
 Diversi cambiamenti sconvolsero la vita lucchese e in una riunione del 2
 febbraio 1370 gli Anziani della città nominarono **L'Offizio** composta da
