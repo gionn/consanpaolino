@@ -49,22 +49,23 @@ correttezza e spirito associativo della Compagnia Balestrieri Lucca.
 L’anno scorso la Compagnia replicò alla medesima contestazione da parte di
 Contrade San Paolino dichiarando nell’articolo pubblicato sul giornale la
 Nazione “al mio matrimonio invito chi mi pare”, ignorando il non trascurabile
-particolare del **totale finanziamento pubblico** delle loro manifestazioni e che
-tali eventi riguardino celebrazioni della città di Lucca, di cui non sono gli
-esclusivi rappresentanti. Quest’anno invece, nell’ultima riunione effettuata in
-comune a cui hanno preso parte tutti i principali gruppi storici di Lucca, è
+particolare del **totale finanziamento pubblico** delle loro manifestazioni e
+che tali eventi riguardino celebrazioni della città di Lucca, di cui non sono
+gli esclusivi rappresentanti. Quest’anno invece, nell’ultima riunione effettuata
+in comune a cui hanno preso parte tutti i principali gruppi storici di Lucca, è
 stato comunicato dapprima che Contrade San Paolino non poteva esser invitata a
 partecipare al Palio perché “possono parteciparvi per motivi di sicurezza solo i
 soci della Compagnia Balestrieri in quanto organizzatrice e responsabile
 dell’evento”, mentre in un secondo momento la Compagnia Balestrieri Lucca ha
 formalmente invitato Contrade San Paolino a partecipare al Palio ma con la
-clausola che sarebbero stati **ammessi al tiro soltanto 5 balestrieri**, nonostante
-l’associazione sia composta da 27 balestrieri in attività che hanno tutto il
-diritto, e il piacere, di partecipare al Palio in onore del santo patrono della
-propria città, e in barba al tanto sbandierato **Ordo Pro Balistari** in cui si
-sancisce che al Palio cittadino possono partecipare tutti i possessori di
-balestra nell’arco delle sei miglia dalla città: c’è forse paura di un confronto
-diretto o addirittura di perdere il tanto ambito Palio?
+clausola che sarebbero stati **ammessi al tiro soltanto 5 balestrieri**,
+nonostante l’associazione sia composta da 27 balestrieri in attività che hanno
+tutto il diritto, e il piacere, di partecipare al Palio in onore del santo
+patrono della propria città, e in barba al tanto sbandierato [Ordo Pro
+Balistari](/ordo-pro-balistarii) in cui si sancisce che al Palio cittadino
+possono partecipare tutti i possessori di balestra nell’arco delle sei miglia
+dalla città: c’è forse paura di un confronto diretto o addirittura di perdere il
+tanto ambito Palio?
 
 L’invito è stato fermamente declinato dall’associazione Contrade San Paolino,
 ritenendolo l’**ennesima discriminazione sleale e antisportiva** nei propri
