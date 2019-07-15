@@ -29,21 +29,14 @@ Di seguito il programma del trasferimento in bus (prevista una sosta a metà per
 * Ore 19.30 - Partenza direzione Lucca
 * Ore 23.30 - Arrivo a Lucca
 
-Il costo del bus è di **20 euro a persona**, e per l’iscrizione è necessario
-versare una caparra di 10 euro a persona come conferma (la quota restante sarà
-saldata al momento della partenza).
+Il costo del bus è di soli **20 euro a persona**, da versare direttamente  al
+momento della partenza.
 
 Per iscriversi e riservare i propri posti è sufficiente compilare
 [questo modulo](https://forms.gle/Dga5iu5jfmWVw2Fy8).
 
-La caparra si può versare subito online tramite [Paypal](https://paypal.me/pools/c/8geh5pmdoT)
-oppure tramite bonifico bancario (i dati per effettuare il versamento saranno comunicati via mail).
-
 Per la conferma finale sarete ricontattati via email o cellulare da un
 responsabile dell’associazione.
-
-In caso di mancato raggiungimento del numero minimo di persone, la trasferta in
-bus sarà annullata e le caparre saranno restituite.
 
 Se hai altri dubbi o domande, [contattaci](/contatti)!
 
