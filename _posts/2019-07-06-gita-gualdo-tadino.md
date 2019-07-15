@@ -21,7 +21,8 @@ noi è caldamente invitato a partecipare!
 
 Di seguito il programma del trasferimento in bus (prevista una sosta a metà percorso, per un totale di 4 ore di viaggio):
 
-* Ore 05.00 - Ritrovo al Palazzetto dello Sport a Lucca
+* Ore 05.00 - Ritrovo al [Campo Tiri in Via Pattana, Pontetetto
+  (LU)](https://goo.gl/maps/PbVDaMqN8E8dwPc58)
 * Ore 05.30 - Partenza direzione Gualdo Tadino
 * Ore 09.30 - Arrivo a Gualdo Tadino centro
 * Ore 19.00 - Ritrovo per il rientro dal luogo di arrivo
