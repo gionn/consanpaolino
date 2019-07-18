@@ -29,9 +29,16 @@ La classifica finale:
 * Terzo et meliore: Toraldo Giovanni (ACSP - Contrada del Granchio)
 * Quarto et meliore: Puccetti Stefano (ACSP - Contrada della Sirena)
 
+## Ordine di tiro
+
 <figure class="align-center">
   <a href="{{ 'assets/images/2019/palio-san-paolino/ordine-tiro-estratto-san-paolino-2019.jpg' | absolute_url }}">
     <img src="{{ 'assets/images/2019/palio-san-paolino/ordine-tiro-estratto-san-paolino-2019.jpg' | absolute_url }}" alt="">
   </a>
   <figcaption>L'ordine di tiro estratto a sorte la sera della Luminara</figcaption>
 </figure>
+
+## Video
+
+* [Un palio di San Paolino da ...Oscar; vince Bianchini della Compagnia Balestrieri](https://youtu.be/qedpEb6INLE)
+* [Diretta del 45° Palio di San Paolino](https://youtu.be/aIWUnILTX24)
