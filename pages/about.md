@@ -69,9 +69,8 @@ dell'associazione](http://www.blurb.com/b/8353950-contrade-san-paolino-2017)
 tramite l'editore online Blurb.
 
 Nel 2018, prende vita il secondo palio cittadino nel mese di Maggio, con il nome
-di **Palio dei Balistarii della Repubblica di Lucca**, come voluto da Castruccio
-Castracani nell'[ordo pro balistarii](/ordo-pro-balistarii), al quale possono
-partecipare tutti i possessori di balestra di Lucca che ne facciano richiesta.
+di **Palio dei Balistarii della Repubblica di Lucca**, seguendo l'antico
+regolamento dell'[ordo pro balistarii](/ordo-pro-balistarii).
 
 Oltre ai balestrieri, il gruppo dei giovani tamburini, insieme ai popolani,
 contribuiscono a creare e mantenere un importante punto di aggregazione sociale
