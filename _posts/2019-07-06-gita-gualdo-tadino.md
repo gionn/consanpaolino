@@ -15,9 +15,10 @@ Scopri di più su [cosa vedere a Gualdo Tadino](http://www.ilcomuneinforma.it/vi
 
 <!-- more -->
 
-I nostri balestrieri saranno impegnati nella *2° Disfida Gualdana di Pietro*, ma
-chiunque sia interessato a visitare la città e vuole condividere il viaggio con
-noi è caldamente invitato a partecipare!
+I nostri balestrieri saranno impegnati nella [2° Disfida Gualdana di
+Pietro](/2019/2a-gualdana-pietro), ma chiunque sia interessato a visitare la
+città e vuole condividere il viaggio con noi è caldamente invitato a
+partecipare!
 
 Di seguito il programma del trasferimento in bus (prevista una sosta a metà percorso, per un totale di 4 ore di viaggio):
 
