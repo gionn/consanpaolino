@@ -31,4 +31,4 @@ Lucca con 363 punti contro i 339 punti di Gualdo Tadino. Nella gara individuale
 su corniolo ha primeggiato Sandro Sigismondi (Gualdo Tadino), seguito da Andrea
 Vittori (Gualdo Tadino) e Mauro Tolomei (Lucca).
 
-* [Album di Vincenzo Moneta](https://photos.app.goo.gl/Y6AJZgvHzALa8TAv5)
+* [📷 Scatti di Vincenzo Moneta](https://photos.app.goo.gl/Y6AJZgvHzALa8TAv5)
