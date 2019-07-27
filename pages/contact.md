@@ -11,13 +11,15 @@ Sortita Porta San Pietro, 1/3<br/>
 55100 - Lucca (LU) - Italy<br/>
 CF 92050570461<br/>
 
-**Email** consanpaolino@gmail.com
+**Email**: consanpaolino@gmail.com
 
-**Presidente** Paolo Gianni +39 347 357 9286
+**PEC**: consanpaolino@pec.it
 
-**Maestro d'Armi** Mauro Tolomei +39 335 681 2160
+**Presidente**: Paolo Gianni 347 357 9286
 
-**Segreteria** Giovanni Toraldo +39 393 50 18 541
+**Maestro d'Armi**: Mauro Tolomei 335 681 2160
+
+**Segreteria**: Giovanni Toraldo 393 501 8541
 
 ## Seguici sui Social
 
