@@ -16,7 +16,7 @@ Sono aperte le iscrizioni ai corsi di:
 
 È richiesta solamente l'iscrizione annuale all'associazione (20 €), e ti forniremo noi tutto il materiale necessario!
 
-[Contattaci](/contatti) per avere maggiori informazioni o fissare un appuntamento
-senza impegno.
+[Lasciaci i tuoi dati di contatto](https://forms.gle/wHmauk2MYKPrpaiUA) per
+avere maggiori informazioni o fissare un appuntamento senza impegno.
 
 ![volantino corso tamburo Lucca](/assets/images/2018/corsi/elisa-tamburina.jpg)

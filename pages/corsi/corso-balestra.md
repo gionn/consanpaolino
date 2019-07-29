@@ -19,7 +19,7 @@ di preparare, anno dopo anno, la rosa dei **12 tiratori** che parteciperanno al
 **campionato nazionale** [LITAB](http://www.litab.net/), a cui aderiscono in
 tutto 13 città provenienti da tutta Italia.
 
-Accettiamo iscrizioni per il corso **dai 14 anni di età**, ma per poter
+Accettiamo iscrizioni per il corso **dai 16 anni di età**, ma per poter
 gareggiare sono necessari i **18 anni** compiuti.
 
 L'inizio dell'attività di tiro richiede un **corso teorico preparatorio di 4
@@ -31,7 +31,7 @@ presso il [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/swrB4cqWqA5
 Sei un appassionato di musica? Allora potrebbe interessarti il nostro [corso di
 tamburo](/corso-tamburo-lucca)! Accettiamo iscrizioni anche per i [bambini](/corsi-bambini-tamburo-balestra-lucca).
 
-[Contattaci](/contatti) per avere maggiori informazioni o fissare un appuntamento
-senza impegno.
+[Lasciaci i tuoi dati di contatto](https://forms.gle/wHmauk2MYKPrpaiUA) per
+avere maggiori informazioni o fissare un appuntamento senza impegno.
 
 ![volantino corso balestra Lucca](/assets/images/2018/corsi/corsi-balestra.jpg)

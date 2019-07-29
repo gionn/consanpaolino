@@ -20,7 +20,7 @@ I corsi sono aperti anche per i [bambini a partire dagli 8 anni di età](/corsi-
 Le armi ti affascinano? Allora potrebbe interessarti anche il nostro [corso di
 balestra](/corso-balestra-lucca)!
 
-[Contattaci](/contatti) per avere maggiori informazioni o fissare un appuntamento
-senza impegno.
+[Lasciaci i tuoi dati di contatto](https://forms.gle/wHmauk2MYKPrpaiUA) per
+avere maggiori informazioni o fissare un appuntamento senza impegno.
 
 ![volantino corso tamburo Lucca](/assets/images/2018/corsi/corsi-tamburo.jpg)
