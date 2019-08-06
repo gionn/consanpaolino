@@ -26,11 +26,15 @@ l’utilizzo di ottiche. I tiri vengono effettuati in un'apposita area all’ape
 a pochi minuti in auto da Lucca, nella frazione di Pontetetto in Via di Pattana,
 al [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/CjEe8qDagTq).
 
-Per i **gruppi di persone**, è possibile prendere appuntamento per una
-**dimostrazione di tiro con la balestra**: dopo una breve introduzione sul
-contesto storico di riferimento, si passa ad una vera e propria lezione sui
-componenti della balestra e dei suoi principi di funzionamento, per poi
-proseguire sulle tecniche di tiro.
+Per **gruppi di persone** (turisti, addii al celibato, feste) è possibile
+prenotare un appuntamento per una **dimostrazione di tiro con la balestra**:
+dopo una breve introduzione sul contesto storico di riferimento, si passa ad una
+vera e propria lezione sui componenti della balestra e dei suoi principi di
+funzionamento, per poi proseguire sulle tecniche di tiro.
+
+Per gli appassionati di storia e dell'arte, è possibile visitare anche la sede
+centrale a **Porta San Pietro** dove esposti i Palii e altri cimeli di proprietà
+dell'associazione.
 
 <figure class="align-center">
   <a href="{{ 'assets/images/gallery/campo-tiri.jpg' | absolute_url }}">
@@ -43,7 +47,11 @@ I partecipanti potranno provare in prima persona la tecnica di mira ad arma
 scarica, quindi in totale sicurezza, e sarà possibile scattare alcune
 foto-ricordo in posizione come un **vero balestriere**.
 
-E’ possibile **accedere liberamente** all’area di tiro **durante gli
+Per poter provare il tiro a balestra carica, è necessaria l'autorizzazione del
+nostro maestro d'armi e l'iscrizione all'associazione che include anche una
+copertura assicurativa.
+
+E’ invece possibile **accedere liberamente** all’area di tiro **durante gli
 allenamenti** dei balestrieri. Le date di apertura variano in base alla
 disponibilità dei soci e delle condizioni meteo, pertanto è necessario mettersi
 in [contatto tramite uno dei canali disponibili](/contatti) per avere
