@@ -211,15 +211,15 @@ nostra vita.*" - Fausto Bisogni
     "priceCurrency": "EUR",
     "url": "https://consanpaolino.org/2019/campionato-litab-montefalco",
     "availability": "http://schema.org/InStock",
-    "validFrom": "2018-01-01T00:00"
+    "validFrom": "2019-08-01T00:00"
   },
   "performer": {
     "@type": "PerformingGroup",
     "name": "LITAB",
-    "email": "segretria@litab.net"
+    "email": "segreteria@litab.net"
   },
   "image": [
-    "https://consanpaolino.org/assets/images/2019/campionato-italiano-litab-montefalco/manifesto-campionato-montefalco-2019.jpg",
+    "https://consanpaolino.org/assets/images/2019/campionato-italiano-litab-montefalco/manifesto-campionato-montefalco-2019.jpg"
    ],
   "description": "Gara di tiro con balestra antica da banco in costume storico fra le 13 città aderenti alla LITAB"
 }
