@@ -39,30 +39,18 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 ## Prossimi eventi a Lucca e dintorni
 
-> Vuoi inserire qui il tuo evento nella provincia di Lucca? [Scrivici](/contatti)!
-
-* **28 Giugno al 29 Luglio - Lucca Summer Festival**: 17 concerti nell'arco di
-  un mese, artisti sia nazionale che internazionali, nel centro storico di Lucca
-  o sotto gli spalti delle mura. [:mag: Vedi le date dei concerti](https://www.welcome2lucca.com/lucca-summer-festival-2019/)
-
-* **20 Luglio - Mathildis**: Festa medievale di Altopascio. [:mag: Vai all'evento facebook](https://www.facebook.com/events/895805297448985/)
-
-* **3-4 Agosto - Festa medievale di Castiglione di Garfagnana**: rievocazione di
-  due giornate medievali nella suggestiva scenografia del borgo incastellato.
-  Tutto il paese, cinto da mura e torrioni, sarà interessato dalle diverse
-  manifestazioni previste nel programma, facendo rivivere ai visitatori
-  un'atmosfera unica e suggestiva. [:mag: Vai alla pagina facebook](https://www.facebook.com/castiglionegarfagnana/)
+> Vuoi inserire qui il tuo evento nella provincia di Lucca? [Scrivici](/contatti)
 
 * **7-8 Settembre - Campionato Italiano Balestra antica**: i balestrieri delle
   Contrade saranno in trasferta a Montefalco (PG) in occasione della
   35° competizione nazionale a cui prenderanno parte le 12 città che compongono la
-  Lega Italiana Tiro Alla Balestra, per un weekend fra sport e medioevo.
+  Lega Italiana Tiro Alla Balestra, per un weekend fra sport e medioevo. [:mag: Vai alla pagina del'evento](/2019/campionato-litab-montefalco)
 
-* **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
-  città (organizzato dal Comune di Lucca)
+* **13 Settembre - Luminara di Santa Croce**: corteo storico serale per le vie
+  del centro storico di Lucca [:mag: Vai al sito del Comune di Lucca](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12058)
 
 * **22 Settembre - Palio della Santa Croce**: palio dei balestrieri in piazza
-  San Michele (organizzato dal Comune di Lucca)
+  San Michele (organizzato dal Comune di Lucca - programma da confermare)
 
 * **30 Ottobre al 3 Novembre - Lucca Comics&Games**: festival internazionale del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: Vai al sito ufficiale](https://www.luccacomicsandgames.com)
 
@@ -74,6 +62,18 @@ Il programma dettagliato di ogni evento sarà disponibile nelle settimane immedi
 Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella tua casella di posta non appena sarà disponibile!
 
 ## Eventi che potresti aver perso
+
+* **3-4 Agosto - Festa medievale di Castiglione di Garfagnana**: rievocazione di
+  due giornate medievali nella suggestiva scenografia del borgo incastellato.
+  Tutto il paese, cinto da mura e torrioni, sarà interessato dalle diverse
+  manifestazioni previste nel programma, facendo rivivere ai visitatori
+  un'atmosfera unica e suggestiva. [:mag: Vai alla pagina facebook](https://www.facebook.com/castiglionegarfagnana/)
+
+* **20 Luglio - Mathildis**: Festa medievale di Altopascio. [:mag: Vai all'evento facebook](https://www.facebook.com/events/895805297448985/)
+
+* **28 Giugno al 29 Luglio - Lucca Summer Festival**: 17 concerti nell'arco di
+  un mese, artisti sia nazionale che internazionali, nel centro storico di Lucca
+  o sotto gli spalti delle mura. [:mag: Vedi le date dei concerti](https://www.welcome2lucca.com/lucca-summer-festival-2019/)
 
 * **12 Luglio - Palio di San Paolino**: palio dei balestrieri in piazza San
   Martino (organizzato dal Comune di Lucca).<br/>
