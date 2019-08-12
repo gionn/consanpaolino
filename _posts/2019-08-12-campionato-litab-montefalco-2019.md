@@ -28,8 +28,7 @@ circa 200 balestrieri in costume storico, più tamburi, sbandieratori e figurant
 con cui ogni associazione partecipa: lo spettacolo e l'intrattenimento è quindi
 assicurato!
 
-Su questa pagina troverete sempre le informazioni più aggiornate riguardo
-l’evento.
+Segui gli aggiornamenti anche sull'[Evento Facebook](https://facebook.com/events/1128188134035140/)!
 
 ## Sabato 7 Settembre
 ### Gara dei maestri d’arme e dei campioni (ingresso gratuito)

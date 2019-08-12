@@ -44,7 +44,7 @@ tengono a Lucca e provincia durante tutto il 2019.
 * **7-8 Settembre - Campionato Italiano Balestra antica**: i balestrieri delle
   Contrade saranno in trasferta a Montefalco (PG) in occasione della
   35° competizione nazionale a cui prenderanno parte le 12 città che compongono la
-  Lega Italiana Tiro Alla Balestra, per un weekend fra sport e medioevo. [:mag: Vai alla pagina del'evento](/2019/campionato-litab-montefalco)
+  Lega Italiana Tiro Alla Balestra, per un weekend fra sport e medioevo. [:mag: Vai alla pagina del'evento](/2019/campionato-litab-montefalco) - [:mag: Evento FB](https://facebook.com/events/1128188134035140/)
 
 * **13 Settembre - Luminara di Santa Croce**: corteo storico serale per le vie
   del centro storico di Lucca [:mag: Vai al sito del Comune di Lucca](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12058)
