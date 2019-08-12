@@ -181,6 +181,11 @@ a dar del filo da torcere agli avversari.
 che siano, l’importante è vincerle! Riuscirci significa migliorare tutta la
 nostra vita.*" - Fausto Bisogni
 
+## Stampa
+
+* [Montefalco ospiterà il XXXV il Campionato Italiano di Tiro Alla Balestra Antica da Banco](https://tuttoggi.info/montefalco-ospitera-il-xxxv-il-campionato-italiano-di-tiro-alla-balestra-antica-da-banco/513281/)
+* [La città di Montefalco ospiterà il XXXV il Campionato Italiano di Tiro Alla Balestra Antica da Banco](http://www.umbriadomani.it/cultura/la-citta-di-montefalco-ospitera-il-xxxv-il-campionato-italiano-di-tiro-alla-balestra-antica-da-banco-230606/)
+
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
