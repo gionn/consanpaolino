@@ -54,8 +54,22 @@ copertura assicurativa.
 E’ invece possibile **accedere liberamente** all’area di tiro **durante gli
 allenamenti** dei balestrieri. Le date di apertura variano in base alla
 disponibilità dei soci e delle condizioni meteo, pertanto è necessario mettersi
-in [contatto tramite uno dei canali disponibili](/contatti) per avere
-informazioni sulle prossime aperture.
+in contatto per conoscere una delle prossime aperture.
+
+## Richiedi informazioni
+
+Se vuoi farci una domanda, o vuoi essere ricontattato per avere maggiori
+informazioni, utilizza il modulo sottostante:
+
+<form class="wj-contact" action="https://formspree.io/{{site.author.email}}" method="POST">
+    <input type="text" name="name" placeholder="Il tuo nome">
+    <input type="email" name="_replyto" placeholder="Il tuo indirizzo email">
+    <textarea type="text" name="content" rows="10" placeholder="Il tuo messaggio"></textarea>
+    <input type="hidden" name="_subject" value="Richiesta info balestra">
+    <input type="text" name="_gotcha" style="display:none">
+    <input type="hidden" name="_language" value="it" />
+    <input type="submit" value="Invia messaggio">
+</form>
 
 <figure class="align-center">
     <img src="{{ 'assets/images/gallery/campo-tiri-balestrieri.jpg' | absolute_url }}" alt="balestrieri lucca">
