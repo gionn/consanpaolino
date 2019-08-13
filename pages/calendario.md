@@ -41,6 +41,10 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 > Vuoi inserire qui il tuo evento nella provincia di Lucca? [Scrivici](/contatti)
 
+* **30-31 Agosto, 1 Settembre - Il castello rivive (Nozzano)**: Nella suggestiva
+  cornice del borgo medievale di Nozzano,il castello rivive nel 1300 e si lascia
+  riscoprire nei suoi segreti. [:mag: Vai al sito](http://www.ilcastellorivive.it/htm/eventi.html) - [:mag: Evento FB](https://www.facebook.com/events/2707388579293784/)
+
 * **7-8 Settembre - Campionato Italiano Balestra antica**: i balestrieri delle
   Contrade saranno in trasferta a Montefalco (PG) in occasione della
   35° competizione nazionale a cui prenderanno parte le 12 città che compongono la
