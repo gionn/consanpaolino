@@ -41,6 +41,10 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 > Vuoi inserire qui il tuo evento nella provincia di Lucca? [Scrivici](/contatti)
 
+* **24 Agosto - Notte Bianca Lucca**: aperture straordinarie di musei, torri e
+  palazzi storici cittadini per visite guidate, spettacoli e musica nel centro
+  storico di Lucca. [:mag: Evento FB](https://www.facebook.com/events/1320313331478658/) - [:mag: Programma completo](http://www.turismo.lucca.it/it/la-notte-bianca-2019-programma-completo)
+
 * **30-31 Agosto, 1 Settembre - Il castello rivive (Nozzano)**: Nella suggestiva
   cornice del borgo medievale di Nozzano,il castello rivive nel 1300 e si lascia
   riscoprire nei suoi segreti. [:mag: Vai al sito](http://www.ilcastellorivive.it/htm/eventi.html) - [:mag: Evento FB](https://www.facebook.com/events/2707388579293784/)
