@@ -49,16 +49,20 @@ tengono a Lucca e provincia durante tutto il 2019.
   cornice del borgo medievale di Nozzano,il castello rivive nel 1300 e si lascia
   riscoprire nei suoi segreti. [:mag: Vai al sito](http://www.ilcastellorivive.it/htm/eventi.html) - [:mag: Evento FB](https://www.facebook.com/events/2707388579293784/)
 
+* **6-8 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
+  giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
+  sotterranei delle mura. [:mag: Vai al sito](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/20106)
+
 * **7-8 Settembre - Campionato Italiano Balestra antica**: i balestrieri delle
   Contrade saranno in trasferta a Montefalco (PG) in occasione della
   35° competizione nazionale a cui prenderanno parte le 12 città che compongono la
   Lega Italiana Tiro Alla Balestra, per un weekend fra sport e medioevo. [:mag: Vai alla pagina del'evento](/2019/campionato-litab-montefalco) - [:mag: Evento FB](https://facebook.com/events/1128188134035140/)
 
 * **13 Settembre - Luminara di Santa Croce**: corteo storico serale per le vie
-  del centro storico di Lucca [:mag: Vai al sito del Comune di Lucca](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12058)
+  del centro storico di Lucca [:mag: Vai al sito del Comune di Lucca](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12058) - [:mag: Evento FB](https://www.facebook.com/events/421172428525712/)
 
 * **22 Settembre - Palio della Santa Croce**: palio dei balestrieri in piazza
-  San Michele (organizzato dal Comune di Lucca - programma da confermare)
+  San Martino (organizzato dal Comune di Lucca - programma da confermare)
 
 * **30 Ottobre al 3 Novembre - Lucca Comics&Games**: festival internazionale del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: Vai al sito ufficiale](https://www.luccacomicsandgames.com)
 
