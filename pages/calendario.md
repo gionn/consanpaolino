@@ -73,6 +73,10 @@ Il programma dettagliato di ogni evento sarà disponibile nelle settimane immedi
 
 Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella tua casella di posta non appena sarà disponibile!
 
+## Scopri i balestrieri di San Paolino
+
+{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
+
 ## Eventi che potresti aver perso
 
 * **3-4 Agosto - Festa medievale di Castiglione di Garfagnana**: rievocazione di
@@ -125,7 +129,3 @@ Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella t
 * **7 Aprile - Lucca A.D. 1350-1410, il costume delle Milizie cittadine**:
   conferenza aperta al pubblico sui costumi medievali tenuta da Sara Piccolo
   Paci, esperta di Storia del Costume e Sartoria Storica. [:mag: Leggi l'articolo](/2019/lucca-ad-costume-milizie) o vai all'[evento facebook](https://www.facebook.com/events/306928230004879)
-
-## Scopri chi siamo
-
-{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
