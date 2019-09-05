@@ -34,4 +34,6 @@ tamburo](/corso-tamburo-lucca)! Accettiamo iscrizioni anche per i [bambini](/cor
 [Lasciaci i tuoi dati di contatto](https://forms.gle/wHmauk2MYKPrpaiUA) per
 avere maggiori informazioni o fissare un appuntamento senza impegno.
 
+{% youtube "https://www.youtube.com/watch?v=CAXZj9O1tUs" %}
+
 ![volantino corso balestra Lucca](/assets/images/2018/corsi/corsi-balestra.jpg)
