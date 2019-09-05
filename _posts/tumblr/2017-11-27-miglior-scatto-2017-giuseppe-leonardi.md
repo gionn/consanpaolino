@@ -8,6 +8,8 @@ tags:
 - lucca
 - fotografia
 tumblr_url: https://consanpaolino.org/post/167953802793/miglior-scatto-2017-giuseppe-leonardi
+redirect_from:
+ - /2017-11-27-miglior-scatto-2017-giuseppe-leonardi/
 ---
 
 ![giuseppe leonardi lucca medievale](/tumblr_files/tumblr_p03ke9O4ex1vc0hzqo4_1280.jpg)
