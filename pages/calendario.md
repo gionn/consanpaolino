@@ -3,7 +3,7 @@ layout: page
 title: Calendario prossimi eventi a Lucca
 date: '2019-01-02T14:00:00+01:00'
 seo:
-  date_modified: '2019-07-10T20:40:00+02:00'
+  date_modified: '2019-09-06T07:40:00+02:00'
 permalink: /eventi-lucca-2019
 categories:
   - eventi
@@ -39,45 +39,63 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 ## Prossimi eventi a Lucca e dintorni
 
-> Vuoi inserire qui il tuo evento nella provincia di Lucca? [Scrivici](/contatti)
+> Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
+> provincia di Lucca? [Scrivici](/contatti)
 
-* **24 Agosto - Notte Bianca Lucca**: aperture straordinarie di musei, torri e
-  palazzi storici cittadini per visite guidate, spettacoli e musica nel centro
-  storico di Lucca. [:mag: Evento FB](https://www.facebook.com/events/1320313331478658/) - [:mag: Programma completo](http://www.turismo.lucca.it/it/la-notte-bianca-2019-programma-completo)
-
-* **30-31 Agosto, 1 Settembre - Il castello rivive (Nozzano)**: Nella suggestiva
-  cornice del borgo medievale di Nozzano,il castello rivive nel 1300 e si lascia
-  riscoprire nei suoi segreti. [:mag: Vai al sito](http://www.ilcastellorivive.it/htm/eventi.html) - [:mag: Evento FB](https://www.facebook.com/events/2707388579293784/)
-
-* **6-8 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
+* **6-7-8 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
   giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
   sotterranei delle mura. [:mag: Vai al sito](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/20106)
 
-* **7-8 Settembre - Campionato Italiano Balestra antica**: i balestrieri delle
-  Contrade saranno in trasferta a Montefalco (PG) in occasione della
-  35° competizione nazionale a cui prenderanno parte le 12 città che compongono la
-  Lega Italiana Tiro Alla Balestra, per un weekend fra sport e medioevo. [:mag: Vai alla pagina del'evento](/2019/campionato-litab-montefalco) - [:mag: Evento FB](https://facebook.com/events/1128188134035140/)
+* **7-8 Settembre - Campionato Italiano Balestra antica (Montefalco, PG)**: i
+  balestrieri delle Contrade San Paolino saranno in trasferta a Montefalco
+  (provincia di Perugia) in occasione della 35° competizione nazionale a cui
+  prenderanno parte le 12 città che compongono la Lega Italiana Tiro Alla
+  Balestra, per un weekend fra sport e medioevo. [:mag: Vai alla pagina
+  del'evento](/2019/campionato-litab-montefalco) - [:mag: Evento
+  FB](https://facebook.com/events/1128188134035140/)
 
-* **13 Settembre - Luminara di Santa Croce**: corteo storico serale per le vie
-  del centro storico di Lucca [:mag: Vai al sito del Comune di Lucca](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12058) - [:mag: Evento FB](https://www.facebook.com/events/421172428525712/)
+* **13 Settembre - Luminara di Santa Croce**: corteo religioso, civile e storico
+  in notturna per le vie del centro storico di Lucca in una atmosfera di altri
+  tempi, spettacolo pirotecnico a fine serata. [:mag: Scopri di
+  più](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12058)
+  - [:mag: Evento FB](https://www.facebook.com/events/421172428525712/)
 
-* **22 Settembre - Palio della Santa Croce**: palio dei balestrieri in piazza
-  San Martino (organizzato dal Comune di Lucca - programma da confermare)
+* **13-14-15 Settembre - Occhio di Lucca e Gazzarra delle Artiglierie di Santa
+  Croce**: Un tuffo nel passato con la rievocazione dell'antico sistema di
+  comunicazione ottica usato per allertare le milizie lucchesi, presso
+  la Piattaforma San Frediano [:mag: Scopri di
+  più](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/20146)
 
-* **30 Ottobre al 3 Novembre - Lucca Comics&Games**: festival internazionale del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: Vai al sito ufficiale](https://www.luccacomicsandgames.com)
+* **22 Settembre - Palio della Santa Croce**: palio dei balestrieri e spettacoli
+  di bandiera in piazza San Martino a partire dalle ore 15.30. [:mag: Evento
+  FB](https://www.facebook.com/events/1278991108937603/)
 
-* **1 Dicembre - Frecce e Bandiere di Natale**: corteo storico per le vie della
-  città (da confermare)
+* **5-6 Ottobre - Pietrasanta Medievale**: Mercatini, sbandieratori, esibizioni
+  e falconieri. [:mag: Evento FB](https://www.facebook.com/events/501447667287025/)
 
-Il programma dettagliato di ogni evento sarà disponibile nelle settimane immediatamente precedenti all'evento.
+* **30 Ottobre al 3 Novembre - Lucca Comics&Games**: festival internazionale del
+  fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: Vai al
+  sito ufficiale](https://www.luccacomicsandgames.com)
 
-Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella tua casella di posta non appena sarà disponibile!
+Il programma dettagliato di ogni evento sarà disponibile nelle settimane
+immediatamente precedenti all'evento.
+
+Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella
+tua casella di posta non appena sarà disponibile!
 
 ## Scopri i balestrieri di San Paolino
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
 ## Eventi che potresti aver perso
+
+* **30-31 Agosto, 1 Settembre - Il castello rivive (Nozzano)**: Nella suggestiva
+  cornice del borgo medievale di Nozzano,il castello rivive nel 1300 e si lascia
+  riscoprire nei suoi segreti. [:mag: Vai al sito](http://www.ilcastellorivive.it/htm/eventi.html) - [:mag: Evento FB](https://www.facebook.com/events/2707388579293784/)
+
+* **24 Agosto - Notte Bianca Lucca**: aperture straordinarie di musei, torri e
+  palazzi storici cittadini per visite guidate, spettacoli e musica nel centro
+  storico di Lucca. [:mag: Evento FB](https://www.facebook.com/events/1320313331478658/) - [:mag: Programma completo](http://www.turismo.lucca.it/it/la-notte-bianca-2019-programma-completo)
 
 * **3-4 Agosto - Festa medievale di Castiglione di Garfagnana**: rievocazione di
   due giornate medievali nella suggestiva scenografia del borgo incastellato.
