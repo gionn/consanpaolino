@@ -50,3 +50,13 @@ Prossimi appuntamenti da non perdere per il pubblico sono la **Luminara di Santa
 Croce** la sera di venerdì 13 settembre, dove l’associazione sfilerà con il
 trofeo ottenuto a Montefalco, e domenica 22 settembre per il **Palio della Santa
 Croce** in Piazza San Martino alle 15.30.
+
+<figure class="align-center">
+    <img src="{{ 'assets/images/2019/campionato-italiano-litab-montefalco/referto-gara-lucca.jpg' | absolute_url }}" alt="">
+  <figcaption>Il referto ufficiale della gara</figcaption>
+</figure>
+
+<figure class="align-center">
+    <img src="{{ 'assets/images/2019/campionato-italiano-litab-montefalco/rotella.jpg' | absolute_url }}" alt="">
+  <figcaption>Il bersaglio di Lucca da 324 punti</figcaption>
+</figure>
