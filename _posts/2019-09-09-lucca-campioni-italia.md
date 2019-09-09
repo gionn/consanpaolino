@@ -24,7 +24,7 @@ e Volterra con 314 punti. Nella gara individuale su corniolo, vinta l’anno
 scorso dalla lucchese Simona Stefani, **tornano a vincere ben due donne**
 distinguendosi fra i 156 tiratori: Beatrice Parlanti di Gualdo Tadino prima et
 meliore, seguita da Roberto Piciucchi di Amelia e da Gigliola Foschiano di
-Roccapiatta. Nelle gare del sabato, si è aggiudicato il miglior tiro Mauro
+Roccapiatta. Nelle gare del sabato, si sono aggiudicati il miglior tiro Mauro
 Cadoni, maestro d’arme di Iglesias, e Luca Benericetti, campione di Terra del
 Sole.
 
