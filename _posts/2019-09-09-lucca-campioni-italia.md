@@ -28,6 +28,24 @@ Roccapiatta. Nelle gare del sabato, si sono aggiudicati il miglior tiro Mauro
 Cadoni, maestro d’arme di Iglesias, e Luca Benericetti, campione di Terra del
 Sole.
 
+Questo l'elenco dei 15 tiratori lucchesi che componevano la squadra:
+
+* Barsanti Giovanni
+* Bertolucci Gianluca
+* Bianchini Francesco
+* Fatiguso Valentina
+* Finelli Francesco
+* Gianni Paolo
+* Lino Antonino
+* Lombardi Samuele
+* Mazzei Massimo
+* Stefani Simona
+* Tolomei Mauro
+* Toraldo Giovanni
+* Toraldo Matteo
+* Vannucci Lorenzo
+* Viviani Luca
+
 Prossimi appuntamenti da non perdere per il pubblico sono la **Luminara di Santa
 Croce** la sera di venerdì 13 settembre, dove l’associazione sfilerà con il
 trofeo ottenuto a Montefalco, e domenica 22 settembre per il **Palio della Santa
