@@ -60,3 +60,8 @@ Croce** in Piazza San Martino alle 15.30.
     <img src="{{ 'assets/images/2019/campionato-italiano-litab-montefalco/rotella.jpg' | absolute_url }}" alt="">
   <figcaption>Il bersaglio di Lucca da 324 punti</figcaption>
 </figure>
+
+## Album fotografici
+
+* [Leonardo Ciocca](https://photos.app.goo.gl/8FhxkHqkGuSrLLGu9)
+* [Giacomo Bini](https://photos.app.goo.gl/oztT7Pb4nUJwXVRFA)
