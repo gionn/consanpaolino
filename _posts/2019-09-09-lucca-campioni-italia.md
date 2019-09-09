@@ -19,6 +19,8 @@ squadre, la **più competitiva delle quattro gare** che vengono disputate ogni
 anno all’interno del campionato, e con un punteggio che **batte il record
 personale** nella storia dell’associazione, raggiungendo 324 punti.
 
+{% youtube "https://www.youtube.com/watch?v=QAlbVsDwsCc"%}
+
 Sempre nella gara a squadre, seguono Lucca la città di Roccapiatta con 315 punti
 e Volterra con 314 punti. Nella gara individuale su corniolo, vinta l’anno
 scorso dalla lucchese Simona Stefani, **tornano a vincere ben due donne**
