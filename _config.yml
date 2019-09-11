@@ -2,7 +2,7 @@ theme: jekyll-theme-so-simple
 locale: it
 lang: it_IT
 title: "🎯 Contrade San Paolino 🥁"
-description: "Associazione di rievocazione storica a Lucca: balestrieri, tamburi e molto altro."
+description: "Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti"
 copyright: |
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
     <img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
@@ -10,7 +10,7 @@ copyright: |
   I contenuti di questo sito web sono distribuiti con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.<br/>
   Sito web generato con [Jekyll](https://jekyllrb.com/) e tema [so-simple-theme](https://github.com/mmistakes/so-simple-theme), sorgenti su [GitHub](https://github.com/gionn/consanpaolino).<br/>
   [Privacy](/privacy)
-baseurl: 
+baseurl:
 url: https://consanpaolino.org
 logo: "/images/logo.jpg"
 date_format: "%F"
@@ -113,7 +113,7 @@ author:
   picture:
   email: consanpaolino@gmail.com
   twitter: consanpaolino
-        
+
 # Footer
 footer_links:
   - title: Feed
