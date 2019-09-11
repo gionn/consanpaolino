@@ -9,7 +9,7 @@ image:
   path: /assets/images/2019/hero/genesi-contrade.jpg
 ---
 
-> Da una testimonianza orale di [Bruno Giannoni](https://www.facebook.com/bruno.giannoni) rilasciata il 28 dicembre 2018.
+> Da una testimonianza orale di [Bruno Giannoni](https://www.facebook.com/giannoni.bruno/) rilasciata il 28 dicembre 2018.
 
 Nel 1991 un gruppo di persone decise di depositare uno statuto per una **nuova
 associazione a Lucca** che avesse legami con la parrocchia di San Paolino, e che
