@@ -8,6 +8,8 @@ image:
   path: /assets/images/2019/campionato-italiano-litab-montefalco/header-montefalco.jpg
 ---
 
+**Aggiornamento**: leggi l'articolo con i [risultati del campionato a Montefalco](/2019/lucca-campioni-italia)
+
 Il weekend del **7-8 Settembre 2019** si terrà a **Montefalco** (provincia di
  Perugia), per la prima volta in assoluto, il Campionato Italiano di Balestra da
  banco fra le associazioni di rievocazione storica aderenti alla Lega Italiana
