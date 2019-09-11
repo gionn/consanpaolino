@@ -4,16 +4,17 @@ title: Contatti
 permalink: /contatti
 redirect_from:
   - /social
+  - /partecipa
 ---
 
 | **Email** | consanpaolino@gmail.com |
 | **PEC**   | consanpaolino@pec.it    |
 
-| Carica        | Nome            | Cellulare  |
-|---------------|-----------------|------------|
-| Presidente    | Paolo Gianni    | 3473579286 |
-| Maestro d'Armi| Mauro Tolomei   | 3356812160 |
-| Segreteria    | Giovanni Toraldo| 3935018541 |
+| Carica         | Nome             | Cellulare  |
+| -------------- | ---------------- | ---------- |
+| Presidente     | Paolo Gianni     | 3473579286 |
+| Maestro d'Armi | Mauro Tolomei    | 3356812160 |
+| Segreteria     | Giovanni Toraldo | 3935018541 |
 
 ## Dove siamo
 

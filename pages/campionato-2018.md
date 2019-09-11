@@ -6,6 +6,7 @@ image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
 redirect_from:
   - /campionato
+  - /campionato-litab
   - /sponsor-cercasi
   - /2017-04-11-campionato-litab-2018-lucca/
 ---

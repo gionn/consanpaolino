@@ -11,6 +11,7 @@ tags:
 tumblr_url: https://consanpaolino.org/post/161707246453/risultati-xxxiii-campionato-nazionale-litab-2017
 redirect_from:
  - /post/161707246453
+ - /post/161707246453/risultati-xxxiii-campionato-nazionale-litab-2017
  - /2017-06-11-risultati-xxxiii-campionato-nazionale-litab-2017/
 ---
 
