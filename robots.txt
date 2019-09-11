@@ -4,5 +4,4 @@ Sitemap: {{site.url}}/sitemap.xml
 
 User-agent: *
 Disallow: /thanks-newsletter
-Disallow: /page*/
 Disallow: /404
