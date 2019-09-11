@@ -67,3 +67,4 @@ Croce** in Piazza San Martino alle 15.30.
 
 * [Leonardo Ciocca](https://photos.app.goo.gl/8FhxkHqkGuSrLLGu9)
 * [Giacomo Bini](https://photos.app.goo.gl/oztT7Pb4nUJwXVRFA)
+* [Mirco Taddei](https://photos.app.goo.gl/gEPFfg4ykuBje8tf8)
