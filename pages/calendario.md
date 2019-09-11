@@ -95,7 +95,7 @@ tua casella di posta non appena sarà disponibile!
 
 * **24 Agosto - Notte Bianca Lucca**: aperture straordinarie di musei, torri e
   palazzi storici cittadini per visite guidate, spettacoli e musica nel centro
-  storico di Lucca. [:mag: Evento FB](https://www.facebook.com/events/1320313331478658/) - [:mag: Programma completo](http://www.turismo.lucca.it/it/la-notte-bianca-2019-programma-completo)
+  storico di Lucca. [:mag: Evento FB](https://www.facebook.com/events/1320313331478658/)
 
 * **3-4 Agosto - Festa medievale di Castiglione di Garfagnana**: rievocazione di
   due giornate medievali nella suggestiva scenografia del borgo incastellato.

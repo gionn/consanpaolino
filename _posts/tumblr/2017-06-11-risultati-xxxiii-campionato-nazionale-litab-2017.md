@@ -11,6 +11,7 @@ tags:
 tumblr_url: https://consanpaolino.org/post/161707246453/risultati-xxxiii-campionato-nazionale-litab-2017
 redirect_from:
  - /post/161707246453
+ - /2017-06-11-risultati-xxxiii-campionato-nazionale-litab-2017/
 ---
 
 ![](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo1_1280.jpg)
@@ -20,7 +21,7 @@ redirect_from:
 ![](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo4_r1_1280.jpg)
 
 ![](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo2_r1_1280.jpg)
-  
+
 Ottimo risultato ottenuto dall'associazione Contrade San Paolino, che dopo anni
 torna sul podio del campionato italiano LITAB di tiro alla balestra da banco,
 tenutosi a Forlì e a Terra del Sole il weekend del 10 e 11 giugno.
@@ -50,24 +51,24 @@ Questa è la classifica con i risultati ufficiali del XXXIII Campionato Nazional
 
 **Gara a squadre**
 
-* Volterra 336 punti  
-* Terra Del Sole 318 punti  
-* San Paolino Lucca 305 punti  
-* Assisi 299 punti  
-* Roccapiatta 297 punti  
-* Montefalco 294 punti  
-* Ventimiglia 291 punti  
-* Amelia 277 punti  
-* Chioggia 277 punti  
-* Pisa 273 punti  
-* Iglesias 258 punti  
-* Norcia 258 punti  
+* Volterra 336 punti
+* Terra Del Sole 318 punti
+* San Paolino Lucca 305 punti
+* Assisi 299 punti
+* Roccapiatta 297 punti
+* Montefalco 294 punti
+* Ventimiglia 291 punti
+* Amelia 277 punti
+* Chioggia 277 punti
+* Pisa 273 punti
+* Iglesias 258 punti
+* Norcia 258 punti
 * Gualdo Tadino 208 punti
 
-**Gara individuale**  
+**Gara individuale**
 
-1º Fulvio Reale - Roccapiatta  
-2º Claudio Pitzianti - Iglesias  
+1º Fulvio Reale - Roccapiatta
+2º Claudio Pitzianti - Iglesias
 3º Massimo Mazzei - Contrade San Paolino Lucca
 
 **Gara dei Campioni**

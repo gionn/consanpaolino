@@ -10,6 +10,8 @@ tags:
   - contest fotografico
 image:
   path: /images/2018/04/22/diffidate-hero.jpg
+redirect_from:
+ - /2018-04-22-diffidate-dalle-imitazioni-2018/
 ---
 
 Anche quest'anno abbiamo deciso di rinnovare il **concorso di fotografia** in
