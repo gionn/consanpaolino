@@ -30,6 +30,8 @@ Roccapiatta. Nelle gare del sabato, si sono aggiudicati il miglior tiro Mauro
 Cadoni, maestro d’arme di Iglesias, e Luca Benericetti, campione di Terra del
 Sole.
 
+* [:floppy_disk: Tabellone risultati completo](/assets/files/2019/campionato/risultati.pdf)
+
 Questo l'elenco dei 15 tiratori lucchesi che componevano la squadra:
 
 * Barsanti Giovanni
