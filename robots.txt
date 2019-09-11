@@ -2,5 +2,4 @@ Sitemap: https://consanpaolino.org/sitemap.xml
 
 User-agent: *
 Disallow: /thanks-newsletter
-Disallow: /page*/
 Disallow: /404
