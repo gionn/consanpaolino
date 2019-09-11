@@ -24,11 +24,10 @@ Pontetetto, sul **Baluardo San Paolino** delle mura e infine sulla cima di
 **Torre Guinigi**. Tutte le riprese sono state effettuate poco prima del
 tramonto per sfruttare a pieno la particolare luce rossastra del momento.
 
-Le riprese e il montaggio sono state realizzate dal [videomaker Michael
-Gaddini](https://www.michael-gaddini.com/), classe '88 originario di Barga, che
-è riuscito a condensare in soli 38” le emozioni di ben 60 minuti di
-registrazioni, tutte effettuate nell’arco della settimana precedente alla
-pubblicazione.
+Le riprese e il montaggio sono state realizzate dal videomaker **Michael
+Gaddini**, classe '88 originario di Barga, che è riuscito a condensare in soli
+38” le emozioni di ben 60 minuti di registrazioni, tutte effettuate nell’arco
+della settimana precedente alla pubblicazione.
 
 Soddisfatto anche **Paolo Gianni**, presidente dell’associazione Contrade San
 Paolino, dichiarando che quest’ultimo progetto sarà senz’altro utile anche ad
