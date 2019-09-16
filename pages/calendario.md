@@ -3,7 +3,7 @@ layout: page
 title: Calendario prossimi eventi a Lucca
 date: '2019-01-02T14:00:00+01:00'
 seo:
-  date_modified: '2019-09-06T07:40:00+02:00'
+  date_modified: '2019-09-16T20:40:00+02:00'
 permalink: /eventi-lucca-2019
 categories:
   - eventi
@@ -42,30 +42,6 @@ tengono a Lucca e provincia durante tutto il 2019.
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)
 
-* **6-7-8 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
-  giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
-  sotterranei delle mura. [:mag: Vai al sito](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/20106)
-
-* **7-8 Settembre - Campionato Italiano Balestra antica (Montefalco, PG)**: i
-  balestrieri delle Contrade San Paolino saranno in trasferta a Montefalco
-  (provincia di Perugia) in occasione della 35° competizione nazionale a cui
-  prenderanno parte le 12 città che compongono la Lega Italiana Tiro Alla
-  Balestra, per un weekend fra sport e medioevo. [:mag: Vai alla pagina
-  del'evento](/2019/campionato-litab-montefalco) - [:mag: Evento
-  FB](https://facebook.com/events/1128188134035140/)
-
-* **13 Settembre - Luminara di Santa Croce**: corteo religioso, civile e storico
-  in notturna per le vie del centro storico di Lucca in una atmosfera di altri
-  tempi, spettacolo pirotecnico a fine serata. [:mag: Scopri di
-  più](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12058)
-  - [:mag: Evento FB](https://www.facebook.com/events/421172428525712/)
-
-* **13-14-15 Settembre - Occhio di Lucca e Gazzarra delle Artiglierie di Santa
-  Croce**: Un tuffo nel passato con la rievocazione dell'antico sistema di
-  comunicazione ottica usato per allertare le milizie lucchesi, presso
-  la Piattaforma San Frediano [:mag: Scopri di
-  più](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/20146)
-
 * **22 Settembre - Palio della Santa Croce**: palio dei balestrieri e spettacoli
   di bandiera in piazza San Martino a partire dalle ore 15.30. [:mag: Evento
   FB](https://www.facebook.com/events/1278991108937603/)
@@ -88,6 +64,29 @@ tua casella di posta non appena sarà disponibile!
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
 ## Eventi che potresti aver perso
+
+* **13-14-15 Settembre - Occhio di Lucca e Gazzarra delle Artiglierie di Santa
+  Croce**: Un tuffo nel passato con la rievocazione dell'antico sistema di
+  comunicazione ottica usato per allertare le milizie lucchesi, presso
+  la Piattaforma San Frediano [:mag: Scopri di
+  più](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/20146)
+
+* **13 Settembre - Luminara di Santa Croce**: corteo religioso, civile e storico
+  in notturna per le vie del centro storico di Lucca in una atmosfera di altri
+  tempi, spettacolo pirotecnico a fine serata. [:mag: Scopri di
+  più](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/12058) - [:mag: Evento FB](https://www.facebook.com/events/421172428525712/)
+
+* **7-8 Settembre - Campionato Italiano Balestra antica (Montefalco, PG)**: i
+  balestrieri delle Contrade San Paolino saranno in trasferta a Montefalco
+  (provincia di Perugia) in occasione della 35° competizione nazionale a cui
+  prenderanno parte le 12 città che compongono la Lega Italiana Tiro Alla
+  Balestra, per un weekend fra sport e medioevo. [:mag: Vai alla pagina
+  del'evento](/2019/campionato-litab-montefalco) - [:mag: Evento
+  FB](https://facebook.com/events/1128188134035140/)
+
+* **6-7-8 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
+  giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
+  sotterranei delle mura. [:mag: Vai al sito](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/20106)
 
 * **30-31 Agosto, 1 Settembre - Il castello rivive (Nozzano)**: Nella suggestiva
   cornice del borgo medievale di Nozzano,il castello rivive nel 1300 e si lascia
