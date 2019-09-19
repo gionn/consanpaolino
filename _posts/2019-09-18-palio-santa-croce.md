@@ -21,7 +21,7 @@ A contendersi il palio ed il titolo di **Primo Et Meliore** saranno i
 balestrieri dell'associazione Contrade San Paolino, reduci dalla [vittoria al
 Campionato Italiano LITAB](/2019/lucca-campioni-italia), e i balestrieri della
 Compagnia Balestrieri Lucca, suddivisi nei tre [terzieri storici di
-Lucca](https://consanpaolino.org/terzieri-lucca):
+Lucca](/terzieri-lucca):
 
 * Terziere San Martino
 * Terziere San Paolino
