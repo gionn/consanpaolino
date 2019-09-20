@@ -3,7 +3,6 @@ layout: post
 title: "🎯 I Giorni di San Paolino: Luminara e Palio"
 categories:
   - lucca
-permalink: /2019/giorni-san-paolino
 image:
   path: https://i.imgur.com/oRTvFMc.jpg
 ---
