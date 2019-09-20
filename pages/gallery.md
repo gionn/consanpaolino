@@ -3,6 +3,7 @@ layout: gallery
 title: Una selezione delle migliori foto
 permalink: /gallery
 images:
+  - /assets/images/gallery/montefalco-campioni-italiani.jpg
   - /assets/images/gallery/balestrieri-piazza-san-michele.jpg
   - /assets/images/gallery/tamburini.jpg
   - /assets/images/gallery/balestriere-al-tiro.jpg
