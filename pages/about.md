@@ -7,34 +7,32 @@ redirect_from:
 ---
 
 <figure class="align-center">
-  <a href="{{ '/images/contrade-san-paolino-big.jpg' | absolute_url }}">
-    <img src="{{ '/images/contrade-san-paolino.jpg' | absolute_url }}" alt="balestrieri lucca contrade san paolino foto gruppo">
-  </a>
-  <figcaption>Foto di gruppo durante l'inaugurazione del Campo Tiri della Repubblica di Lucca nel maggio 2017</figcaption>
+    <img src="{{ 'assets/images/gallery/montefalco-campioni-italiani.jpg' | absolute_url }}" alt="balestrieri lucca contrade san paolino foto gruppo">
+  <figcaption>Foto di gruppo dopo la vittoria al campioanto italiano a Montefalco 2019</figcaption>
 </figure>
 
-L’Associazione Contrade San Paolino (ACSP) nasce a **Lucca** il [27 Febbraio 1991](/2019/nascita-associazione-contrade-san-paolino)
-con rogito del notaio Puliti, e diviene operativa dal 1994 con l’intento di
-rievocare le origini e la storia di Lucca durante il periodo medioevale. È
-iscritta nel **registro del volontariato** (legge 266/91) dal 6 Febbraio 2004 al
-nr. 31, ed è inserita nell'**elenco regionale delle associazioni e
-manifestazioni di rievocazione e ricostruzione storica**, previsti dalla Legge
-Regionale 5/2012. Il periodo storico di riferimento è quello di fine XIV
-secolo.
+L’Associazione Contrade San Paolino (ACSP) nasce a **Lucca** il [27 Febbraio
+1991](/2019/nascita-associazione-contrade-san-paolino), e diviene operativa dal
+1994 con l’intento di rievocare le origini e la storia di Lucca durante il
+periodo medioevale. È iscritta nel **registro del volontariato** (legge 266/91)
+dal 6 Febbraio 2004 al nr. 31, ed è inserita nell'**elenco regionale delle
+associazioni e manifestazioni di rievocazione e ricostruzione storica**,
+previsti dalla Legge Regionale 5/2012. Il periodo storico di riferimento è
+quello di fine XIV secolo.
 
 ![regione toscana](/images/regtosc.png){: .align-right}
 
-Dal 1994, anno della prima edizione, organizza la sera dell'11 Luglio
-la **Luminara di San Paolino**, un corteggio per le vie del centro storico di
-Lucca fino alla Basilica di San Paolino a cui partecipano i vari gruppi storici
-della lucchesia e gruppi amici dell'associazione. L'intera città viene immersa
-in un'atmosfera d'altri tempi, con le strade illuminate da torce e addobbate
-dalle bandiere del terziere San Paolino. Dal 2006 l'associazione partecipa anche
-alla Luminara di Santa Croce organizzata dal Comune di Lucca per il calendario
-del *Settembre Lucchese*, la sera del 13 Settembre.
+Dal 1994, anno della prima edizione, organizza la sera dell'11 Luglio la
+**Luminara di San Paolino**, un corteggio per le vie del centro storico di Lucca
+fino alla Basilica di San Paolino a cui partecipano i vari gruppi storici della
+lucchesia e gruppi amici dell'associazione. L'intera città viene immersa in
+un'atmosfera d'altri tempi, con le strade illuminate da torce e addobbate dalle
+bandiere del terziere San Paolino. Dal 2006 l'associazione partecipa anche alla
+Luminara di Santa Croce organizzata dal Comune di Lucca per il calendario del
+*Settembre Lucchese*, la sera del 13 Settembre.
 
-Durante il mese di giugno, dal 2015, organizza la manifestazione **Lucca
-Medievale** che presenta, in due giorni di allestimento in piazza: il villaggio
+Dal 2015, durante il mese di giugno organizza la manifestazione **Lucca
+Medievale** che include, in due giorni di allestimento in piazza: il villaggio
 degli artigiani, spettacoli di strada, esibizioni di falconeria, musica e il
 Torneo dei Balestrieri in Onore de lo Santo Francesco. Con lo spostamento in
 Piazzale Verdi dal 2018, ha superato tutte le aspettative di partecipazione da
@@ -48,7 +46,11 @@ L'associazione è iscritta alla **Lega Italiana Tiro Alla Balestra** (LITAB) dal
 Campionato Italiano di Balestra Antica da Banco a cui partecipano 13 città
 provenienti da tutta Italia. Ha organizzato a Barga nel settembre 2003 la
 19esima edizione e a Lucca la [34esima edizione a settembre
-2018](/campionato-litab-lucca-2018).
+2018](/campionato-litab-lucca-2018). Nel 2018 la lucchese [Simona
+Stefani](/2018/risultati-campionato-italiano-litab-lucca) vince la gara
+individuale su corniolo. Nel 2019 la squadra lucchese ottiene la tanto ambita
+[vittoria nella gara a squadre](/2019/lucca-campioni-italia) e diventano
+Campioni Italiani di balestra antica da banco.
 
 A fine 2016, il Comune di Lucca concede in affitto all’associazione un terreno
 incolto a Pontetetto (LU), che è stato riqualificato e inaugurato come il
@@ -56,20 +58,10 @@ incolto a Pontetetto (LU), che è stato riqualificato e inaugurato come il
 nel giugno 2017 ed è tutt'oggi utilizzato per gli allenamenti e le gare dei
 balestrieri.
 
-Nel settembre 2017 l'Associazione ha dato vita al primo
-[Palio](https://consanpaolino.org/2017-10-03-luna-vince-primo-palio-contrade-san-paolino/)
-cittadino, denominato **Palio delle Contrade San Paolino**, al quale possono
-partecipare solamente i balestrieri aderenti al Terziere di San Paolino,
-suddivisi per Contrada. Il bersaglio è la classica Brocca (Corniolo) e il Palio
-dipinto da un'artista va alla contrada a cui appartiene il tiratore Primo et
-Meliore.
-
-A fine 2017, viene pubblicato il [primo libro fotografico
-dell'associazione](http://www.blurb.com/b/8353950-contrade-san-paolino-2017)
-tramite l'editore online Blurb.
-
-Nel 2018, prende vita il secondo palio cittadino nel mese di Maggio, con il nome
-di **Palio dei Balistarii della Repubblica di Lucca**, seguendo l'antico
+Dal 2019, dopo [due anni di sospensione](/2018/palio-san-paolino), tornano a
+partecipare al **Palio di San Paolino** ed ad organizzare il [Palio della Santa
+Croce](/2019/palio-santa-croce) grazie all'[aiuto dell'amministrazione
+comunale](/2019/classifica-palio-san-paolino). I due palii seguono l'antico
 regolamento dell'[ordo pro balistarii](/ordo-pro-balistarii).
 
 Oltre ai balestrieri, il gruppo dei giovani tamburini, insieme ai popolani,

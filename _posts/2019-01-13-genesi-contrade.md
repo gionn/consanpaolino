@@ -13,7 +13,8 @@ image:
 
 Nel 1991 un gruppo di persone decise di depositare uno statuto per una **nuova
 associazione a Lucca** che avesse legami con la parrocchia di San Paolino, e che
-inizialmente nulla aveva a che fare con la rievocazione storica.
+inizialmente nulla aveva a che fare con la rievocazione storica, con rogito del
+notaio Puliti.
 
 Nel 1994 questo statuto venne utilizzato come base per la nascita di una nuova
 associazione, in concomitanza con l'**uscita di un gruppo di persone** dalla
