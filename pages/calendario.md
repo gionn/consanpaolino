@@ -44,7 +44,7 @@ tengono a Lucca e provincia durante tutto il 2019.
 
 * **22 Settembre - Palio della Santa Croce**: palio dei balestrieri e spettacoli
   di bandiera in piazza San Martino a partire dalle ore 15.30. [:mag: Evento
-  FB](https://www.facebook.com/events/1278991108937603/) - [:mag: Vai all'articolo](/2019/palio-santa-croce)
+  FB](https://www.facebook.com/events/1278991108937603/) - [:mag: Vai all'articolo (EVENTO ANNULLATO)](/2019/palio-santa-croce)
 
 * **5-6 Ottobre - Pietrasanta Medievale**: Mercatini, sbandieratori, esibizioni
   e falconieri. [:mag: Evento FB](https://www.facebook.com/events/501447667287025/)

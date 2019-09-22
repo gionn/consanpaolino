@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "🎯 14° Palio della Santa Croce a Lucca"
+title: "🎯 14° Palio della Santa Croce a Lucca (ANNULLATO)"
 categories:
   - eventi
 image:
   path: /assets/images/2019/palio-santa-croce-lucca.jpg
 ---
+
+**Aggiornamento**: evento annullato causa allerta meteo arancione, nuova
+possibile data sarà comunicata entro pochi giorni.
 
 Le balestre e le bandiere saranno protagoniste di una giornata all'insegna della
 tradizione, accompagnate dal suono antico dei tamburi nella splendida Piazza San
