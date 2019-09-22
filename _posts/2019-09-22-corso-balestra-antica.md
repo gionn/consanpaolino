@@ -3,6 +3,8 @@ layout: post
 title: "🎯 Corso di tiro con balestra antica da banco"
 categories:
   - news
+image:
+  path: /assets/images/2019/hero/crossbowman.jpg
 ---
 
 Con l’arrivo dell’autunno apriamo le porte a nuovi aspiranti tiratori
