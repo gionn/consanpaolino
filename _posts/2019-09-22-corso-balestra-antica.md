@@ -5,12 +5,13 @@ categories:
   - news
 image:
   path: /assets/images/2019/hero/crossbowman.jpg
+date_modified: '2019-09-27T19:37:00+02:00'
 ---
 
 Con l’arrivo dell’autunno apriamo le porte a nuovi aspiranti tiratori
 organizzando una nuova edizione del **corso di tiro con la balestra**.
 
-Il primo appuntamento è per **giovedì 26 Settembre alle ore 21.30** presso la
+Il primo appuntamento è per **giovedì 10 Ottobre alle ore 21.30** presso la
 sede dell’associazione situata sotto **Porta San Pietro (Lucca)**, dove il
 maestro d’armi Mauro Tolomei accoglierà tutti gli interessati presentando il
 corso e le modalità con cui chiunque potrà partecipare. L’unico requisito è
@@ -33,4 +34,4 @@ I centri sono garantiti anche nei casi più disperati, mettici alla prova!
 
 Qui trovi i nostri [contatti](/contatti).
 
-![manifesto corso di tiro balestra antica litab](/assets/images/2019/corso-balestra.jpg)
+![manifesto corso di tiro balestra antica litab](/assets/images/2019/corso-balestrieri.jpg)
