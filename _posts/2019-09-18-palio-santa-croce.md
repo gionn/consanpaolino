@@ -5,10 +5,12 @@ categories:
   - eventi
 image:
   path: /assets/images/2019/palio-santa-croce-lucca.jpg
+date_modified: '2019-09-29T08:30:00+02:00'
 ---
 
-**Aggiornamento**: evento annullato causa allerta meteo arancione, nuova
-possibile data sarà comunicata entro pochi giorni.
+**Aggiornamento**: evento annullato causa allerta meteo arancione,
+l'amministrazione ci ha comunicato ufficialmente che non sussistono le
+condizioni per ripetere l'evento in altra data. Alla prossima!
 
 Le balestre e le bandiere saranno protagoniste di una giornata all'insegna della
 tradizione, accompagnate dal suono antico dei tamburi nella splendida Piazza San
