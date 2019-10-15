@@ -3,7 +3,7 @@ layout: page
 title: Calendario prossimi eventi a Lucca
 date: '2019-01-02T14:00:00+01:00'
 seo:
-  date_modified: '2019-09-16T20:40:00+02:00'
+  date_modified: '2019-10-15T19:05:00+02:00'
 permalink: /eventi-lucca-2019
 categories:
   - eventi
@@ -42,16 +42,9 @@ tengono a Lucca e provincia durante tutto il 2019.
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)
 
-* **22 Settembre - Palio della Santa Croce**: palio dei balestrieri e spettacoli
-  di bandiera in piazza San Martino a partire dalle ore 15.30. [:mag: Evento
-  FB](https://www.facebook.com/events/1278991108937603/) - [:mag: Vai all'articolo (EVENTO ANNULLATO)](/2019/palio-santa-croce)
-
-* **5-6 Ottobre - Pietrasanta Medievale**: Mercatini, sbandieratori, esibizioni
-  e falconieri. [:mag: Evento FB](https://www.facebook.com/events/501447667287025/)
-
-* **30 Ottobre al 3 Novembre - Lucca Comics&Games**: festival internazionale del
+* **30 Ottobre al 3 Novembre - Lucca Comics & Games**: festival internazionale del
   fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: Vai al
-  sito ufficiale](https://www.luccacomicsandgames.com)
+  sito ufficiale](https://www.luccacomicsandgames.com) - [:mag: Vai all'articolo](/2019/lucca-comics-feudalesimo-liberta)
 
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
@@ -64,6 +57,13 @@ tua casella di posta non appena sarà disponibile!
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
 ## Eventi che potresti aver perso
+
+* **5-6 Ottobre - Pietrasanta Medievale**: Mercatini, sbandieratori, esibizioni
+  e falconieri. [:mag: Evento FB](https://www.facebook.com/events/501447667287025/)
+
+* **22 Settembre - Palio della Santa Croce**: palio dei balestrieri e spettacoli
+  di bandiera in piazza San Martino a partire dalle ore 15.30. [:mag: Evento
+  FB](https://www.facebook.com/events/1278991108937603/) - [:mag: Vai all'articolo (EVENTO ANNULLATO)](/2019/palio-santa-croce)
 
 * **13-14-15 Settembre - Occhio di Lucca e Gazzarra delle Artiglierie di Santa
   Croce**: Un tuffo nel passato con la rievocazione dell'antico sistema di
