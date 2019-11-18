@@ -3,7 +3,7 @@ layout: page
 title: Calendario prossimi eventi a Lucca
 date: '2019-01-02T14:00:00+01:00'
 seo:
-  date_modified: '2019-10-15T19:05:00+02:00'
+  date_modified: '2019-11-18T19:00:00+02:00'
 permalink: /eventi-lucca-2019
 categories:
   - eventi
@@ -42,21 +42,24 @@ tengono a Lucca e provincia durante tutto il 2019.
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)
 
-* **30 Ottobre al 3 Novembre - Lucca Comics & Games**: festival internazionale del
-  fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: Vai al
-  sito ufficiale](https://www.luccacomicsandgames.com) - [:mag: Vai all'articolo](/2019/lucca-comics-feudalesimo-liberta)
-
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
 
-Puoi [iscriverti alla newsletter](/newsletter) per riceverlo comodamente nella
-tua casella di posta non appena sarà disponibile!
+Il 2019 è ormai agli sgoccioli, e stiamo preparando il calendario eventi per la
+**stagione eventi 2020**.
+
+Nel frattempo, puoi [iscriverti alla newsletter](/newsletter) per riceverlo
+comodamente nella tua casella di posta non appena sarà disponibile!
 
 ## Scopri i balestrieri di San Paolino
 
 {% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
 ## Eventi che potresti aver perso
+
+* **30 Ottobre al 3 Novembre - Lucca Comics & Games**: festival internazionale del
+  fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: Vai al
+  sito ufficiale](https://www.luccacomicsandgames.com) - [:mag: Vai all'articolo](/2019/lucca-comics-feudalesimo-liberta)
 
 * **5-6 Ottobre - Pietrasanta Medievale**: Mercatini, sbandieratori, esibizioni
   e falconieri. [:mag: Evento FB](https://www.facebook.com/events/501447667287025/)
