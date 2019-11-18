@@ -7,7 +7,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-redirect-from"
   gem "jekyll-youtube"
-  gem "jekyll-minifier", '= 0.1.9'
+  gem "jekyll-minifier", '0.1.10'
   gem "jemoji"
 end
 
