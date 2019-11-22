@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4-node-browsers
+      - image: circleci/ruby:2.6-node-browsers
         environment:
           BUNDLE_PATH: vendor/bundle
           JEKYLL_ENV: production
@@ -14,8 +14,7 @@ jobs:
 
       - restore_cache:
           keys:
-          - v3-dependencies-{{ checksum "Gemfile.lock" }}
-          - v3-dependencies-
+          - v4-dependencies-{{ checksum "Gemfile.lock" }}
 
       - run: gem install bundler
       - run: bundle install
@@ -24,7 +23,7 @@ jobs:
       - save_cache:
           paths:
             - vendor/bundle
-          key: v3-dependencies-{{ checksum "Gemfile.lock" }}
+          key: v4-dependencies-{{ checksum "Gemfile.lock" }}
 
       - run: bundle exec jekyll build
 
@@ -40,11 +39,6 @@ jobs:
             git config --global user.name "circleci build"
             mkdir _site/.circleci && cp .circleci/ignore.yml _site/.circleci/config.yml
             npm run deploy
-
-      - run:
-          name: Ping google
-          command: curl -sS http://www.google.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
-
-      - run:
-          name: Ping bing
-          command: curl -sS http://www.bing.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
+            sleep 10
+            curl -sS http://www.google.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
+            curl -sS http://www.bing.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
