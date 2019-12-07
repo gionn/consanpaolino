@@ -1,6 +1,6 @@
 theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/default.css"
 locale: it
-lang: it_IT
 title: "🎯 Contrade San Paolino 🥁"
 description: "Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti"
 copyright: |
