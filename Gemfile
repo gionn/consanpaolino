@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.0"
-gem "jekyll-theme-so-simple"
+gem "jekyll"
+gem "jekyll-theme-so-simple", "= 3.1.2"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
