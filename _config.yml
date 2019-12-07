@@ -136,4 +136,7 @@ footer_links:
     icon: fab fa-telegram
 
 jekyll-minifier:
-  exclude: 'robots.txt'
+  compress_css: false
+  exclude:
+    - 'robots.txt'
+    - 'atom.xml'
