@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎯 Contest fotografico, ecco il vincitore dell’edizione 2019"
+title: "📷 Contest fotografico, ecco il vincitore dell’edizione 2019"
 categories:
   - news
 image:
