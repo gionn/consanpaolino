@@ -11,11 +11,12 @@ layout: default
       <div class="page-content">
         {% for image in page.images %}
         <figure class="align-center">
-            {% assign array = image | split: "/" %}
+            {% assign array = image.url | split: "/" %}
             {% assign filename = array.last %}
             {% assign array = filename | split: "." %}
             {% assign alt = array.first %}
-            <img src="{{ image | absolute_url }}" alt="{{ alt | replace: "-", " " }}">
+            <img src="{{ image.url | absolute_url }}" alt="{{ alt | replace: "-", " " }}">
+            {% if image.name %}<figcaption>{{ image.name }}</figcaption>{% endif %}
         </figure>
         {% endfor %}
 
