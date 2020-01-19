@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" /><updated>2019-12-08T10:04:09+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📷 Contest fotografico, ecco il vincitore dell’edizione 2019</title><link href="https://consanpaolino.org/2019/concorso-fotografia-diffidate-imitazioni" rel="alternate" type="text/html" title="📷 Contest fotografico, ecco il vincitore dell’edizione 2019" /><published>2019-12-07T00:00:00+00:00</published><updated>2019-12-07T00:00:00+00:00</updated><id>https://consanpaolino.org/2019/concorso-fotografia-diffidate-imitazioni</id><content type="html" xml:base="https://consanpaolino.org/2019/concorso-fotografia-diffidate-imitazioni">&lt;p&gt;Terminati gli appuntamenti con le manifestazioni di rievocazione storica, si è
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" /><updated>2020-01-19T18:22:11+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📺 Un telefono in meno</title><link href="https://consanpaolino.org/2020/un-telefono-in-meno-campo-tiro-video" rel="alternate" type="text/html" title="📺 Un telefono in meno" /><published>2020-01-19T00:00:00+00:00</published><updated>2020-01-19T00:00:00+00:00</updated><id>https://consanpaolino.org/2020/un-telefono-in-meno-campo-tiro-video</id><content type="html" xml:base="https://consanpaolino.org/2020/un-telefono-in-meno-campo-tiro-video">&lt;p&gt;Nonostante l’allerta codice giallo per vento su tutta la toscana, abbiamo deciso di cimentarsi in una prima gara dell’anno per non perdere il vizio.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;La classifica dei migliori 4 balestrieri:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1° Giacomo Bini con 92 punti&lt;/li&gt;
+  &lt;li&gt;2° Simona Stefani con 84 punti&lt;/li&gt;
+  &lt;li&gt;3° Giovanni Toraldo con 82 punti&lt;/li&gt;
+  &lt;li&gt;4° Mauro Tolomei con con 81 punti&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Un breve video della giornata:&lt;/p&gt;
+
+&lt;style&gt;
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  &lt;/style&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/AP0kZAlkr9k?rel=0&amp;amp;autoplay=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;A presto!&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><summary type="html">Nonostante l’allerta codice giallo per vento su tutta la toscana, abbiamo deciso di cimentarsi in una prima gara dell’anno per non perdere il vizio.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2020/balestre-campo-tiro.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2020/balestre-campo-tiro.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">📷 Contest fotografico, ecco il vincitore dell’edizione 2019</title><link href="https://consanpaolino.org/2019/concorso-fotografia-diffidate-imitazioni" rel="alternate" type="text/html" title="📷 Contest fotografico, ecco il vincitore dell’edizione 2019" /><published>2019-12-07T00:00:00+00:00</published><updated>2019-12-07T00:00:00+00:00</updated><id>https://consanpaolino.org/2019/concorso-fotografia-diffidate-imitazioni</id><content type="html" xml:base="https://consanpaolino.org/2019/concorso-fotografia-diffidate-imitazioni">&lt;p&gt;Terminati gli appuntamenti con le manifestazioni di rievocazione storica, si è
 rinnovato l’appuntamento con il contest fotografico indetto dalla nostra
 associazione per cui fotografi amatoriali o semplici possessori di smartphone
 hanno catturato con i propri scatti un momento particolare durante una delle
@@ -529,68 +567,4 @@ nostra vita.&lt;/em&gt;” - Fausto Bisogni&lt;/p&gt;
    ],
   &quot;description&quot;: &quot;Gara di tiro con balestra antica da banco in costume storico fra le 13 città aderenti alla LITAB&quot;
 }
-&lt;/script&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><summary type="html">Aggiornamento: leggi l’articolo con i risultati del campionato a Montefalco Il weekend del 7-8 Settembre 2019 si terrà a Montefalco (provincia di Perugia), per la prima volta in assoluto, il Campionato Italiano di Balestra da banco fra le associazioni di rievocazione storica aderenti alla Lega Italiana Tiro Alla Balestra (LITAB).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2019/campionato-italiano-litab-montefalco/header-montefalco.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2019/campionato-italiano-litab-montefalco/header-montefalco.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">🎯 La balestra e Lucca</title><link href="https://consanpaolino.org/2019/balestra-antica-justinlucca" rel="alternate" type="text/html" title="🎯 La balestra e Lucca" /><published>2019-07-23T00:00:00+00:00</published><updated>2019-07-23T00:00:00+00:00</updated><id>https://consanpaolino.org/2019/balestra-antica-justinlucca</id><content type="html" xml:base="https://consanpaolino.org/2019/balestra-antica-justinlucca">&lt;p&gt;C’è un oggetto a Lucca che è frutto del &lt;strong&gt;lavoro di artigiani&lt;/strong&gt;, la cui
-importanza era ben radicata nel &lt;strong&gt;medioevo&lt;/strong&gt; ma che trae origini da ben prima.
-Era utilizzato a scopo bellico ma oggi è un fulcro di aggregazione sociale fra
-tradizione e sport: la &lt;strong&gt;balestra antica da banco&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Il contesto in cui l’attività di tiro con la balestra si adagia è quello della
-&lt;strong&gt;rievocazione storica&lt;/strong&gt;, che da sempre è un cardine dell’&lt;strong&gt;offerta turistica&lt;/strong&gt;
-di moltissime città italiane, ognuna con i propri palii e le altre
-manifestazioni con giochi storici.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/VfxHSe1.jpg&quot; alt=&quot;Giampaolo Russo - Balestra da banco e balestriere&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Uno dei gruppi di rievocazione storica di Lucca che mette al centro l’attività
-di tiro con la balestra è l’associazione &lt;strong&gt;Contrade San Paolino&lt;/strong&gt;. Nata nel
-1991, aderisce alla &lt;strong&gt;Lega Italiana Tiro alla Balestra (LITAB)&lt;/strong&gt; dal 1995 ed
-ogni anno è chiamata a tenere alto il nome di Lucca durante il &lt;strong&gt;Campionato
-Italiano di Balestra Antica da Banco&lt;/strong&gt;, in cui competono altre 11 città con
-grande spirito di amicizia, tant’è che è consuetudine chiamarsi &lt;strong&gt;“Fratelli
-d’arme”&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/MyHMxsF.jpg&quot; alt=&quot;Giampaolo Russo - Verrette e Verrettoni&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;La balestra da banco è composta da un unico pezzo di legno (solitamente noce o
-ciliegio) chiamato teniere, in cui vengono incassati diversi componenti in
-acciaio oltre ovviamente all’arco. Le uniche parti mobili fanno parte del
-&lt;strong&gt;meccanismo di sgancio&lt;/strong&gt;, composto da una noce con cui si aggancia e si tende
-la corda dell’arco, e dalla leva di sgancio utilizzata per rimuovere, al momento
-opportuno, il perno all’interno della noce, così da liberare la corda e scoccare
-il tiro. Anche le frecce, chiamate più propriamente &lt;strong&gt;verrette&lt;/strong&gt; o verrettoni,
-hanno un corpo in legno (solitamente faggio) e una punta di acciaio. Sulla coda
-della verretta vengono applicate due &lt;strong&gt;penne di tacchino&lt;/strong&gt; per massimizzare la
-stabilità del tiro.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/WHewLj0.jpg&quot; alt=&quot;Paolo Olivieri - Bersaglio dopo gara a squadre LITAB&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Il sistema di mira è semplice ma efficace: sulla verretta è applicato un chiodo,
-con cui il balestriere &lt;strong&gt;inquadra il bersaglio&lt;/strong&gt;. La posizione della testa viene
-fermata da un punto di mira posizionato a lato del teniere su una tabella, che
-viene traguardato attraverso un foro posto su una diottra inserita sempre a lato
-del teniere ma a distanza più ravvicinata con l’&lt;strong&gt;occhio del balestriere&lt;/strong&gt;.
-Entrambi gli strumenti permettono ad un balestriere esperto di ottenere
-ripetutamente il massimo punteggio, che ha un &lt;strong&gt;diametro di una moneta da 2
-euro&lt;/strong&gt;, posto ad una distanza di &lt;strong&gt;36 metri&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;La potenza sprigionata dall’arco è impressionante, e permette alle verrette di
-percorrere il suo tragitto, dall’area di tiro al bersaglio, in poco meno di un
-secondo. Nel medioevo, anche l’armatura più avanzata di un cavaliere o di un
-nobile non poteva fare &lt;strong&gt;nulla per arrestare la verretta&lt;/strong&gt;. Per questo motivo,
-l’unico modo per caricare una balestra da banco è attraverso un ausilio
-meccanico, chiamato martinetto.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/yYG4POc.jpg&quot; alt=&quot;Giampaolo Russo - Balestra antica da banco&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Buona parte di queste balestre vengono abbellite con &lt;strong&gt;intagli&lt;/strong&gt;, e il fusto
-delle verrette dipinte con molteplici colori, arrivando a realizzare delle vere
-e proprie opere d’arte ammirabili durante i &lt;strong&gt;cortei storici&lt;/strong&gt; e i &lt;strong&gt;palii in
-piazza&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Articolo pubblicato su &lt;a href=&quot;http://www.justinlucca.it/2019/07/22/la-balestra-antica-da-banco/&quot;&gt;JustInLucca.it&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;Foto di Giampaolo Russo e Paolo Olivieri&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><summary type="html">C’è un oggetto a Lucca che è frutto del lavoro di artigiani, la cui importanza era ben radicata nel medioevo ma che trae origini da ben prima. Era utilizzato a scopo bellico ma oggi è un fulcro di aggregazione sociale fra tradizione e sport: la balestra antica da banco.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/yYG4POc.jpg" /><media:content medium="image" url="https://i.imgur.com/yYG4POc.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/script&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><summary type="html">Aggiornamento: leggi l’articolo con i risultati del campionato a Montefalco Il weekend del 7-8 Settembre 2019 si terrà a Montefalco (provincia di Perugia), per la prima volta in assoluto, il Campionato Italiano di Balestra da banco fra le associazioni di rievocazione storica aderenti alla Lega Italiana Tiro Alla Balestra (LITAB).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2019/campionato-italiano-litab-montefalco/header-montefalco.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2019/campionato-italiano-litab-montefalco/header-montefalco.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
