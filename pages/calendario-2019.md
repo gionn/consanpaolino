@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendario prossimi eventi a Lucca
+title: Calendario eventi a Lucca del 2019
 date: '2019-01-02T14:00:00+01:00'
 seo:
   date_modified: '2019-11-18T19:00:00+02:00'
@@ -9,51 +9,9 @@ categories:
   - eventi
 tags:
   - calendario
-redirect_from:
- - /calendario-eventi
- - /2018-03-17-calendario-eventi-2018-lucca/
- - /eventi-lucca-2018
- - /calendario-eventi-lucca-2018
 image:
   path: /assets/images/2018/hero/guinigi.jpg
 ---
-
-La **Toscana** è una regione ricca di storia e tradizioni e che custodisce
-luoghi meravigliosi, fra cui la città di [Lucca](/lucca).
-
-**Lucca** è una città molto antica, probabilmente di origine etrusca ma che ha
-iniziato a svilupparsi a partire dal 180 a.C. come città romana, come ci ricorda
-l'attuale Piazza Anfiteatro. Ma è nel **medioevo** che la città crebbe
-notevolmente, grazie all'antica *Via Francigena* di cui Lucca era una tappa
-importante, e molte sono le vicende militari che la videro protagonista. E' in
-questo periodo che nascono i [terzieri di
-Lucca](https://consanpaolino.org/terzieri-lucca) e il corpo militare che riuscì
-a garantire l'indipendenza della città in molte occasioni: [i
-balestrieri](/lucca-balestrieri-medioevo-storia).
-
-Ad oggi queste tradizioni continuano ad esser molto sentite, e Lucca è la culla
-di tanti eventi culturali e d'intrattenimento che la rendono unica e
-indimenticabile. Segue una selezione di eventi a carattere storico-culturale,
-fiere, festival, mostre, spettacoli d'intrattenimento e manifestazioni che si
-tengono a Lucca e provincia durante tutto il 2019.
-
-## Prossimi eventi a Lucca e dintorni
-
-> Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
-> provincia di Lucca? [Scrivici](/contatti)
-
-Il programma dettagliato di ogni evento sarà disponibile nelle settimane
-immediatamente precedenti all'evento.
-
-Il 2019 è ormai agli sgoccioli, e stiamo preparando il calendario eventi per la
-**stagione eventi 2020**.
-
-Nel frattempo, puoi [iscriverti alla newsletter](/newsletter) per riceverlo
-comodamente nella tua casella di posta non appena sarà disponibile!
-
-## Scopri i balestrieri di San Paolino
-
-{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
 
 ## Eventi che potresti aver perso
 
