@@ -12,7 +12,7 @@ Se vuoi riservare un'offerta ai nostri soci, [contattaci](/contatti).
 
 ### 🍝 Ristoranti
 
-* [Bottega di Anna e Leo](https://goo.gl/maps/hkP5qq7EmMokkfy57): sconto del 10% a cena dal martedì al giovedì
+* [La Bottega di Anna e Leo](https://goo.gl/maps/hkP5qq7EmMokkfy57): sconto del 10% a cena dal martedì al giovedì
 
 ### 🛠️ Fai da te
 
