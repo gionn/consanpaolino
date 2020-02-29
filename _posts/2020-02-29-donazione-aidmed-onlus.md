@@ -23,7 +23,7 @@ febbraio, quando è stato diffuso un **video promozionale** su YouTube con
 protagonista il piccolo Niccolò e la **città di Lucca** come scenografia.
 
 Il denaro raccolto dall'associazione è stato donato martedì scorso e per
-l’occasione c’è stato un incontro presso la sede storica delle contrade sotto
+l’occasione c’è stato un incontro presso la sede storica delle Contrade sotto
 Porta San Pietro per conoscere di persona Niccolò con tutta la sua bellissima
 famiglia.
 
