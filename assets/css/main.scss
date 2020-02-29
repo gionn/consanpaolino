@@ -43,6 +43,10 @@ article p {
   text-align: left;
 }
 
+h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+}
+
 .entry-meta .entry-date + .entry-category::before {
     content: "\2022";
     padding: 0 0.5em;
