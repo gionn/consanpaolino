@@ -867,6 +867,8 @@ article p { margin-bottom: 1rem; text-align: justify; }
 
 .entry-title, .page-title { font-style: normal; text-align: left; }
 
+h2, h3, h4, h5, h6 { margin-bottom: 1rem; }
+
 .entry-meta .entry-date + .entry-category::before { content: "\2022"; padding: 0 0.5em; font-family: "Lora", serif; font-style: italic; white-space: nowrap; }
 
 form.wj-contact input, form.wj-contact textarea { width: 100%; vertical-align: middle; margin-top: 0.25em; margin-bottom: 0.5em; padding: 0.75em; font-family: monospace, sans-serif; font-weight: lighter; border-style: solid; border-color: #444; outline-color: #2e83e6; border-width: 1px; border-radius: 3px; transition: box-shadow .2s ease; }
