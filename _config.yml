@@ -14,7 +14,7 @@ baseurl:
 url: https://consanpaolino.org
 logo: "/images/logo.jpg"
 date_format: "%F"
-read_time: true
+read_time: false
 words_per_minute: 80
 mathjax: false
 excerpt_separator: "<!-- more -->"
