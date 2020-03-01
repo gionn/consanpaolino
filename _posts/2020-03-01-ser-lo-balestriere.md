@@ -12,6 +12,8 @@ per tutte le creature<br/>
 ma soprattutto grazie...<br/>
 per Ser lo Balestriere.
 
+<!-- more -->
+
 Col la balestra in spalla<br/>
 Tramaglio e elmetto in capo<br/>
 Inciampa nello spadone<br/>
