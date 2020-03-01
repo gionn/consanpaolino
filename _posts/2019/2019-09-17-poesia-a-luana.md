@@ -5,6 +5,8 @@ categories:
   - news
 image:
   path: /assets/images/2019/torta-vittoria-campionato-litab.jpg
+author:
+  name: Le Paoline
 ---
 
 E noi siam le Paoline, siamo molto assai carine,<br/>
@@ -12,6 +14,8 @@ qualche volta birichine.
 
 Certo noi non siam signore<br/>
 ma abbiamo un grande cuore.
+
+<!-- more -->
 
 Siamo l'anima del gruppo dello Santo Paolino<br/>
 tutte insieme abbiamo Forza e cervello sopraffino.
