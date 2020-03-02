@@ -51,7 +51,7 @@ del vento o del puntale.
 Ma poi al Balestriere poveretto<br/>
 comunque tocca prendere un cicchetto,<br/>
 quando a fine gara<br/>
-plana Mauro come un’aquila indiavolata<br/>
+plana il Maestro come un’aquila indiavolata<br/>
 e gli rifila una bella rimbalzata.
 
 Autore: Mimmo Tattrabacco
