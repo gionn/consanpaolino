@@ -40,17 +40,20 @@ tengono a Lucca e provincia durante tutto il 2020.
 
 ## Prossimi eventi a Lucca e dintorni
 
-> Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
-> provincia di Lucca? [Scrivici](/contatti)
+Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
+provincia di Lucca? [Scrivici](/contatti)
 
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
+
+> **ATTENZIONE: tutti le date degli eventi sono soggette a slittamento a causa
+della recente epidemia covid-19 su tutto il territorio nazionale.**
 
 * **14/15 – 21/22 – 28/29 Marzo - Antiche Camelie della Lucchesia**:
   esposizioni, degustazioni, concerti in onore della Camelia. <br/>
   [:mag: vai al sito ufficiale](http://www.camelielucchesia.it/)
 
-* **3-4-5 aprile - VerdeMura**: mostra mercato del giardinaggio e del vivere
+* **15-16-17 Maggio - VerdeMura**: mostra mercato del giardinaggio e del vivere
   all'aria aperta sul baluardo Santa Croce, sul baluardo e sulla Porta San
   Donato. Oltre 200 espositori italiani e stranieri: vivaisti di piante e specie
   orticole, arbusti, bulbi, attrezzi e arredi per il giardino e per l’orto,
