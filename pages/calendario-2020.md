@@ -46,8 +46,10 @@ provincia di Lucca? [Scrivici](/contatti)
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
 
-> **ATTENZIONE: tutti le date degli eventi sono soggette a slittamento a causa
-della recente epidemia covid-19 su tutto il territorio nazionale.**
+> **ATTENZIONE: tutti gli eventi sono da considerarsi annullati a causa
+dell'epidemia covid-19 su tutto il territorio nazionale. Una nuova
+programmazione sarà disponibile solo al termine dell'efficacia del decreto che
+vieta qualsiasi manifestazione su tutto il territorio italiano.**
 
 * **14/15 – 21/22 – 28/29 Marzo - Antiche Camelie della Lucchesia**:
   esposizioni, degustazioni, concerti in onore della Camelia. <br/>
