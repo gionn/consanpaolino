@@ -11,7 +11,6 @@ tags:
   - calendario
 redirect_from:
  - /calendario-eventi
- - /eventi
  - /2018-03-17-calendario-eventi-2018-lucca/
  - /eventi-lucca-2018
  - /calendario-eventi-lucca-2018
