@@ -22,4 +22,4 @@ iscritti.
 Puoi [iscriverti gratuitamente](https://www.eventbrite.it/e/biglietti-diventa-balestriere-della-repubblica-di-lucca-lezione-online-102516230806)
 attraverso la piattaforma Eventbrite.
 
-A presto!
+**Aggiornamento**: abbiamo [pubblicato la registrazione](/2020/webinar-video-diventa-balestriere-repubblica-lucca) della sessione sul nostro canale YouTube.
