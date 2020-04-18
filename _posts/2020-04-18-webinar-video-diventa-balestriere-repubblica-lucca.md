@@ -10,3 +10,29 @@ E' disponibile su questo sito e sul nostro canale YouTube, la registrazione dell
 <!-- more -->
 
 {% youtube "https://www.youtube.com/watch?v=MpzOvqbalYE" %}
+
+Scaletta:
+09:14 - La balestra a Lucca
+11:17 - La struttura della balestra
+14:51 - L'arco e la corda
+17:22 - La piastra
+18:20 - La noce
+20:41 - Leva di sgancio
+22:01 - Sistema di puntamento
+23:42 - Diottra
+24:47 - Punto di mira
+28:58 - Le verrette (dardi)
+32:24 - Cosa influisce sulla traiettoria di tiro
+35:01 - Campo di tiro
+39:27 - Caricamento della balestra
+42:51 - Il tiro con la balestra
+44:42 - Competizioni nazionali
+47:16 - Tipi di gare
+48:31 - Il buon balestriere
+50:03 - Il corniolo
+
+Video a qualità originale inclusi nella presentazione:
+
+* [Introduzione promo dell'associazione](https://youtu.be/0nkTz6ejg2o)
+* [Caricamento della balestra](https://youtu.be/M3lAgSwlEFA?t=1336)
+* [Tiro con la balestra](https://youtu.be/CAXZj9O1tUs?t=10)
