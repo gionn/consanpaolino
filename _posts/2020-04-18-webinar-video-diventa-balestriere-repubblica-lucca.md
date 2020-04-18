@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📺 Diventa balestriere - Prima lezione"
+title: "📺 Diventa balestriere della Repubblica di Lucca - Guarda il video"
 categories:
   - video
 ---

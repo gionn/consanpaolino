@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎯 Diventa balestriere - Lezione online"
+title: "🎯 Diventa balestriere della Repubblica di Lucca - Prima lezione online"
 categories:
   - news
 image:
