@@ -22,14 +22,14 @@ Scaletta:
 23:42 - Diottra
 24:47 - Punto di mira
 28:58 - Le verrette (dardi)
-32:24 - Cosa influisce sulla traiettoria di tiro
-35:01 - Campo di tiro
-39:27 - Caricamento della balestra
-42:51 - Il tiro con la balestra
-44:42 - Competizioni nazionali
-47:16 - Tipi di gare
-48:31 - Il buon balestriere
-50:03 - Il corniolo
+32:05 - Cosa influisce sulla traiettoria di tiro
+34:42 - Campo di tiro
+39:08 - Caricamento della balestra
+42:32 - Il tiro con la balestra
+44:22 - Competizioni nazionali
+46:56 - Tipi di gare
+48:08 - Il buon balestriere
+49:44 - Il corniolo
 
 Video a qualità originale inclusi nella presentazione:
 
