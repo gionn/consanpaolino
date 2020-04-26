@@ -162,7 +162,28 @@ loro onore la prima balestra di fattura volterrana prese il nome di
   <a href="{{ '/assets/images/2019/giannoni-balestrieri-lucca/giannoni-benassai-1998.jpg' | absolute_url }}">
     <img src="{{ '/assets/images/2019/giannoni-balestrieri-lucca/giannoni-benassai-1998.jpg' | absolute_url }}" alt="giannoni bruno e mario benassai a lucca nel 1998">
   </a>
-  <figcaption>Bruno Giannoni segue un balestriere volterrano durante i suoi primi tiri</figcaption>
+  <figcaption>Bruno Giannoni segue un balestriere volterrano (Mario Benessai) durante i suoi primi tiri</figcaption>
+</figure>
+
+<figure style="width: 235px" class="align-left">
+<a href="{{ '/assets/images/2019/giannoni-balestrieri-lucca/1998-mario-puccetti.jpg' | absolute_url }}">
+<img src="{{ '/assets/images/2019/giannoni-balestrieri-lucca/1998-mario-puccetti.jpg' | absolute_url }}" alt="mario puccetti balestra">
+</a>
+<figcaption>Mario Puccetti prova la prima balestra volterrana "Maria-Bruna"</figcaption>
+</figure>
+
+<figure style="width: 235px" class="align-left">
+<a href="{{ '/assets/images/2019/giannoni-balestrieri-lucca/1998-alessandro-benassai-giannoni.jpg' | absolute_url }}">
+<img src="{{ '/assets/images/2019/giannoni-balestrieri-lucca/1998-alessandro-benassai-giannoni.jpg' | absolute_url }}" alt="alessandro benassai balestra">
+</a>
+<figcaption>Alessandro Benassai al tiro</figcaption>
+</figure>
+
+<figure style="width: 235px" class="align-left">
+<a href="{{ '/assets/images/2019/giannoni-balestrieri-lucca/1998-baroncini-elena.jpg' | absolute_url }}">
+<img src="{{ '/assets/images/2019/giannoni-balestrieri-lucca/1998-baroncini-elena.jpg' | absolute_url }}" alt="elena baroncini balestra">
+</a>
+<figcaption>Elena Baroncini al tiro</figcaption>
 </figure>
 
 A fine 1999 inizia a nascere interesse nella ricostruzione di bombarde e
