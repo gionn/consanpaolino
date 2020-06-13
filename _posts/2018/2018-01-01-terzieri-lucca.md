@@ -98,7 +98,7 @@ La suddivisione della città in terzieri e quartieri durò fino alla scomparsa
 della Repubblica. Con la venuta dei Baciocchi il 22 settembre 1802 la città
 venne **divisa in sestieri** e rimase così fino al Ducato Borbonico. I sestieri
 ebbero nomi delle Chiese: S. Francesco, S. Paolino, S. Agostino, S. Martino e S.
-Michele, solo la zona di S. Fredianovenne chiamata dell'Università.
+Michele, solo la zona di S. Frediano venne chiamata dell'Università.
 
 Questa fu l'ultima divisione del territorio interno alle Mura Urbane e durante
 il Regime si ripristinò l'antica divisione rionale. Oggi sono pochi i quartieri
