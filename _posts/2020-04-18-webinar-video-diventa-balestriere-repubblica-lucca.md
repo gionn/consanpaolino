@@ -5,13 +5,13 @@ categories:
   - video
 ---
 
-E' disponibile su questo sito e sul nostro canale YouTube, la registrazione della prima lezione online per diventare balestrieri della Repubblica di Lucca.
+E' disponibile su questo sito e sul nostro canale YouTube, la registrazione della prima lezione online per diventare balestriere della Repubblica di Lucca.
 
 <!-- more -->
 
 {% youtube "https://www.youtube.com/watch?v=MpzOvqbalYE" %}
 
-Scaletta:
+Scaletta della presentazione:
 09:14 - La balestra a Lucca
 11:17 - La struttura della balestra
 14:51 - L'arco e la corda
