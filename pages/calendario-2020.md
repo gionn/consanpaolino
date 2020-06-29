@@ -45,45 +45,15 @@ provincia di Lucca? [Scrivici](/contatti)
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
 
-> **ATTENZIONE: tutti gli eventi sono da considerarsi annullati a causa
-dell'epidemia covid-19 su tutto il territorio nazionale. Una nuova
-programmazione sarà disponibile solo al termine dell'efficacia del decreto che
-vieta qualsiasi manifestazione su tutto il territorio italiano.**
-
-* **14/15 – 21/22 – 28/29 Marzo - Antiche Camelie della Lucchesia**:
-  esposizioni, degustazioni, concerti in onore della Camelia. <br/>
-  [:mag: vai al sito ufficiale](http://www.camelielucchesia.it/)
-
-* **15-16-17 Maggio - VerdeMura**: mostra mercato del giardinaggio e del vivere
-  all'aria aperta sul baluardo Santa Croce, sul baluardo e sulla Porta San
-  Donato. Oltre 200 espositori italiani e stranieri: vivaisti di piante e specie
-  orticole, arbusti, bulbi, attrezzi e arredi per il giardino e per l’orto,
-  prodotti artigianali e alimentari di eccellenza, il tutto nell’ambientazione
-  unica delle Mura di Lucca, uno dei parchi pubblici più antichi e suggestivi
-  d’Europa [:mag: vai al sito ufficiale](https://www.verdemura.it)
-
-* **19 Aprile - Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
-  per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
-  di tiro con la balestra antica al [Campo Tiri della Repubblica di
-  Lucca](https://goo.gl/maps/Cz3SQuVr9YE2).
-
-* **6-7 Giugno - :bangbang: [Lucca Medievale](https://luccamedievale.it)**: due
-  giorni di villaggio medievale nei giardini fra Porta Sant'Anna e Porta San
-  Donato, con spettacoli di intrattenimento, storia e didattica: torneo dei
-  balestrieri, scherma medievale, falconeria, artigianato medievale, intrattenimento per grandi e piccini, gastronomia e molto altro ancora.<br/>
-  [:mag: Vai al sito dedicato di Lucca Medievale](https://luccamedievale.it)
-
-* **28 Giugno al 29 Luglio - Lucca Summer Festival**: tanti concerti nell'arco
-  di un mese, artisti sia nazionali che internazionali, nel centro storico di
-  Lucca o sotto gli spalti delle mura. [:mag: Vedi le date dei
-  concerti](https://www.summer-festival.com/)
+> **ATTENZIONE**: calendario eventi in aggiornamento dopo le recenti
+> disposizioni che permettono la realizzazione di eventi in sicurezza.
 
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici in
   piazza San Martino (organizzato dal Comune di Lucca).
 
-* **12 Luglio - Palio di San Paolino**: palio dei balestrieri in piazza San
-  Martino (organizzato dal Comune di Lucca).
+* **12 Luglio - Palio di San Paolino**: disfida dei balestrieri in Piazzale
+  Arrigoni (organizzato dal Comune di Lucca).
 
 * **4-5-6 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
   giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
