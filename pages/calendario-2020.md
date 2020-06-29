@@ -66,4 +66,4 @@ immediatamente precedenti all'evento.
 
 ## Scopri i balestrieri di San Paolino
 
-{% youtube "https://www.youtube.com/watch?v=0nkTz6ejg2o" %}
+{% youtube "https://youtu.be/VXXnQ-31_Cc" %}
