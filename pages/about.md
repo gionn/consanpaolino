@@ -69,9 +69,9 @@ contribuiscono a creare e mantenere un importante punto di aggregazione sociale
 per tutti gli abitanti di Lucca e zone limitrofe, interessati a conoscerne la
 storia e riviverla in prima persona.
 
-## Viver Lucense sulle Contrade San Paolino
+## La nostra associazioni in 5 minuti
 
-{% youtube "https://www.youtube.com/watch?v=M3lAgSwlEFA" %}
+{% youtube "https://youtu.be/GpjQPZrHWRY" %}
 
 ## Ti interessa quello che facciamo?
 
