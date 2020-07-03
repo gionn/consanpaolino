@@ -3,6 +3,7 @@ layout: post
 title: "📺 Live Love Lucca - La nostra associazione in 5 minuti"
 categories:
   - video
+image: /assets/images/2020/montefalco-balestrieri.jpg
 ---
 
 Abbiamo partecipato al progetto dell’Ufficio Cultura del Comune di Lucca,
