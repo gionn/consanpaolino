@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-youtube"
   gem "jekyll-minifier"
   gem "jemoji"
+  gem "jekyll-last-modified-at"
 end
 
 # Validate HTML

@@ -77,6 +77,7 @@ plugins:
   - jekyll-youtube
   - jekyll-minifier
   - jemoji
+  - jekyll-last-modified-at
 
 collections:
   competitions:
