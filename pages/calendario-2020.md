@@ -70,3 +70,67 @@ immediatamente precedenti all'evento.
 ## Scopri i balestrieri di San Paolino
 
 {% youtube "https://youtu.be/VXXnQ-31_Cc" %}
+
+<script type='application/ld+json'>
+{
+  "@context": "https://www.schema.org",
+  "@type": "Event",
+  "name": "Luminara di San Paolino 2020",
+  "url": "https://consanpaolino.org",
+  "description": "Rievocazione storica, corteo storico",
+  "startDate": "11/07/2020 09:00PM",
+  "endDate": "11/07/2020 10:00PM",
+  "location": {
+    "@type": "Place",
+    "name": "Piazzale Arrigoni",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Piazzale Arrigoni",
+      "addressLocality": "Lucca",
+      "addressRegion": "LU",
+      "postalCode": "55100",
+      "addressCountry": "IT"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00"
+  },
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Contrade San Paolino"
+  }
+}
+ </script>
+
+<script type='application/ld+json'>
+{
+  "@context": "https://www.schema.org",
+  "@type": "Event",
+  "name": "Palio San Paolino 2020",
+  "url": "https://consanpaolino.org",
+  "description": "Disfida dei balestrieri, rievocazione storica",
+  "startDate": "12/07/2020 09:00PM",
+  "endDate": "12/07/2020 10:30PM",
+  "location": {
+    "@type": "Place",
+    "name": "Piazzale Arrigoni",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Piazzale Arrigoni",
+      "addressLocality": "Lucca",
+      "addressRegion": "LU",
+      "postalCode": "55100",
+      "addressCountry": "IT"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00"
+  },
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Contrade San Paolino"
+  }
+}
+ </script>
