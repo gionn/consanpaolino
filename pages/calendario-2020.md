@@ -49,11 +49,14 @@ immediatamente precedenti all'evento.
 > disposizioni che permettono la realizzazione di eventi in sicurezza.
 
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
-  allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici in
-  piazza San Martino (organizzato dal Comune di Lucca).
+  allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici.
+  Partenza dalle ore 21.00 da Piazza Napoleone verso Piazzale Arrigoni.
+  Esibizioni dei gruppi partecipanti ed estrazione dell'ordine di tiro del Palio
+  dei balestrieri del giorno successivo.
 
-* **12 Luglio - Palio di San Paolino**: disfida dei balestrieri in Piazzale
-  Arrigoni (organizzato dal Comune di Lucca).
+* **12 Luglio - Palio di San Paolino**: corteo storico e disfida dei balestrieri
+  in Piazzale Arrigoni a partire dalle ore 21.00. Premiazione dei vincitori
+  prevista per le ore 22.00.
 
 * **4-5-6 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
   giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
