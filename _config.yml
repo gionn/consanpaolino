@@ -28,8 +28,8 @@ disqus:
 twitter:
   username: consanpaolino
 facebook:
- publisher: 1787905061499575
- admins: 511505670
+  publisher: 1787905061499575
+  admins: 511505670
 social:
   name: Contrade San Paolino
   links:
@@ -55,7 +55,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink:  /:year/:title
+permalink: /:year/:title
 markdown: kramdown
 category_archive_path: "/"
 feed:
@@ -88,7 +88,6 @@ defaults:
   # Posts defaults
   - scope:
       path: "_posts"
-      type: posts
     values:
       layout: post
       share: false
@@ -135,5 +134,5 @@ footer_links:
 jekyll-minifier:
   compress_css: false
   exclude:
-    - 'robots.txt'
-    - 'atom.xml'
+    - "robots.txt"
+    - "atom.xml"
