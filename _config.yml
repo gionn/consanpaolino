@@ -93,19 +93,16 @@ defaults:
       layout: post
       share: false
   - scope:
+      path: "pages"
+    values:
+      layout: page
+      share: false
+  - scope:
       path: "_competitions"
-      type: competitions
     values:
       layout: competition
       share: false
-  - scope:
-      path:            "post"
-    values:
-      sitemap:         false
-  - scope:
-      path:            "page"
-    values:
-      sitemap:         false
+      sitemap: false
 
 # Site Author
 author:
