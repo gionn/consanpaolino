@@ -1,6 +1,7 @@
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
-locale: it
+locale: it-IT
+lang: it-IT #jekyll-seo-tag
 title: "🎯 Contrade San Paolino 🥁"
 description: "Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti"
 copyright: |
