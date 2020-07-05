@@ -53,11 +53,11 @@ immediatamente precedenti all'evento.
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici.
   Partenza dalle ore 21.00 da Piazza Napoleone verso Piazzale Arrigoni.
   Esibizioni dei gruppi partecipanti ed estrazione dell'ordine di tiro del Palio
-  dei balestrieri del giorno successivo.
+  dei balestrieri del giorno successivo. - [:mag: Vai all'articolo](/2020/giorni-san-paolino)
 
 * **12 Luglio - Palio di San Paolino**: corteo storico e disfida dei balestrieri
   in Piazzale Arrigoni a partire dalle ore 21.00. Premiazione dei vincitori
-  prevista per le ore 22.00.
+  prevista per le ore 22.00 - [:mag: Vai all'articolo](/2020/giorni-san-paolino)
 
 * **4-5-6 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
   giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
