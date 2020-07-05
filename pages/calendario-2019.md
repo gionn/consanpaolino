@@ -13,6 +13,10 @@ image:
   path: /assets/images/2018/hero/guinigi.jpg
 ---
 
+> **Attenzione**: stai consultando la programmazione di una stagione conclusa,
+> probabilmente ti interessa il [Calendario Eventi a Lucca del
+> 2020](/eventi-lucca-2020)?
+
 ## Eventi che potresti aver perso
 
 * **30 Ottobre al 3 Novembre - Lucca Comics & Games**: festival internazionale del
