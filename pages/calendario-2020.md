@@ -46,7 +46,8 @@ Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
 
 > **ATTENZIONE**: calendario eventi in aggiornamento dopo le recenti
-> disposizioni che permettono la realizzazione di eventi in sicurezza.
+> disposizioni in tema COVID-19 che permettono la realizzazione di eventi in
+> sicurezza.
 
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici.
