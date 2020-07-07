@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-07-05T08:35:26+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📣 I Giorni di San Paolino: parate e Palio dei balestrieri</title><link href="https://consanpaolino.org/2020/giorni-san-paolino" rel="alternate" type="text/html" title="📣 I Giorni di San Paolino: parate e Palio dei balestrieri" /><published>2020-07-05T00:00:00+00:00</published><updated>2020-07-05T08:34:24+00:00</updated><id>https://consanpaolino.org/2020/giorni-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/giorni-san-paolino">&lt;p&gt;Nonostante l’emergenza COVID-19 abbia portato all’annullamento o alla
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-07-07T18:14:56+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📣 I Giorni di San Paolino: parate e Palio dei balestrieri</title><link href="https://consanpaolino.org/2020/giorni-san-paolino" rel="alternate" type="text/html" title="📣 I Giorni di San Paolino: parate e Palio dei balestrieri" /><published>2020-07-05T00:00:00+00:00</published><updated>2020-07-07T18:14:23+00:00</updated><id>https://consanpaolino.org/2020/giorni-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/giorni-san-paolino">&lt;p&gt;Nonostante l’emergenza COVID-19 abbia portato all’annullamento o alla
 posticipazione di molti eventi a manifestazioni, il &lt;strong&gt;Comune di Lucca&lt;/strong&gt;, insieme
 ai gruppi storici della città, ha voluto mantenere viva la tradizione dei
 &lt;strong&gt;Giorni di San Paolino&lt;/strong&gt;, che ogni anno omaggiano il Santo Patrono della città
@@ -34,7 +34,87 @@ premiazione dei 4 migliori tiratori.&lt;/p&gt;
 &lt;p&gt;Diversamente dagli anni passati, per il pubblico non saranno predisposte delle
 gradinate ma sarà possibile seguire il Palio direttamente dalle mura a ridosso
 di Piazzale Arrigoni. Come di consueto, il Palio sarà trasmesso in diretta
-dall’emittente NoiTV.&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="eventi" /><summary type="html">Nonostante l’emergenza COVID-19 abbia portato all’annullamento o alla posticipazione di molti eventi a manifestazioni, il Comune di Lucca, insieme ai gruppi storici della città, ha voluto mantenere viva la tradizione dei Giorni di San Paolino, che ogni anno omaggiano il Santo Patrono della città attraverso alcune manifestazioni di rievocazione storica che si svolgono durante la settimana del 12 Luglio. Di seguito il programma delle giornate:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2020/via-san-paolino-bandiere-contrade.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2020/via-san-paolino-bandiere-contrade.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">📺 Live Love Lucca - La nostra associazione in 5 minuti</title><link href="https://consanpaolino.org/2020/live-love-lucca" rel="alternate" type="text/html" title="📺 Live Love Lucca - La nostra associazione in 5 minuti" /><published>2020-07-03T00:00:00+00:00</published><updated>2020-07-03T19:48:01+00:00</updated><id>https://consanpaolino.org/2020/live-love-lucca</id><content type="html" xml:base="https://consanpaolino.org/2020/live-love-lucca">&lt;p&gt;Abbiamo partecipato al progetto dell’Ufficio Cultura del Comune di Lucca,
+dall’emittente NoiTV.&lt;/p&gt;
+
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{
+  &quot;@context&quot;: &quot;https://www.schema.org&quot;,
+  &quot;@type&quot;: &quot;Event&quot;,
+  &quot;name&quot;: &quot;Luminara di San Paolino 2020&quot;,
+  &quot;url&quot;: &quot;https://consanpaolino.org&quot;,
+  &quot;description&quot;: &quot;Rievocazione storica, corteo storico&quot;,
+  &quot;startDate&quot;: &quot;11/07/2020 09:00PM&quot;,
+  &quot;endDate&quot;: &quot;11/07/2020 10:00PM&quot;,
+  &quot;eventStatus&quot;: &quot;https://schema.org/EventScheduled&quot;,
+  &quot;eventAttendanceMode&quot;: &quot;https://schema.org/OfflineEventAttendanceMode&quot;,
+  &quot;image&quot;: [&quot;https://consanpaolino.org/assets/images/2020/via-san-paolino-bandiere-contrade.jpg&quot;],
+  &quot;location&quot;: {
+    &quot;@type&quot;: &quot;Place&quot;,
+    &quot;name&quot;: &quot;Piazzale Arrigoni&quot;,
+    &quot;address&quot;: {
+      &quot;@type&quot;: &quot;PostalAddress&quot;,
+      &quot;streetAddress&quot;: &quot;Piazzale Arrigoni&quot;,
+      &quot;addressLocality&quot;: &quot;Lucca&quot;,
+      &quot;addressRegion&quot;: &quot;LU&quot;,
+      &quot;postalCode&quot;: &quot;55100&quot;,
+      &quot;addressCountry&quot;: &quot;IT&quot;
+    }
+  },
+  &quot;offers&quot;: {
+    &quot;@type&quot;: &quot;Offer&quot;,
+    &quot;price&quot;: &quot;0.00&quot;
+  },
+  &quot;performer&quot;: {
+    &quot;@type&quot;: &quot;PerformingGroup&quot;,
+    &quot;name&quot;: &quot;Contrade San Paolino&quot;
+  },
+  &quot;organizer&quot;: {
+    &quot;@type&quot;: &quot;Organization&quot;,
+    &quot;name&quot;: &quot;Contrade San Paolino&quot;,
+    &quot;url&quot;: &quot;https://consanpaolino.org&quot;
+  }
+}
+ &lt;/script&gt;
+
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{
+  &quot;@context&quot;: &quot;https://www.schema.org&quot;,
+  &quot;@type&quot;: &quot;Event&quot;,
+  &quot;name&quot;: &quot;Palio San Paolino 2020&quot;,
+  &quot;url&quot;: &quot;https://consanpaolino.org&quot;,
+  &quot;description&quot;: &quot;Disfida dei balestrieri, rievocazione storica&quot;,
+  &quot;startDate&quot;: &quot;12/07/2020 09:00PM&quot;,
+  &quot;endDate&quot;: &quot;12/07/2020 10:30PM&quot;,
+  &quot;eventStatus&quot;: &quot;https://schema.org/EventScheduled&quot;,
+  &quot;eventAttendanceMode&quot;: &quot;https://schema.org/OfflineEventAttendanceMode&quot;,
+  &quot;image&quot;: [&quot;https://consanpaolino.org/assets/images/2020/via-san-paolino-bandiere-contrade.jpg&quot;],
+  &quot;location&quot;: {
+    &quot;@type&quot;: &quot;Place&quot;,
+    &quot;name&quot;: &quot;Piazzale Arrigoni&quot;,
+    &quot;address&quot;: {
+      &quot;@type&quot;: &quot;PostalAddress&quot;,
+      &quot;streetAddress&quot;: &quot;Piazzale Arrigoni&quot;,
+      &quot;addressLocality&quot;: &quot;Lucca&quot;,
+      &quot;addressRegion&quot;: &quot;LU&quot;,
+      &quot;postalCode&quot;: &quot;55100&quot;,
+      &quot;addressCountry&quot;: &quot;IT&quot;
+    }
+  },
+  &quot;offers&quot;: {
+    &quot;@type&quot;: &quot;Offer&quot;,
+    &quot;price&quot;: &quot;0.00&quot;
+  },
+  &quot;performer&quot;: {
+    &quot;@type&quot;: &quot;PerformingGroup&quot;,
+    &quot;name&quot;: &quot;Contrade San Paolino&quot;
+  },
+  &quot;organizer&quot;: {
+    &quot;@type&quot;: &quot;Organization&quot;,
+    &quot;name&quot;: &quot;Contrade San Paolino&quot;,
+    &quot;url&quot;: &quot;https://consanpaolino.org&quot;
+  }
+}
+ &lt;/script&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="eventi" /><summary type="html">Nonostante l’emergenza COVID-19 abbia portato all’annullamento o alla posticipazione di molti eventi a manifestazioni, il Comune di Lucca, insieme ai gruppi storici della città, ha voluto mantenere viva la tradizione dei Giorni di San Paolino, che ogni anno omaggiano il Santo Patrono della città attraverso alcune manifestazioni di rievocazione storica che si svolgono durante la settimana del 12 Luglio. Di seguito il programma delle giornate:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2020/via-san-paolino-bandiere-contrade.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2020/via-san-paolino-bandiere-contrade.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">📺 Live Love Lucca - La nostra associazione in 5 minuti</title><link href="https://consanpaolino.org/2020/live-love-lucca" rel="alternate" type="text/html" title="📺 Live Love Lucca - La nostra associazione in 5 minuti" /><published>2020-07-03T00:00:00+00:00</published><updated>2020-07-03T19:48:01+00:00</updated><id>https://consanpaolino.org/2020/live-love-lucca</id><content type="html" xml:base="https://consanpaolino.org/2020/live-love-lucca">&lt;p&gt;Abbiamo partecipato al progetto dell’Ufficio Cultura del Comune di Lucca,
 raccontando la nostra associazione grazie alla voce di Giovanni e Diletta.&lt;/p&gt;
 
 &lt;!-- more --&gt;
