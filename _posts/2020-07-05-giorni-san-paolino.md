@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📣 I Giorni di San Paolino: parate e Palio dei balestrieri"
+title: "📣 I Giorni di San Paolino: Luminara, Parata di Bandiere e 46° Palio di San Paolino"
 categories:
   - eventi
 image: /assets/images/2020/via-san-paolino-bandiere-contrade.jpg
