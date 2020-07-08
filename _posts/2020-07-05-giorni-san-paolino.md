@@ -6,6 +6,8 @@ categories:
 image: /assets/images/2020/via-san-paolino-bandiere-contrade.jpg
 ---
 
+**Sei su Facebook?** Collegati all'[evento](https://www.facebook.com/events/317566119401163).
+
 Nonostante l’emergenza COVID-19 abbia portato all’annullamento o alla
 posticipazione di molti eventi a manifestazioni, il **Comune di Lucca**, insieme
 ai gruppi storici della città, ha voluto mantenere viva la tradizione dei

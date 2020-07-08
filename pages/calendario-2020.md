@@ -57,7 +57,7 @@ immediatamente precedenti all'evento.
 
 * **12 Luglio - Palio di San Paolino**: corteo storico e disfida dei balestrieri
   in Piazzale Arrigoni a partire dalle ore 21.00. Premiazione dei vincitori
-  prevista per le ore 22.00 - [:mag: Vai all'articolo](/2020/giorni-san-paolino)
+  prevista per le ore 22.00 - [:mag: Vai all'articolo](/2020/giorni-san-paolino) - [Evento FB](https://www.facebook.com/events/317566119401163)
 
 * **4-5-6 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
   giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
