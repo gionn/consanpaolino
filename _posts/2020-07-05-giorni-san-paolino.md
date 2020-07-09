@@ -19,6 +19,8 @@ Di seguito il programma delle giornate per l'edizione 2020:
 
 <!-- more -->
 
+## Programma
+
 Per **sabato 11 Luglio** è previsto il corteo storico *“Luminara e Parata di
 Bandiere di San Paolino”*, quando ogni associazione partecipante partirà alle
 ore 21:00 da Piazzale Verdi verso Via San Paolino, Piazza San Michele, [Piazza
@@ -32,19 +34,21 @@ si contenderanno l’ambito Palio del giorno successivo. Termine della serata
 prevista per le ore 22:30.
 
 Per **domenica 12 Luglio**, giorno di San Paolino, l’associazione Historica
-Lucense effettuerà i tradizionali spari di cannone a partire dalle ore 13:00 da
-Piazzale Verdi per rievocare il miracolo di San Paolino. Dalle ore 21:00 il
-corteo storico sfilerà con le stesse modalità del giorno precedente, ma dalle
-ore 22:00 in Piazzale Arrigoni prenderà il via il **46° Palio di San Paolino**,
-dove i circa 50 balestrieri delle associazioni di Contrade San Paolino e
-Compagnia Balestrieri Lucca si contenderanno il primato sulla “brocca”
-scagliando verrette con le proprie balestre da banco. La serata si chiuderà alle
-ore 23.00 circa con la premiazione dei 4 migliori tiratori.
+Lucense effettuerà i tradizionali spari di cannone a partire dalle ore 13:00
+dalla Cannoniera di San Donato per rievocare il miracolo di San Paolino. Dalle
+ore 21:00 il corteo storico sfilerà con le stesse modalità del giorno
+precedente, ma dalle ore 22:00 in Piazzale Arrigoni prenderà il via il **46°
+Palio di San Paolino**, dove i circa 50 balestrieri delle associazioni di
+Contrade San Paolino e Compagnia Balestrieri Lucca si contenderanno il primato
+sulla “brocca”scagliando verrette con le proprie balestre da banco. La serata si
+chiuderà alle ore 23.00 circa con la premiazione dei 4 migliori tiratori.
 
 Diversamente dagli anni passati, per il pubblico non saranno predisposte delle
 gradinate ma sarà possibile seguire il Palio direttamente dalle mura a ridosso
 di Piazzale Arrigoni. Come di consueto, il Palio sarà trasmesso in diretta
 dall’emittente NoiTV.
+
+![locandina giorni san paolino](/assets/images/2020/san-paolino-2020-programma.jpg)
 
 <script type='application/ld+json'>
 {
