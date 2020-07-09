@@ -3,7 +3,7 @@ layout: post
 title: "📣 I Giorni di San Paolino: Luminara, Parata di Bandiere e 46° Palio di San Paolino"
 categories:
   - eventi
-image: /assets/images/2020/via-san-paolino-bandiere-contrade.jpg
+image: /assets/images/2020/hero/via-san-paolino-bandiere.jpg
 ---
 
 **Sei su Facebook?** Collegati all'[evento](https://www.facebook.com/events/317566119401163).
@@ -49,6 +49,11 @@ di Piazzale Arrigoni. Come di consueto, il Palio sarà trasmesso in diretta
 dall’emittente NoiTV.
 
 ![locandina giorni san paolino](/assets/images/2020/san-paolino-2020-programma.jpg)
+
+<figure class="align-center">
+  <img src="{{ '/assets/images/2020/via-san-paolino-bandiere-contrade.jpg' | absolute_url }}" alt="">
+  <figcaption>Via San Paolino con le bandiere delle Contrade</figcaption>
+</figure>
 
 <script type='application/ld+json'>
 {
