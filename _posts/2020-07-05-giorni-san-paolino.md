@@ -40,12 +40,12 @@ ore 21:00 il corteo storico sfilerà con le stesse modalità del giorno
 precedente, ma dalle ore 22:00 in Piazzale Arrigoni prenderà il via il **46°
 Palio di San Paolino**, dove i circa 50 balestrieri delle associazioni di
 Contrade San Paolino e Compagnia Balestrieri Lucca si contenderanno il primato
-sulla “brocca”scagliando verrette con le proprie balestre da banco. La serata si
-chiuderà alle ore 23.00 circa con la premiazione dei 4 migliori tiratori.
+sulla *brocca* scagliando verrette con le proprie balestre da banco. La serata
+si chiuderà alle ore 23.00 circa con la premiazione dei 4 migliori tiratori.
 
 Diversamente dagli anni passati, per il pubblico non saranno predisposte delle
 gradinate ma sarà possibile seguire il Palio direttamente dalle mura a ridosso
-di Piazzale Arrigoni. Come di consueto, il Palio sarà trasmesso in diretta
+di *Piazzale Arrigoni*. Come di consueto, il Palio sarà trasmesso in diretta
 dall’emittente NoiTV.
 
 ![locandina giorni san paolino](/assets/images/2020/san-paolino-2020-programma.jpg)
