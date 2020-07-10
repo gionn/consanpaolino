@@ -81,7 +81,12 @@ dall’emittente NoiTV.
   },
   "offers": {
     "@type": "Offer",
-    "price": "0.00"
+    "description": "Ingresso gratuito",
+    "url": "https://consanpaolino.org/2020/giorni-san-paolino",
+    "price": "0.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2020-07-01T00:00"
   },
   "performer": {
     "@type": "PerformingGroup",
@@ -121,7 +126,12 @@ dall’emittente NoiTV.
   },
   "offers": {
     "@type": "Offer",
-    "price": "0.00"
+    "description": "Ingresso gratuito",
+    "url": "https://consanpaolino.org/2020/giorni-san-paolino",
+    "price": "0.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2020-07-01T00:00"
   },
   "performer": {
     "@type": "PerformingGroup",
