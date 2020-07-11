@@ -15,9 +15,11 @@ ai gruppi storici della città, ha voluto mantenere viva la tradizione dei
 attraverso alcune manifestazioni di rievocazione storica che si svolgono durante
 la settimana del 12 Luglio.
 
-Di seguito il programma delle giornate per l'edizione 2020:
+Di seguito il programma delle giornate per l'edizione 2020.
 
 <!-- more -->
+
+{% youtube 'https://youtu.be/G85fiQv5UOs' %}
 
 ## Programma
 
