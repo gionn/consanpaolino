@@ -1,4 +1,5 @@
 ---
+published: false
 date: '2017-12-17T00:00:00+02:00'
 title: XI Campionato Regionale Toscano LITAB
 where: Sotterranei Baluardo San Paolino, Lucca

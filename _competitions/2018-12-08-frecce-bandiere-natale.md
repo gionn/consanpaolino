@@ -1,4 +1,5 @@
 ---
+published: false
 date: '2018-12-08T15:00:00+02:00'
 title: Frecce e Bandiere di Natale 2018
 where: Campo Tiri della Repubblica di Lucca

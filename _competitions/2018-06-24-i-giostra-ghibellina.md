@@ -1,4 +1,5 @@
 ---
+published: false
 date: '2018-06-24T15:00:00+02:00'
 title: I Giostra Ghibellina
 where: Campo Tiri della Repubblica di Lucca

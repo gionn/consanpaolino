@@ -1,4 +1,5 @@
 ---
+published: false
 date: '2018-09-30T15:00:00+02:00'
 title: II Palio delle Contrade San Paolino
 where: Campo Tiri della Repubblica di Lucca
