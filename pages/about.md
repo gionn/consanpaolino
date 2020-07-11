@@ -8,7 +8,7 @@ redirect_from:
 
 <figure class="align-center">
     <img src="{{ 'assets/images/gallery/montefalco-campioni-italiani.jpg' | absolute_url }}" alt="balestrieri lucca contrade san paolino foto gruppo">
-  <figcaption>Foto di gruppo dopo la vittoria al campioanto italiano a Montefalco 2019</figcaption>
+  <figcaption>Foto di gruppo dopo la vittoria al campionato italiano a Montefalco 2019</figcaption>
 </figure>
 
 L’Associazione Contrade San Paolino (ACSP) nasce a **Lucca** il [27 Febbraio
@@ -25,11 +25,15 @@ quello di fine XIV secolo.
 Dal 1994, anno della prima edizione, organizza la sera dell'11 Luglio la
 **Luminara di San Paolino**, un corteggio per le vie del centro storico di Lucca
 fino alla Basilica di San Paolino a cui partecipano i vari gruppi storici della
-lucchesia e gruppi amici dell'associazione. L'intera città viene immersa in
-un'atmosfera d'altri tempi, con le strade illuminate da torce e addobbate dalle
-bandiere del terziere San Paolino. Dal 2006 l'associazione partecipa anche alla
-Luminara di Santa Croce organizzata dal Comune di Lucca per il calendario del
-*Settembre Lucchese*, la sera del 13 Settembre.
+lucchesia e gruppi amici dell'associazione. La manifestazione ricorda il corteo
+che nel **1261** fu fatto per traslare le reliquie del corpo di San Paolino,
+rivenuto proprio per l'occasione, dalla chiesetta di San Giorgio, demolita per
+realizzare la seconda cerchia delle Mura, fino alla nuova Basilica di San
+Paolino. L'intera città viene immersa in un'atmosfera d'altri tempi, con le
+strade illuminate da torce e addobbate dalle bandiere del terziere San Paolino.
+Dal 2006 l'associazione partecipa anche alla Luminara di Santa Croce organizzata
+dal Comune di Lucca per il calendario del *Settembre Lucchese*, la sera del 13
+Settembre.
 
 Dal 2015, durante il mese di giugno organizza la manifestazione **Lucca
 Medievale** che include, in due giorni di allestimento in piazza: il villaggio
