@@ -51,3 +51,7 @@ verretta in occasione del 46° Palio di San Paolino.
 Alla posizione 6 è presente un banco vuoto a causa di un errore fortuito
 durante l'estrazione, le associazioni decidono di mantenere l'errore nell'ordine
 di tiro definitivo.
+
+## Foto
+
+![ordine di tiro elenco in piazza](/assets/images/2020/46-palio-san-paolino-ordine-tiro.jpg)
