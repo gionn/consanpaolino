@@ -6,7 +6,7 @@ categories:
 ---
 
 Ecco l'ordine di tiro con cui stasera i balestrieri scoccheranno la propria
-verretta in occasione del 46° Palio di San Paolino.
+verretta in occasione del [46° Palio di San Paolino](/2020/giorni-san-paolino).
 
 <!-- more -->
 
