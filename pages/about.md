@@ -28,7 +28,7 @@ Dal 1994 l'associazione organizza la sera dell'11 Luglio la **Luminara di San
 Paolino**, un corteggio per le vie del centro storico di Lucca fino alla
 Basilica di San Paolino a cui partecipano i vari gruppi storici della lucchesia
 e gruppi amici dell'associazione. La manifestazione ricorda il corteo che nel
-**1261** fu fatto per traslare le reliquie del corpo di San Paolino, rivenuto
+**1261** fu fatto per traslare le reliquie del corpo di San Paolino, rinvenuto
 proprio per l'occasione, dalla chiesetta di San Giorgio, demolita per realizzare
 la seconda cerchia delle Mura, fino alla nuova Basilica di San Paolino. L'intera
 città viene immersa in un'atmosfera d'altri tempi, con le strade illuminate da
