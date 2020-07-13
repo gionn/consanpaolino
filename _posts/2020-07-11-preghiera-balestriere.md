@@ -6,8 +6,7 @@ categories:
 ---
 
 Ogni anno, in occasione della [Luminara di San Paolino](/about#luminara-di-san-paolino) dell'11 Luglio, viene
-recitato un tradizionale componimento che viene comunemente chiamato "La
-preghiera del balestriere".
+recitata una tradizionale preghiera che viene comunemente chiamata "La preghiera del balestriere".
 
 Di seguito il testo completo:
 
