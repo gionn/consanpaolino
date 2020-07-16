@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-07-14T06:40:49+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 Risultati 46° Palio di San Paolino</title><link href="https://consanpaolino.org/2020/risultati-46-palio-san-paolino" rel="alternate" type="text/html" title="🎯 Risultati 46° Palio di San Paolino" /><published>2020-07-13T00:00:00+00:00</published><updated>2020-07-13T07:02:58+00:00</updated><id>https://consanpaolino.org/2020/risultati-46-palio-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/risultati-46-palio-san-paolino">&lt;p&gt;Domenica 12 Luglio, grazie alle nuove disposizioni normative per il COVID-19 che
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-07-16T16:35:35+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📺 Registrazione 46° Palio di San Paolino</title><link href="https://consanpaolino.org/2020/registrazione-46-palio-san-paolino" rel="alternate" type="text/html" title="📺 Registrazione 46° Palio di San Paolino" /><published>2020-07-16T00:00:00+00:00</published><updated>2020-07-16T16:34:36+00:00</updated><id>https://consanpaolino.org/2020/registrazione-46-palio-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/registrazione-46-palio-san-paolino">&lt;p&gt;Ecco la registrazione della diretta trasmessa su NoiTv in occasione della
+competizione fra i balestrieri di Lucca che si è disputata lo scorso 12 Luglio
+2020 in Piazzale Arrigoni, nei giardini dietro la Cattedrale di San Martino.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;style&gt;
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  &lt;/style&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/-kwfyjKbxKA?rel=0&amp;amp;autoplay=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">Ecco la registrazione della diretta trasmessa su NoiTv in occasione della competizione fra i balestrieri di Lucca che si è disputata lo scorso 12 Luglio 2020 in Piazzale Arrigoni, nei giardini dietro la Cattedrale di San Martino.</summary></entry><entry><title type="html">🎯 Risultati 46° Palio di San Paolino</title><link href="https://consanpaolino.org/2020/risultati-46-palio-san-paolino" rel="alternate" type="text/html" title="🎯 Risultati 46° Palio di San Paolino" /><published>2020-07-13T00:00:00+00:00</published><updated>2020-07-13T07:02:58+00:00</updated><id>https://consanpaolino.org/2020/risultati-46-palio-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/risultati-46-palio-san-paolino">&lt;p&gt;Domenica 12 Luglio, grazie alle nuove disposizioni normative per il COVID-19 che
 permettono l’effettuazione di eventi all’aperto previo distanziamento e utilizzo
 della mascherina, e la volontà dell’amministrazione comunale di mantenere viva
 una tradizione, è stato disputato il &lt;strong&gt;46° Palio di San Paolino&lt;/strong&gt;, gara in cui
@@ -748,20 +775,4 @@ campo sociale e del volontariato.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://youtu.be/0nkTz6ejg2o&quot;&gt;Introduzione promo dell’associazione&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://youtu.be/M3lAgSwlEFA?t=1336&quot;&gt;Caricamento della balestra&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://youtu.be/CAXZj9O1tUs?t=10&quot;&gt;Tiro con la balestra&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">E’ disponibile su questo sito e sul nostro canale YouTube, la registrazione della prima lezione online per diventare balestriere della Repubblica di Lucca.</summary></entry><entry><title type="html">📷 Balestrieri in quarantena</title><link href="https://consanpaolino.org/2020/balestrieri-in-quarantena" rel="alternate" type="text/html" title="📷 Balestrieri in quarantena" /><published>2020-04-15T00:00:00+00:00</published><updated>2020-04-18T12:34:52+00:00</updated><id>https://consanpaolino.org/2020/balestrieri-in-quarantena</id><content type="html" xml:base="https://consanpaolino.org/2020/balestrieri-in-quarantena">&lt;p&gt;Abbiamo realizzato qualche scatto per dimostrare come i balestrieri stanno passando il tempo in questa quarantena, lontani dal campo di tiro.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/K94AfT6.jpg&quot; alt=&quot;lombino sole wd40&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/coiGYvc.jpg&quot; alt=&quot;tommaso guinzaglio&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/L2g13XX.jpg&quot; alt=&quot;matone letto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/oJUqt7X.jpg&quot; alt=&quot;tac netflix&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/25YRTRM.jpg&quot; alt=&quot;vinaio trattore&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/LWw3CrL.jpg&quot; alt=&quot;talento doccia&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/tPlwayO.jpg&quot; alt=&quot;gatto&quot; /&gt;&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="foto" /><summary type="html">Abbiamo realizzato qualche scatto per dimostrare come i balestrieri stanno passando il tempo in questa quarantena, lontani dal campo di tiro.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">E’ disponibile su questo sito e sul nostro canale YouTube, la registrazione della prima lezione online per diventare balestriere della Repubblica di Lucca.</summary></entry></feed>
