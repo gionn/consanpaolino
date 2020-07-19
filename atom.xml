@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-07-16T16:35:35+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📺 Registrazione 46° Palio di San Paolino</title><link href="https://consanpaolino.org/2020/registrazione-46-palio-san-paolino" rel="alternate" type="text/html" title="📺 Registrazione 46° Palio di San Paolino" /><published>2020-07-16T00:00:00+00:00</published><updated>2020-07-16T16:34:36+00:00</updated><id>https://consanpaolino.org/2020/registrazione-46-palio-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/registrazione-46-palio-san-paolino">&lt;p&gt;Ecco la registrazione della diretta trasmessa su NoiTv in occasione della
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-07-19T07:30:09+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📺 A passeggio per Lucca con i balestrieri di San Paolino</title><link href="https://consanpaolino.org/2020/video-tour-lucca-piedi-4k" rel="alternate" type="text/html" title="📺 A passeggio per Lucca con i balestrieri di San Paolino" /><published>2020-07-19T00:00:00+00:00</published><updated>2020-07-19T07:29:38+00:00</updated><id>https://consanpaolino.org/2020/video-tour-lucca-piedi-4k</id><content type="html" xml:base="https://consanpaolino.org/2020/video-tour-lucca-piedi-4k">&lt;p&gt;Con la ripresa delle attività dell’associazione di questo mese, abbiamo avuto
+l’idea per un nuovo video montando una Action-Cam su una delle balestre portate
+in corteo, così da potervi mostrare cosa davvero significa attraversare il
+bellissimo centro storico di Lucca a piedi, al passo dei tamburi e accompagnati
+da un lungo schieramente dei balestrieri.&lt;/p&gt;
+
+&lt;p&gt;Godetevi lo spettacolo passando per Via San Paolino, Piazza San Michele, Piazza
+Napoleone, Piazza San Martino e Piazzale Arrigoni.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;style&gt;
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  &lt;/style&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/tM7PUNdWUAM?rel=0&amp;amp;autoplay=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">Con la ripresa delle attività dell’associazione di questo mese, abbiamo avuto l’idea per un nuovo video montando una Action-Cam su una delle balestre portate in corteo, così da potervi mostrare cosa davvero significa attraversare il bellissimo centro storico di Lucca a piedi, al passo dei tamburi e accompagnati da un lungo schieramente dei balestrieri. Godetevi lo spettacolo passando per Via San Paolino, Piazza San Michele, Piazza Napoleone, Piazza San Martino e Piazzale Arrigoni.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2020/luminara-balestrieri-san-martino.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2020/luminara-balestrieri-san-martino.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">📺 Registrazione 46° Palio di San Paolino</title><link href="https://consanpaolino.org/2020/registrazione-46-palio-san-paolino" rel="alternate" type="text/html" title="📺 Registrazione 46° Palio di San Paolino" /><published>2020-07-16T00:00:00+00:00</published><updated>2020-07-16T16:34:36+00:00</updated><id>https://consanpaolino.org/2020/registrazione-46-palio-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/registrazione-46-palio-san-paolino">&lt;p&gt;Ecco la registrazione della diretta trasmessa su NoiTv in occasione della
 competizione fra i balestrieri di Lucca che si è disputata lo scorso 12 Luglio
 2020 in Piazzale Arrigoni, nei giardini dietro la Cattedrale di San Martino.&lt;/p&gt;
 
@@ -719,60 +751,4 @@ campo sociale e del volontariato.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://youtu.be/LMSiWLdkEqE&quot;&gt;Come caricare una balestra&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">Abbiamo pubblicato qui e sul nostro canale YouTube, la registrazione della seconda lezione per diventare balestriere della Repubblica di Lucca.</summary></entry><entry><title type="html">📺 Diventa balestriere della Repubblica di Lucca - Guarda il video</title><link href="https://consanpaolino.org/2020/webinar-video-diventa-balestriere-repubblica-lucca" rel="alternate" type="text/html" title="📺 Diventa balestriere della Repubblica di Lucca - Guarda il video" /><published>2020-04-18T00:00:00+00:00</published><updated>2020-06-13T17:26:15+00:00</updated><id>https://consanpaolino.org/2020/webinar-video-diventa-balestriere-repubblica-lucca</id><content type="html" xml:base="https://consanpaolino.org/2020/webinar-video-diventa-balestriere-repubblica-lucca">&lt;p&gt;E’ disponibile su questo sito e sul nostro canale YouTube, la registrazione della prima lezione online per diventare balestriere della Repubblica di Lucca.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;style&gt;
-  .embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .embed-container iframe,
-  .embed-container object,
-  .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  &lt;/style&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/MpzOvqbalYE?rel=0&amp;amp;autoplay=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;Scaletta della presentazione:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;09:14 - La balestra a Lucca&lt;/li&gt;
-  &lt;li&gt;11:17 - La struttura della balestra&lt;/li&gt;
-  &lt;li&gt;14:51 - L’arco e la corda&lt;/li&gt;
-  &lt;li&gt;17:22 - La piastra&lt;/li&gt;
-  &lt;li&gt;18:20 - La noce&lt;/li&gt;
-  &lt;li&gt;20:41 - Leva di sgancio&lt;/li&gt;
-  &lt;li&gt;22:01 - Sistema di puntamento&lt;/li&gt;
-  &lt;li&gt;23:42 - Diottra&lt;/li&gt;
-  &lt;li&gt;24:47 - Punto di mira&lt;/li&gt;
-  &lt;li&gt;28:58 - Le verrette (dardi)&lt;/li&gt;
-  &lt;li&gt;32:05 - Cosa influisce sulla traiettoria di tiro&lt;/li&gt;
-  &lt;li&gt;34:42 - Campo di tiro&lt;/li&gt;
-  &lt;li&gt;39:08 - Caricamento della balestra&lt;/li&gt;
-  &lt;li&gt;42:32 - Il tiro con la balestra&lt;/li&gt;
-  &lt;li&gt;44:22 - Competizioni nazionali&lt;/li&gt;
-  &lt;li&gt;46:56 - Tipi di gare&lt;/li&gt;
-  &lt;li&gt;48:08 - Il buon balestriere&lt;/li&gt;
-  &lt;li&gt;49:44 - Il corniolo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Video a qualità originale inclusi nella presentazione:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/0nkTz6ejg2o&quot;&gt;Introduzione promo dell’associazione&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/M3lAgSwlEFA?t=1336&quot;&gt;Caricamento della balestra&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/CAXZj9O1tUs?t=10&quot;&gt;Tiro con la balestra&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">E’ disponibile su questo sito e sul nostro canale YouTube, la registrazione della prima lezione online per diventare balestriere della Repubblica di Lucca.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">Abbiamo pubblicato qui e sul nostro canale YouTube, la registrazione della seconda lezione per diventare balestriere della Repubblica di Lucca.</summary></entry></feed>
