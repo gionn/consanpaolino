@@ -11,7 +11,7 @@ Con la ripresa delle attività dell'associazione di questo mese, abbiamo avuto
 l'idea per un nuovo video montando una Action-Cam su una delle balestre portate
 in corteo, così da potervi mostrare cosa davvero significa attraversare il
 bellissimo centro storico di Lucca a piedi, al passo dei tamburi e accompagnati
-da un lungo schieramento dei balestrieri.
+da un lungo schieramento di balestrieri.
 
 Godetevi lo spettacolo passando per Via San Paolino, Piazza San Michele, Piazza
 Napoleone, Piazza San Martino e Piazzale Arrigoni.
