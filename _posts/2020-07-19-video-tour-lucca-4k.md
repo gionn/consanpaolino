@@ -4,6 +4,7 @@ title: "📺 A passeggio per Lucca con i balestrieri di San Paolino"
 categories:
   - video
 image: /assets/images/2020/luminara-balestrieri-san-martino.jpg
+redirect_from: /2020/video-tour-lucca-piedi-4k
 ---
 
 Con la ripresa delle attività dell'associazione di questo mese, abbiamo avuto
