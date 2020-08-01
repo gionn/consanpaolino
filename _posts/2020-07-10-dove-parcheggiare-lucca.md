@@ -5,18 +5,18 @@ hidden: true
 ---
 
 Parcheggiare a Lucca generalmente non è mai troppo complicato, ma spesso in
-corrispondenza di eventi e manifestazioni tutto diventa molto più complicato,
-soprattutto se non si conosce già bene la città.
+corrispondenza di [eventi e manifestazioni](/eventi-lucca-2020) tutto diventa
+molto più complicato, soprattutto se non si conosce già bene la città.
 
 <!-- more -->
 
 Troverai parcheggi a pagamento perlopiù ovunque, sia fuori che dentro le mura,
-però fai sempre attenzione a non entrare nella ZTL: nel dubbio, preferisci i
-parcheggi fuori dalle mura.
+però fai sempre attenzione a non entrare nella ZTL: se è la prima volta che
+visiti Lucca, preferisci i parcheggi fuori dalle mura.
 
 ## Parcheggi gratuiti
 
-L'area di parcheggio gratuito più grande si trova nella zona Nord di Lucca, ed è suddivisa in più zone:
+L'area di parcheggio gratuito più grande si trova nella zona Nord di Lucca, ed è suddivisa in tre zone:
 
 * [Via delle Tagliate](https://goo.gl/maps/Q3844Y1qsLo9XRGs6): Lucca Nord,
   ingresso pedonale in città da Porta Santa Maria;
@@ -44,5 +44,7 @@ aree di parcheggio:
 
 Per gli eventi di portata internazionale come il **Lucca Comics**, la viabilità
 lucchese viene completamente rivista in occasione dei grandi afflussi e vengono
-adibite a parcheggio aree normalmente destinate a scopi diversi, per cui è
-sempre necessario attenersi alle disposizioni che troviamo sul momento.
+adibite a parcheggio aree normalmente destinate a scopi diversi. E' necessario
+tenersi aggiornati sui [prossimi eventi](/eventi-lucca-2020) se si desidera
+visitare la città in tutta tranquillità per non incappare in spiacevoli
+sorprese.
