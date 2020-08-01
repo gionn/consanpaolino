@@ -2,7 +2,7 @@
 layout: post
 title: "✝️ La preghiera del Balestriere"
 categories:
-  - lucca
+  - news
 ---
 
 Ogni anno, in occasione della [Luminara di San Paolino](/about#luminara-di-san-paolino) dell'11 Luglio, viene

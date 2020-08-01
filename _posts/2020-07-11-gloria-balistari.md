@@ -3,7 +3,7 @@ hidden: true
 layout: post
 title: "🎯 Gloria a li Balistari"
 categories:
-  - lucca
+  - news
 ---
 
 Abbiamo ritrovato un componenimento risalente ai primi anni dell'associazione,
