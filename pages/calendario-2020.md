@@ -1,14 +1,7 @@
 ---
 layout: page
-title: Calendario dei prossimi eventi a Lucca
-date: '2020-02-04T14:00:00+01:00'
-seo:
-  date_modified: '2020-02-04T14:00:00+01:00'
+title: Prossimi eventi a Lucca e dintorni
 permalink: /eventi-lucca-2020
-categories:
-  - eventi
-tags:
-  - calendario
 redirect_from:
  - /calendario-eventi
  - /2018-03-17-calendario-eventi-2018-lucca/

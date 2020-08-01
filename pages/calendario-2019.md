@@ -1,14 +1,7 @@
 ---
 layout: page
-title: Calendario eventi a Lucca del 2019
-date: '2019-01-02T14:00:00+01:00'
-seo:
-  date_modified: '2019-11-18T19:00:00+02:00'
+title: Calendario eventi 2019 a Lucca
 permalink: /eventi-lucca-2019
-categories:
-  - eventi
-tags:
-  - calendario
 image:
   path: /assets/images/2018/hero/guinigi.jpg
 ---
