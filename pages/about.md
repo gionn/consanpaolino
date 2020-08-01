@@ -70,13 +70,15 @@ incolto a Pontetetto (LU), che è stato riqualificato e inaugurato come il
 nel giugno 2017 ed è tutt'oggi utilizzato per gli allenamenti e le gare dei
 balestrieri.
 
-### Palio di San Paolino
+### Palio di San Paolino e della Santa Croce
 
-Dal 2019, dopo [due anni di sospensione](/2018/palio-san-paolino), tornano a
-partecipare al **Palio di San Paolino** ed ad organizzare il [Palio della Santa
-Croce](/2019/palio-santa-croce) grazie all'[aiuto dell'amministrazione
-comunale](/2019/classifica-palio-san-paolino). I due palii seguono l'antico
-regolamento dell'[ordo pro balistarii](/ordo-pro-balistarii).
+Dal 2019, dopo [due anni di sospensione](/2018/palio-san-paolino),
+l'associazione torna a partecipare al **Palio di San Paolino** ed ad organizzare
+il [Palio della Santa Croce](/2019/palio-santa-croce) grazie al [supporto
+dell'amministrazione comunale](/2019/classifica-palio-san-paolino). Nel 2020
+l'associazione [vince il Palio](/2020/risultati-46-palio-san-paolino). Le
+competizioni si svolgono seguendo l'antico regolamento dell'[ordo pro
+balistarii](/ordo-pro-balistarii).
 
 ### La nostra associazioni in 5 minuti
 
