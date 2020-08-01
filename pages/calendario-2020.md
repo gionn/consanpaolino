@@ -49,24 +49,38 @@ immediatamente precedenti all'evento.
 > disposizioni in tema COVID-19 che permettono la realizzazione di eventi in
 > sicurezza.
 
-* **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
-  allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici.
-  Partenza dalle ore 21.00 da Piazza Napoleone verso Piazzale Arrigoni.
-  Esibizioni dei gruppi partecipanti ed estrazione dell'ordine di tiro del Palio
-  dei balestrieri del giorno successivo. - [:mag: Vai all'articolo](/2020/giorni-san-paolino)
+* **30 agosto - 2° Giostra Ghibellina**: gara di tiro con la balestra antica fra
+  le città di Lucca e Amelia, al Campo Tiri della Repubblica di Lucca (inizio
+  gara 15.30)
+
+* ~~4-5-6 Settembre~~ **Murabilia**: mostra mercato dedicata a piante, fiori e
+  giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
+  sotterranei delle mura. [:mag: Vai al sito
+  ufficiale](https://www.murabilia.com/) ([rinviata a Settembre
+  2021](https://www.luccaindiretta.it/cultura-e-spettacoli/2020/07/15/eventi-a-lucca-murabilia-rinviata-a-settembre-2021/188051/))
+
+* **13 Settembre - Luminara di Santa Croce**: corteo religioso, civile e storico
+  in notturna per le vie del centro storico di Lucca in una atmosfera di altri
+  tempi, spettacolo pirotecnico a fine serata. (da confermare)
+
+* **Settembre - Palio della Santa Croce**: palio dei balestrieri cittadini e
+  esibizioni di sbandieratori e musici. (da confermare)
+
+* **29 ottobre al 1 novembre - Lucca Comics & Games**: festival internazionale
+  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
+  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
+
+## Eventi passati
 
 * **12 Luglio - Palio di San Paolino**: corteo storico e disfida dei balestrieri
   in Piazzale Arrigoni a partire dalle ore 21.00. Premiazione dei vincitori
   prevista per le ore 22.00 - [:mag: Vai all'articolo](/2020/giorni-san-paolino) - [Evento FB](https://www.facebook.com/events/317566119401163)
 
-* **4-5-6 Settembre - Murabilia**: mostra mercato dedicata a piante, fiori e
-  giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
-  sotterranei delle mura. [:mag: Vai al sito
-  ufficiale](https://www.murabilia.com/)
-
-* **28 ottobre al 1 novembre - Lucca Comics & Games**: festival internazionale
-  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
-  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
+* **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
+  allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici.
+  Partenza dalle ore 21.00 da Piazza Napoleone verso Piazzale Arrigoni.
+  Esibizioni dei gruppi partecipanti ed estrazione dell'ordine di tiro del Palio
+  dei balestrieri del giorno successivo. - [:mag: Vai all'articolo](/2020/giorni-san-paolino)
 
 ## Scopri i balestrieri di San Paolino
 
