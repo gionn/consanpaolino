@@ -65,8 +65,9 @@ Campioni Italiani di balestra antica da banco.
 ### Campo Tiri della Repubblica di Lucca
 
 A fine 2016, il Comune di Lucca concede in affitto all’associazione un terreno
-incolto a Pontetetto (LU), che è stato riqualificato e inaugurato come il
-[Campo Tiri della Repubblica di Lucca](https://consanpaolino.org/2017-05-15-inaugurato-il-campo-tiri-della-repubblica-di-lucca/)
+incolto a Pontetetto (LU), che è stato riqualificato e
+[inaugurato](https://consanpaolino.org/2017-05-15-inaugurato-il-campo-tiri-della-repubblica-di-lucca/)
+come il [Campo Tiri della Repubblica di Lucca](/campo-tiri-lucca-webcam-meteo)
 nel giugno 2017 ed è tutt'oggi utilizzato per gli allenamenti e le gare dei
 balestrieri.
 
