@@ -42,6 +42,11 @@ immediatamente precedenti all'evento.
 > disposizioni in tema COVID-19 che permettono la realizzazione di eventi in
 > sicurezza.
 
+* **28-29-30 agosto - Lucca Città di Carta**: festival culturale dedicato
+  interamente ai libri e alla carta che si terrà al Real Collegio di Lucca,
+  ingresso libero.  [:mag: Vai al sito
+  ufficiale](https://www.luccacittadicarta.it/)
+
 * **30 agosto - 2° Giostra Ghibellina**: gara di tiro con la balestra antica fra
   le città di Lucca e Amelia, al Campo Tiri della Repubblica di Lucca (inizio
   gara 15.30)
