@@ -12,12 +12,14 @@ Se vuoi riservare un'offerta ai nostri soci, [contattaci](/contatti).
 
 ### 🛏️ Dove dormire a Lucca e dintorni
 
-* [La Salana](https://goo.gl/maps/MGvh2BfWLRWiNRfH6): posti letto da 18 euro, pranzi
-  di lavoro a 10 euro, nel centro di Capannori.
+* [La Salana](https://goo.gl/maps/MGvh2BfWLRWiNRfH6): posti letto da 18 euro,
+  pranzi di lavoro a 10 euro, nel centro di Capannori.
 * [BNB Lucca Fora](https://g.page/bedandbreakfastluccafora?share): a 10 minuti
   da Lucca, facilmente raggiungibile in auto, a Capannori.
-* [Hotel Bernardino ***](https://goo.gl/maps/tMkPt9vtNQvb63wF9): a 5 minuti dalle
-  mura di Lucca sud.
+* [Hotel Bernardino ***](https://goo.gl/maps/tMkPt9vtNQvb63wF9): a 5 minuti a piedi
+  dalle mura di Lucca sud.
+* [Affittacamere San Vito](https://www.booking.com/hotel/it/affittacamere-san-vito.it.html):
+  a 5 minuti a piedi dalle mura di Lucca nord-est.
 
 ### 🍔 Dove mangiare a Lucca e dintorni
 
