@@ -6,7 +6,7 @@ permalink: /campo-tiri-lucca-webcam-meteo
 
 <a href="https://app.weathercloud.net/d2006007711"><img src="https://app.weathercloud.net/device/sticker/2006007711"></a>
 
-![webcam lucca campo tiri balestrieri contrade san paolino](https://consanpaolino.s3.fr-par.scw.cloud/campotiro.jpg){:#webcam}
+<a href="https://consanpaolino.s3.fr-par.scw.cloud/campotiro.jpg"><img src="https://consanpaolino.s3.fr-par.scw.cloud/campotiro.jpg" alt="webcam meteo lucca"></a>
 
 <script type="text/javascript">
  setTimeout(function(){ location.reload(); }, 60000);
