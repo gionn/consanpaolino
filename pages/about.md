@@ -88,16 +88,19 @@ contribuiscono a creare e mantenere un importante punto di aggregazione sociale
 per tutti gli abitanti di Lucca e zone limitrofe, interessati a conoscerne la
 storia e riviverla in prima persona.
 
+Puoi trovare la [trascrizione audio](/2020/live-love-lucca) nella pagina dedicata.
+
 {% youtube "https://youtu.be/GpjQPZrHWRY" %}
 
-## Ti interessa quello che facciamo?
+## Continua a conoscerci
 
-* Seguici sui [social o contattaci](/contatti) per avere maggiori informazioni
-* Per non perdere i prossimi eventi devi assolutamente [iscriverti alla
+* Seguici sui social (link in calce della pagina) o [contattaci](/contatti) per
+  avere maggiori informazioni
+* Per non perdere i prossimi eventi devi [iscriverti alla
   newsletter](/newsletter) oppure dai una occhiata al [calendario
   eventi](/calendario-eventi)
-* Vuoi sostenerci? [Fai una donazione](/donazioni)
 * Stare a guardare non fa per te? Dai una occhiata ai nostri
   [corsi](/corsi-lucca)!
 * Guarda una selezione delle nostre [foto](/gallery)
+* Vuoi sostenerci? [Fai una donazione](/donazioni)
 * Leggi altri articoli in rilievo sulla nostra [associazione](/associazione)

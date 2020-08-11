@@ -8,7 +8,12 @@ permalink: /soci
 
 ## Esercizi commerciali convenzionati
 
-Se vuoi riservare un'offerta ai nostri soci, [contattaci](/contatti).
+Raccogliamo in questa pagina una lista di attività di Lucca e provincia,
+suddivise per categoria, che supportano la nostra associazione e collaborano con
+noi per gli eventi organizzati.
+
+Se sei un commerciante e vuoi riservare un'offerta ai nostri soci,
+[contattaci](/contatti).
 
 ### 🛏️ Dove dormire a Lucca e dintorni
 

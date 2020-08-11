@@ -16,17 +16,20 @@ redirect_from:
 | Maestro d'Armi | Mauro Tolomei    | 3356812160 |
 | Segreteria     | Giovanni Toraldo | 3935018541 |
 
-## Dove siamo
-
-* [Sede centrale Porta San Pietro](https://goo.gl/maps/NCqcGoRuVNQa8X2T9)
-* [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7)
-
-## Il nostro recapito
+## Il nostro indirizzo
 
 Associazione Contrade di San Paolino<br/>
 Sortita Porta San Pietro, 1/3<br/>
 55100 - Lucca (LU) - Italy<br/>
 CF 92050570461<br/>
+
+* [Sede centrale Porta San Pietro](https://goo.gl/maps/NCqcGoRuVNQa8X2T9)
+
+## Il nostro campo tiro
+
+[Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) (Via di Pattana, Pontetetto, LU)
+
+![webcam lucca campo tiro balestrieri](https://consanpaolino.s3.fr-par.scw.cloud/campotiro.jpg){:#webcam}
 
 ## Scrivici una email
 
@@ -43,12 +46,7 @@ CF 92050570461<br/>
 ## Seguici sui Social
 
 Puoi contattarci e rimanere aggiornato sulle ultime attività dell'associazione
-seguendoci sui principali Social:
-
-* [Facebook](https://fb.com/consanpaolino)
-* [Instagram](https://instagram.com/consanpaolino)
-* [YouTube](https://www.youtube.com/channel/UC8fqZye7eBrSWTbd5dzyUCg)
-* [Twitter](https://twitter.com/consanpaolino)
-* [Telegram](https://t.me/consanpaolino)
+seguendoci sui principali Social, trovi i relativi bottoni in fondo a tutte le
+pagine di questo sito.
 
 Non vuoi perderti gli aggiornamenti più importanti? [Iscriviti alla newsletter](/newsletter)!
