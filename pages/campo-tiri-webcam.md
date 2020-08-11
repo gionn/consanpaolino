@@ -4,7 +4,7 @@ title: Campo Tiri della Repubblica di Lucca
 permalink: /campo-tiri-lucca-webcam-meteo
 ---
 
-## Webcam
+<a href="https://app.weathercloud.net/d2006007711"><img src="https://app.weathercloud.net/device/sticker/2006007711"></a>
 
 ![webcam lucca campo tiri balestrieri contrade san paolino](https://consanpaolino.s3.fr-par.scw.cloud/campotiro.jpg){:#webcam}
 
@@ -12,6 +12,4 @@ permalink: /campo-tiri-lucca-webcam-meteo
  setTimeout(function(){ location.reload(); }, 60000);
 </script>
 
-## Meteo
-
-<iframe src="https://app.weathercloud.net/d2006007711#profile" width="100%" height="800px"></iframe>
+Questa pagina si ricarica automaticamente ogni 60 secondi.
