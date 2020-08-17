@@ -42,6 +42,11 @@ immediatamente precedenti all'evento.
 > disposizioni in tema COVID-19 che permettono la realizzazione di eventi in
 > sicurezza.
 
+* **22 agosto/30 settembre - Luna Park**: in piazzale Don Baroni, nei giorni
+  feriali dalle ore 15:00 alle ore 20:00 e dalle 21:00 alle 24:00. Nei festivi
+  orario continuato dalle ore 10:00 alle 24:00 - [:mag: Vai al sito
+  ufficiale](https://www.turismo.lucca.it/node/3689)
+
 * **28-29-30 agosto - Lucca Città di Carta**: festival culturale dedicato
   interamente ai libri e alla carta che si terrà al Real Collegio di Lucca,
   ingresso libero.  [:mag: Vai al sito
