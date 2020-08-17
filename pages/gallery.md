@@ -21,6 +21,8 @@ images:
     name: Esibizione di tiro a Pontetetto - Scatto di Giacomo Bini
   - url: /assets/images/gallery/campo-tiri.jpg
     name: Il tabellone dei bersagli al campo tiro a Pontetetto - Scatto di Giacomo Bini
+  - url: /assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg
+    name: La bandiera dell'associazione, della LITAB e della LIBERTAS esposte al campo tiro durante le manifestazioni ufficiali.
   - url: /assets/images/2018/campionato/corniolo.jpg
     name: Il bersaglio del campionato italiano 2018 a Lucca
   - url: /assets/images/2019/concorso-fotografia/giannini-lucca-medievale.jpg
