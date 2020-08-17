@@ -31,3 +31,48 @@ dell'**annullamento del Campionato Italiano 2020** che si sarebbe dovuto
 disputare a Chioggia (VE).
 
 ![manifesto](/assets/images/2020/2a-giostra-ghibellina-manifesto.jpeg)
+
+<script type='application/ld+json'>
+{
+  "@context": "https://www.schema.org",
+  "@type": "Event",
+  "name": "2a Giostra Ghibellina",
+  "url": "https://consanpaolino.org/2020/2a-giostra-ghibellina",
+  "description": "Gara di tiro con balestra antica da banco",
+  "startDate": "30/08/2020 3:30PM",
+  "endDate": "30/08/2020 5:30PM",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "image": ["https://consanpaolino.org/assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg"],
+  "location": {
+    "@type": "Place",
+    "name": "Campo Tiri della Repubblica di Lucca",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Via di Pattana",
+      "addressLocality": "Lucca",
+      "addressRegion": "LU",
+      "postalCode": "55100",
+      "addressCountry": "IT"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "description": "Ingresso gratuito",
+    "url": "https://consanpaolino.org/2020/2a-giostra-ghibellina",
+    "price": "0.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2020-08-17T00:00"
+  },
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Contrade San Paolino"
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "Contrade San Paolino",
+    "url": "https://consanpaolino.org"
+  }
+}
+ </script>
