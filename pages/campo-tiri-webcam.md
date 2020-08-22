@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Campo Tiri della Repubblica di Lucca
-permalink: /campo-tiri-lucca-webcam-meteo
+title: Stazione Meteo e Webcam a Lucca - Campo Tiri della Repubblica di Lucca
+permalink: /stazione-meteo-webcam-lucca
+redirect_from: /campo-tiri-lucca-webcam-meteo
 ---
 
 <a href="https://app.weathercloud.net/d2006007711"><img src="https://app.weathercloud.net/device/sticker/2006007711"></a>
