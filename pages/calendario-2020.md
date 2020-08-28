@@ -52,10 +52,6 @@ immediatamente precedenti all'evento.
   ingresso libero.  [:mag: Vai al sito
   ufficiale](https://www.luccacittadicarta.it/)
 
-* **30 agosto - 2° Giostra Ghibellina**: gara di tiro con la balestra antica fra
-  le città di Lucca e Amelia, al Campo Tiri della Repubblica di Lucca (inizio
-  gara 15.30) - [:mag: Vai all'articolo](/2020/2a-giostra-ghibellina)
-
 * ~~4-5-6 Settembre~~ **Murabilia**: mostra mercato dedicata a piante, fiori e
   giardinaggio sui baluardi San Regolo, La Libertà, nell’Orto Botanico e nei
   sotterranei delle mura. [:mag: Vai al sito
@@ -65,6 +61,10 @@ immediatamente precedenti all'evento.
 * **13 Settembre - Luminara di Santa Croce**: corteo religioso, civile e storico
   in notturna per le vie del centro storico di Lucca in una atmosfera di altri
   tempi, spettacolo pirotecnico a fine serata. (da confermare)
+
+* **20 Settembre - 2° Giostra Ghibellina**: gara di tiro con la balestra antica fra
+  le città di Lucca e Amelia, al Campo Tiri della Repubblica di Lucca (inizio
+  gara 15.30) - [:mag: Vai all'articolo](/2020/2a-giostra-ghibellina)
 
 * **Settembre - Palio della Santa Croce**: palio dei balestrieri cittadini e
   esibizioni di sbandieratori e musici. (da confermare)

@@ -6,8 +6,10 @@ categories:
 image: /assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg
 ---
 
-Nuovo appuntamento per gli appassionati del tiro con la balestra: **domenica 30
-agosto** alle 15.30 presso il Campo Tiri della Repubblica di Lucca si disputerà
+**Aggiornamento**: evento rimandato al 20 settembre causa maltempo ⛈️
+
+Nuovo appuntamento per gli appassionati del tiro con la balestra: **domenica 20
+settembre** alle 15.30 presso il Campo Tiri della Repubblica di Lucca si disputerà
 la *2a Giostra Ghibellina* (**INGRESSO GRATUITO**). La nostra associazione
 sfiderà la Compagnia Balestrieri della città di **Amelia** in una gara a squadre
 con regolamento **LITAB** per la balestra da banco.
