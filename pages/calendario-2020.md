@@ -53,8 +53,7 @@ immediatamente precedenti all'evento.
   2021](https://www.luccaindiretta.it/cultura-e-spettacoli/2020/07/15/eventi-a-lucca-murabilia-rinviata-a-settembre-2021/188051/))
 
 * **12 Settembre - Palio della Santa Croce**: palio dei balestrieri cittadini e
-  esibizioni di sbandieratori e musici, a porte chiuse in diretta su NoiTv. (da
-  confermare)
+  esibizioni di sbandieratori e musici, a porte chiuse in diretta su NoiTv. (**ANNULLATO**)
 
 * **13 Settembre - Luminara di Santa Croce**: corteo religioso, civile e storico
   in notturna per le vie del centro storico di Lucca in una atmosfera di altri
