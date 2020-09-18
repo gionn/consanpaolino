@@ -22,8 +22,9 @@ lucchesi, attualmente campioni in carica.
 
 Il nome della manifestazione si ispira al noto condottiero lucchese [Castruccio
 Castracani](/2016/battaglia-altopascio-castruccio), ghibellino per eccellenza,
-fra le cui imprese si annovera la marcia su Roma nel 1328 con un seguito di 300
-cavalieri e 1.000 balestrieri.
+fra le cui imprese si annovera la marcia su Roma nel 1328 con un seguito di [300
+cavalieri e 1.000
+balestrieri](https://www.treccani.it/enciclopedia/castracani-degli-antelminelli-castruccio_%28Dizionario-Biografico%29/).
 
 Questa gara sarà tra le prime ad essere disputate fra associazioni fuori
 regione, dopo lo stop forzato dall'**emergenza sanitaria**. Si spera che sarà
