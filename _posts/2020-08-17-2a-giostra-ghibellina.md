@@ -5,6 +5,9 @@ categories:
   - eventi
 image: /assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg
 ---
+**Aggiornamento 20/09**: a causa delle incerte condizioni meteo, non siamo in
+grado di garantire il regolare svolgimento della manifestazione secondo il
+programma previsto.
 
 **Aggiornamento**: l'evento è stato rimandato al 20 settembre causa maltempo ⛈️
 
