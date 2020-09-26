@@ -1,9 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-09-22T20:21:34+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 Risultati 2a Giostra Ghibellina</title><link href="https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina" rel="alternate" type="text/html" title="🎯 Risultati 2a Giostra Ghibellina" /><published>2020-09-20T00:00:00+00:00</published><updated>2020-09-20T16:55:38+00:00</updated><id>https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina</id><content type="html" xml:base="https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina">&lt;p&gt;Nonostante un pessimo inizio in quanto a condizioni meteo, la &lt;a href=&quot;/2020/2a-giostra-ghibellina&quot;&gt;2a Giostra
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-09-26T08:21:26+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 Risultati 2a Giostra Ghibellina</title><link href="https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina" rel="alternate" type="text/html" title="🎯 Risultati 2a Giostra Ghibellina" /><published>2020-09-20T00:00:00+00:00</published><updated>2020-09-26T08:20:30+00:00</updated><id>https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina</id><content type="html" xml:base="https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina">&lt;p&gt;Nonostante un pessimo inizio in quanto a condizioni meteo, la &lt;a href=&quot;/2020/2a-giostra-ghibellina&quot;&gt;2a Giostra
 Ghibellina&lt;/a&gt; ha preso il via questa domenica intorno
 alle ore 10.00, con tiri di prova dei balestrieri lucchesi di Contrade San
 Paolino e gli ospiti della Compagnia Balestrieri di Amelia.&lt;/p&gt;
 
 &lt;!-- more --&gt;
+
+&lt;style&gt;
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  &lt;/style&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/oHXu__oeV_I?rel=0&amp;amp;autoplay=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
 
 &lt;p&gt;Viste le avverse previsioni meteo, è stato deciso di anticipare la gara a
 squadre immediatamente al termine dei tiri di prova, alle 12.15 circa. Alle
@@ -25,7 +48,7 @@ covid.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://consanpaolino.s3.fr-par.scw.cloud/images/2a_giostra_ghibellina_corniolo.jpg&quot; alt=&quot;balestrieri corniolo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://consanpaolino.s3.fr-par.scw.cloud/images/2a_giostra_ghibellina_corniolo_premiazione.jpg&quot; alt=&quot;balestrieri vincitori corniolo&quot; /&gt;&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="albo" /><summary type="html">Nonostante un pessimo inizio in quanto a condizioni meteo, la 2a Giostra Ghibellina ha preso il via questa domenica intorno alle ore 10.00, con tiri di prova dei balestrieri lucchesi di Contrade San Paolino e gli ospiti della Compagnia Balestrieri di Amelia.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.s3.fr-par.scw.cloud/images/2a_giostra_ghibellina_gruppo.jpg" /><media:content medium="image" url="https://consanpaolino.s3.fr-par.scw.cloud/images/2a_giostra_ghibellina_gruppo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">🎯 Annullamento Palio di Santa Croce 2020</title><link href="https://consanpaolino.org/2020/palio-santa-croce" rel="alternate" type="text/html" title="🎯 Annullamento Palio di Santa Croce 2020" /><published>2020-09-10T00:00:00+00:00</published><updated>2020-09-10T18:22:15+00:00</updated><id>https://consanpaolino.org/2020/palio-santa-croce</id><content type="html" xml:base="https://consanpaolino.org/2020/palio-santa-croce">&lt;p&gt;A seguito della decisione relativa all’annullamento della &lt;a href=&quot;https://www.luccaindiretta.it/dalla-citta/2020/09/02/santa-croce-annullate-la-processione-del-13-e-la-fiera-di-borgo-giannotti/194553/&quot;&gt;Processione di Santa
+&lt;p&gt;&lt;img src=&quot;https://consanpaolino.s3.fr-par.scw.cloud/images/2a_giostra_ghibellina_corniolo_premiazione.jpg&quot; alt=&quot;balestrieri vincitori corniolo&quot; /&gt;&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="albo" /><category term="video" /><summary type="html">Nonostante un pessimo inizio in quanto a condizioni meteo, la 2a Giostra Ghibellina ha preso il via questa domenica intorno alle ore 10.00, con tiri di prova dei balestrieri lucchesi di Contrade San Paolino e gli ospiti della Compagnia Balestrieri di Amelia.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.s3.fr-par.scw.cloud/images/2a_giostra_ghibellina_gruppo.jpg" /><media:content medium="image" url="https://consanpaolino.s3.fr-par.scw.cloud/images/2a_giostra_ghibellina_gruppo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">🎯 Annullamento Palio di Santa Croce 2020</title><link href="https://consanpaolino.org/2020/palio-santa-croce" rel="alternate" type="text/html" title="🎯 Annullamento Palio di Santa Croce 2020" /><published>2020-09-10T00:00:00+00:00</published><updated>2020-09-10T18:22:15+00:00</updated><id>https://consanpaolino.org/2020/palio-santa-croce</id><content type="html" xml:base="https://consanpaolino.org/2020/palio-santa-croce">&lt;p&gt;A seguito della decisione relativa all’annullamento della &lt;a href=&quot;https://www.luccaindiretta.it/dalla-citta/2020/09/02/santa-croce-annullate-la-processione-del-13-e-la-fiera-di-borgo-giannotti/194553/&quot;&gt;Processione di Santa
 Croce&lt;/a&gt;
 e delle Fiere del Settembre Lucchese, per analoghe motivazioni che hanno
 determinato tale decisione, l’Amministrazione Comunale ritiene opportuno
