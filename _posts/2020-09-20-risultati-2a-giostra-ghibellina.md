@@ -3,6 +3,7 @@ layout: post
 title: "🎯 Risultati 2a Giostra Ghibellina"
 categories:
   - albo
+  - video
 image: https://consanpaolino.s3.fr-par.scw.cloud/images/2a_giostra_ghibellina_gruppo.jpg
 ---
 
@@ -12,6 +13,8 @@ alle ore 10.00, con tiri di prova dei balestrieri lucchesi di Contrade San
 Paolino e gli ospiti della Compagnia Balestrieri di Amelia.
 
 <!-- more -->
+
+{% youtube "https://youtu.be/oHXu__oeV_I" %}
 
 Viste le avverse previsioni meteo, è stato deciso di anticipare la gara a
 squadre immediatamente al termine dei tiri di prova, alle 12.15 circa. Alle
