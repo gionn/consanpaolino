@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-09-26T08:21:26+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 Risultati 2a Giostra Ghibellina</title><link href="https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina" rel="alternate" type="text/html" title="🎯 Risultati 2a Giostra Ghibellina" /><published>2020-09-20T00:00:00+00:00</published><updated>2020-09-26T08:20:30+00:00</updated><id>https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina</id><content type="html" xml:base="https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina">&lt;p&gt;Nonostante un pessimo inizio in quanto a condizioni meteo, la &lt;a href=&quot;/2020/2a-giostra-ghibellina&quot;&gt;2a Giostra
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-09-28T21:11:07+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📺 CSP vs Amelia - Guarda il video</title><link href="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia" rel="alternate" type="text/html" title="📺 CSP vs Amelia - Guarda il video" /><published>2020-09-28T00:00:00+00:00</published><updated>2020-09-28T21:10:17+00:00</updated><id>https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia</id><content type="html" xml:base="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia">&lt;p&gt;Abbiamo realizzato un video-riassunto della gara a squadre disputata in
+occasione della &lt;a href=&quot;/2020/risultati-2a-giostra-ghibellina&quot;&gt;2a Giostra Ghibellina&lt;/a&gt;.
+Buona visione!&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;style&gt;
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  &lt;/style&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/Gtk-xVAJ_Oo?rel=0&amp;amp;autoplay=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">Abbiamo realizzato un video-riassunto della gara a squadre disputata in occasione della 2a Giostra Ghibellina. Buona visione!</summary></entry><entry><title type="html">🎯 Risultati 2a Giostra Ghibellina</title><link href="https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina" rel="alternate" type="text/html" title="🎯 Risultati 2a Giostra Ghibellina" /><published>2020-09-20T00:00:00+00:00</published><updated>2020-09-26T08:20:30+00:00</updated><id>https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina</id><content type="html" xml:base="https://consanpaolino.org/2020/risultati-2a-giostra-ghibellina">&lt;p&gt;Nonostante un pessimo inizio in quanto a condizioni meteo, la &lt;a href=&quot;/2020/2a-giostra-ghibellina&quot;&gt;2a Giostra
 Ghibellina&lt;/a&gt; ha preso il via questa domenica intorno
 alle ore 10.00, con tiri di prova dei balestrieri lucchesi di Contrade San
 Paolino e gli ospiti della Compagnia Balestrieri di Amelia.&lt;/p&gt;
@@ -341,172 +368,4 @@ e sui canali social di Contrade San Paolino (Facebook, Instagram, Twitter).&lt;/
 
 &lt;p&gt;Prossimo appuntamento per i balestrieri lucchesi sarà il Palio della Santa Croce
 a settembre se le attuali condizioni epidemiologiche continuassero a rimanere
-sotto controllo.&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="albo" /><summary type="html">Domenica 12 Luglio, grazie alle nuove disposizioni normative per il COVID-19 che permettono l’effettuazione di eventi all’aperto previo distanziamento e utilizzo della mascherina, e la volontà dell’amministrazione comunale di mantenere viva una tradizione, è stato disputato il 46° Palio di San Paolino, gara in cui si sfidano i balestrieri delle due associazioni cittadine: Compagnia Balestrieri Lucca e Contrade San Paolino. Le quattro migliori verrette conficcate nel corniolo sono risultate quelle di:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2020/hero/palio-san-paolino-46.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2020/hero/palio-san-paolino-46.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">🎯 Ordine di tiro estratto per il 46° Palio di San Paolino</title><link href="https://consanpaolino.org/2020/ordine-tiro-palio-san-paolino" rel="alternate" type="text/html" title="🎯 Ordine di tiro estratto per il 46° Palio di San Paolino" /><published>2020-07-12T00:00:00+00:00</published><updated>2020-07-12T14:51:03+00:00</updated><id>https://consanpaolino.org/2020/ordine-tiro-palio-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/ordine-tiro-palio-san-paolino">&lt;p&gt;Ecco l’ordine di tiro con cui stasera i balestrieri scoccheranno la propria
-verretta in occasione del &lt;a href=&quot;/2020/giorni-san-paolino&quot;&gt;46° Palio di San Paolino&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;Pancaccio 1 (SX)&lt;/th&gt;
-      &lt;th&gt;Pancaccio 2 (DX)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;De Servi Alessandro (CBL)&lt;/td&gt;
-      &lt;td&gt;Di Marco Simona (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;Martinelli Riccardo (CBL)&lt;/td&gt;
-      &lt;td&gt;Coppi Lorenzo (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt;
-      &lt;td&gt;Lombardi Samuele(CSP)&lt;/td&gt;
-      &lt;td&gt;Mattei Emanuele (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;Marchiò Damiano (CBL)&lt;/td&gt;
-      &lt;td&gt;Barsanti Giovanni (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;Frediani Massimiliano (CBL)&lt;/td&gt;
-      &lt;td&gt;Bianchini Francesco (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt;Collodi Alberto (CBL)&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;Bertolucci Gianluca (CSP)&lt;/td&gt;
-      &lt;td&gt;Bertolucci Daniele (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt;Puccetti Stefano (CSP)&lt;/td&gt;
-      &lt;td&gt;Demi Diletta (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Vannucci Lorenzo (CSP)&lt;/td&gt;
-      &lt;td&gt;Tozzini Dino (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;Stefani Simona (CSP)&lt;/td&gt;
-      &lt;td&gt;Di Sisto Marco (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;11&lt;/td&gt;
-      &lt;td&gt;Bartoletti Pieradolfo (CBL)&lt;/td&gt;
-      &lt;td&gt;Gianni Paolo (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;Porqueddu Marco (CBL)&lt;/td&gt;
-      &lt;td&gt;Zanbon Stefano (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;Toraldo Giovanni (CSP)&lt;/td&gt;
-      &lt;td&gt;Bini Giacomo (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;De Ranieri Manolo (CBL)&lt;/td&gt;
-      &lt;td&gt;Luchetti Nicola (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;Viviani Luca (CSP)&lt;/td&gt;
-      &lt;td&gt;Bianchini Oscar (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;16&lt;/td&gt;
-      &lt;td&gt;Corsini Antonio (CBL)&lt;/td&gt;
-      &lt;td&gt;Baldocchi Massimo (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;17&lt;/td&gt;
-      &lt;td&gt;Ciccone Azzurra (CSP)&lt;/td&gt;
-      &lt;td&gt;Vitale Daniele (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;18&lt;/td&gt;
-      &lt;td&gt;Consani Matteo (CBL)&lt;/td&gt;
-      &lt;td&gt;Gaggioli Fabrizio (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;19&lt;/td&gt;
-      &lt;td&gt;Bellandi Francesco (CBL)&lt;/td&gt;
-      &lt;td&gt;Torlai Simona (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;20&lt;/td&gt;
-      &lt;td&gt;Carmassi Gabriele (CBL)&lt;/td&gt;
-      &lt;td&gt;Rossi Filippo (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;Teani Paolo (CBL)&lt;/td&gt;
-      &lt;td&gt;Lodovici Tommaso (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;22&lt;/td&gt;
-      &lt;td&gt;Finelli Francesco (CSP)&lt;/td&gt;
-      &lt;td&gt;Baccelli Andrea (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;23&lt;/td&gt;
-      &lt;td&gt;Toraldo Matteo (CSP)&lt;/td&gt;
-      &lt;td&gt;Masini Patrizia (CSP)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;24&lt;/td&gt;
-      &lt;td&gt;Tolomei Mauro (CSP)&lt;/td&gt;
-      &lt;td&gt;Dal Poggetto Giuseppe (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;25&lt;/td&gt;
-      &lt;td&gt;Lino Antonino (CSP)&lt;/td&gt;
-      &lt;td&gt;Bellandi Roberto (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;26&lt;/td&gt;
-      &lt;td&gt;Fatiguso Valentina (CSP)&lt;/td&gt;
-      &lt;td&gt;Lombardi Giovanni (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;27&lt;/td&gt;
-      &lt;td&gt;Cerasomma Barbara (CBL)&lt;/td&gt;
-      &lt;td&gt;Raffaelli Lorenzo (CBL)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;statistiche&quot;&gt;Statistiche&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Totale: 53 tiratori&lt;/li&gt;
-  &lt;li&gt;Contrade San Paolino: 25 tiratori (19 uomini, 6 donne)&lt;/li&gt;
-  &lt;li&gt;Compagnia Balestrieri Lucca: 28 tiratori (26 uomini, 2 donne)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;note&quot;&gt;Note&lt;/h2&gt;
-
-&lt;p&gt;Alla posizione 6 è presente un banco vuoto a causa di un errore fortuito
-durante l’estrazione, le associazioni decidono di mantenere l’errore nell’ordine
-di tiro definitivo.&lt;/p&gt;
-
-&lt;h2 id=&quot;foto&quot;&gt;Foto&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/2020/46-palio-san-paolino-ordine-tiro.jpg&quot; alt=&quot;ordine di tiro elenco in piazza&quot; /&gt;&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="albo" /><summary type="html">Ecco l’ordine di tiro con cui stasera i balestrieri scoccheranno la propria verretta in occasione del 46° Palio di San Paolino.</summary></entry></feed>
+sotto controllo.&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="albo" /><summary type="html">Domenica 12 Luglio, grazie alle nuove disposizioni normative per il COVID-19 che permettono l’effettuazione di eventi all’aperto previo distanziamento e utilizzo della mascherina, e la volontà dell’amministrazione comunale di mantenere viva una tradizione, è stato disputato il 46° Palio di San Paolino, gara in cui si sfidano i balestrieri delle due associazioni cittadine: Compagnia Balestrieri Lucca e Contrade San Paolino. Le quattro migliori verrette conficcate nel corniolo sono risultate quelle di:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2020/hero/palio-san-paolino-46.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2020/hero/palio-san-paolino-46.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
