@@ -43,7 +43,7 @@ immediatamente precedenti all'evento.
 
 * **4 ottobre - 3° Palio delle Contrade San Paolino**: palio dei balestrieri in
   costume storico, accampamento medievale e spettacoli dei musici al Campo Tiri
-  della Repubblica di Lucca.
+  della Repubblica di Lucca. [:mag: Vai all'articolo](/2020/3-palio-contrade-san-paolino)
 
 * **29 ottobre al 1 novembre - Lucca Comics & Games**: festival internazionale
   del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
