@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-09-28T21:11:07+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">📺 CSP vs Amelia - Guarda il video</title><link href="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia" rel="alternate" type="text/html" title="📺 CSP vs Amelia - Guarda il video" /><published>2020-09-28T00:00:00+00:00</published><updated>2020-09-28T21:10:17+00:00</updated><id>https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia</id><content type="html" xml:base="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia">&lt;p&gt;Abbiamo realizzato un video-riassunto della gara a squadre disputata in
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-09-29T07:07:01+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 3° Palio delle Contrade San Paolino</title><link href="https://consanpaolino.org/2020/3-palio-contrade-san-paolino" rel="alternate" type="text/html" title="🎯 3° Palio delle Contrade San Paolino" /><published>2020-09-29T00:00:00+00:00</published><updated>2020-09-29T07:06:20+00:00</updated><id>https://consanpaolino.org/2020/3-palio-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/3-palio-contrade-san-paolino">&lt;p&gt;L’autunno è appena iniziato ma rimane ancora da disputare il Palio delle
+Contrade. Questa &lt;strong&gt;domenica 4 ottobre&lt;/strong&gt;, presso il &lt;a href=&quot;https://goo.gl/maps/j7VtRqNSK9Eyjjmf7&quot;&gt;Campo
+Tiri&lt;/a&gt; a Pontetetto, in una gara su
+corniolo in costume storico si sfideranno le &lt;a href=&quot;/terzieri-lucca&quot;&gt;4 contrade di San
+Paolino&lt;/a&gt;: Granchio, Falcone, Luna e Sirena.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Programma della giornata:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;09:00 - Tiri di prova dei balestrieri&lt;/li&gt;
+  &lt;li&gt;10:30 - Gara delle reclute&lt;/li&gt;
+  &lt;li&gt;11:15 - Gara delle Paoline&lt;/li&gt;
+  &lt;li&gt;15:15 - Esibizione dei musici&lt;/li&gt;
+  &lt;li&gt;15:30 - 3° Palio delle Contrade San Paolino&lt;/li&gt;
+  &lt;li&gt;16.30 - Esibizione dei musici&lt;/li&gt;
+  &lt;li&gt;17.00 - Premiazione e saluti&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La giornata è un’ottima occasione per chiunque sia interessato ad avvicinarsi al
+mondo della balestra e della rievocazione storica lucchese. Da metà ottobre
+riprenderanno infatti il via i nuovi corsi per gli &lt;a href=&quot;https://www.youtube.com/playlist?list=PLGmFjg-_N7CPazxkbksg2MDn2GIwG49rs&quot;&gt;aspiranti
+balestrieri&lt;/a&gt;
+in vista della ripresa della stagione agonistica in primavera 2021, e i corsi
+per imparare a suonare il tamburo (dagli 8 anni in su).&lt;/p&gt;
+
+&lt;p&gt;In caso di maltempo, l’evento sarà rimandato alla settimana successiva.&lt;/p&gt;
+
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{
+  &quot;@context&quot;: &quot;https://www.schema.org&quot;,
+  &quot;@type&quot;: &quot;Event&quot;,
+  &quot;name&quot;: &quot;3° Palio delle Contrade San Paolino&quot;,
+  &quot;url&quot;: &quot;https://consanpaolino.org/2020/3-palio-contrade-san-paolino&quot;,
+  &quot;description&quot;: &quot;Gara di tiro con balestra antica da banco&quot;,
+  &quot;startDate&quot;: &quot;04/10/2020 3:30PM&quot;,
+  &quot;endDate&quot;: &quot;04/10/2020 5:00PM&quot;,
+  &quot;eventStatus&quot;: &quot;https://schema.org/EventScheduled&quot;,
+  &quot;eventAttendanceMode&quot;: &quot;https://schema.org/OfflineEventAttendanceMode&quot;,
+  &quot;image&quot;: [&quot;https://consanpaolino.org/assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg&quot;],
+  &quot;location&quot;: {
+    &quot;@type&quot;: &quot;Place&quot;,
+    &quot;name&quot;: &quot;Campo Tiri della Repubblica di Lucca&quot;,
+    &quot;address&quot;: {
+      &quot;@type&quot;: &quot;PostalAddress&quot;,
+      &quot;streetAddress&quot;: &quot;Via di Pattana&quot;,
+      &quot;addressLocality&quot;: &quot;Lucca&quot;,
+      &quot;addressRegion&quot;: &quot;LU&quot;,
+      &quot;postalCode&quot;: &quot;55100&quot;,
+      &quot;addressCountry&quot;: &quot;IT&quot;
+    }
+  },
+  &quot;offers&quot;: {
+    &quot;@type&quot;: &quot;Offer&quot;,
+    &quot;description&quot;: &quot;Ingresso gratuito&quot;,
+    &quot;url&quot;: &quot;https://consanpaolino.org/2020/2a-giostra-ghibellina&quot;,
+    &quot;price&quot;: &quot;0.00&quot;,
+    &quot;priceCurrency&quot;: &quot;EUR&quot;,
+    &quot;availability&quot;: &quot;https://schema.org/InStock&quot;,
+    &quot;validFrom&quot;: &quot;2020-08-29T00:00&quot;
+  },
+  &quot;performer&quot;: {
+    &quot;@type&quot;: &quot;PerformingGroup&quot;,
+    &quot;name&quot;: &quot;Contrade San Paolino&quot;
+  },
+  &quot;organizer&quot;: {
+    &quot;@type&quot;: &quot;Organization&quot;,
+    &quot;name&quot;: &quot;Contrade San Paolino&quot;,
+    &quot;url&quot;: &quot;https://consanpaolino.org&quot;
+  }
+}
+ &lt;/script&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="eventi" /><summary type="html">L’autunno è appena iniziato ma rimane ancora da disputare il Palio delle Contrade. Questa domenica 4 ottobre, presso il Campo Tiri a Pontetetto, in una gara su corniolo in costume storico si sfideranno le 4 contrade di San Paolino: Granchio, Falcone, Luna e Sirena.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2019/hero/corniolo-palio-repubblica-lucca.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2019/hero/corniolo-palio-repubblica-lucca.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">📺 CSP vs Amelia - Guarda il video</title><link href="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia" rel="alternate" type="text/html" title="📺 CSP vs Amelia - Guarda il video" /><published>2020-09-28T00:00:00+00:00</published><updated>2020-09-28T21:10:17+00:00</updated><id>https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia</id><content type="html" xml:base="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia">&lt;p&gt;Abbiamo realizzato un video-riassunto della gara a squadre disputata in
 occasione della &lt;a href=&quot;/2020/risultati-2a-giostra-ghibellina&quot;&gt;2a Giostra Ghibellina&lt;/a&gt;.
 Buona visione!&lt;/p&gt;
 
@@ -321,51 +392,4 @@ competizione fra i balestrieri di Lucca che si è disputata lo scorso 12 Luglio
 
 &lt;div class=&quot;embed-container&quot;&gt;
     &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/-kwfyjKbxKA?rel=0&amp;amp;autoplay=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">Ecco la registrazione della diretta trasmessa su NoiTv in occasione della competizione fra i balestrieri di Lucca che si è disputata lo scorso 12 Luglio 2020 in Piazzale Arrigoni, nei giardini dietro la Cattedrale di San Martino.</summary></entry><entry><title type="html">🎯 Risultati 46° Palio di San Paolino</title><link href="https://consanpaolino.org/2020/risultati-46-palio-san-paolino" rel="alternate" type="text/html" title="🎯 Risultati 46° Palio di San Paolino" /><published>2020-07-13T00:00:00+00:00</published><updated>2020-07-13T07:02:58+00:00</updated><id>https://consanpaolino.org/2020/risultati-46-palio-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/risultati-46-palio-san-paolino">&lt;p&gt;Domenica 12 Luglio, grazie alle nuove disposizioni normative per il COVID-19 che
-permettono l’effettuazione di eventi all’aperto previo distanziamento e utilizzo
-della mascherina, e la volontà dell’amministrazione comunale di mantenere viva
-una tradizione, è stato disputato il &lt;strong&gt;46° Palio di San Paolino&lt;/strong&gt;, gara in cui
-si sfidano i balestrieri delle due associazioni cittadine: Compagnia Balestrieri
-Lucca e Contrade San Paolino.&lt;/p&gt;
-
-&lt;p&gt;Le quattro migliori verrette conficcate nel corniolo sono risultate quelle di:
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Bianchini Francesco (CSP)&lt;/li&gt;
-  &lt;li&gt;Coppi Lorenzo (CSP)&lt;/li&gt;
-  &lt;li&gt;Dal Poggetto Giuseppe (CBL)&lt;/li&gt;
-  &lt;li&gt;Demi Diletta (CSP)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;L’associazione Contrade San Paolino non si aggiudicava il Palio dal 2002, ma
-questo è solo l’ultimo dei successi sportivi recentemente portati a casa
-dall’associazione: dallo scorso settembre sono Campioni Italiani LITAB
-(Montefalco 2019) e la balestriera Simona Stefani è stata campionessa italiana
-LITAB (Lucca 2018).&lt;/p&gt;
-
-&lt;p&gt;Nel referto di gara stilato dai maestri d’arme si legge che delle 53 frecce
-scoccate dai balestrieri, soltanto 14 sono riuscite a colpire e rimanere
-conficcate nel corniolo fino alla fine, e tutte le successive frecce, fino alla
-10a posizione inclusa, sono di Contrade San Paolino.&lt;/p&gt;
-
-&lt;p&gt;Di seguito la classifica completa (dal 5 al 14 classificato):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Baccelli Andrea (CSP)&lt;/li&gt;
-  &lt;li&gt;Stefani Simona (CSP)&lt;/li&gt;
-  &lt;li&gt;Bertolucci Gianluca (CSP)&lt;/li&gt;
-  &lt;li&gt;Lino Antonino (CSP)&lt;/li&gt;
-  &lt;li&gt;Barsanti Giovanni (CSP)&lt;/li&gt;
-  &lt;li&gt;Lombardi Samuele (CSP)&lt;/li&gt;
-  &lt;li&gt;Bertolucci Daniele (CBL)&lt;/li&gt;
-  &lt;li&gt;De Servi Alessandro (CBL)&lt;/li&gt;
-  &lt;li&gt;Mattei Emanuele (CBL)&lt;/li&gt;
-  &lt;li&gt;Raffaelli Lorenzo (CBL)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;La registrazione della gara sarà presto disponibile sul canale YouTube di NoiTv
-e sui canali social di Contrade San Paolino (Facebook, Instagram, Twitter).&lt;/p&gt;
-
-&lt;p&gt;Prossimo appuntamento per i balestrieri lucchesi sarà il Palio della Santa Croce
-a settembre se le attuali condizioni epidemiologiche continuassero a rimanere
-sotto controllo.&lt;/p&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="albo" /><summary type="html">Domenica 12 Luglio, grazie alle nuove disposizioni normative per il COVID-19 che permettono l’effettuazione di eventi all’aperto previo distanziamento e utilizzo della mascherina, e la volontà dell’amministrazione comunale di mantenere viva una tradizione, è stato disputato il 46° Palio di San Paolino, gara in cui si sfidano i balestrieri delle due associazioni cittadine: Compagnia Balestrieri Lucca e Contrade San Paolino. Le quattro migliori verrette conficcate nel corniolo sono risultate quelle di:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2020/hero/palio-san-paolino-46.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2020/hero/palio-san-paolino-46.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+  &lt;/div&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="video" /><summary type="html">Ecco la registrazione della diretta trasmessa su NoiTv in occasione della competizione fra i balestrieri di Lucca che si è disputata lo scorso 12 Luglio 2020 in Piazzale Arrigoni, nei giardini dietro la Cattedrale di San Martino.</summary></entry></feed>
