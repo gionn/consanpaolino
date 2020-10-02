@@ -6,8 +6,10 @@ categories:
   - eventi
 ---
 
+**Aggiornamento**: l’evento è stato rimandato all'11 ottobre causa maltempo ⛈️
+
 L'autunno è appena iniziato ma rimane ancora da disputare il Palio delle
-Contrade. Questa **domenica 4 ottobre**, presso il [Campo
+Contrade. **Domenica 11 ottobre**, presso il [Campo
 Tiri](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) a Pontetetto, in una gara su
 corniolo in costume storico si sfideranno le [4 contrade di San
 Paolino](/terzieri-lucca): Granchio, Falcone, Luna e Sirena.
@@ -39,8 +41,8 @@ In caso di maltempo, l’evento sarà rimandato alla settimana successiva.
   "name": "3° Palio delle Contrade San Paolino",
   "url": "https://consanpaolino.org/2020/3-palio-contrade-san-paolino",
   "description": "Gara di tiro con balestra antica da banco",
-  "startDate": "04/10/2020 3:30PM",
-  "endDate": "04/10/2020 5:00PM",
+  "startDate": "2020-10-11T15:30:00+02:00",
+  "endDate": "2020-10-11T17:00:00+02:00",
   "eventStatus": "https://schema.org/EventScheduled",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "image": ["https://consanpaolino.org/assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg"],
@@ -59,11 +61,11 @@ In caso di maltempo, l’evento sarà rimandato alla settimana successiva.
   "offers": {
     "@type": "Offer",
     "description": "Ingresso gratuito",
-    "url": "https://consanpaolino.org/2020/2a-giostra-ghibellina",
+    "url": "https://consanpaolino.org/2020/3-palio-contrade-san-paolino",
     "price": "0.00",
     "priceCurrency": "EUR",
     "availability": "https://schema.org/InStock",
-    "validFrom": "2020-08-29T00:00"
+    "validFrom": "2020-08-29"
   },
   "performer": {
     "@type": "PerformingGroup",
