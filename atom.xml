@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-09-29T07:07:01+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 3° Palio delle Contrade San Paolino</title><link href="https://consanpaolino.org/2020/3-palio-contrade-san-paolino" rel="alternate" type="text/html" title="🎯 3° Palio delle Contrade San Paolino" /><published>2020-09-29T00:00:00+00:00</published><updated>2020-09-29T07:06:20+00:00</updated><id>https://consanpaolino.org/2020/3-palio-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/3-palio-contrade-san-paolino">&lt;p&gt;L’autunno è appena iniziato ma rimane ancora da disputare il Palio delle
-Contrade. Questa &lt;strong&gt;domenica 4 ottobre&lt;/strong&gt;, presso il &lt;a href=&quot;https://goo.gl/maps/j7VtRqNSK9Eyjjmf7&quot;&gt;Campo
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2020-10-02T17:19:37+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di rievocazione storica a Lucca: balestrieri, musici e figuranti</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 3° Palio delle Contrade San Paolino</title><link href="https://consanpaolino.org/2020/3-palio-contrade-san-paolino" rel="alternate" type="text/html" title="🎯 3° Palio delle Contrade San Paolino" /><published>2020-09-29T00:00:00+00:00</published><updated>2020-10-02T17:18:34+00:00</updated><id>https://consanpaolino.org/2020/3-palio-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2020/3-palio-contrade-san-paolino">&lt;p&gt;&lt;strong&gt;Aggiornamento&lt;/strong&gt;: l’evento è stato rimandato all’11 ottobre causa maltempo ⛈️&lt;/p&gt;
+
+&lt;p&gt;L’autunno è appena iniziato ma rimane ancora da disputare il Palio delle
+Contrade. &lt;strong&gt;Domenica 11 ottobre&lt;/strong&gt;, presso il &lt;a href=&quot;https://goo.gl/maps/j7VtRqNSK9Eyjjmf7&quot;&gt;Campo
 Tiri&lt;/a&gt; a Pontetetto, in una gara su
 corniolo in costume storico si sfideranno le &lt;a href=&quot;/terzieri-lucca&quot;&gt;4 contrade di San
 Paolino&lt;/a&gt;: Granchio, Falcone, Luna e Sirena.&lt;/p&gt;
@@ -33,8 +35,8 @@ per imparare a suonare il tamburo (dagli 8 anni in su).&lt;/p&gt;
   &quot;name&quot;: &quot;3° Palio delle Contrade San Paolino&quot;,
   &quot;url&quot;: &quot;https://consanpaolino.org/2020/3-palio-contrade-san-paolino&quot;,
   &quot;description&quot;: &quot;Gara di tiro con balestra antica da banco&quot;,
-  &quot;startDate&quot;: &quot;04/10/2020 3:30PM&quot;,
-  &quot;endDate&quot;: &quot;04/10/2020 5:00PM&quot;,
+  &quot;startDate&quot;: &quot;2020-10-11T15:30:00+02:00&quot;,
+  &quot;endDate&quot;: &quot;2020-10-11T17:00:00+02:00&quot;,
   &quot;eventStatus&quot;: &quot;https://schema.org/EventScheduled&quot;,
   &quot;eventAttendanceMode&quot;: &quot;https://schema.org/OfflineEventAttendanceMode&quot;,
   &quot;image&quot;: [&quot;https://consanpaolino.org/assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg&quot;],
@@ -53,11 +55,11 @@ per imparare a suonare il tamburo (dagli 8 anni in su).&lt;/p&gt;
   &quot;offers&quot;: {
     &quot;@type&quot;: &quot;Offer&quot;,
     &quot;description&quot;: &quot;Ingresso gratuito&quot;,
-    &quot;url&quot;: &quot;https://consanpaolino.org/2020/2a-giostra-ghibellina&quot;,
+    &quot;url&quot;: &quot;https://consanpaolino.org/2020/3-palio-contrade-san-paolino&quot;,
     &quot;price&quot;: &quot;0.00&quot;,
     &quot;priceCurrency&quot;: &quot;EUR&quot;,
     &quot;availability&quot;: &quot;https://schema.org/InStock&quot;,
-    &quot;validFrom&quot;: &quot;2020-08-29T00:00&quot;
+    &quot;validFrom&quot;: &quot;2020-08-29&quot;
   },
   &quot;performer&quot;: {
     &quot;@type&quot;: &quot;PerformingGroup&quot;,
@@ -69,7 +71,7 @@ per imparare a suonare il tamburo (dagli 8 anni in su).&lt;/p&gt;
     &quot;url&quot;: &quot;https://consanpaolino.org&quot;
   }
 }
- &lt;/script&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="eventi" /><summary type="html">L’autunno è appena iniziato ma rimane ancora da disputare il Palio delle Contrade. Questa domenica 4 ottobre, presso il Campo Tiri a Pontetetto, in una gara su corniolo in costume storico si sfideranno le 4 contrade di San Paolino: Granchio, Falcone, Luna e Sirena.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2019/hero/corniolo-palio-repubblica-lucca.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2019/hero/corniolo-palio-repubblica-lucca.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">📺 CSP vs Amelia - Guarda il video</title><link href="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia" rel="alternate" type="text/html" title="📺 CSP vs Amelia - Guarda il video" /><published>2020-09-28T00:00:00+00:00</published><updated>2020-09-28T21:10:17+00:00</updated><id>https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia</id><content type="html" xml:base="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia">&lt;p&gt;Abbiamo realizzato un video-riassunto della gara a squadre disputata in
+ &lt;/script&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="eventi" /><summary type="html">Aggiornamento: l’evento è stato rimandato all’11 ottobre causa maltempo ⛈️ L’autunno è appena iniziato ma rimane ancora da disputare il Palio delle Contrade. Domenica 11 ottobre, presso il Campo Tiri a Pontetetto, in una gara su corniolo in costume storico si sfideranno le 4 contrade di San Paolino: Granchio, Falcone, Luna e Sirena.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2019/hero/corniolo-palio-repubblica-lucca.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2019/hero/corniolo-palio-repubblica-lucca.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">📺 CSP vs Amelia - Guarda il video</title><link href="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia" rel="alternate" type="text/html" title="📺 CSP vs Amelia - Guarda il video" /><published>2020-09-28T00:00:00+00:00</published><updated>2020-09-28T21:10:17+00:00</updated><id>https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia</id><content type="html" xml:base="https://consanpaolino.org/2020/video-gara-squadre-litab-lucca-amelia">&lt;p&gt;Abbiamo realizzato un video-riassunto della gara a squadre disputata in
 occasione della &lt;a href=&quot;/2020/risultati-2a-giostra-ghibellina&quot;&gt;2a Giostra Ghibellina&lt;/a&gt;.
 Buona visione!&lt;/p&gt;
 
