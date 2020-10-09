@@ -41,7 +41,7 @@ immediatamente precedenti all'evento.
 > **ATTENZIONE**: a causa dell'aumento dei casi COVID-19 a partire dal Settembre
 > 2020 non è possibile garantire la realizzazione degli eventi futuri.
 
-* **11 ottobre - 3° Palio delle Contrade San Paolino**: palio dei balestrieri in
+* **18 ottobre - 3° Palio delle Contrade San Paolino**: palio dei balestrieri in
   costume storico, accampamento medievale e spettacoli dei musici al Campo Tiri
   della Repubblica di Lucca. [:mag: Vai all'articolo](/2020/3-palio-contrade-san-paolino)
 

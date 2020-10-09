@@ -6,7 +6,7 @@ categories:
   - eventi
 ---
 
-**Aggiornamento**: l’evento è stato rimandato all'11 ottobre causa maltempo ⛈️
+**Aggiornamento**: l’evento è stato rimandato al 18 ottobre causa maltempo ⛈️
 
 L'autunno è appena iniziato ma rimane ancora da disputare il Palio delle
 Contrade. **Domenica 11 ottobre**, presso il [Campo
@@ -41,9 +41,11 @@ In caso di maltempo, l’evento sarà rimandato alla settimana successiva.
   "name": "3° Palio delle Contrade San Paolino",
   "url": "https://consanpaolino.org/2020/3-palio-contrade-san-paolino",
   "description": "Gara di tiro con balestra antica da banco",
-  "startDate": "2020-10-11T15:30:00+02:00",
-  "endDate": "2020-10-11T17:00:00+02:00",
-  "eventStatus": "https://schema.org/EventScheduled",
+  "previousStartDate": "2020-10-04T15:30:00+02:00",
+  "previousStartDate": "2020-10-11T15:30:00+02:00",
+  "startDate": "2020-10-18T15:30:00+02:00",
+  "endDate": "2020-10-18T17:00:00+02:00",
+  "eventStatus" : "EventRescheduled",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "image": ["https://consanpaolino.org/assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg"],
   "location": {
