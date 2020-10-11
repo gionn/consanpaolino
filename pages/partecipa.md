@@ -2,6 +2,7 @@
 layout: page
 title: Come partecipare
 permalink: /partecipa
+image: /assets/images/2020/2a-giostra-ghibellina-corniolo.jpg
 ---
 
 Contrade San Paolino è una associazione di rievocazione storica di Lucca. Siamo
