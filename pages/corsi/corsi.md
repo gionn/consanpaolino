@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Corsi attivi
+title: Corsi dell'associazione su Lucca
 permalink: /corsi-lucca
 ---
+
+Contrade San Paolino è una associazione di rievocazione storica di Lucca. Siamo
+affiliati alla **Lega Italiana Tiro Alla Balestra** (LITAB) e partecipiamo a
+gare e manifestazioni di **rievocazione storica** in tutta Italia.
+
+Sicuramente ci avrai visto sfilare almeno una volta per le strade di **Lucca**
+in occasione delle festività di **San Paolino** a Luglio o della **Santa Croce**
+a Settembre.
 
 Qui di seguito trovi elencati i corsi organizzati dalla nostra associazione
 attualmente attivi:
@@ -10,8 +18,3 @@ attualmente attivi:
 * [Corso di tamburo storico a Lucca](/corso-tamburo-lucca)
 * [Corso di balestra storica a Lucca](/corso-balestra-lucca)
 * [Corsi per bambini](/corsi-bambini-tamburo-balestra-lucca)
-  
-[Lasciaci i tuoi dati di contatto](https://forms.gle/wHmauk2MYKPrpaiUA) per
-avere maggiori informazioni o fissare un appuntamento senza impegno.
-
-{% youtube "https://www.youtube.com/watch?v=CAXZj9O1tUs" %}
