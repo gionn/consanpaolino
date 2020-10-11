@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Come partecipare
+title: Arruolati nelle Contrade
 permalink: /partecipa
-image: /assets/images/2020/2a-giostra-ghibellina-corniolo.jpg
+image: /assets/images/2019/palio-san-paolino/45-palio-san-paolino-simona.jpg
 ---
 
 Contrade San Paolino è una associazione di rievocazione storica di Lucca. Siamo
@@ -12,6 +12,8 @@ gare e manifestazioni di **rievocazione storica** in tutta Italia.
 Sicuramente ci avrai visto sfilare almeno una volta per le strade di **Lucca**
 in occasione delle festività di **San Paolino** a Luglio o della **Santa Croce**
 a Settembre.
+
+{% youtube "https://youtu.be/70VLfU-aimk" %}
 
 ## Richiedi informazioni
 
@@ -39,5 +41,3 @@ attualmente attivi e rispondere a tutte le tue domande.
     <input type="hidden" name="_language" value="it" />
     <input type="submit" value="Invia richiesta">
 </form>
-
-{% youtube "https://youtu.be/70VLfU-aimk" %}
