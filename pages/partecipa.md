@@ -13,8 +13,6 @@ Sicuramente ci avrai visto sfilare almeno una volta per le strade di **Lucca**
 in occasione delle festività di **San Paolino** a Luglio o della **Santa Croce**
 a Settembre.
 
-{% youtube "https://youtu.be/70VLfU-aimk" %}
-
 ## Richiedi informazioni
 
 I tuoi dati raccolti tramite questa pagina saranno utilizzati esclusivamente per
@@ -41,3 +39,5 @@ attualmente attivi e rispondere a tutte le tue domande.
     <input type="hidden" name="_language" value="it" />
     <input type="submit" value="Invia richiesta">
 </form>
+
+{% youtube "https://youtu.be/VXXnQ-31_Cc" %}
