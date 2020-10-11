@@ -42,6 +42,8 @@ minimo, mascherina e autocertificazione di buono stato di salute).
 
 ![manifesto](/assets/images/2020/2a-giostra-ghibellina-manifesto.jpeg)
 
+![brocca corniolo](/assets/images/2020/2a-giostra-ghibellina-corniolo.jpg)
+
 ![compagnia balestrieri lucca](https://consanpaolino.s3.fr-par.scw.cloud/images/balestrieri-al-tiro-1.jpg)
 
 ![compagnia balestrieri lucca](https://consanpaolino.s3.fr-par.scw.cloud/images/balestrieri-al-tiro-2.jpg)
