@@ -4,7 +4,6 @@ title: Contatti
 permalink: /contatti
 redirect_from:
   - /social
-  - /partecipa
 ---
 
 | **Email** | consanpaolino@gmail.com |
