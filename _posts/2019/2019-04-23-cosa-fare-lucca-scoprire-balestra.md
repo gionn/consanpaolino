@@ -3,9 +3,11 @@ layout: post
 title: "🎯 Cosa fare a Lucca: scoprire il tiro con la balestra"
 categories:
   - lucca
-permalink: /cosa-fare-lucca-scopri-balestra
+permalink: /cosa-fare-lucca
 image:
   path: /assets/images/2018/hero/balestra-lucca-medievale.jpg
+redirect_from:
+ - /cosa-fare-lucca-scopri-balestra
 ---
 
 C’era un tempo in cui Lucca era una **città libera e indipendente**, aveva un
@@ -62,13 +64,16 @@ Se vuoi farci una domanda, o vuoi essere ricontattato per avere maggiori
 informazioni, utilizza il modulo sottostante:
 
 <form class="wj-contact" action="https://formspree.io/{{site.author.email}}" method="POST">
-    <input type="text" name="name" placeholder="Il tuo nome">
-    <input type="email" name="_replyto" placeholder="Il tuo indirizzo email">
-    <textarea type="text" name="content" rows="10" placeholder="Il tuo messaggio"></textarea>
-    <input type="hidden" name="_subject" value="Richiesta info balestra">
+    <input type="text" name="name" placeholder="Il tuo nome e cognome" required>
+    <input type="email" name="_replyto" placeholder="Il tuo indirizzo email" required>
+    <input type="telephone" name="telephone" id="telephone" placeholder="Un tuo contatto telefonico" required>
+    <input type="text" name="luogo" placeholder="Dove vivi?" required>
+    <input type="text" name="età" placeholder="Quanti anni hai?">
+    <textarea type="text" name="message" rows="6" placeholder="Parlaci di te o inserisci eventuali domande, ti risponderemo appena possibile."></textarea>
+    <input type="hidden" name="_subject" value="Richiesta iscrizione balestriere">
     <input type="text" name="_gotcha" style="display:none">
     <input type="hidden" name="_language" value="it" />
-    <input type="submit" value="Invia messaggio">
+    <input type="submit" value="Invia richiesta">
 </form>
 
 <figure class="align-center">
