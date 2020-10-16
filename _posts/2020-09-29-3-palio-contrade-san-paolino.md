@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "🎯 3° Palio delle Contrade San Paolino"
+title: "🎯 3° Palio delle Contrade San Paolino - ANNULLATO"
 image: /assets/images/2019/hero/corniolo-palio-repubblica-lucca.jpg
 categories:
   - eventi
 ---
 
-**Aggiornamento**: l’evento è stato rimandato al 18 ottobre causa maltempo ⛈️
+⚠️ **Aggiornamento**: l’evento è stato **ANNULLATO** causa incremento contagi COVID-19
 
 L'autunno è appena iniziato ma rimane ancora da disputare il Palio delle
-Contrade. **Domenica 11 ottobre**, presso il [Campo
+Contrade. **Domenica 18 ottobre**, presso il [Campo
 Tiri](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) a Pontetetto, in una gara su
 corniolo in costume storico si sfideranno le [4 contrade di San
 Paolino](/terzieri-lucca): Granchio, Falcone, Luna e Sirena.
@@ -21,7 +21,6 @@ Programma della giornata:
 * 09:00 - Tiri di prova dei balestrieri
 * 10:30 - Gara delle reclute
 * 11:15 - Gara delle Paoline
-* 15:15 - Esibizione dei musici
 * 15:30 - 3° Palio delle Contrade San Paolino
 * 16.30 - Esibizione dei musici
 * 17.00 - Premiazione e saluti
@@ -45,7 +44,7 @@ In caso di maltempo, l’evento sarà rimandato alla settimana successiva.
   "previousStartDate": "2020-10-11T15:30:00+02:00",
   "startDate": "2020-10-18T15:30:00+02:00",
   "endDate": "2020-10-18T17:00:00+02:00",
-  "eventStatus" : "EventRescheduled",
+  "eventStatus" : "EventCancelled",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "image": ["https://consanpaolino.org/assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg"],
   "location": {

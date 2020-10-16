@@ -38,18 +38,18 @@ provincia di Lucca? [Scrivici](/contatti)
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
 
-> **ATTENZIONE**: a causa dell'aumento dei casi COVID-19 a partire dal Settembre
+> **ATTENZIONE**: a causa dell'aumento dei casi di COVID-19 a partire da Ottobre
 > 2020 non è possibile garantire la realizzazione degli eventi futuri.
-
-* **18 ottobre - 3° Palio delle Contrade San Paolino**: palio dei balestrieri in
-  costume storico, accampamento medievale e spettacoli dei musici al Campo Tiri
-  della Repubblica di Lucca. [:mag: Vai all'articolo](/2020/3-palio-contrade-san-paolino)
 
 * **29 ottobre al 1 novembre - Lucca Comics & Games**: festival internazionale
   del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
   Vai al sito ufficiale](https://www.luccacomicsandgames.com)
 
 ## Eventi passati
+
+* **18 ottobre - ANNULLATO 3° Palio delle Contrade San Paolino**: palio dei balestrieri in
+  costume storico, accampamento medievale e spettacoli dei musici al Campo Tiri
+  della Repubblica di Lucca. [:mag: Vai all'articolo](/2020/3-palio-contrade-san-paolino)
 
 * **20 Settembre - 2° Giostra Ghibellina**: gara di tiro con la balestra antica fra
   le città di Lucca e Amelia, al Campo Tiri della Repubblica di Lucca (inizio
