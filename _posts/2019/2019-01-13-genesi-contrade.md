@@ -11,10 +11,10 @@ image:
 
 > Da una testimonianza orale di [Bruno Giannoni](https://www.facebook.com/giannoni.bruno/) rilasciata il 28 dicembre 2018.
 
-Nel 1991 un gruppo di persone decise di depositare uno statuto per una **nuova
-associazione a Lucca** che avesse legami con la parrocchia di San Paolino, e che
-inizialmente nulla aveva a che fare con la rievocazione storica, con rogito del
-notaio Puliti.
+Il 27 febbraio 1991 un gruppo di persone decise di depositare uno statuto per
+una **nuova associazione a Lucca** che avesse legami con la parrocchia di San
+Paolino, e che inizialmente nulla aveva a che fare con la rievocazione storica,
+con rogito del notaio Guido Politi.
 
 Nel 1994 questo statuto venne utilizzato come base per la nascita di una nuova
 associazione, in concomitanza con l'**uscita di un gruppo di persone** dalla
