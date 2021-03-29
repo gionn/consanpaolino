@@ -41,5 +41,5 @@ Se sei un commerciante e vuoi riservare un'offerta ai nostri soci,
 * [Ferramenta Santa Margherita](https://g.page/ferramenta-s-margherita-sas?share): dal 5% al 10% di sconto su tutta l'offerta.
 * [Santini Legnami](http://www.santinilegnami.it/): forniture di legno,
   perlinati, pannelli e tante altre lavorazioni a Pescaglia (LU)
-* [Legno Selvaggio](https://www.instagram.com/legnoselvaggio/): forniture di
+* [LegnoSelvaggio](https://www.instagram.com/legnoselvaggio/): forniture di
   legno, anche ricercato a Vico Del Gargano (FG).
