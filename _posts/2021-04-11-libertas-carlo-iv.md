@@ -4,7 +4,7 @@ title: "🛡️ Come Carlo IV liberò Lucca dal giogo pisano"
 categories:
   - lucca
 image:
-  path: /assets/images/2019/hero/lucca-medievale.jpg
+  path: /assets/images/2021/repubblica-lucca-libertas-bandiera.png
 ---
 
 L'8 Aprile 1369 è la data in cui il popolo di Lucca viene liberato
