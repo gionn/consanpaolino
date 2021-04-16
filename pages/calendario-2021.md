@@ -2,6 +2,8 @@
 layout: page
 title: Prossimi eventi a Lucca e dintorni
 permalink: /eventi-lucca-2021
+redirect_from:
+ - /calendario-eventi
 image:
   path: /assets/images/2019/hero/crossbowman.jpg
 ---
