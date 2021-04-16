@@ -62,6 +62,7 @@ immediatamente precedenti all'evento.
 
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)!
+
 ## Scopri i balestrieri di San Paolino
 
 {% youtube "https://youtu.be/VXXnQ-31_Cc" %}
