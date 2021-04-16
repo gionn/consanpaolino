@@ -26,7 +26,4 @@ Sant'Antonio**. Non vorrete mica dargliela già vinta? :D
 
 Il [regolamento](/2017-04-14-foto-consanpaolino/) rimane invariato, buoni scatti!
 
-[Consulta il calendario dei prossimi
-eventi](/2018-03-17-calendario-eventi-2018-lucca/) per venire a fotografarci!
-
 Non dimenticare di taggare le tue foto con **[#consanpaolino](https://www.instagram.com/explore/tags/consanpaolino/)**
