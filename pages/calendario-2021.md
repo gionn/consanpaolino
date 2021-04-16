@@ -27,10 +27,7 @@ indimenticabile. Segue una selezione di eventi a carattere storico-culturale,
 fiere, festival, mostre, spettacoli d'intrattenimento e manifestazioni che si
 tengono a Lucca e provincia durante tutto il 2021.
 
-## Prossimi eventi a Lucca e dintorni
-
-Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
-provincia di Lucca? [Scrivici](/contatti)
+## Calendario eventi in programma
 
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
@@ -63,6 +60,8 @@ immediatamente precedenti all'evento.
   tiro dei balestrieri suddivisi in contrade al Campo Tiro della Repubblica di
   Lucca.
 
+> Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
+> provincia di Lucca? [Scrivici](/contatti)!
 ## Scopri i balestrieri di San Paolino
 
 {% youtube "https://youtu.be/VXXnQ-31_Cc" %}
