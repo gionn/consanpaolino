@@ -10,7 +10,7 @@ image:
 > probabilmente ti interessa il [Calendario Eventi a Lucca del
 > 2020](/eventi-lucca-2020)?
 
-## Eventi che potresti aver perso
+## Eventi passati
 
 * **30 Ottobre al 3 Novembre - Lucca Comics & Games**: festival internazionale del
   fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag: Vai al

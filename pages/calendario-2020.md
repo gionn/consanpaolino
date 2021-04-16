@@ -1,49 +1,14 @@
 ---
 layout: page
-title: Prossimi eventi a Lucca e dintorni
+title: Calendario eventi 2020 a Lucca
 permalink: /eventi-lucca-2020
-redirect_from:
- - /calendario-eventi
- - /2018-03-17-calendario-eventi-2018-lucca/
- - /eventi-lucca-2018
- - /calendario-eventi-lucca-2018
 image:
   path: /assets/images/2019/hero/crossbowman.jpg
 ---
 
-La **Toscana** è una regione ricca di storia e tradizioni e che custodisce
-luoghi meravigliosi, fra cui la città di [Lucca](/lucca).
-
-**Lucca** è una città molto antica, probabilmente di origine etrusca ma che ha
-iniziato a svilupparsi a partire dal 180 a.C. come città romana, come ci ricorda
-l'attuale Piazza Anfiteatro. Ma è nel **medioevo** che la città crebbe
-notevolmente, grazie all'antica *Via Francigena* di cui Lucca era una tappa
-importante, e molte sono le vicende militari che la videro protagonista. E' in
-questo periodo che nascono i [terzieri di
-Lucca](https://consanpaolino.org/terzieri-lucca) e il corpo militare che riuscì
-a garantire l'indipendenza della città in molte occasioni: [i
-balestrieri](/lucca-balestrieri-medioevo-storia).
-
-Ad oggi queste tradizioni continuano ad esser molto sentite, e Lucca è la culla
-di tanti eventi culturali e d'intrattenimento che la rendono unica e
-indimenticabile. Segue una selezione di eventi a carattere storico-culturale,
-fiere, festival, mostre, spettacoli d'intrattenimento e manifestazioni che si
-tengono a Lucca e provincia durante tutto il 2020.
-
-## Prossimi eventi a Lucca e dintorni
-
-Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
-provincia di Lucca? [Scrivici](/contatti)
-
-Il programma dettagliato di ogni evento sarà disponibile nelle settimane
-immediatamente precedenti all'evento.
-
-> **ATTENZIONE**: a causa dell'aumento dei casi di COVID-19 a partire da Ottobre
-> 2020 non è possibile garantire la realizzazione degli eventi futuri.
-
-* **29 ottobre al 1 novembre - Lucca Comics & Games**: festival internazionale
-  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
-  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
+> **Attenzione**: stai consultando la programmazione di una stagione conclusa,
+> probabilmente ti interessa il [Calendario Eventi a Lucca del
+> 2021](/eventi-lucca-2021)?
 
 ## Eventi passati
 
