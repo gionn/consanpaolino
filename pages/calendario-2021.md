@@ -36,8 +36,12 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o la riprogrammazione degli eventi di seguito
 > proposti.
 
-* **6 Giugno - 3° Palio delle Contrade San Paolino**: gara di tiro dei
-  balestrieri suddivisi in contrade al Campo Tiro della Repubblica di Lucca.
+* **23 Maggio - Apertura stagione**: celebrazioni di apertura del 30° fondazione
+  Contrade San Paolino, presentazione dei lavori di ristrutturazione del Campo
+  Tiri della Repubblica di Lucca, gare di tiro fra i balestrieri.
+
+* **6 Giugno - 3° Palio delle Contrade San Paolino**: gara di tiro fra i
+  balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.
 
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici.
@@ -48,16 +52,16 @@ immediatamente precedenti all'evento.
   balestrieri, luogo e orario da definire.
 
 * **25 Luglio - 3° Giostra Ghibellina**: gara di tiro dei balestrieri al Campo
-  Tiro della Repubblica di Lucca.
+  Tiri della Repubblica di Lucca.
 
-* **29 Agosto - Lucca Medievale + 30° fondazione Contrade San Paolino**:
+* **29 Agosto - Lucca Medievale e Palio del 30° fondazione Contrade San Paolino**:
   programma e luogo da definire.
 
 * **19 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
   balestrieri, luogo e orario da definire.
 
 * **10 Ottobre - 3° Palio dei Balistarii della Repubblica di Lucca**: gara di
-  tiro dei balestrieri suddivisi in contrade al Campo Tiro della Repubblica di
+  tiro fra i balestrieri suddivisi in contrade al Campo Tiri della Repubblica di
   Lucca.
 
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
