@@ -2,10 +2,11 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cimg/ruby:2.7.1-node
+      - image: cimg/ruby:2.7.3-node
         environment:
           BUNDLE_PATH: vendor/bundle
           JEKYLL_ENV: production
+    resource_class: small
 
     working_directory: ~/repo
 
