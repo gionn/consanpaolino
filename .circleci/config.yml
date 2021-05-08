@@ -15,8 +15,8 @@ jobs:
 
       - restore_cache:
           keys:
-            - v4-dependencies-{{ checksum "Gemfile.lock" }}
-            - v4-dependencies-
+            - v5-dependencies-{{ checksum "Gemfile.lock" }}
+            - v5-dependencies-
 
       - run: gem install bundler
       - run: bundle install
@@ -25,7 +25,7 @@ jobs:
       - save_cache:
           paths:
             - vendor/bundle
-          key: v4-dependencies-{{ checksum "Gemfile.lock" }}
+          key: v5-dependencies-{{ checksum "Gemfile.lock" }}
 
       - run: bundle exec jekyll build
 
