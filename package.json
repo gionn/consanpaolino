@@ -1,7 +1,7 @@
 {
-  "name": "gh-publish",
+  "name": "consanpaolino",
   "version": "1.0.0",
-  "description": "publish to github",
+  "description": "publish this jekyll website to github pages branch",
   "scripts": {
     "deploy": "gh-pages -t -d _site"
   },
