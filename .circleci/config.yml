@@ -13,6 +13,22 @@ jobs:
     steps:
       - checkout
 
+      - run: node --version
+      - run: npm --version
+
+      - restore_cache:
+          keys:
+            - v1-node-{{ checksum "package-lock.json" }}
+            - v1-node-
+
+      - run: npm install npm
+      - run: npm install
+
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-node-{{ checksum "package-lock.json" }}
+
       - restore_cache:
           keys:
             - v5-dependencies-{{ checksum "Gemfile.lock" }}
@@ -20,7 +36,6 @@ jobs:
 
       - run: gem install bundler
       - run: bundle install
-      - run: npm install gh-pages
 
       - save_cache:
           paths:
