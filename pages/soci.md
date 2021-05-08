@@ -43,3 +43,7 @@ Se sei un commerciante e vuoi riservare un'offerta ai nostri soci,
   perlinati, pannelli e tante altre lavorazioni a Pescaglia (LU)
 * [LegnoSelvaggio](https://www.instagram.com/legnoselvaggio/): forniture di
   legno, anche ricercato a Vico Del Gargano (FG).
+
+### 🏢 Aziende & sponsor
+
+* **Lavori Edili di Bianchini Francesco & C. S.a.s.**: Tel. 3294073395  Via Cucchi, 224/N, 55100 San Pietro A Vico (Lucca)
