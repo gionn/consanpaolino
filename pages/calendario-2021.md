@@ -57,6 +57,9 @@ immediatamente precedenti all'evento.
 * **29 Agosto - Lucca Medievale e Palio del 30° fondazione Contrade San Paolino**:
   programma e luogo da definire.
 
+* **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
+  città.
+
 * **19 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
   balestrieri, luogo e orario da definire.
 
