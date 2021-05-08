@@ -46,4 +46,4 @@ Se sei un commerciante e vuoi riservare un'offerta ai nostri soci,
 
 ### 🏢 Aziende & sponsor
 
-* **Lavori Edili di Bianchini Francesco & C. S.a.s.**: Tel. 3294073395  Via Cucchi, 224/N, 55100 San Pietro A Vico (Lucca)
+* _Lavori Edili di Bianchini Francesco & C. S.a.s._: Tel. 3294073395  Via Cucchi, 224/N, 55100 San Pietro A Vico (Lucca)
