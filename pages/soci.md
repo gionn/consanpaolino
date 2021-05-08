@@ -21,7 +21,7 @@ Se sei un commerciante e vuoi riservare un'offerta ai nostri soci,
   pranzi di lavoro a 10 euro, nel centro di Capannori.
 * [BNB Lucca Fora](https://g.page/bedandbreakfastluccafora?share): a 10 minuti
   da Lucca, facilmente raggiungibile in auto, a Capannori.
-* [Hotel Bernardino ***](https://goo.gl/maps/tMkPt9vtNQvb63wF9): a 5 minuti a piedi
+* [Hotel Bernardino ⭐⭐⭐](https://goo.gl/maps/tMkPt9vtNQvb63wF9): a 5 minuti a piedi
   dalle mura di Lucca sud.
 * [Affittacamere San Vito](https://www.booking.com/hotel/it/affittacamere-san-vito.it.html):
   a 5 minuti a piedi dalle mura di Lucca nord-est.
