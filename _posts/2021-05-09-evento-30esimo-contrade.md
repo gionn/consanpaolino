@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎂 30° Contrade San Paolino"
-image: "/assets/images/2021/balestra-30esimo.jpg"
+image: "/assets/images/2019/giannoni-balestrieri-lucca/luminara-san-paolino-lucca1994.jpg"
 categories:
   - eventi
 hidden: true
@@ -25,3 +25,8 @@ rievocazione.
 * 16.00 Consegna premi
 * 16.30 Gara/dimostrazione di tiro dei balestrieri
 * 18.00 Saluti e smontaggio
+
+La foto in copertina è della Luminara del 1994, la prima con i nuovi costumi
+dell'associazione, già pubblicata insieme ad altre sull'articolo della [Nascita
+dell'associazione Contrade San
+Paolino](/2019/nascita-associazione-contrade-san-paolino).
