@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "🎂 30° Contrade San Paolino"
+image: "/assets/images/2021/balestra-30esimo.jpg"
 categories:
   - eventi
 hidden: true
