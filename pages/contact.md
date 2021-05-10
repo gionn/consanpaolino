@@ -17,7 +17,7 @@ redirect_from:
 
 ## Il nostro indirizzo
 
-Associazione Contrade di San Paolino<br/>
+Associazione Contrade di San Paolino APS<br/>
 Sortita Porta San Pietro, 1/3<br/>
 55100 - Lucca (LU) - Italy<br/>
 CF 92050570461<br/>
