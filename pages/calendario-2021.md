@@ -39,6 +39,7 @@ immediatamente precedenti all'evento.
 * **23 Maggio - Apertura stagione**: celebrazioni di apertura del 30° fondazione
   Contrade San Paolino, presentazione dei lavori di ristrutturazione del Campo
   Tiri della Repubblica di Lucca, gare di tiro fra i balestrieri.
+  [:mag: Vai all'articolo](/2021/evento-30esimo-contrade)
 
 * **6 Giugno - 3° Palio delle Contrade San Paolino**: gara di tiro fra i
   balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.

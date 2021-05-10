@@ -4,7 +4,6 @@ title: "🎂 30° Contrade San Paolino"
 image: "/assets/images/2019/giannoni-balestrieri-lucca/luminara-san-paolino-lucca1994.jpg"
 categories:
   - eventi
-hidden: true
 ---
 
 Dopo l'obbligata sospensione delle attività a causa del COVID-19, l'associazione
@@ -14,7 +13,7 @@ novità preparate in occasione dei festeggiamenti legati ai 30 anni di vita
 dell'associazione e per far avvicinare tutti gli interessati al mondo della
 rievocazione.
 
-## Programma della giornata (provvisorio)
+## Programma della giornata
 
 * 09.30 Tiri di prova tutti i balestrieri in borghese
 * 11.00 Gara delle Paoline
