@@ -13,6 +13,8 @@ novità preparate in occasione dei festeggiamenti legati ai 30 anni di vita
 dell'associazione e per far avvicinare tutti gli interessati al mondo della
 rievocazione.
 
+<!-- more -->
+
 ## Programma della giornata
 
 * 09.30 Tiri di prova tutti i balestrieri in borghese
