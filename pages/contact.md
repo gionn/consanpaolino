@@ -22,11 +22,11 @@ Sortita Porta San Pietro, 1/3<br/>
 55100 - Lucca (LU) - Italy<br/>
 CF 92050570461<br/>
 
-* [Sede centrale Porta San Pietro](https://goo.gl/maps/NCqcGoRuVNQa8X2T9)
+📍 [Sede centrale Porta San Pietro](https://goo.gl/maps/NCqcGoRuVNQa8X2T9)
 
 ## Il nostro campo tiro
 
-[Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) (Via di Pattana, Pontetetto, LU)
+📍 [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) (Via di Pattana, Pontetetto, LU)
 
 ![webcam lucca campo tiro balestrieri](https://consanpaolino.s3.fr-par.scw.cloud/campotiro.jpg){:#webcam}
 

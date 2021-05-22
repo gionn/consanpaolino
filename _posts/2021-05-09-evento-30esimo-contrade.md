@@ -8,7 +8,7 @@ categories:
 
 Dopo l'obbligata sospensione delle attività a causa del COVID-19, l'associazione
 riapre i battenti organizzando per **domenica 23 Maggio 2021** una giornata al
-[campo tiro](https://consanpaolino.org/contatti#il-nostro-campo-tiro) con
+[campo tiro](/contatti#il-nostro-campo-tiro) con
 allestimento medievale, durante la quale saranno presentate le novità preparate
 in occasione dei festeggiamenti legati ai 30 anni di vita dell'associazione e
 per far avvicinare tutti gli interessati al mondo della rievocazione.
