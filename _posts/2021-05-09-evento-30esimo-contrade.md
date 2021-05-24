@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎂 30° Contrade San Paolino"
+title: "🎂 Prossimo evento: 30 anni di Contrade San Paolino"
 image: "/assets/images/2019/giannoni-balestrieri-lucca/luminara-san-paolino-lucca1994.jpg"
 categories:
   - eventi
