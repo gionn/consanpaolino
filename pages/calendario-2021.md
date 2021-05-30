@@ -43,6 +43,7 @@ immediatamente precedenti all'evento.
 
 * **6 Giugno - 3° Palio delle Contrade San Paolino**: gara di tiro fra i
   balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.
+  [:mag: Vai all'articolo](/2021/3-palio-contrade-san-paolino)
 
 * **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
   allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici.
