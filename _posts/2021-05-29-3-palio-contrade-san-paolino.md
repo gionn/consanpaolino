@@ -38,3 +38,7 @@ orari 10:00-13:00 e 15:30-19:00.
 * 17.15 Premiazioni
 * 17.30 Lezione di tiro per il pubblico intervenuto
 * 18.00 Saluti e smontaggio
+
+<!--
+![manifesto](/assets/images/2021/3-palio-contrade-san-paolino-manifesto.jpg)
+-->
