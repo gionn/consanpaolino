@@ -23,6 +23,11 @@ Negli ultimi anni Paolo Lazzerini è rimasto molto affascinato da Lucca che gli
 ha ispirato diverse opere. Ha già realizzato per Contrade San Paolino il [drappo
 della precedente edizione](/2018/palio-contrade-san-paolino) del Palio disputata nel settembre 2018.
 
+L’opera sarà presentata ufficialmente **mercoledì 2 Giugno** presso la galleria
+di Lazzerini in **Piazza San Giusto a Lucca** dalle **ore 17.00** fino al giorno
+del Palio. La Galleria rimane aperta tutti i giorni tranne il martedì negli
+orari 10:00-13:00 e 15:30-19:00.
+
 ## Programma della giornata
 
 * 15.00 Ritrovo partecipanti in costume storico
