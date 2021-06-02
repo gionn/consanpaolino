@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2021-06-01T20:12:36+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di promozionale sociale per la rievocazione storica a Lucca: balestre antiche, tamburi e cortei storici</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 Prossimo evento: 3° Palio delle Contrade San Paolino</title><link href="https://consanpaolino.org/2021/3-palio-contrade-san-paolino" rel="alternate" type="text/html" title="🎯 Prossimo evento: 3° Palio delle Contrade San Paolino" /><published>2021-05-29T00:00:00+00:00</published><updated>2021-06-01T20:11:55+00:00</updated><id>https://consanpaolino.org/2021/3-palio-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2021/3-palio-contrade-san-paolino">&lt;p&gt;Continuano a pieno ritmo le attività dell’associazione Contrade San Paolino. Il
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2021-06-02T07:18:35+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di promozionale sociale per la rievocazione storica a Lucca: balestre antiche, tamburi e cortei storici</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 Prossimo evento: 3° Palio delle Contrade San Paolino</title><link href="https://consanpaolino.org/2021/3-palio-contrade-san-paolino" rel="alternate" type="text/html" title="🎯 Prossimo evento: 3° Palio delle Contrade San Paolino" /><published>2021-05-29T00:00:00+00:00</published><updated>2021-06-02T07:17:54+00:00</updated><id>https://consanpaolino.org/2021/3-palio-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2021/3-palio-contrade-san-paolino">&lt;p&gt;Continuano a pieno ritmo le attività dell’associazione Contrade San Paolino. Il
 secondo appuntamento nel calendario eventi 2021 è per &lt;strong&gt;domenica 6 Giugno&lt;/strong&gt; presso
 il &lt;em&gt;Campo Tiri della Repubblica di Lucca&lt;/em&gt; - in &lt;a href=&quot;https://goo.gl/maps/j7VtRqNSK9Eyjjmf7&quot;&gt;Via Pattana a Pontetetto&lt;/a&gt;.&lt;/p&gt;
 
@@ -35,7 +35,62 @@ orari 10:00-13:00 e 15:30-19:00.&lt;/p&gt;
 
 &lt;!--
 ![manifesto](/assets/images/2021/3-palio-contrade-san-paolino-manifesto.jpg)
---&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="eventi" /><summary type="html">Continuano a pieno ritmo le attività dell’associazione Contrade San Paolino. Il secondo appuntamento nel calendario eventi 2021 è per domenica 6 Giugno presso il Campo Tiri della Repubblica di Lucca - in Via Pattana a Pontetetto.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2018/hero/palio-balestrieri.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2018/hero/palio-balestrieri.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">🎂 30 anni di Contrade San Paolino</title><link href="https://consanpaolino.org/2021/30-esimo-contrade-san-paolino" rel="alternate" type="text/html" title="🎂 30 anni di Contrade San Paolino" /><published>2021-05-23T00:00:00+00:00</published><updated>2021-05-24T19:48:14+00:00</updated><id>https://consanpaolino.org/2021/30-esimo-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2021/30-esimo-contrade-san-paolino">&lt;p&gt;Sono ripartite le attività della nostra associazione dopo la passata stagione di
+--&gt;
+
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{
+  &quot;@context&quot;: &quot;https://www.schema.org&quot;,
+  &quot;@type&quot;: &quot;Event&quot;,
+  &quot;name&quot;: &quot;3° Palio delle Contrade San Paolino&quot;,
+  &quot;url&quot;: &quot;https://consanpaolino.org/2021/3-palio-contrade-san-paolino&quot;,
+  &quot;description&quot;: &quot;Gara di tiro con balestra antica da banco&quot;,
+  &quot;startDate&quot;: &quot;2021-06-06T15:30:00+02:00&quot;,
+  &quot;endDate&quot;: &quot;2021-06-06T18:00:00+02:00&quot;,
+  &quot;eventStatus&quot;: &quot;EventScheduled&quot;,
+  &quot;isAccessibleForFree&quot;: true,
+  &quot;eventAttendanceMode&quot;: &quot;https://schema.org/OfflineEventAttendanceMode&quot;,
+  &quot;image&quot;: [
+    &quot;https://consanpaolino.org/assets/images/gallery/campo-tiri-bandiere-litab-contrade-libertas.jpg&quot;,
+    &quot;https://consanpaolino.org/assets/images/2018/hero/palio-balestrieri.jpg&quot;,
+    &quot;https://consanpaolino.org/assets/images/gallery/lucca-corteo.jpg&quot;,
+    &quot;https://consanpaolino.org/assets/images/gallery/balestrieri-piazza-san-michele.jpg&quot;,
+    &quot;https://consanpaolino.org/assets/images/2019/concorso-fotografia/russo-lucca-medievale-1.jpg&quot;,
+    &quot;https://consanpaolino.org/assets/images/gallery/balestriere-al-tiro-lato.jpg&quot;
+  ],
+  &quot;location&quot;: {
+    &quot;@type&quot;: &quot;Place&quot;,
+    &quot;name&quot;: &quot;Campo Tiri della Repubblica di Lucca&quot;,
+    &quot;address&quot;: {
+      &quot;@type&quot;: &quot;PostalAddress&quot;,
+      &quot;streetAddress&quot;: &quot;Via di Pattana&quot;,
+      &quot;addressLocality&quot;: &quot;Lucca&quot;,
+      &quot;addressRegion&quot;: &quot;LU&quot;,
+      &quot;postalCode&quot;: &quot;55100&quot;,
+      &quot;addressCountry&quot;: &quot;IT&quot;
+    }
+  },
+  &quot;offers&quot;: {
+    &quot;@type&quot;: &quot;Offer&quot;,
+    &quot;description&quot;: &quot;Ingresso gratuito&quot;,
+    &quot;url&quot;: &quot;https://consanpaolino.org/2021/3-palio-contrade-san-paolino&quot;,
+    &quot;price&quot;: &quot;0.00&quot;,
+    &quot;priceCurrency&quot;: &quot;EUR&quot;,
+    &quot;availability&quot;: &quot;https://schema.org/InStock&quot;,
+    &quot;validFrom&quot;: &quot;2021-06-01&quot;
+  },
+  &quot;performer&quot;: {
+    &quot;@type&quot;: &quot;PerformingGroup&quot;,
+    &quot;name&quot;: &quot;Contrade San Paolino&quot;,
+    &quot;email&quot;: &quot;consanpaolino@gmail.com&quot;
+  },
+  &quot;organizer&quot;: {
+    &quot;@type&quot;: &quot;Organization&quot;,
+    &quot;name&quot;: &quot;Contrade San Paolino&quot;,
+    &quot;url&quot; : &quot;https://consanpaolino.org&quot;,
+    &quot;email&quot;: &quot;consanpaolino@gmail.com&quot;
+  }
+}
+ &lt;/script&gt;</content><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><category term="eventi" /><summary type="html">Continuano a pieno ritmo le attività dell’associazione Contrade San Paolino. Il secondo appuntamento nel calendario eventi 2021 è per domenica 6 Giugno presso il Campo Tiri della Repubblica di Lucca - in Via Pattana a Pontetetto.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://consanpaolino.org/assets/images/2018/hero/palio-balestrieri.jpg" /><media:content medium="image" url="https://consanpaolino.org/assets/images/2018/hero/palio-balestrieri.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">🎂 30 anni di Contrade San Paolino</title><link href="https://consanpaolino.org/2021/30-esimo-contrade-san-paolino" rel="alternate" type="text/html" title="🎂 30 anni di Contrade San Paolino" /><published>2021-05-23T00:00:00+00:00</published><updated>2021-05-24T19:48:14+00:00</updated><id>https://consanpaolino.org/2021/30-esimo-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2021/30-esimo-contrade-san-paolino">&lt;p&gt;Sono ripartite le attività della nostra associazione dopo la passata stagione di
 fermo obbligatorio a causa dell’emergenza sanitaria.&lt;/p&gt;
 
 &lt;!-- more --&gt;
