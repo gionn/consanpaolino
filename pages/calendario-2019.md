@@ -8,7 +8,7 @@ image:
 
 > **Attenzione**: stai consultando la programmazione di una stagione conclusa,
 > probabilmente ti interessa il [Calendario Eventi a Lucca del
-> 2020](/eventi-lucca-2020)?
+> 2021](/eventi-lucca-2021)?
 
 ## Eventi passati
 

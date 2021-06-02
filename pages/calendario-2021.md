@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prossimi eventi a Lucca e dintorni
+title: Calendario eventi 2021 a Lucca
 permalink: /eventi-lucca-2021
 redirect_from:
  - /calendario-eventi
