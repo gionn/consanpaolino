@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2021-06-06T20:00:30+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di promozionale sociale per la rievocazione storica a Lucca: balestre antiche, tamburi e cortei storici</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 Risultati 3° Palio delle Contrade San Paolino</title><link href="https://consanpaolino.org/2021/risultati-3-palio-contrade-san-paolino" rel="alternate" type="text/html" title="🎯 Risultati 3° Palio delle Contrade San Paolino" /><published>2021-06-06T00:00:00+00:00</published><updated>2021-06-06T19:59:40+00:00</updated><id>https://consanpaolino.org/2021/risultati-3-palio-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2021/risultati-3-palio-contrade-san-paolino">&lt;p&gt;Giornata all’insegna del tiro con la balestra a Pontetetto, con la terza
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-IT"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://consanpaolino.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://consanpaolino.org/" rel="alternate" type="text/html" hreflang="it-IT" /><updated>2021-06-06T20:33:14+00:00</updated><id>https://consanpaolino.org/atom.xml</id><title type="html">🎯 Contrade San Paolino 🥁</title><subtitle>Associazione di promozionale sociale per la rievocazione storica a Lucca: balestre antiche, tamburi e cortei storici</subtitle><author><name>Giovanni Toraldo</name><email>consanpaolino@gmail.com</email></author><entry><title type="html">🎯 Risultati 3° Palio delle Contrade San Paolino</title><link href="https://consanpaolino.org/2021/risultati-3-palio-contrade-san-paolino" rel="alternate" type="text/html" title="🎯 Risultati 3° Palio delle Contrade San Paolino" /><published>2021-06-06T00:00:00+00:00</published><updated>2021-06-06T20:32:32+00:00</updated><id>https://consanpaolino.org/2021/risultati-3-palio-contrade-san-paolino</id><content type="html" xml:base="https://consanpaolino.org/2021/risultati-3-palio-contrade-san-paolino">&lt;p&gt;Giornata all’insegna del tiro con la balestra a Pontetetto, con la terza
 edizione del &lt;strong&gt;Palio delle Contrade San Paolino&lt;/strong&gt;. Dopo un tiro di prova
 ciascuno, i balestrieri lucchesi partecipanti si sono cimentati nel tiro
 individuale su corniolo approntato a 36 metri di distanza.&lt;/p&gt;
@@ -8,6 +8,29 @@ individuale su corniolo approntato a 36 metri di distanza.&lt;/p&gt;
 &lt;p&gt;La gara è risultata particolarmente impegnativa date le condizioni meteo
 variabili, in particolare per il &lt;strong&gt;vento&lt;/strong&gt; che ha soffiato con raffiche fino a
 26 km/h.&lt;/p&gt;
+
+&lt;style&gt;
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  &lt;/style&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/d-M06KidXLc?rel=0&amp;amp;autoplay=1&amp;amp;mute=1&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
 
 &lt;p&gt;Terminati i tiri ed esaminato il corniolo, la classifica risultante è stata così composta:&lt;/p&gt;
 &lt;ul&gt;
