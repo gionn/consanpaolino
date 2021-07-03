@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nuovo consiglio direttivo per l'associazione"
+title: "🗳️ Nuovo consiglio direttivo per l'associazione"
 image: /assets/images/2021/3-palio-contrade-san-paolino-gruppo.jpg
 categories:
   - associazione
