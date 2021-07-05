@@ -33,25 +33,16 @@ Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
 
 > **ATTENZIONE**: a causa dell'attuale emergenza sanitaria non è possibile
-> garantire la realizzazione o la riprogrammazione degli eventi di seguito
-> proposti.
+> garantire la realizzazione o l'eventuale posticipazione degli eventi di
+> seguito proposti.
 
-* **23 Maggio - Apertura stagione**: celebrazioni di apertura del 30° fondazione
-  Contrade San Paolino, presentazione dei lavori di ristrutturazione del Campo
-  Tiri della Repubblica di Lucca, gare di tiro fra i balestrieri.
-  [:mag: Vai all'articolo](/2021/evento-30esimo-contrade)
+* **10 Luglio - Luminara e Parata di Bandiere in onore di San Paolino**: corteo
+  storico per le vie della città allestite con fiaccole e bandiere, esibizioni
+  di sbandieratori e musici. Esibizioni dei gruppi partecipanti ed estrazione
+  dell'ordine di tiro del Palio dei balestrieri del giorno successivo. [:mag: Vai all'articolo](/2021/giorni-san-paolino)
 
-* **6 Giugno - 3° Palio delle Contrade San Paolino**: gara di tiro fra i
-  balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.
-  [:mag: Vai all'articolo](/2021/3-palio-contrade-san-paolino)
-
-* **11 Luglio - Luminara di San Paolino**: corteo storico per le vie della città
-  allestite con fiaccole e bandiere, esibizioni di sbandieratori e musici.
-  Esibizioni dei gruppi partecipanti ed estrazione dell'ordine di tiro del Palio
-  dei balestrieri del giorno successivo. Orari da definire.
-
-* **12 Luglio - 47° Palio di San Paolino**: corteo storico e disfida dei
-  balestrieri, luogo e orario da definire.
+* **12 Luglio - 47° Palio di San Paolino**: i balestrieri si sfideranno in un
+  duello all'ultima verratta su un bersaglio posto a 36 metri. [:mag: Vai all'articolo](/2021/giorni-san-paolino)
 
 * **25 Luglio - 3° Giostra Ghibellina**: gara di tiro dei balestrieri al Campo
   Tiri della Repubblica di Lucca.
@@ -72,6 +63,16 @@ immediatamente precedenti all'evento.
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)!
 
+## Eventi passati
+
+* **6 Giugno - 3° Palio delle Contrade San Paolino**: gara di tiro fra i
+  balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.
+  [:mag: Vai all'articolo](/2021/3-palio-contrade-san-paolino)
+
+* **23 Maggio - Apertura stagione**: celebrazioni di apertura del 30° fondazione
+  Contrade San Paolino, presentazione dei lavori di ristrutturazione del Campo
+  Tiri della Repubblica di Lucca, gare di tiro fra i balestrieri.
+  [:mag: Vai all'articolo](/2021/evento-30esimo-contrade)
 ## Scopri i balestrieri di San Paolino
 
 {% youtube "https://youtu.be/VXXnQ-31_Cc" %}
