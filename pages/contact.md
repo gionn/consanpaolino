@@ -9,11 +9,11 @@ redirect_from:
 | **Email** | consanpaolino@gmail.com |
 | **PEC**   | consanpaolino@pec.it    |
 
-| Carica         | Nome             | Cellulare  |
-| -------------- | ---------------- | ---------- |
-| Presidente     | Paolo Gianni     | 3473579286 |
-| Maestro d'Armi | Mauro Tolomei    | 3356812160 |
-| Segreteria     | Giovanni Toraldo | 3935018541 |
+| Carica         | Nome              | Cellulare   |
+| -------------- | ----------------- | ----------- |
+| Presidente     | Giovanni Barsanti | 335 6812150 |
+| Maestro d'Armi | Mauro Tolomei     | 335 6812160 |
+| Segreteria     | Giovanni Toraldo  | 393 5018541 |
 
 ## Il nostro indirizzo
 
