@@ -36,14 +36,6 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **10 Luglio - Luminara e Parata di Bandiere in onore di San Paolino**: corteo
-  storico per le vie della città allestite con fiaccole e bandiere, esibizioni
-  di sbandieratori e musici. Esibizioni dei gruppi partecipanti ed estrazione
-  dell'ordine di tiro del Palio dei balestrieri del giorno successivo. [:mag: Vai all'articolo](/2021/giorni-san-paolino)
-
-* **12 Luglio - 47° Palio di San Paolino**: i balestrieri si sfideranno in un
-  duello all'ultima verratta su un bersaglio posto a 36 metri. [:mag: Vai all'articolo](/2021/giorni-san-paolino)
-
 * **25 Luglio - 3° Giostra Ghibellina**: gara di tiro dei balestrieri al Campo
   Tiri della Repubblica di Lucca.
 
@@ -64,6 +56,14 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **12 Luglio - 47° Palio di San Paolino**: i balestrieri si sfideranno in un
+  duello all'ultima verratta su un bersaglio posto a 36 metri. [:mag: Vai all'articolo](/2021/giorni-san-paolino)
+
+* **10 Luglio - Luminara e Parata di Bandiere in onore di San Paolino**: corteo
+  storico per le vie della città allestite con fiaccole e bandiere, esibizioni
+  di sbandieratori e musici. Esibizioni dei gruppi partecipanti ed estrazione
+  dell'ordine di tiro del Palio dei balestrieri del giorno successivo. [:mag: Vai all'articolo](/2021/giorni-san-paolino)
 
 * **6 Giugno - 3° Palio delle Contrade San Paolino**: gara di tiro fra i
   balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.
