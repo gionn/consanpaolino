@@ -37,7 +37,7 @@ immediatamente precedenti all'evento.
 > seguito proposti.
 
 * **25 Luglio - 3° Giostra Ghibellina**: gara di tiro dei balestrieri al Campo
-  Tiri della Repubblica di Lucca.
+  Tiri della Repubblica di Lucca. [:mag: Vai all'articolo](/2021/3a-giostra-ghibellina) [Evento Facebook](https://fb.me/e/1EqY5hUP0)
 
 * **29 Agosto - Lucca Medievale e Palio del 30° fondazione Contrade San Paolino**:
   programma e luogo da definire.
