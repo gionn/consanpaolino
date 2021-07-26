@@ -36,11 +36,9 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **25 Luglio - 3° Giostra Ghibellina**: gara di tiro dei balestrieri al Campo
-  Tiri della Repubblica di Lucca. [:mag: Vai all'articolo](/2021/3a-giostra-ghibellina) [Evento Facebook](https://fb.me/e/1EqY5hUP0)
-
-* **29 Agosto - Lucca Medievale e Palio del 30° fondazione Contrade San Paolino**:
-  programma e luogo da definire.
+* **29 Agosto - Lucca Medievale e Palio del 30° fondazione Contrade San
+  Paolino**: Piazzale Verdi, Lucca. Programma in via di definizione, info più
+  aggiornate sul sito [luccamedievale.it](https://luccamedievale.it)
 
 * **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
   città.
@@ -56,6 +54,9 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **25 Luglio - 3° Giostra Ghibellina**: gara di tiro dei balestrieri al Campo
+  Tiri della Repubblica di Lucca. [:mag: Vai all'articolo](/2021/3a-giostra-ghibellina) [Evento Facebook](https://fb.me/e/1EqY5hUP0)
 
 * **12 Luglio - 47° Palio di San Paolino**: i balestrieri si sfideranno in un
   duello all'ultima verratta su un bersaglio posto a 36 metri. [:mag: Vai all'articolo](/2021/giorni-san-paolino)
