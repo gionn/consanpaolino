@@ -19,6 +19,9 @@ degli anni a venire nel panorama lucchese del volontariato e della balestra.
 Di seguito alcuni dei messaggi ricevuti dagli amici che volentieri
 ripubblichiamo.
 
+Se vuoi lasciare un messaggio, puoi usare la sezione commenti alla fine di
+questa pagina, puoi usare [Facebook](https://www.facebook.com/consanpaolino/posts/1904185059741301) oppure puoi scriverci una email a consanpaolino@gmail.com
+
 > Quando pensavamo cosa scrivere su alla targa da consegnare a Mario per il
 > trentesimo dell'associazione, la frase che mi è venuta in mente “da te a noi”
 > rispecchiava veramente quello che provavo: quando è nata l’Associazione, tutto
