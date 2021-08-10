@@ -20,7 +20,9 @@ Di seguito alcuni dei messaggi ricevuti dagli amici che volentieri
 ripubblichiamo.
 
 Se vuoi lasciare un messaggio, puoi usare la sezione commenti alla fine di
-questa pagina, puoi usare [Facebook](https://www.facebook.com/consanpaolino/posts/1904185059741301) oppure puoi scriverci una email a consanpaolino@gmail.com
+questa pagina, puoi usare
+[Facebook](https://www.facebook.com/consanpaolino/posts/1904185059741301) oppure
+puoi scriverci una email a consanpaolino@gmail.com
 
 > Quando pensavamo cosa scrivere su alla targa da consegnare a Mario per il
 > trentesimo dell'associazione, la frase che mi è venuta in mente “da te a noi”
@@ -61,3 +63,5 @@ questa pagina, puoi usare [Facebook](https://www.facebook.com/consanpaolino/post
 > mancherà molto.
 >
 > Francesco Cesari
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fconsanpaolino%2Fposts%2F1904185059741301&show_text=true&width=500" width="500" height="671" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
