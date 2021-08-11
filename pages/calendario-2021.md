@@ -36,9 +36,7 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **29 Agosto - Lucca Medievale e Palio del 30° fondazione Contrade San
-  Paolino**: Piazzale Verdi, Lucca. Programma in via di definizione, info più
-  aggiornate sul sito [luccamedievale.it](https://luccamedievale.it)
+* **29 Agosto - 5° Torneo in onore dello Santo Francesco**: gara di tiro con la balestra antica da banco. [Evento Facebook](https://fb.me/e/1pOhYK2OZ)
 
 * **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
   città.
