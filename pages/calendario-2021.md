@@ -36,7 +36,9 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **29 Agosto - 5° Torneo in onore dello Santo Francesco**: gara di tiro con la balestra antica da banco. [Evento Facebook](https://fb.me/e/1pOhYK2OZ)
+* **29 Agosto - 5° Torneo in onore dello Santo Francesco**: gara di tiro con la
+  balestra antica da banco. [:mag: Vai all'articolo](/2021/5-torneo-santo-francesco)
+  [Evento Facebook](https://fb.me/e/1pOhYK2OZ)
 
 * **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
   città.
