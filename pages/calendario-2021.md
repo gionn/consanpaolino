@@ -36,10 +36,6 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **29 Agosto - 5° Torneo in onore dello Santo Francesco**: gara di tiro con la
-  balestra antica da banco. [:mag: Vai all'articolo](/2021/5-torneo-santo-francesco)
-  [Evento Facebook](https://fb.me/e/1pOhYK2OZ)
-
 * **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
   città.
 
@@ -54,6 +50,10 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **29 Agosto - 5° Torneo in onore dello Santo Francesco**: gara di tiro con la
+  balestra antica da banco. [:mag: Vai all'articolo](/2021/5-torneo-santo-francesco)
+  [Evento Facebook](https://fb.me/e/1pOhYK2OZ)
 
 * **25 Luglio - 3° Giostra Ghibellina**: gara di tiro dei balestrieri al Campo
   Tiri della Repubblica di Lucca. [:mag: Vai all'articolo](/2021/3a-giostra-ghibellina) [Evento Facebook](https://fb.me/e/1EqY5hUP0)
