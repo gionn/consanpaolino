@@ -26,6 +26,10 @@ balestrieri, si è classificato al primo posto *Gianluca Proietti* di Amelia,
 seguito da *Leandro Lombardo* di Ventimiglia e *Eleonora Grilli* sempre di
 Amelia.
 
+Le premiazioni sono state effettuate dal nuovo presidente delle Contrade
+Giovanni Barsanti, in carica dall'[ultimo rinnovo del consiglio
+direttivo](/2021/consiglio-direttivo) di fine giugno.
+
 Questa è la terza competizione dell’anno in cui i balestrieri lucchesi sono
 sempre riusciti a conquistare il **primo posto in almeno una gara** e possono
 quindi ritenersi soddisfatti dei risultati ottenuti nonostante le incertezze di
