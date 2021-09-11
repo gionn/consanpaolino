@@ -36,8 +36,8 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **13 Settembre - Luminara di Santa Croce**: corteo storico per le vie della
-  città.
+* **13 Settembre - Processione di Santa Croce**: corteo storico per le vie della
+  città, partenza da Piazzale Verdi ore 19.00 [:mag: Vai all'articolo](/2021/processione-santa-croce)
 
 * **19 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
   balestrieri, luogo e orario da definire.
