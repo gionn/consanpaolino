@@ -24,3 +24,5 @@ Il successivo appuntamento con i gruppi di rievocazione storica di Lucca sarà
 per il *14° Palio della balestra ad onore e gloria della Santa Croce*, che si
 terrà domenica **19 Settembre** nei giardini fra Porta San Donato e Porta
 Sant'Anna - **area Ex-Cavallerizza** - a partire dalle ore 15.00.
+
+<small>Foto © Enrico Bertelli “Taigermen” - 2021</small>
