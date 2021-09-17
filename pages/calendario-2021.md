@@ -36,11 +36,10 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **13 Settembre - Processione di Santa Croce**: corteo storico per le vie della
-  città, partenza da Piazzale Verdi ore 19.00 [:mag: Vai all'articolo](/2021/processione-santa-croce)
-
 * **19 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
-  balestrieri, luogo e orario da definire.
+  balestrieri, Piazzale San Donato (Ex-Cavallerizza) [:mag: Vai
+  all'articolo](/2021/palio-santa-croce) - [Evento
+  Facebook](https://fb.me/e/2GlSS2voF)
 
 * **10 Ottobre - 3° Palio dei Balistarii della Repubblica di Lucca**: gara di
   tiro fra i balestrieri suddivisi in contrade al Campo Tiri della Repubblica di
@@ -51,12 +50,16 @@ immediatamente precedenti all'evento.
 
 ## Eventi passati
 
+* **13 Settembre - Processione di Santa Croce**: corteo storico per le vie della
+  città, partenza da Piazzale Verdi ore 19.00 [:mag: Vai all'articolo](/2021/processione-santa-croce)
+
 * **29 Agosto - 5° Torneo in onore dello Santo Francesco**: gara di tiro con la
-  balestra antica da banco. [:mag: Vai all'articolo](/2021/5-torneo-santo-francesco)
-  [Evento Facebook](https://fb.me/e/1pOhYK2OZ)
+  balestra antica da banco. [:mag: Vai
+  all'articolo](/2021/5-torneo-santo-francesco) - [Evento
+  Facebook](https://fb.me/e/1pOhYK2OZ)
 
 * **25 Luglio - 3° Giostra Ghibellina**: gara di tiro dei balestrieri al Campo
-  Tiri della Repubblica di Lucca. [:mag: Vai all'articolo](/2021/3a-giostra-ghibellina) [Evento Facebook](https://fb.me/e/1EqY5hUP0)
+  Tiri della Repubblica di Lucca. [:mag: Vai all'articolo](/2021/3a-giostra-ghibellina) - [Evento Facebook](https://fb.me/e/1EqY5hUP0)
 
 * **12 Luglio - 47° Palio di San Paolino**: i balestrieri si sfideranno in un
   duello all'ultima verratta su un bersaglio posto a 36 metri. [:mag: Vai all'articolo](/2021/giorni-san-paolino)
@@ -74,6 +77,6 @@ immediatamente precedenti all'evento.
   Contrade San Paolino, presentazione dei lavori di ristrutturazione del Campo
   Tiri della Repubblica di Lucca, gare di tiro fra i balestrieri.
   [:mag: Vai all'articolo](/2021/evento-30esimo-contrade)
-## Scopri i balestrieri di San Paolino
+## 🎯 Scopri i balestrieri di San Paolino
 
 {% youtube "https://youtu.be/VXXnQ-31_Cc" %}
