@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "🎯 Prossimo evento: 14° Palio ad onore e gloria della Santa Croce"
+title: "🎯 ANNULLATO: 14° Palio ad onore e gloria della Santa Croce"
 image: /assets/images/2019/hero/corniolo-palio-repubblica-lucca.jpg
 categories:
   - eventi
 ---
+
+> Evento  annullato causa maltempo ☔️
+>
+> In attesa di conferma lo spostamento a domenica 26 oppure l'annullamento definitivo. 📅
+>
+> Grazie per la vostra attenzione! 🙏
+>
+> Ultimo aggiornamento: ore 13.30 del 19 settembre 2021
+
 
 Torna l'appuntamento a Lucca per gli appassionati della rievocazione storica con
 il tradizionale Palio di Santa Croce questa **domenica 19 Settembre**.
