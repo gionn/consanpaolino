@@ -6,17 +6,15 @@ categories:
   - eventi
 ---
 
-> Evento  annullato causa maltempo ☔️
->
-> In attesa di conferma lo spostamento a domenica 26 oppure l'annullamento definitivo. 📅
+> Evento posticipato causa maltempo ☔️
 >
 > Grazie per la vostra attenzione! 🙏
 >
-> Ultimo aggiornamento: ore 13.30 del 19 settembre 2021
+> Ultimo aggiornamento: 24 settembre 2021
 
 
 Torna l'appuntamento a Lucca per gli appassionati della rievocazione storica con
-il tradizionale Palio di Santa Croce questa **domenica 19 Settembre**.
+il tradizionale Palio di Santa Croce questa **domenica 26 Settembre**.
 
 <!-- more -->
 
@@ -64,8 +62,8 @@ pass. Posti a sedere limitati.
   "name": "14° Palio della Santa Croce",
   "url": "https://consanpaolino.org/2021/palio-santa-croce",
   "description": "Gara di tiro con balestra antica da banco",
-  "startDate": "2021-09-19T15:30:00+02:00",
-  "endDate": "2021-09-19T18:00:00+02:00",
+  "startDate": "2021-09-26T15:30:00+02:00",
+  "endDate": "2021-09-26T18:00:00+02:00",
   "eventStatus": "EventScheduled",
   "isAccessibleForFree": true,
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",

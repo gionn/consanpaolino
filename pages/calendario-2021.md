@@ -36,7 +36,7 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **19 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
+* **26 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
   balestrieri, Piazzale San Donato (Ex-Cavallerizza) [:mag: Vai
   all'articolo](/2021/palio-santa-croce) - [Evento
   Facebook](https://fb.me/e/2GlSS2voF)
