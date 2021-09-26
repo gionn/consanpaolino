@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎯 Maltempo ferma il Palio della Santa Croce"
+title: "🎯 Maltempo ferma il 14° Palio della Santa Croce"
 categories:
   - albo
 ---
