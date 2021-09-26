@@ -16,7 +16,7 @@ Croce](/2021/palio-santa-croce).
 | --- | --------------------------- | ---------------------------- |
 | 1   | Luca Viviani (CSP)          | Paolo Teani (CBL)            |
 | 2   | Marco Di Sisto (CBL)        | Gianluca Bertolucci (CSP)    |
-| 3   | Daniele Bertolucci (CBL)    | Lorenzo Coppi (CBL)          |
+| 3   | Daniele Bertolucci (CBL)    | Lorenzo Coppi (CSP)          |
 | 4   | Lorenzo Raffaelli (CBL)     | Fabio Padreddii (CSP)        |
 | 5   | Francesco Bianchini (CSP)   | Giacomo Bini (CSP)           |
 | 6   | Samuele Lombardi (CSP)      | Alberto Collodi (CBL)        |
