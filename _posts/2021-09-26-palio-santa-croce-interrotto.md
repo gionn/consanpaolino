@@ -14,7 +14,7 @@ Tambellini per i saluti di apertura.
 
 La gara ha preso il via alle 16.30 in Piazzale San Donato, rinunciando al corteo
 storico nelle vie di Lucca che doveva iniziare già alle 15.30. Purtroppo appena
-conclusa la 17a tornata di tiri, **la gara è stata interrotta a causa del
+conclusa la [17a tornata di tiri](/2021/ordine-tiro-palio-santa-croce), **la gara è stata interrotta a causa del
 nubifragio** che si è abbattuto sulla città intorno alle ore 17.00.
 
 Non avendo potuto concludere tutte le tornate di tiri, la gara è stata
