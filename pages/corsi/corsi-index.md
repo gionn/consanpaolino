@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Corsi dell'associazione su Lucca
+title: Corsi organizzati dalla nostra associazione
 permalink: /corsi-lucca
 ---
 
@@ -12,9 +12,11 @@ Sicuramente ci avrai visto sfilare almeno una volta per le strade di **Lucca**
 in occasione delle festività di **San Paolino** a Luglio o della **Santa Croce**
 a Settembre.
 
-Qui di seguito trovi elencati i corsi organizzati dalla nostra associazione
+Qui di seguito trovi elencati i corsiorganizzati dalla nostra associazione
 attualmente attivi:
 
-* [Corso di tamburo storico a Lucca](/corso-tamburo-lucca)
-* [Corso di balestra storica a Lucca](/corso-balestra-lucca)
+* [Corso di tamburo storico](/corso-tamburo-lucca)
+* [Corso di balestra storica](/corso-balestra-lucca)
 * [Corsi per bambini](/corsi-bambini-tamburo-balestra-lucca)
+
+Puoi anche accedere alla sezione dei [corsi sportivi comunali](/corsi-sportivi-comunali-lucca).
