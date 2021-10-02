@@ -36,19 +36,17 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **26 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
-  balestrieri, Piazzale San Donato (Ex-Cavallerizza) [:mag: Vai
-  all'articolo](/2021/palio-santa-croce) - [Evento
-  Facebook](https://fb.me/e/2GlSS2voF)
-
-* **10 Ottobre - 3° Palio dei Balistarii della Repubblica di Lucca**: gara di
-  tiro fra i balestrieri suddivisi in contrade al Campo Tiri della Repubblica di
-  Lucca.
+Al momento non sono previsti eventi in via di programmazione.
 
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **26 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
+  balestrieri, Piazzale San Donato (Ex-Cavallerizza) [:mag: Vai
+  all'articolo](/2021/palio-santa-croce) - [Evento
+  Facebook](https://fb.me/e/2GlSS2voF)
 
 * **13 Settembre - Processione di Santa Croce**: corteo storico per le vie della
   città, partenza da Piazzale Verdi ore 19.00 [:mag: Vai all'articolo](/2021/processione-santa-croce)
