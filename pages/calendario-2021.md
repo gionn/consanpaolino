@@ -36,7 +36,16 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-Al momento non sono previsti eventi in via di programmazione.
+* **23/24 Ottobre - Marcia delle Ville (Marlia)**: gara podistica non
+  competitive attraverso le più belle ville lucchesi [:mag: Vai al sito
+  ufficiale](https://www.marciadelleville.it/)
+* **29 Ottobre 1 Novembre - Lucca Comics and Games**: festival internazionale
+  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
+  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
+* **10 e 21 Novembre - Open Day Contrade San Paolino**: hai sempre sognato di
+  diventare un balestriere, un tamburino o semplicemente sfilare in centro
+  storico? Vieni a conoscerci presso la casermetta San Paolino a partire dalle
+  ore 21.00.
 
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)!
