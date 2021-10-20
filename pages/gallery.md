@@ -9,6 +9,8 @@ images:
     name: Campioni italiani nella gara a squadre a Montefalco 2019 - Scatto di Giacomo Bini
   - url: /assets/images/gallery/montefalco-tamburini.jpg
     name: Il gruppo tamburini a riposo dopo l'esibizione a Montefalco 2019 - Scatto di Giacomo Bini
+  - url: /assets/images/gallery/madonna.jpg
+    name: Le dame del corteo storico - Scatto di Enrico Bertelli
   - url: /assets/images/gallery/balestrieri-piazza-san-michele.jpg
     name: Balestrieri schierati in Piazza San Michele - Scatto di Giacomo Bini
   - url: /assets/images/2019/concorso-fotografia/russo-lucca-medievale-1.jpg
