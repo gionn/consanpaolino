@@ -45,7 +45,7 @@ immediatamente precedenti all'evento.
 * **10 e 21 Novembre - Open Day Contrade San Paolino**: hai sempre sognato di
   diventare un balestriere, un tamburino o semplicemente sfilare in centro
   storico? Vieni a conoscerci presso la casermetta San Paolino a partire dalle
-  ore 21.00.
+  ore 21.00 [:mag: Scopri di più](/2021/open-day-arruolati)
 
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)!
@@ -84,6 +84,7 @@ immediatamente precedenti all'evento.
   Contrade San Paolino, presentazione dei lavori di ristrutturazione del Campo
   Tiri della Repubblica di Lucca, gare di tiro fra i balestrieri.
   [:mag: Vai all'articolo](/2021/evento-30esimo-contrade)
+
 ## 🎯 Scopri i balestrieri di San Paolino
 
 {% youtube "https://youtu.be/VXXnQ-31_Cc" %}
