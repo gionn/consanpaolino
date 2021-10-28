@@ -42,10 +42,10 @@ immediatamente precedenti all'evento.
 * **29 Ottobre 1 Novembre - Lucca Comics and Games**: festival internazionale
   del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
   Vai al sito ufficiale](https://www.luccacomicsandgames.com)
-* **10 e 21 Novembre - Open Day Contrade San Paolino**: hai sempre sognato di
+* **10 e 17 Novembre - Open Day Contrade San Paolino**: hai sempre sognato di
   diventare un balestriere, un tamburino o semplicemente sfilare in centro
   storico? Vieni a conoscerci presso la casermetta San Paolino a partire dalle
-  ore 21.00 [:mag: Scopri di più](/2021/open-day-arruolati)
+  ore 21.15 [:mag: Scopri di più](/2021/open-day-arruolati)
 
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)!

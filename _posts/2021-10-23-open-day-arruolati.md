@@ -14,7 +14,7 @@ tamburino.
 
 L'associazione accoglierà tutti gli interessati presso la [Casermetta San
 Paolino](https://goo.gl/maps/txcn8CHqFW2xeB926) sulle mura urbane, nelle due
-serate di mercoledì **10 e 17 novembre** 2021, a partire dalle **ore 21.00**.
+serate di mercoledì **10 e 17 novembre** 2021, a partire dalle **ore 21.15**.
 
 Per il tamburo si parte dagli 8 anni in su, mentre per la balestra è necessario
 avere 16 anni compiuti. Per chi invece è semplicemente interessato a sfilare in
