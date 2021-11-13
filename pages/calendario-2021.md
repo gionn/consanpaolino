@@ -36,21 +36,27 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **23/24 Ottobre - Marcia delle Ville (Marlia)**: gara podistica non
-  competitive attraverso le più belle ville lucchesi [:mag: Vai al sito
-  ufficiale](https://www.marciadelleville.it/)
-* **29 Ottobre 1 Novembre - Lucca Comics and Games**: festival internazionale
-  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
-  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
-* **10 e 17 Novembre - Open Day Contrade San Paolino**: hai sempre sognato di
+* **12 Novembre - Aspettando Slow Beans**: ciclo di quattro appuntamenti
+  promossi dalla Piana del cibo e Slow Food Lucca Compitese e Orti lucchesi
+  dedicati al buon cibo locale [:mag: Scopri di
+  più](https://www.luccaindiretta.it/cultura-e-spettacoli/2021/11/11/aspettando-slow-beans-tavola-rotonda-sulla-ristorazione-collettiva-al-baluardo-san-paolino/262280/)
+* **17 Novembre - Open Day Contrade San Paolino**: hai sempre sognato di
   diventare un balestriere, un tamburino o semplicemente sfilare in centro
   storico? Vieni a conoscerci presso la casermetta San Paolino a partire dalle
-  ore 21.15 [:mag: Scopri di più](/2021/open-day-arruolati)
+  ore 21.15 [:mag: Scopri di più](/2021/video-open-day-noitv)
 
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **29 Ottobre 1 Novembre - Lucca Comics and Games**: festival internazionale
+  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
+  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
+
+* **23/24 Ottobre - Marcia delle Ville (Marlia)**: gara podistica non
+  competitive attraverso le più belle ville lucchesi [:mag: Vai al sito
+  ufficiale](https://www.marciadelleville.it/)
 
 * **26 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
   balestrieri, Piazzale San Donato (Ex-Cavallerizza) [:mag: Vai

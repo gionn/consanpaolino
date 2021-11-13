@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⚔️ Arruolati nelle Contrade: arriva l'Open Day"
+title: "⚔️ Arruolati nelle Contrade: Open Day"
 categories:
   - news
 ---
