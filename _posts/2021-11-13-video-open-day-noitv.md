@@ -14,8 +14,8 @@ Ragghianti.
 
 I nostri prossimi appuntamenti alla casermetta San Paolino (vieni a conoscerci!):
 
-* Corso di tamburo martedì 16 novembre ore 21.00 🥁
 * Open day mercoledì 17 novembre ore 21.30 🗣
+* Corso di tamburo martedì 23 novembre ore 21.00 🥁
 * Corso di balestra mercoledì 24 novembre ore 21.30 🎯
 
 Qui di seguito il servizio di NoiTv con il riepilogo della prima serata:
