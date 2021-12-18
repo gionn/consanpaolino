@@ -6,3 +6,4 @@ User-agent: *
 Disallow: /thanks-newsletter
 Disallow: /404
 Disallow: /tag/
+Disallow: /contributi-enti
