@@ -12,7 +12,7 @@ permalink: /contributi-enti
 
 ## 2021
 
-Nessun contributo erogato.
+* Regione Toscana: 1350,00 €
 
 ## 2020
 
