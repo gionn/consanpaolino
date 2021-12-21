@@ -12,8 +12,10 @@ permalink: /contributi-enti
 
 ## 2021
 
-* Regione Toscana per *Avviso pubblico per il sostegno delle attività sportive
-  annualità 2021*: 1.350,00 €
+* Regione Toscana per Avviso pubblico per il sostegno delle attività sportive
+  annualità 2021: €1.350,00
+* Regione Toscana per Bando sostegno alle manifestazioni di rievocazione
+  storica, legge regionale 3 agosto 2021, n.27: €9.206,05
 
 ## 2020
 
