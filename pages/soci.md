@@ -5,6 +5,7 @@ permalink: /soci
 ---
 
 * [Archivio regolamenti 📚](/regolamenti)
+* [Archivio foto eventi 📷](/archivio-foto)
 * [Campionato sociale 🎯](/campionato-sociale-balestrieri)
 
 ## Esercizi commerciali convenzionati
