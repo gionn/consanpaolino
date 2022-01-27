@@ -37,6 +37,8 @@ Se sei un commerciante e vuoi riservare un'offerta ai nostri soci,
   napoletana.
 * [Pan di Strada](https://goo.gl/maps/m14QRfVc1MoFUKKv5): vasta scelta di panini
   da gustare al volo nel centro di Lucca.
+* [Pizzeria da Ninni](https://pizzeriadaninni.com/): dal 1982 una delle migliori
+  pizze di Lucca.
 
 ### 🛠️ Fai da te
 
