@@ -2,8 +2,6 @@
 layout: page
 title: Calendario eventi 2021 a Lucca
 permalink: /eventi-lucca-2021
-redirect_from:
- - /calendario-eventi
 image:
   path: /assets/images/2019/hero/crossbowman.jpg
 ---
