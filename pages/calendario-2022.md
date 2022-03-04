@@ -25,7 +25,7 @@ Ad oggi queste tradizioni continuano ad esser molto sentite, e Lucca è la culla
 di tanti eventi culturali e d'intrattenimento che la rendono unica e
 indimenticabile. Segue una selezione di eventi a carattere storico-culturale,
 fiere, festival, mostre, spettacoli d'intrattenimento e manifestazioni che si
-tengono a Lucca e provincia durante tutto il 2021.
+tengono a Lucca e provincia durante tutto l'anno.
 
 ## Calendario eventi in programma
 
