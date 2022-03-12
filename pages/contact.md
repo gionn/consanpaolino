@@ -18,11 +18,11 @@ redirect_from:
 ## Il nostro indirizzo
 
 Associazione Contrade di San Paolino APS<br/>
-Sortita Porta San Pietro, 1/3<br/>
+Casermetta San Paolino, Viale delle Mura Urbane<br/>
 55100 - Lucca (LU) - Italy<br/>
 CF 92050570461<br/>
 
-📍 [Sede centrale Porta San Pietro](https://goo.gl/maps/NCqcGoRuVNQa8X2T9)
+📍 [Sede centrale Casermetta San Paolino](https://goo.gl/maps/ZLWQE3A6ExJgA9Da9)
 
 ## Il nostro campo tiro
 
