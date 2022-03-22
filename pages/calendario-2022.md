@@ -40,7 +40,7 @@ immediatamente precedenti all'evento.
   Convegno storico tenuto dalla Dott.ssa Sara Piccolo Paci presso la
   Casermetta San Paolino.
 
-* **16 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
+* **23 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
   per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
   di tiro con la balestra antica al [Campo Tiri della Repubblica di
   Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB.
