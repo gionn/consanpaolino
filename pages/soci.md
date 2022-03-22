@@ -8,6 +8,10 @@ permalink: /soci
 * [Archivio foto eventi 📷](/archivio-foto)
 * [Campionato sociale 🎯](/campionato-sociale-balestrieri)
 
+## Calendario eventi e allenamenti
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FRome&mode=AGENDA&src=Y3VwN2lsMW4xZWQ5a2l2aTJtczBhNW91cGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Esercizi commerciali convenzionati
 
 Raccogliamo in questa pagina una lista di attività di Lucca e provincia,
