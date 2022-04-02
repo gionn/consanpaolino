@@ -36,16 +36,16 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **10 Aprile: L'abito nella pittura del XIV secolo (titolo provvisorio)**
-  Convegno storico tenuto dalla Dott.ssa Sara Piccolo Paci presso la
-  Casermetta San Paolino.
+* **10 Aprile: Uno Tabarro di Sbiavato di Duagio**: conferenza su abiti e
+  accessori del 1300, mediante l’utilizzo di fonti visive del periodo e spunti
+  dal “Decameron” boccaccesco, a cura della prof.ssa Sara Paci Piccolo
 
-* **23 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
+* **24 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
   per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
   di tiro con la balestra antica al [Campo Tiri della Repubblica di
   Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB.
 
-* **16 Maggio - 4° Palio delle Contrade San Paolino**: gara di tiro fra i
+* **15 Maggio - 4° Palio delle Contrade San Paolino**: gara di tiro fra i
   balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.
 
 * **4-5 Giugno - Lucca Medievale**: ritorna l'evento più atteso dell'anno dopo
