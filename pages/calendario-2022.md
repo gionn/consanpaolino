@@ -38,7 +38,7 @@ immediatamente precedenti all'evento.
 
 * **10 Aprile: Uno Tabarro di Sbiavato di Duagio**: conferenza su abiti e
   accessori del 1300, mediante l’utilizzo di fonti visive del periodo e spunti
-  dal “Decameron” boccaccesco, a cura della prof.ssa Sara Paci Piccolo
+  dal “Decameron” boccaccesco, a cura della prof.ssa Sara Paci Piccolo [:mag: Scopri di più](/2022/conferenza-sara-paci-lucca-medioevo)
 
 * **24 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
   per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
