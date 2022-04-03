@@ -2,6 +2,7 @@
 layout: page
 title: Contributi
 permalink: /contributi-enti
+sitemap: false
 ---
 
 > Pubblicazione sovvenzioni, sussidi, vantaggi, contributi o aiuti, in denaro o
