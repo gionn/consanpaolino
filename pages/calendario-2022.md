@@ -36,10 +36,6 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **10 Aprile: Uno Tabarro di Sbiavato di Duagio**: conferenza su abiti e
-  accessori del 1300, mediante l’utilizzo di fonti visive del periodo e spunti
-  dal “Decameron” boccaccesco, a cura della prof.ssa Sara Paci Piccolo [:mag: Scopri di più](/2022/conferenza-sara-paci-lucca-medioevo)
-
 * **24 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
   per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
   di tiro con la balestra antica al [Campo Tiri della Repubblica di
@@ -95,6 +91,12 @@ immediatamente precedenti all'evento.
 
 > Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
 > provincia di Lucca? [Scrivici](/contatti)!
+
+## Eventi passati
+
+* **10 Aprile: Uno Tabarro di Sbiavato di Duagio**: conferenza su abiti e
+  accessori del 1300, mediante l’utilizzo di fonti visive del periodo e spunti
+  dal “Decameron” boccaccesco, a cura della prof.ssa Sara Paci Piccolo [:mag: Scopri di più](/2022/conferenza-sara-paci-lucca-medioevo)
 
 ## 🎯 Scopri i balestrieri di San Paolino
 
