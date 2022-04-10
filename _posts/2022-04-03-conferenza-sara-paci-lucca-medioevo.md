@@ -29,4 +29,14 @@ presso la Casermetta San Paolino che proseguiranno per il resto dell’anno e
 racconteranno diversi aspetti della storia medievale che ha reso Lucca la città
 che è oggi.
 
+## diapositive
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/zOlqhDcH1OwpXy?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+## registrazione in diretta
+
+{% youtube 'https://www.youtube.com/watch?v=36BV_OLlTLg' %}
+
+## locandina
+
 ![locandina evento](/assets/images/2022/locandina-sara-paci-2022.jpg)
