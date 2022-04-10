@@ -5,6 +5,8 @@ categories:
   - eventi
 ---
 
+**Aggiornamento**: pubblicato video dell'intervento e diapositive utilizzate
+
 Ripartono le attività per l’associazione **Contrade San Paolino**, che inaugura
 la nuova sede presso la
 [Casermetta San Paolino](https://goo.gl/maps/ZLWQE3A6ExJgA9Da9), concessa da
