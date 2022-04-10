@@ -35,9 +35,13 @@ che è oggi.
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/zOlqhDcH1OwpXy?hostedIn=slideshare&page=upload" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
+Apri su [slideshare](https://www.slideshare.net/consanpaolino/uno-tabarro-di-sbiavato-di-duagio-sara-paci-piccolo)
+
 ## Registrazione video
 
 {% youtube 'https://www.youtube.com/watch?v=36BV_OLlTLg' %}
+
+Apri su [YouTube](https://youtu.be/36BV_OLlTLg)
 
 ## Locandina
 
