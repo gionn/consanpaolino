@@ -40,6 +40,7 @@ immediatamente precedenti all'evento.
   per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
   di tiro con la balestra antica al [Campo Tiri della Repubblica di
   Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB.
+  [:mag: Scopri di più](/2022/4a-disfida-liberta)
 
 * **15 Maggio - 4° Palio delle Contrade San Paolino**: gara di tiro fra i
   balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.
