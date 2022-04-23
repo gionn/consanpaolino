@@ -6,8 +6,7 @@ categories:
 image: /assets/images/2019/hero/campo-tiri.jpg
 ---
 
-**Aggiornamento**: in caso di pioggia l'evento si svolgerà a porte chiuse in una
-location al coperto ancora da confermare.
+**Aggiornamento**: a causa delle avverse condizioni meteo, la gara si disputerà nella pista al coperto dell'Atletica Virtus Lucca - Via delle Tagliate II', 693, 55100 Lucca LU - [Vai su Google Maps](https://goo.gl/maps/7DeRyRRyExhU2EYE9)
 
 Dopo due anni di stop a causa dall’emergenza sanitaria, finalmente i balestrieri
 provenienti da tutta Italia torneranno a sfidarsi a Lucca in occasione della
@@ -21,6 +20,8 @@ Ecco il programma della giornata:
 
 <!-- more -->
 
+* 09:00 Registrazione delle squadre partecipanti
+* 09:30 Sorteggio delle panche
 * 10:00 Inizio dei tiri di prova
 * 12:00 Fine dei tiri di prova
 * Pausa Pranzo
