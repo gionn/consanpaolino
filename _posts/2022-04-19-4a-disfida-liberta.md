@@ -6,7 +6,7 @@ categories:
 image: /assets/images/2019/hero/campo-tiri.jpg
 ---
 
-**Aggiornamento**: a causa delle avverse condizioni meteo, la gara si disputerà nella pista al coperto dell'Atletica Virtus Lucca - Via delle Tagliate II', 693, 55100 Lucca LU - [Vai su Google Maps](https://goo.gl/maps/7DeRyRRyExhU2EYE9)
+**Aggiornamento**: a causa delle avverse condizioni meteo, la gara si disputerà nella pista al coperto dell'Atletica Virtus Lucca - Ingresso da Via del Cimitero - [Vai su Google Maps](https://goo.gl/maps/7DeRyRRyExhU2EYE9)
 
 Dopo due anni di stop a causa dall’emergenza sanitaria, finalmente i balestrieri
 provenienti da tutta Italia torneranno a sfidarsi a Lucca in occasione della
