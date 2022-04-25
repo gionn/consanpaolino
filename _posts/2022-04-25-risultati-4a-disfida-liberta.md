@@ -36,3 +36,5 @@ Scarica i risultati completi in formato [💾 PDF](/assets/files/2022/risultati-
 
 [Prossimo appuntamento](/eventi-lucca-2022) con la balestra a Lucca per il 15 Maggio con il 4° Palio
 delle Contrade San Paolino.
+
+{% youtube 'https://youtu.be/5KkhHOECeFY' %}
