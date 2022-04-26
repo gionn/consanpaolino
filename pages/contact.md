@@ -24,6 +24,17 @@ CF 92050570461<br/>
 
 📍 [Sede centrale Casermetta San Paolino](https://goo.gl/maps/ZLWQE3A6ExJgA9Da9)
 
+## Iscrizioni e Affiliazioni
+
+* iscritta nel
+  [registro regionale delle associazioni di promozione sociale](https://www.regione.toscana.it/terzosettore/i-registri-regionali)
+  dal 6 Febbraio 2004 al nr. 31
+* iscritta nell'[elenco regionale delle associazioni e manifestazioni di
+  rievocazione e ricostruzione
+  storica](https://www.regione.toscana.it/-/elenco-associazioni-e-manifestazioni),
+  previsto dalla Legge Regionale nr. 5/2012
+* affiliata al Centro Sportivo Educativo Nazionale ([CSEN](https://www.csen.it))
+
 ## Il nostro campo tiro
 
 📍 [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) (Via di Pattana, Pontetetto, LU)

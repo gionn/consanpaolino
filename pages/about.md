@@ -17,11 +17,8 @@ La nostra associazione nasce formalmente a **Lucca** il [27 Febbraio
 1991](/2019/nascita-associazione-contrade-san-paolino) come *Terziere San
 Paolino* ma diviene effettivamente operativa come *Associazione Contrade di S.
 Paolino* dal 1994, con l'intento di rievocare le origini e la storia di Lucca
-durante il periodo medioevale. È iscritta nel **registro del volontariato**
-(legge 266/91) dal 6 Febbraio 2004 al nr. 31, ed è inserita nell'**elenco
-regionale delle associazioni e manifestazioni di rievocazione e ricostruzione
-storica**, previsti dalla Legge Regionale 5/2012. Il periodo storico di
-riferimento è quello di fine XIV secolo.
+durante il periodo medioevale. Il periodo storico di riferimento è quello di
+fine XIV secolo.
 
 ### Luminara di San Paolino
 
