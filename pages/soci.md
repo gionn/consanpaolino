@@ -4,7 +4,7 @@ title: Area soci
 permalink: /soci
 ---
 
-* [Archivio regolamenti 📚](/regolamenti)
+* [Archivio documenti associativi 📚](/archivio-documenti)
 * [Archivio foto eventi 📷](/archivio-foto)
 * [Campionato sociale 🎯](/campionato-sociale-balestrieri)
 
