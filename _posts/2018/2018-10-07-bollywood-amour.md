@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Balestrieri e sbandieratori lucchesi sbarcano a Bollywood
+title: 🎥 Balestrieri e sbandieratori lucchesi sbarcano a Bollywood
 date: '2018-10-07T11:00:00+02:00'
 permalink: /2018/balestrieri-sbandieratori-bollywood-pisa
 categories:
