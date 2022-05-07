@@ -30,7 +30,7 @@ dalle 15:30 alle 18:30.
 Questo il programma dell’intera giornata:
 
 * 15.00 Ritrovo partecipanti in costume storico
-* 15.30 Presentazione dell’evento e tiro di prova dei balestrieri partecipanti
+* 15.30 Presentazione dell'evento
 * 15.45 Estrazione dell’ordine di tiro e delle panche
 * 16.00 Inizio della gara in corniolo
 * 16.45 Verifica dei tiri per decretare la contrada vincitrice
