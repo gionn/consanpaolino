@@ -36,14 +36,9 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **24 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
-  per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
-  di tiro con la balestra antica al [Campo Tiri della Repubblica di
-  Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB.
-  [:mag: Scopri di più](/2022/4a-disfida-liberta)
-
 * **15 Maggio - 4° Palio delle Contrade San Paolino**: gara di tiro fra i
-  balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca.
+  balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca
+  [:mag: Scopri di più](/2022/4o-palio-contrade-san-paolino)
 
 * **4-5 Giugno - Lucca Medievale**: ritorna l'evento più atteso dell'anno dopo
   due anni di stop imposti dalla pandemia. Maggiori info su
@@ -94,6 +89,12 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **24 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
+  per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
+  di tiro con la balestra antica al [Campo Tiri della Repubblica di
+  Lucca](https://goo.gl/maps/Cz3SQuVr9YE2) con diverse compagnie LITAB.
+  [:mag: Scopri di più](/2022/4a-disfida-liberta)
 
 * **10 Aprile: Uno Tabarro di Sbiavato di Duagio**: conferenza su abiti e
   accessori del 1300, mediante l’utilizzo di fonti visive del periodo e spunti
