@@ -8,3 +8,8 @@
   </a>
   <figcaption></figcaption>
 </figure>
+
+<figure class="align-center">
+    <img src="" alt="">
+  <figcaption></figcaption>
+</figure>
