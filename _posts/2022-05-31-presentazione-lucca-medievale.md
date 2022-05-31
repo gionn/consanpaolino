@@ -22,6 +22,6 @@ Le date dell’evento sono il weekend del 4-5 Giugno, dalle 10:00 fino alle 23:0
 con chiusura anticipata alle 21:00 per il secondo giorno.
 
 Il programma è già disponibile in anteprima sul sito ufficiale
-[luccamedievale.it](luccamedievale.it) e sarà presentato ufficialmente **venerdì
+[luccamedievale.it](https://luccamedievale.it) e sarà presentato ufficialmente **venerdì
 3 Giugno** alle **ore 12:00** durante la conferenza stampa presso la Casermetta
 San Paolino.
