@@ -1,0 +1,44 @@
+name: Validate & Publish
+
+on:
+  push:
+    branches-ignore:
+      - gh-pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Build
+        run: bundle exec jekyll build
+      
+      - name: Validate
+        run: bundle exec htmlproofer ./_site --check-html --disable-external --empty_alt_ignore --allow_hash_href --assume_extension
+
+      - name: Deploy
+        if: github.ref_name == 'gha'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          cname: consanpaolino.org
+          force_orphan: true
+
+      - name: Ping search indexes
+        if: github.ref_name == 'master'
+        run: |
+          sleep 10
+          curl -sS http://www.google.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
+          curl -sS http://www.bing.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
