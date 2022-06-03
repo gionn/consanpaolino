@@ -14,6 +14,8 @@ A ritmo serrato il programma eventi: **sabato 4 Giugno** dalle ore 10:00 fino al
 23:00 e la **domenica 5 Giugno** dalle 9:30 fino alle 21:00 sul Baluardo San Paolino
 delle mura urbane.
 
+<!-- more -->
+
 Ci sarà l’accampamento medievale permanente con diversi gruppi di rievocazione
 storica, provenienti da tutta la Toscana, fra cui la Compagnia delle Sàrtie, il
 Gonfalone del Drago e i Nobili Balladori da San Barnaba, tutti da Firenze e
