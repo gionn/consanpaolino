@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📣 Ecco la sesta edizione di Lucca Medievale"
+title: "🎪 Ecco la sesta edizione di Lucca Medievale"
 categories:
   - eventi
 image: /assets/images/2018/lucca-medievale/leonardi_4.jpg
