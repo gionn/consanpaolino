@@ -36,14 +36,6 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **15 Maggio - 4° Palio delle Contrade San Paolino**: gara di tiro fra i
-  balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca
-  [:mag: Scopri di più](/2022/4o-palio-contrade-san-paolino)
-
-* **4-5 Giugno - Lucca Medievale**: ritorna l'evento più atteso dell'anno dopo
-  due anni di stop imposti dalla pandemia. Maggiori info su
-  [luccamedievale.it](https://luccamedievale.it)
-
 * **12 Giugno - Memorial Mario Puccetti**: per ricordare il recentemente
   scomparso cofondatore dell'associazione Contrade San Paolino, i balestrieri si
   sfideranno in una gara in borghese presso il Campo Tiri della Repubblica di
@@ -89,6 +81,14 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **4-5 Giugno - Lucca Medievale**: ritorna l'evento più atteso dell'anno dopo
+  due anni di stop imposti dalla pandemia. Maggiori info su
+  [luccamedievale.it](https://luccamedievale.it)
+
+* **15 Maggio - 4° Palio delle Contrade San Paolino**: gara di tiro fra i
+  balestrieri suddivisi in contrade al Campo Tiri della Repubblica di Lucca
+  [:mag: Scopri di più](/2022/4o-palio-contrade-san-paolino)
 
 * **24 Aprile: Festa della Libertà (4a Disfida della Libertà)** - Corteo storico
   per le vie del centro storico di Lucca, esibizioni in piazza San Martino, gara
