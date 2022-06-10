@@ -26,7 +26,7 @@ La sfida fra le due associazioni, che praticano il tiro con la **balestra antica
 da banco**, sarà disputata presso il
 [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7),
 in Via Pattana a Pontetetto (LU), con i tiri di prova dalle ore 10:00 e la gara
-a partire dalle ore 15:30.
+a partire dalle ore 15:00.
 
 Le gare saranno disputate secondo il regolamento **LITAB**, che prevede una
 prima gara a squadre in cui 12 tiratori effettueranno il proprio tiro su
