@@ -7,7 +7,7 @@ image: /assets/images/2022/locandina-memorial-mario-puccetti.jpg
 ---
 
 I balestrieri lucchesi tornano a sfidarsi questa **domenica 12 Giugno** in
-occasione del *1° Memorial Mario Puccetti*.
+occasione del *1° Memorial Mario Puccetti*. (**INGRESSO GRATUITO**)
 
 <!-- more -->
 
