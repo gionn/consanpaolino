@@ -36,12 +36,6 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **12 Giugno - 1° Memorial Mario Puccetti**: per ricordare il recentemente
-  scomparso cofondatore dell'associazione Contrade San Paolino, i balestrieri si
-  sfideranno in una gara in borghese presso il [Campo Tiri della Repubblica di
-  Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) a Pontetetto.
-  [:mag: Scopri di più](/2022/1-memorial-mario-puccetti)
-
 * **10 Luglio - Parata di Bandiere in onore di San Paolino**: corteo storico per
   le vie della città con esibizioni di sbandieratori e musici.
 
@@ -82,6 +76,12 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **12 Giugno - 1° Memorial Mario Puccetti**: per ricordare il recentemente
+  scomparso cofondatore dell'associazione Contrade San Paolino, i balestrieri si
+  sfideranno in una gara in borghese presso il [Campo Tiri della Repubblica di
+  Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) a Pontetetto.
+  [:mag: Scopri di più](/2022/1-memorial-mario-puccetti)
 
 * **4-5 Giugno - Lucca Medievale**: ritorna l'evento più atteso dell'anno dopo
   due anni di stop imposti dalla pandemia. Maggiori info su
