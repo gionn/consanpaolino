@@ -56,7 +56,7 @@ immediatamente precedenti all'evento.
 * **13 Settembre - Processione di Santa Croce**: tradizionale corteo storico per
   le vie della città.
 
-* **18 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
+* **25 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
   balestrieri.
 
 * **9 Ottobre - 3o Palio dei Balistarii della Repubblica di Lucca**: gara di
