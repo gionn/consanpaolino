@@ -17,19 +17,17 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: ruby/setup-ruby@v1
-        with:
-          bundler-cache: true
-
       - uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
+          cache: 'npm'
 
-      - name: Lint markdown
-        uses: avto-dev/markdown-lint@v1
+      - name: Validate markdown
+        run: markdownlint -c .markdownlint.json  _posts pages
+
+      - uses: ruby/setup-ruby@v1
         with:
-          config: '.markdownlint.json'
-          args: '_posts pages'
+          bundler-cache: true
 
       - name: Build
         run: bundle exec jekyll build
