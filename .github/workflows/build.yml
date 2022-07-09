@@ -24,6 +24,8 @@ jobs:
 
       - run: npm ci
 
+      - run: echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
+
       - name: Validate markdown
         run: markdownlint -c .markdownlint.json _posts pages
 
