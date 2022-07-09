@@ -22,9 +22,11 @@ jobs:
           node-version-file: '.nvmrc'
           cache: 'npm'
 
-      - run: npm ci
+      - name: Install node dependencies
+        run: npm ci
 
-      - run: echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
+      - name: Add node bin to PATH
+        run: echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
 
       - name: Validate markdown
         run: markdownlint -c .markdownlint.json _posts pages
@@ -36,7 +38,7 @@ jobs:
       - name: Build
         run: bundle exec jekyll build
       
-      - name: Validate
+      - name: Validate HTML output
         run: bundle exec htmlproofer ./_site --check-html --disable-external --empty_alt_ignore --allow_hash_href --assume_extension
 
       - name: Deploy
