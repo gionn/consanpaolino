@@ -37,23 +37,24 @@ immediatamente precedenti all'evento.
 > seguito proposti.
 
 * **10 Luglio - Parata di Bandiere in onore di San Paolino**: corteo storico per
-  le vie della città con esibizioni di sbandieratori e musici dalle ore 21.00
+  le vie della città con esibizioni di sbandieratori e musici dalle ore 21.00.
+  [:mag: Scopri di più](/2022/giorni-san-paolino)
 
 * **11 Luglio - Luminara in onore di San Paolino**: corteo storico per le vie
   della città allestite con fiaccole e bandiere, esibizioni di tamburi storici.
   Esibizioni dei gruppi partecipanti ed estrazione dell'ordine di tiro del Palio
   dei balestrieri del giorno successivo, presso Piazzale Arrigoni dalle ore
-  21.00
+  21.30. [:mag: Scopri di più](/2022/giorni-san-paolino)
 
 * **12 Luglio - 47° Palio di San Paolino**: i balestrieri si sfideranno in un
   duello all'ultima verratta su un bersaglio posto a 36 metri in Piazzale
-  Arrigoni a partire dalle ore 21.00
+  Arrigoni a partire dalle ore 21.30. [:mag: Scopri di più](/2022/giorni-san-paolino)
 
 * **24 Luglio - Processione di San Cristoforo**: tradizionale corteo storico
-  presso la città di Barga (LU).
+  nella la città di Barga (LU).
 
-* **31 Luglio - 4a Giostra Ghibellina**: gara di tiro con la balestra presso il Campo Tiri
-  della Repubblica di Lucca.
+* **31 Luglio - 4a Giostra Ghibellina**: gara di tiro con la balestra presso il
+  Campo Tiri della Repubblica di Lucca.
 
 * **13 Settembre - Processione di Santa Croce**: tradizionale corteo storico per
   le vie della città.
