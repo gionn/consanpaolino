@@ -22,8 +22,10 @@ jobs:
           node-version-file: '.nvmrc'
           cache: 'npm'
 
+      - run: npm ci
+
       - name: Validate markdown
-        run: markdownlint -c .markdownlint.json  _posts pages
+        run: markdownlint -c .markdownlint.json _posts pages
 
       - uses: ruby/setup-ruby@v1
         with:
