@@ -12,7 +12,6 @@ categories:
 >
 > Ultimo aggiornamento: 24 settembre 2021
 
-
 Torna l'appuntamento a Lucca per gli appassionati della rievocazione storica con
 il tradizionale Palio di Santa Croce questa **domenica 26 Settembre**.
 

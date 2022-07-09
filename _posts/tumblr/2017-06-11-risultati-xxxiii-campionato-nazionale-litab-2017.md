@@ -15,13 +15,13 @@ redirect_from:
  - /2017-06-11-risultati-xxxiii-campionato-nazionale-litab-2017/
 ---
 
-![](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo1_1280.jpg)
+![campionato terra del sole litab](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo1_1280.jpg)
 
-![](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo3_r1_1280.jpg)
+![campionato terra del sole litab](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo3_r1_1280.jpg)
 
-![](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo4_r1_1280.jpg)
+![campionato terra del sole litab](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo4_r1_1280.jpg)
 
-![](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo2_r1_1280.jpg)
+![campionato terra del sole litab](/tumblr_files/tumblr_oregnw6D2P1vc0hzqo2_r1_1280.jpg)
 
 Ottimo risultato ottenuto dall'associazione Contrade San Paolino, che dopo anni
 torna sul podio del campionato italiano LITAB di tiro alla balestra da banco,
@@ -46,11 +46,11 @@ dal Maestro Prof. Lorenzetti.
 
 Album fotografico di Luigi Marchi: [https://goo.gl/photos/aNuvFzp8Pg1NkQvM7](https://goo.gl/photos/aNuvFzp8Pg1NkQvM7)
 
-**Aggiornamento del 14/06/2017**
+## Aggiornamento del 14/06/2017
 
 Questa è la classifica con i risultati ufficiali del XXXIII Campionato Nazionale LITAB.
 
-**Gara a squadre**
+### Gara a squadre
 
 * Volterra 336 punti
 * Terra Del Sole 318 punti
@@ -66,20 +66,20 @@ Questa è la classifica con i risultati ufficiali del XXXIII Campionato Nazional
 * Norcia 258 punti
 * Gualdo Tadino 208 punti
 
-**Gara individuale**
+### Gara individuale
 
 1º Fulvio Reale - Roccapiatta
 2º Claudio Pitzianti - Iglesias
 3º Massimo Mazzei - Contrade San Paolino Lucca
 
-**Gara dei Campioni**
+### Gara dei Campioni
 
 Fausto Assirelli - Terra del Sole
 
-**Gara dei Maestri d'Arme **
+### Gara dei Maestri d'Arme
 
 Mauro Tolomei - Contrade San Paolino Lucca
 
-**Aggiornamento del 26/06/2017**
+## Aggiornamento del 26/06/2017
 
 Ecco la [classifica definitiva](https://drive.google.com/file/d/0B1TCc5GTsJZ1YjZtTTdnd3FYODg/view?usp=sharing).

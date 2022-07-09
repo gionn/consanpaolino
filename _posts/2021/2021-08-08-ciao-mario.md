@@ -35,7 +35,7 @@ puoi scriverci una email a consanpaolino@gmail.com
 > stato, un grande amico con un grande cuore
 >
 > Massimo Mazzei
-
+>
 > Nel 1998 sono entrato nelle contrade, eravamo un gruppo organizzato all’acqua
 > di rose e si andava a tirare sotto la cannoniera in Pelleria, a volte eravamo
 > solo in tre, le correzioni fatte a occhio ma con uno spirito unico. Marione
@@ -45,7 +45,7 @@ puoi scriverci una email a consanpaolino@gmail.com
 > Mario per tutto quello che hai fatto.
 >
 > Stefano Puccetti
-
+>
 > Tutti, e non solo l'Associazione delle Contrade, perdiamo un prezioso
 > testimone e autore di tanta parte della pluridecennale storia delle
 > Associazioni a carattere storico di Lucca, oltre a perdere un amico con cui
@@ -54,7 +54,7 @@ puoi scriverci una email a consanpaolino@gmail.com
 > ritroveremo da qualche parte!
 >
 > Bruno Giannoni
-
+>
 > Ricordo ancora la grande gioia vissuta a San Marino in occasione della sua
 > conquista del Collare D'Oro, primo balestriere lucchese a riuscirci  (maestro
 > d'arte Maurizio Bartoli, commissario di gara Francesco Cesari). Ho avuto
