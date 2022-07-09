@@ -28,7 +28,7 @@ jobs:
         run: bundle exec htmlproofer ./_site --check-html --disable-external --empty_alt_ignore --allow_hash_href --assume_extension
 
       - name: Deploy
-        if: github.ref_name == 'gha'
+        if: github.ref_name == 'master'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
