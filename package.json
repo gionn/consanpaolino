@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "markdownlint": "^0.26.0"
-  },
   "devDependencies": {
     "markdownlint-cli": "^0.31.1"
   },
