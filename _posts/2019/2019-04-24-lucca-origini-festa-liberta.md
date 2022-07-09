@@ -19,7 +19,6 @@ scambio, arrivando fin nelle mani della **tanto odiata Pisa** (“Vituperio dell
 genti”), affamandola con le tasse e costringendola al coprifuoco (di qui il
 detto “Gnamo a letto, arivino i pisani!”).
 
-
 Ma come spesso la storia ci insegna, dopo un periodo molto buio, la luce torna a
 brillare.
 

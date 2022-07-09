@@ -49,7 +49,7 @@ L’area spettacoli offrirà a ritmo serrato, per entrambe le giornate, animazio
 a cura dei falconieri, combattimenti in *gentil tenzone*, spettacoli circensi e
 di giocoleria de **I Diavoli Rossi**, e la maestria nella manipolazione del
 fuoco con l’acrobata **Giada**; il sabato sera la leggiadria fantastica delle
-ragazze della compagnia danze orientali **Al Akhawat **di Lucca; mentre la
+ragazze della compagnia danze orientali **Al Akhawat** di Lucca; mentre la
 domenica ci saranno due appuntamenti artistici di rilievo: il primo con il
 gruppo di danze storiche di Follonica **Balliamo Insieme**, l’altra con *I
 sonetti declamati* della brava attrice **Sabrina de Ranieri.**
@@ -68,4 +68,4 @@ giugno](/images/2018/05/programma_2018_sabato.jpg)
 giugno](/images/2018/05/programma_2018_domenica.jpg)
 
 Se vuoi avere eventuali aggiornamenti direttamente nella tua casella di posta,
-puoi **[iscriverti alla newsletter](http://eepurl.com/dbx8K9)**.
+puoi [iscriverti alla newsletter](http://eepurl.com/dbx8K9).

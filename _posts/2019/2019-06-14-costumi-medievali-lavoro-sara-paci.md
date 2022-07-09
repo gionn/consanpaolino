@@ -10,7 +10,7 @@ categories:
  Medievale 2019, con una conferenza dal titolo **"È uno sporco lavoro, ma
  qualcuno deve pur farlo! Abiti da lavoro nel medioevo"**, dove ha parlato di
  materiali, tecniche, vestibilità e innovazione negli abiti del passato, il 2
- Giugno 2019 presso il Museo della Zecca. 
+ Giugno 2019 presso il Museo della Zecca.
 
  <!-- more -->
 
