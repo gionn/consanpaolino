@@ -20,6 +20,7 @@ variabili, in particolare per il **vento** che ha soffiato con raffiche fino a
 {% youtube "https://www.youtube.com/watch?v=d-M06KidXLc" %}
 
 Terminati i tiri ed esaminato il corniolo, la classifica risultante è stata così composta:
+
 * *Primo et meliore*: Filippo Rossi della Contrada della *Sirena*
 * *Secondo et meliore*: Diletta Demi della Contrada della *Luna*
 * *Terzo et meliore*: Cristina Fenili della Contrada della *Sirena*

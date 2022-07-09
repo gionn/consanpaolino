@@ -17,18 +17,28 @@ jobs:
         with:
           fetch-depth: 0
 
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - name: Install node dependencies
+        run: npm ci
+
+      - name: Add node bin to PATH
+        run: echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
+
+      - name: Validate markdown
+        run: markdownlint -c .markdownlint.json _posts pages
+
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
 
-      - uses: actions/setup-node@v3
-        with:
-          node-version-file: '.nvmrc'
-
       - name: Build
         run: bundle exec jekyll build
       
-      - name: Validate
+      - name: Validate HTML output
         run: bundle exec htmlproofer ./_site --check-html --disable-external --empty_alt_ignore --allow_hash_href --assume_extension
 
       - name: Deploy

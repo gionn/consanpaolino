@@ -11,7 +11,7 @@ tags:
 permalink: /2018/04/18/primo-palio-repubblica-lucca.htm
 ---
 
-**AGGIORNAMENTO: EVENTO RIMANDATO CAUSA MALTEMPO A DATA DA DESTINARSI**
+**AGGIORNAMENTO**: EVENTO RIMANDATO CAUSA MALTEMPO A DATA DA DESTINARSI
 
 Arriva la **novità del calendario 2018** delle attività promosse
 dall’associazione Contrade San Paolino, che organizza il **1° Palio dei

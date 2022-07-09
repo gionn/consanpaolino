@@ -33,6 +33,7 @@ assicurato!
 Segui gli aggiornamenti anche sull'[Evento Facebook](https://facebook.com/events/1128188134035140/)!
 
 ## Sabato 7 Settembre
+
 ### Gara dei maestri d’arme e dei campioni (ingresso gratuito)
 
 [Parcheggio Viale della Vittoria - Montefalco](https://goo.gl/maps/hcGNqJDEGa9rYEV58)
@@ -52,6 +53,7 @@ Segui gli aggiornamenti anche sull'[Evento Facebook](https://facebook.com/events
   Sant’Agostino
 
 ## Domenica 8 Settembre
+
 ### Gara a squadre e individuale (ingresso gratuito)
 
 [Parcheggio Viale della Vittoria - Montefalco](https://goo.gl/maps/hcGNqJDEGa9rYEV58)
@@ -186,4 +188,3 @@ nostra vita.*" - Fausto Bisogni
 
 * [Montefalco ospiterà il XXXV il Campionato Italiano di Tiro Alla Balestra Antica da Banco](https://tuttoggi.info/montefalco-ospitera-il-xxxv-il-campionato-italiano-di-tiro-alla-balestra-antica-da-banco/513281/)
 * [La città di Montefalco ospiterà il XXXV il Campionato Italiano di Tiro Alla Balestra Antica da Banco](http://www.umbriadomani.it/cultura/la-citta-di-montefalco-ospitera-il-xxxv-il-campionato-italiano-di-tiro-alla-balestra-antica-da-banco-230606/)
-

@@ -12,6 +12,7 @@ Abbiamo pubblicato qui e sul nostro canale YouTube, la registrazione della secon
 {% youtube "https://youtu.be/0x-VYlU3VKw" %}
 
 Scaletta della presentazione:
+
 * 1:46 - Cosa si intende per Sicurezza
 * 3:22 - Sicurezza sui materiali
 * 6:43 - Manutenzione della balestra
