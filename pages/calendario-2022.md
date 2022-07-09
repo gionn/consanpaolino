@@ -47,7 +47,7 @@ immediatamente precedenti all'evento.
   21.30. [:mag: Scopri di più](/2022/giorni-san-paolino)
 
 * **12 Luglio - 47° Palio di San Paolino**: i balestrieri si sfideranno in un
-  duello all'ultima verratta su un bersaglio posto a 36 metri in Piazzale
+  duello all'ultima verretta su un bersaglio posto a 36 metri in Piazzale
   Arrigoni a partire dalle ore 21.30. [:mag: Scopri di più](/2022/giorni-san-paolino)
 
 * **24 Luglio - Processione di San Cristoforo**: tradizionale corteo storico
