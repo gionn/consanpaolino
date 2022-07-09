@@ -25,6 +25,12 @@ jobs:
         with:
           node-version-file: '.nvmrc'
 
+      - name: Lint markdown
+        uses: avto-dev/markdown-lint@v1
+        with:
+          config: '.markdownlint.json'
+          args: '_posts pages'
+
       - name: Build
         run: bundle exec jekyll build
       
