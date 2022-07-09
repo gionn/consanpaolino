@@ -22,7 +22,7 @@ jobs:
           node-version-file: '.nvmrc'
           cache: 'npm'
 
-      - run: npm ci
+      - run: npm install
 
       - name: Validate markdown
         run: markdownlint -c .markdownlint.json _posts pages
