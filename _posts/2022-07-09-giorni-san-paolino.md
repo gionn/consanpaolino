@@ -27,7 +27,7 @@ Ecco il programma:
 * Ore 20.15, Piazzale Verdi: spari a salve (Historica Lucense) e partenza del
   corteo storico (Contrade San Paolino)
 * Ore 21.30, Piazzale Arrigoni: esibizioni dei musici, lettura del Bando del
-  Palio, estrazione dell'ordine di tiro
+  Palio ed estrazione a sorte dell'ordine di tiro.
 
 ## Martedì 12 Luglio
 
