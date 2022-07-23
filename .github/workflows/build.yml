@@ -39,7 +39,7 @@ jobs:
         run: bundle exec jekyll build
       
       - name: Validate HTML output
-        run: bundle exec htmlproofer ./_site --check-html --disable-external --empty_alt_ignore --allow_hash_href --assume_extension
+        run: bundle exec htmlproofer ./_site --ignore-missing-alt --disable-external
 
       - name: Deploy
         if: github.ref_name == 'master'
