@@ -30,7 +30,9 @@ e tenere alto il nome di Lucca nelle competizioni a cui parteciperanno le 12
 associazioni di tiro con la balestra antica da banco provenienti da tutta
 Italia, organizzate quest'anno a **Chioggia**.
 
-* Album completo su [Google Photos](https://photos.app.goo.gl/eHudY8t8xn78qmof7)
+* Album completo su
+  [Google Photos](https://photos.app.goo.gl/eHudY8t8xn78qmof7), scatti di
+  [Giampaolo Russo](https://www.facebook.com/giampaolorussophoto).
 * [💾 Referti gara a squadre](/assets/files/2022/4a-giostra-ghibellina-risultati.pdf)
 
 <figure class="align-center">
