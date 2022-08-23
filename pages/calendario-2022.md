@@ -36,11 +36,8 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **24 Luglio - Processione di San Cristoforo**: tradizionale corteo storico
-  nella la città di Barga (LU) a partire dalle ore 21.00.
-
-* **31 Luglio - 4a Giostra Ghibellina**: gara di tiro con la balestra presso il
-  Campo Tiri della Repubblica di Lucca [:mag: Scopri di più](/2022/4a-giostra-ghibellina)
+* **29 Agosto - Notte Bianca**: musei aperti, visite guidate e spettacoli nel
+  centro storico di Lucca. [:mag: Scopri di più](http://www.confcommerciolums.it/Items/it-IT/News/Default/la-notte-bianca-di-lucca-sabato-27-agosto-torna-dopo-due-anni-di-stop-forzato-la-grande-festa-i)
 
 * **13 Settembre - Processione di Santa Croce**: tradizionale corteo storico per
   le vie della città.
@@ -65,6 +62,12 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **31 Luglio - 4a Giostra Ghibellina**: gara di tiro con la balestra presso il
+  Campo Tiri della Repubblica di Lucca [:mag: Scopri di più](/2022/4a-giostra-ghibellina)
+
+* **24 Luglio - Processione di San Cristoforo**: tradizionale corteo storico
+  nella la città di Barga (LU) a partire dalle ore 21.00.
 
 * **12 Luglio - 47° Palio di San Paolino**: i balestrieri si sfideranno in un
   duello all'ultima verretta su un bersaglio posto a 36 metri in Piazzale
