@@ -29,4 +29,11 @@ Paolino.
 
 In caso di pioggia l'evento sarà annullato.
 
+## Programma dell'evento
+
 ![locandina palio santa croce](/assets/images/2022/palio-santa-croce-2022-locandina.jpg)
+
+## Ordine di tiro
+
+![ordine di tiro panca 1 e 2](/assets/images/2022/palio-santa-croce-2022-ordine-tiro-12.jpg)
+![ordine di tiro panca 3 e 4](/assets/images/2022/palio-santa-croce-2022-ordine-tiro-34.jpg)
