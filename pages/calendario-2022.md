@@ -36,20 +36,18 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **29 Agosto - Notte Bianca**: musei aperti, visite guidate e spettacoli nel
-  centro storico di Lucca. [:mag: Scopri di più](http://www.confcommerciolums.it/Items/it-IT/News/Default/la-notte-bianca-di-lucca-sabato-27-agosto-torna-dopo-due-anni-di-stop-forzato-la-grande-festa-i)
-
-* **13 Settembre - Processione di Santa Croce**: tradizionale corteo storico per
-  le vie della città.
-
 * **25 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
-  balestrieri.
+  balestrieri. [:mag: Scopri di più](/2022/palio-santa-croce)
 
 * **9 Ottobre - 3o Palio dei Balistarii della Repubblica di Lucca**: gara di
   tiro con la balestra.
 
 * **16 Ottobre - La musica medievale e l’arte della memoria** (titolo
   provvisorio): Convegno storico presso la Casermetta San Paolino.
+
+* **28 Ottobre al 1 Novembre - Lucca Comics and Games**: festival internazionale
+  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
+  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
 
 * **20 Novembre - A tavola nel medioevo** (titolo provvisorio): Convegno storico
   presso la Casermetta San Paolino.
@@ -62,6 +60,12 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **13 Settembre - Processione di Santa Croce**: tradizionale corteo storico per
+  le vie della città.
+
+* **29 Agosto - Notte Bianca**: musei aperti, visite guidate e spettacoli nel
+  centro storico di Lucca. [:mag: Scopri di più](http://www.confcommerciolums.it/Items/it-IT/News/Default/la-notte-bianca-di-lucca-sabato-27-agosto-torna-dopo-due-anni-di-stop-forzato-la-grande-festa-i)
 
 * **31 Luglio - 4a Giostra Ghibellina**: gara di tiro con la balestra presso il
   Campo Tiri della Repubblica di Lucca [:mag: Scopri di più](/2022/4a-giostra-ghibellina)
