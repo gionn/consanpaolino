@@ -17,7 +17,7 @@ Il servizio andato in onda su NoiTv:
 
 La presentazione di Sara Piccolo Paci:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/r8M7Dmed3JT7aU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/r8M7Dmed3JT7aU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
 La registrazione video dell'intervento:
 
