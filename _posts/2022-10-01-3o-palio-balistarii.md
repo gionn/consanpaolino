@@ -24,3 +24,5 @@ Questo il programma della giornata:
 
 Prossimi appuntamenti il corso di tiro con la balestra per principianti, rimani
 aggiornato seguendoci sui social che trovi a fondo pagina.
+
+![locandina 3o palio dei balistarii](/assets/images/2022/palio-dei-balistarii-locandina.jpg)
