@@ -36,14 +36,12 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **25 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
-  balestrieri. [:mag: Scopri di più](/2022/palio-santa-croce)
-
 * **9 Ottobre - 3o Palio dei Balistarii della Repubblica di Lucca**: gara di
-  tiro con la balestra.
+  tiro con la balestra [:mag: Scopri di più](/2022/3o-palio-balistarii)
 
-* **16 Ottobre - La musica medievale e l’arte della memoria** (titolo
-  provvisorio): Convegno storico presso la Casermetta San Paolino.
+* **16 Ottobre - Sogni e Giochi d’Amore: musica profana nel medioevo**:
+  conferenza con il Maestro D’Arte Renzo Cresti presso la Casermetta San Paolino
+  (programma in arrivo)
 
 * **28 Ottobre al 1 Novembre - Lucca Comics and Games**: festival internazionale
   del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
@@ -60,6 +58,9 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **25 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
+  balestrieri. [:mag: Scopri di più](/2022/palio-santa-croce)
 
 * **13 Settembre - Processione di Santa Croce**: tradizionale corteo storico per
   le vie della città.
