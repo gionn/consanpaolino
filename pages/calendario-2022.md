@@ -41,14 +41,11 @@ immediatamente precedenti all'evento.
 
 * **16 Ottobre - Sogni e Giochi d’Amore: musica profana nel medioevo**:
   conferenza con il Maestro D’Arte Renzo Cresti presso la Casermetta San Paolino
-  (programma in arrivo)
+  [:mag: Scopri di più](/2022/conferenza-musica-profana-medioevo-cresti)
 
 * **28 Ottobre al 1 Novembre - Lucca Comics and Games**: festival internazionale
   del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
   Vai al sito ufficiale](https://www.luccacomicsandgames.com)
-
-* **20 Novembre - A tavola nel medioevo** (titolo provvisorio): Convegno storico
-  presso la Casermetta San Paolino.
 
 * **4-18 Dicembre - La milizia cittadina nella Repubblica di Lucca**: apertura
   al pubblico della biblioteca dell'associazione presso la Casermetta San
