@@ -23,8 +23,10 @@ jobs:
       - name: List all changed files
         run: |
           for file in ${{ steps.changed-files.outputs.added_files }}; do
-            echo jpegoptim "$file"
-            jpegoptim "$file"
+            echo "Found changed: $file"
+            if [[ "$file" = *".jpg"* ]]; then
+              jpegoptim "$file"
+            fi
           done
 
       - uses: stefanzweifel/git-auto-commit-action@v4
