@@ -49,6 +49,10 @@ immediatamente precedenti all'evento.
 
 ## Eventi passati
 
+* **13 Ottobre - Corso di tiro con balestra antica da banco**: iniziano i corsi
+  organizzati dalla nostra associazione
+  [:mag: Scopri di più](/2022/corso-balestra-principianti)
+
 * **16 Ottobre - (ANNULLATO) Sogni e Giochi d’Amore: musica profana nel medioevo**:
   conferenza con il Maestro D’Arte Renzo Cresti presso la Casermetta San Paolino
   [:mag: Scopri di più](/2022/conferenza-musica-profana-medioevo-cresti)
