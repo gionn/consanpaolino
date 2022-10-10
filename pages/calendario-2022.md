@@ -36,13 +36,6 @@ immediatamente precedenti all'evento.
 > garantire la realizzazione o l'eventuale posticipazione degli eventi di
 > seguito proposti.
 
-* **9 Ottobre - 3o Palio dei Balistarii della Repubblica di Lucca**: gara di
-  tiro con la balestra [:mag: Scopri di più](/2022/3o-palio-balistarii)
-
-* **16 Ottobre - Sogni e Giochi d’Amore: musica profana nel medioevo**:
-  conferenza con il Maestro D’Arte Renzo Cresti presso la Casermetta San Paolino
-  [:mag: Scopri di più](/2022/conferenza-musica-profana-medioevo-cresti)
-
 * **28 Ottobre al 1 Novembre - Lucca Comics and Games**: festival internazionale
   del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
   Vai al sito ufficiale](https://www.luccacomicsandgames.com)
@@ -55,6 +48,13 @@ immediatamente precedenti all'evento.
 > provincia di Lucca? [Scrivici](/contatti)!
 
 ## Eventi passati
+
+* **16 Ottobre - (ANNULLATO) Sogni e Giochi d’Amore: musica profana nel medioevo**:
+  conferenza con il Maestro D’Arte Renzo Cresti presso la Casermetta San Paolino
+  [:mag: Scopri di più](/2022/conferenza-musica-profana-medioevo-cresti)
+
+* **9 Ottobre - 3o Palio dei Balistarii della Repubblica di Lucca**: gara di
+  tiro con la balestra [:mag: Scopri di più](/2022/3o-palio-balistarii)
 
 * **25 Settembre - 14° Palio della Santa Croce**: corteo storico e disfida dei
   balestrieri. [:mag: Scopri di più](/2022/palio-santa-croce)

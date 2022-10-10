@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "🎶 Sogni e Giochi d’Amore: musica profana nel medioevo – conferenza con il Maestro D’Arte Renzo Cresti"
+title: "ANNULLATO: 🎶 Sogni e Giochi d’Amore: musica profana nel medioevo – conferenza con il Maestro D’Arte Renzo Cresti"
 categories:
   - eventi
 ---
+
+**Aggiornamento**: a causa dell'indisponibilità del relatore per cause di forza
+maggiore, l'evento è **ANNULLATO** e rimandato a data da destinarsi.
 
 Terminati gli appuntamenti del Settembre Lucchese, riprendono gli eventi
 culturali delle Contrade San Paolino, organizzati presso la **Casermetta San
