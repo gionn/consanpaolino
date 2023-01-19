@@ -10,7 +10,7 @@ image:
 ---
 
 Questa domenica 21 Luglio si è disputata presso il campo tiri della [Compagnia
-Balestrieri Waldum](https://www.balestrierigualdo.it/) la **2a Disfida Gualdana
+Balestrieri Waldum](https://www.facebook.com/balestrierigualdotadino) la **2a Disfida Gualdana
 di Pietro**, gara di tiro con la balestra antica fra i padroni di casa e i
 balestrieri lucchesi dell’associazione Contrade San di Paolino.
 
