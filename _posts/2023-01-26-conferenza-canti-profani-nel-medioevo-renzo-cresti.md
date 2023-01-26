@@ -3,6 +3,8 @@ layout: post
 title: "🎶 Canti profani nel medioevo – Conferenza con il Maestro D’Arte Renzo Cresti"
 categories:
   - eventi
+author:
+  name: Martina Del Grosso
 ---
 
 Un viaggio a 360 gradi nel mondo medievale, trasportati dal suono della sua
