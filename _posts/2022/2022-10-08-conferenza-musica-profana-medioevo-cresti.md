@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANNULLATO: 🎶 Sogni e Giochi d’Amore: musica profana nel medioevo – conferenza con il Maestro D’Arte Renzo Cresti"
+title: "ANNULLATO: 🎶 Sogni e Giochi d’Amore: musica profana nel medioevo – conferenza con il Maestro Renzo Cresti"
 categories:
   - eventi
 ---

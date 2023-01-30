@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎶 Canti profani nel medioevo – Conferenza con il Maestro D’Arte Renzo Cresti"
+title: "🎶 Canti profani nel medioevo – Conferenza con il Maestro Renzo Cresti"
 categories:
   - eventi
 author:
