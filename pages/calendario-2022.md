@@ -32,22 +32,20 @@ tengono a Lucca e provincia durante tutto l'anno.
 Il programma dettagliato di ogni evento sarà disponibile nelle settimane
 immediatamente precedenti all'evento.
 
-> **ATTENZIONE**: a causa dell'attuale emergenza sanitaria non è possibile
-> garantire la realizzazione o l'eventuale posticipazione degli eventi di
-> seguito proposti.
+> Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
+> provincia di Lucca? [Scrivici](/contatti)!
 
-* **28 Ottobre al 1 Novembre - Lucca Comics and Games**: festival internazionale
-  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
-  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
+Presto online il calendario 2023!
+
+## Eventi passati
 
 * **4-18 Dicembre - La milizia cittadina nella Repubblica di Lucca**: apertura
   al pubblico della biblioteca dell'associazione presso la Casermetta San
   Paolino.
 
-> Vuoi inserire qui il tuo evento storico, culturale o di intrattenimento nella
-> provincia di Lucca? [Scrivici](/contatti)!
-
-## Eventi passati
+* **28 Ottobre al 1 Novembre - Lucca Comics and Games**: festival internazionale
+  del fumetto, cinema di animazione, illustrazione e giochi da tavolo. [:mag:
+  Vai al sito ufficiale](https://www.luccacomicsandgames.com)
 
 * **13 Ottobre - Corso di tiro con balestra antica da banco**: iniziano i corsi
   organizzati dalla nostra associazione
