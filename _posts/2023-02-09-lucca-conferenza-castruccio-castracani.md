@@ -35,7 +35,7 @@ La conferenza Valdinievole e Lucca al tempo di Castruccio Castracani. Dialoghi s
 Maggiori informazioni sull'associazione e sul calendario della stagione culturale 2023 sul sito [www.consanpaolino.org](https://consanpaolino.org/).
 Le Contrade San Paolino sono anche su [Facebook](https://www.facebook.com/consanpaolino) e [Instagram](https://www.instagram.com/consanpaolino/).
 
-**Il programma completo**
+## Il programma completo
 
 - Alle 15,15 esibizione tamburini di Contrade San Paolino
 - Alle 15,30 introduzione a cura del Presidente di Contrade San Paolino, Giovanni Barsanti
@@ -46,4 +46,4 @@ Le Contrade San Paolino sono anche su [Facebook](https://www.facebook.com/consan
 - Alle 18,00 esibizione tamburi di Contrade San Paolino
 - Alle 18,05 (circa) spazio ai saluti
 
-![locandina evento](/assets/images/2023/230211-locandina-valdinievole-e-castruccio-zucconi.jpg)
+![locandina evento](/assets/images/2023/230211-locandina-castruccio.jpg)
