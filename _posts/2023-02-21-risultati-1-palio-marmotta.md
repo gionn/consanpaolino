@@ -21,6 +21,6 @@ Qui di seguito la classifica finale:
 * *4°*: Alessia Lino della Contrada del *Sirena*
 
 <figure class="align-center">
-    <img src="/assets/images/2023/palio-marmotta-viviani.jpg" alt="palio marmotta">
+    <img src="/assets/images/2023/230219-palio-marmotta-viviani.jpg" alt="palio marmotta">
   <figcaption>Il Palio della Marmotta dipinto da Luca Viviani vinto dalla Contrada della Luna</figcaption>
 </figure>
