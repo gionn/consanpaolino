@@ -18,7 +18,7 @@ Qui di seguito la classifica finale:
 * *1°*: Francesco Bianchini della Contrada della *Luna*
 * *2°*: Luca Viviani della Contrada del *Falcone*
 * *3°*: Cristina Fenili della Contrada della *Sirena*
-* *4°*: Alessia Lino della Contrada del *Sirena*
+* *4°*: Alessia Lino della Contrada della *Sirena*
 
 <figure class="align-center">
     <img src="/assets/images/2023/230219-palio-marmotta-viviani.jpg" alt="palio marmotta">
