@@ -17,7 +17,7 @@ Nella mattinata di domenica 26 Marzo si è disputata la **prima gara sociale** d
 * *Terza et meliore:* Simona Stefani della Luna con **92** punti;
 * *Quarto et meliore:* Gianluca Bertolucci del Falcone con **91** punti.
 
-Inoltre durante la gara, si sono sfidate tra di loro le nuove reclute che lo scorso anno si sono iscritte in gran numero e che hanno seguito il corso per diventare balestrieri delle Contrade; conseguito il titolo in questa giornata, le Contrade adesso contano **nove** balestrieri in più nel loro organico. Oltre al titolo, alla migliore delle reclute è stata assegnata la potente e pregiata ***Balestra del Trentesimo***, creata e intarsiata dal **Maestro d'arme Mauro Tolomei** con i simboli delle Contrade e l'immagine di San Paolino, per un intero anno.
+Inoltre durante la gara, si sono sfidate tra di loro le nuove reclute che lo scorso anno si sono iscritte in gran numero e che hanno seguito il corso per diventare balestrieri delle Contrade; conseguito il titolo in questa giornata, le Contrade adesso contano **nove** balestrieri in più nel loro organico. Oltre al titolo, alla migliore delle reclute è stata assegnata la potente e pregiata ***Balestra del Trentesimo***, creata ed intagliata dal **Maestro d'arme Mauro Tolomei** con i simboli delle Contrade e l'immagine di San Paolino, per un intero anno.
 Nell'ordine:
 
 * Prima et meliore: Mariela Gonzalez della Luna con **88** punti + Balestra 30mo;
