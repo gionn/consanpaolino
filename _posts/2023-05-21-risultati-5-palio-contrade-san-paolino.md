@@ -8,7 +8,7 @@ author:
   name: Giampaolo Russo e Mariela Gonzalez(foto)
 ---
 
-Nella splendida cornice sopra le mura di cinta di Lucca, la domenica del 21 Maggio si è svolta la quinta edizione del Palio delle Contrade di San Paolino assieme alla seconda gara sociale della stagione 2023 del corpo dei Balestrieri. 
+Nella splendida cornice sopra le mura di cinta di Lucca, la domenica del 21 Maggio si è svolta la quinta edizione del Palio delle Contrade di San Paolino assieme alla seconda gara sociale della stagione 2023 del corpo dei Balestrieri.
 
 <!-- more -->
 
