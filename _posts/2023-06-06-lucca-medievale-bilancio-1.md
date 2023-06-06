@@ -24,8 +24,8 @@ Qui di seguito gallerie degli scatti di alcuni fotografi presenti alla manifesta
 
 * [Tommaso Giannini](https://photos.app.goo.gl/bTf3Ke9ZiAGdY3Rx5)
 * [Ciprian Gheorghita](https://photos.app.goo.gl/oi9SHtiaBSwL2KPA6)
-* [Giampaolo Russo (1° Torneo Balestra Manesca)](https://photos.app.goo.gl/XHzBcVSdFcvt2uWh8)
-* [Mariela Gonzalez (Conferenza Prof.Zucconi)](https://photos.app.goo.gl/mWHqhPzPiuEgiQXm9)
-+ [Michele Tartara e Maria Giulia Cecchini](https://photos.app.goo.gl/nHxzFMqohj9n5dzd7)
+* [Giampaolo Russo - 1° Torneo Balestra Manesca](https://photos.app.goo.gl/XHzBcVSdFcvt2uWh8)
+* [Mariela Gonzalez - Conferenza Prof.Zucconi](https://photos.app.goo.gl/mWHqhPzPiuEgiQXm9)
+* [Michele Tartara e Maria Giulia Cecchini](https://photos.app.goo.gl/nHxzFMqohj9n5dzd7)
 
 Appuntamento per la seconda parte di Lucca Medievale, domenica 11 giugno con la seconda edizione Memorial Mario Puccetti, torneo di balestra da banco dedicato alla memoria di uno dei fondatori delle Contrade San Paolino e maestro d'arme, Mario Puccetti: si sfideranno sul Baluardo di San Paolino le Contrade San Paolino di Lucca e la Compagnia Balestrieri di Pisa.
