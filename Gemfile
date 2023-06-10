@@ -13,4 +13,4 @@ group :jekyll_plugins do
 end
 
 # Validate HTML
-gem "html-proofer", '~>4.2.0'
+gem "html-proofer", '~>5.0.7'
