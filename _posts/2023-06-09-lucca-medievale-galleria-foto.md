@@ -19,7 +19,8 @@ Elenco gallerie fotografiche diviso per fotografo e tipologia evento:
 * [Giampaolo Russo - 1° Torneo Balestra Manesca](https://photos.app.goo.gl/XHzBcVSdFcvt2uWh8)
 * [Mariela Gonzalez - Conferenza Prof.Zucconi](https://photos.app.goo.gl/mWHqhPzPiuEgiQXm9)
 * [Michele Tartara e Maria Giulia Cecchini](https://photos.app.goo.gl/nHxzFMqohj9n5dzd7)
-* [Tommaso Leonardi](https://photos.app.goo.gl/CBY4khBnXSNojz4X7)
+* [Giuseppe Leonardi](https://photos.app.goo.gl/CBY4khBnXSNojz4X7)
+* [Maurizio Tinto](https://photos.app.goo.gl/WUuq9NYAtyrWKbEY6)
 
 Grazie per il materiale che ci avete inviato.
 
