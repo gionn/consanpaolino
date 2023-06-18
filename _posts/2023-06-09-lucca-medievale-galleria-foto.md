@@ -21,6 +21,8 @@ Elenco gallerie fotografiche diviso per fotografo e tipologia evento:
 * [Mariela Gonzalez](https://photos.app.goo.gl/jiArQykwW6th3r2c8)
 * [Giuseppe Leonardi](https://photos.app.goo.gl/CBY4khBnXSNojz4X7)
 * [Maurizio Tinto](https://photos.app.goo.gl/WUuq9NYAtyrWKbEY6)
+* [Mariela Gonzalez e Mauro De Luca - 2° Memorial Mario Puccetti](https://photos.app.goo.gl/sdVBZcfZArDrht5b6)
+* [Nicholas Bossi - 2° Memorial Mario Puccetti](https://photos.app.goo.gl/jJfm2Rsgg39ySSWN7)
 * [Vari](https://photos.app.goo.gl/cHWdpfpcqVScatkT8)
 
 Grazie per il materiale che ci avete inviato.
