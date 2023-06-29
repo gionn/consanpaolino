@@ -7,7 +7,7 @@ author:
   name: Giampaolo Russo
 ---
 
-In questa giornata estiva di Giugno si è disputata la **terza gara sociale** delle *Contrade San Paolino* su bersaglio singolo, che ha visto confrontarsi fra di loro circa una trentina di balestrieri del nostro organico. Dopo un singolo tiro di prova a disposizione per ciascuno, la gara si è protratta lungo tutta la mattinata. Si sono effettuate in tutto tre tornate di tiri per ognuno dei balestrieri: la somma dei punteggi ha quindi determinato la classifica seguente:
+In questa giornata estiva di Giugno si è disputata la **terza gara sociale** delle *Contrade San Paolino* su bersaglio singolo, che ha visto confrontarsi fra di loro circa una trentina di balestrieri del nostro organico. Dopo un singolo tiro di prova a disposizione per ciascuno, la gara si è protratta lungo tutta la mattinata. Si sono effettuate in tutto tre tornate di tiri per ognuno dei balestrieri. La somma dei punteggi ha quindi determinato la classifica seguente:
 
 <!-- more -->
 
