@@ -13,7 +13,7 @@ Protagonisti le Contrade di San Paolino (CSP) e la Compagnia Balestrieri di Lucc
 
 <!-- more -->
 
-Una grande performance della nostra **Cristina Fenili** la quale ha tirato alla prima tornata di tiro e che con la sua verretta è riuscita a chiudere la visuale al centro del bersaglio, ottenendo così un meritatissimo primo posto assieme al collare d'argento raffigurante l'effigie di San Paolino, e permettendo alle CSP di prendere lo splendido Palio realizzato quest'anno dall'artista **Elisa Tamburini**.
+Una grande performance della nostra **Cristina Fenili** la quale ha tirato alla prima tornata di tiro e che con la sua verretta è riuscita a chiudere la visuale al centro del bersaglio, ottenendo così un meritatissimo primo posto assieme al collare d'argento raffigurante l'effigie di San Paolino, e permettendo alle CSP di prendere lo splendido Palio realizzato quest'anno dall'artista **Elisa Tamburrini**.
 A seguire la nostra **Valentina Fatiguso** che pur tirando alla nona tornata con un bersaglio già pieno di 32 verrette delle tornate precedenti, è riuscita a strappare uno splendido secondo posto.
 
 Il giorno prima (11 Luglio), dopo il tradizionale corteo storico per la Luminara di San Paolino che si è snodato lungo le vie cittadine per poi terminare in Piazzale Arrigoni, si è proceduto poi con il sorteggio per determinare l'ordine di tiro con cui i balestrieri (61 in totale) si sono succeduti al tiro. Le CSP hanno acconsentito alla richiesta della CBL affinché il sorteggio fosse disgiunto, in modo tale che ad ogni tornata di tiro fossero presenti sempre due componenti per ciascuna squadra.
