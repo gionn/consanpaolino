@@ -13,8 +13,8 @@ Protagonisti le Contrade di San Paolino (CSP) e la Compagnia Balestrieri di Lucc
 
 <!-- more -->
 
-Una grande performance della nostra **Cristina Fenili** la quale ha tirato alla prima tornata di tiro e che con la sua verretta è riuscita a chiudere la visuale al centro del bersaglio, ottenendo così un meritatissimo primo posto assieme al collare d'argento raffigurante l'effigie di San Paolino, e permettendo alle CSP di prendere lo splendido Palio realizzato quest'anno dall'artista *Elisa Tamburrini*.
-A seguire la nostra **Valentina Fatiguso** che pur tirando alla nona tornata con un bersaglio già pieno di 32 verrette delle tornate precedenti, è riuscita a strappare uno splendido secondo posto.
+Una grande performance della nostra **Cristina Fenili** che avendo tirato alla prima tornata è riuscita a chiudere la visuale al centro del bersaglio con la sua verretta, ottenendo così un meritatissimo primo posto assieme al collare d'argento raffigurante l'effigie di San Paolino; ciò ha permesso alle CSP di prendere lo splendido Palio realizzato quest'anno dall'artista *Elisa Tamburrini*.
+A seguire la nostra **Valentina Fatiguso** che pur tirando alla nona tornata con un bersaglio già pieno di 32 verrette conficcate sul bersaglio dalle tornate precedenti, è riuscita a strappare uno splendido secondo posto.
 
 <figure class="align-center">
     <img src="/assets/images/2023/230712-valentina-fatiguso-49mo-psp-seconda-et-meliore.jpg" alt="49mo palio san paolino valentina fatiguso seconda et meliore">
