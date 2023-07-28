@@ -8,7 +8,7 @@ author:
   name: Jean-Pierre du Croissant de Lune, Andrea Morandi(foto)
 ---
 
-In questa giornata si è disputata la 49ma edizione del Palio di San Paolino patrono di Lucca.
+12 Luglio 2023: in questa giornata si è disputata la 49ma edizione del Palio di San Paolino patrono di Lucca.
 Protagonisti le Contrade di San Paolino (CSP) e la Compagnia Balestrieri di Lucca (CBL) che si sono sfidati al tiro individuale al corniolo.
 
 <!-- more -->
@@ -21,7 +21,15 @@ A seguire la nostra **Valentina Fatiguso** che pur tirando alla nona tornata con
   <figcaption>Valentina Fatiguso Seconda et Meliore</figcaption>
 </figure>
 
-Il giorno prima (11 Luglio), dopo il tradizionale corteo storico per la Luminara di San Paolino che si è snodato lungo le vie cittadine per poi terminare in Piazzale Arrigoni, si è proceduto poi con il sorteggio per determinare l'ordine di tiro con cui i balestrieri (61 in totale) si sono succeduti al tiro. Le CSP hanno acconsentito alla richiesta della CBL affinché il sorteggio fosse disgiunto, in modo tale che ad ogni tornata di tiro fossero presenti sempre due componenti per ciascuna squadra.
+Il giorno prima (11 Luglio), dopo il tradizionale corteo storico per la Luminara di San Paolino che si è snodato lungo le vie cittadine per poi terminare in Piazzale Arrigoni.
+
+<figure class="align-center">
+    <img src="/assets/images/2023/230711-csp-luminara-sp-2023.jpg" alt="corteggio delle contrade durante luminara san paolino 2023">
+  <figcaption>Corteggio delle Contrade durante Luminara in onore San Paolino (11 Luglio)</figcaption>
+</figure>
+
+Si è proceduto poi con il sorteggio per determinare l'ordine di tiro con cui i balestrieri (61 in totale) si sono succeduti al tiro.
+Le CSP hanno acconsentito alla richiesta della CBL affinché il sorteggio fosse disgiunto, in modo tale che ad ogni tornata di tiro fossero presenti sempre due componenti per ciascuna squadra.
 
 <figure class="align-center">
     <img src="/assets/images/2023/230712-49mo-psp-ordine-tiro.jpg" alt="49mo palio san paolino ordine di tiro">
