@@ -21,14 +21,15 @@ A seguire la nostra **Valentina Fatiguso** che pur tirando alla nona tornata con
   <figcaption>Valentina Fatiguso Seconda et Meliore</figcaption>
 </figure>
 
-Il giorno prima (11 Luglio), dopo il tradizionale corteo storico per la Luminara di San Paolino che si è snodato lungo le vie cittadine per poi terminare in Piazzale Arrigoni,
+Il giorno prima (11 Luglio), dopo il tradizionale corteo storico per la Luminara di San Paolino che si è snodato lungo le vie cittadine per poi terminare in Piazzale Arrigoni.
 
 <figure class="align-center">
     <img src="/assets/images/2023/230711-csp-luminara-sp-2023.jpg" alt="corteggio delle contrade durante luminara san paolino 2023">
   <figcaption>Corteggio delle Contrade durante Luminara in onore San Paolino (11 Luglio)</figcaption>
 </figure>
 
-si è proceduto poi con il sorteggio per determinare l'ordine di tiro con cui i balestrieri (61 in totale) si sono succeduti al tiro.
+Si è proceduto poi con il sorteggio per determinare l'ordine di tiro con cui i balestrieri (61 in totale) si sono succeduti al tiro.
+
 Le CSP hanno acconsentito alla richiesta della CBL affinché il sorteggio fosse disgiunto, in modo tale che ad ogni tornata di tiro fossero presenti sempre due componenti per ciascuna squadra.
 
 <figure class="align-center">
