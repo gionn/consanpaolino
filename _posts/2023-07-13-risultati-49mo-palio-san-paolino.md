@@ -13,7 +13,7 @@ Protagonisti le Contrade di San Paolino (CSP) e la Compagnia Balestrieri di Lucc
 
 <!-- more -->
 
-Una grande performance della nostra **Cristina Fenili** che avendo tirato alla prima tornata è riuscita a chiudere la visuale al centro del bersaglio con la sua verretta, ottenendo così un meritatissimo primo posto assieme al collare d'argento raffigurante l'effigie di San Paolino; ciò ha permesso alle CSP di prendere lo splendido Palio realizzato quest'anno dall'artista *Elisa Tamburrini*.
+Una grande performance della nostra **Cristina Fenili** che avendo tirato alla prima tornata, è riuscita a chiudere la visuale al centro del bersaglio con la sua verretta ottenendo così un meritatissimo primo posto assieme al collare d'argento raffigurante l'effigie di San Paolino; ciò ha permesso alle CSP di prendere lo splendido Palio realizzato quest'anno dall'artista *Elisa Tamburrini*.
 A seguire la nostra **Valentina Fatiguso** che pur tirando alla nona tornata con un bersaglio già pieno di 32 verrette conficcate sul bersaglio dalle tornate precedenti, è riuscita a strappare uno splendido secondo posto.
 
 <figure class="align-center">
@@ -21,14 +21,14 @@ A seguire la nostra **Valentina Fatiguso** che pur tirando alla nona tornata con
   <figcaption>Valentina Fatiguso Seconda et Meliore</figcaption>
 </figure>
 
-Il giorno prima (11 Luglio), dopo il tradizionale corteo storico per la Luminara di San Paolino che si è snodato lungo le vie cittadine per poi terminare in Piazzale Arrigoni.
+Il giorno prima (11 Luglio) il tradizionale corteo storico per la Luminara di San Paolino si è snodato lungo le vie cittadine per poi terminare in Piazzale Arrigoni.
 
 <figure class="align-center">
     <img src="/assets/images/2023/230711-csp-luminara-sp-2023.jpg" alt="corteggio delle contrade durante luminara san paolino 2023">
   <figcaption>Corteggio delle Contrade durante Luminara in onore San Paolino (11 Luglio)</figcaption>
 </figure>
 
-Si è proceduto poi con il sorteggio per determinare l'ordine di tiro con cui i balestrieri (61 in totale) si sono succeduti al tiro.
+Al termine si è proceduto con il sorteggio per determinare l'ordine di tiro con cui i balestrieri (61 in totale) si sono succeduti al tiro.
 Le CSP hanno acconsentito alla richiesta della CBL affinché il sorteggio fosse disgiunto, in modo tale che ad ogni tornata di tiro fossero presenti sempre due componenti per ciascuna squadra.
 
 <figure class="align-center">
