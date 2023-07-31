@@ -13,7 +13,7 @@ Domenica 30 Luglio c'è stata l'occasione di mettersi nuovamente alla prova con 
 <!-- more -->
 
 Dopo un singolo tiro di prova a disposizione si sono effettuate in tutto tre tornate di tiri per ciascuno.
-La gara si è protratta lungo tutta la mattinata e la somma dei punteggi per ogni tarnata di tiro ha determinato la classifica seguente:
+La gara si è protratta lungo tutta la mattinata e la somma dei punteggi per ogni tornata di tiro ha determinato la classifica seguente:
 
 * *Primo et meliore:* Luca Viviani del Falcone con **95** punti;
 * *Secondo et meliore:* Francesco Bianchini della Luna con **95** punti;
