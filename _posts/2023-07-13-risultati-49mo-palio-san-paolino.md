@@ -50,6 +50,9 @@ Tolte poi le verrette una per una alla presenza dei rispettivi Maestri d'arme de
 * Terza et Meliore: *Barbara Cerasommma* (CBL)
 * Quarto et Meliore: *Damiano Marchiò* (CBL)
 
-Il corniolo del 49mo Palio di S. Paolino è visibile presso il [Bar Enrico in Viale S. Concordio](https://goo.gl/maps/MotUZruvuAejhbJDA)
+Gallerie fotografiche:
+
+* [Palio (Morandi-Cadinu-Cupisti)](https://photos.app.goo.gl/mw66tpvNYyuEPZsYA)
+* [Luminara (Tommaso Giannini)](https://photos.app.goo.gl/yYc8K8q2isMkmAy4A)
 
 Per lo Santo Paolino, Onore e Gloria !
