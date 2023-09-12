@@ -5,7 +5,7 @@ image: /assets/images/2023/230903-cristina-winner-psc23_800S.jpg
 categories: 
   - albo
 author:
-  name: Giampaolo Russo, Andrea Morandi(📸)
+  name: Giampaolo Russo, Giuseppe Leonardi(📸)
 ---
 
 3 settembre 2023: giorno in cui si è disputata la 15ma edizione del Palio della Santa Croce, nel quale si sono sfidati al tiro individuale al corniolo la Compagnia Balestrieri di Lucca (CBL) e le Contrade di San Paolino (CSP), che alla fine della gara portano a casa l'ambito Palio.
