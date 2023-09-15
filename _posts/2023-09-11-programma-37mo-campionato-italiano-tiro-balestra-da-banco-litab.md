@@ -3,7 +3,7 @@ layout: post
 title: "Programma 37° Campionato Italiano di tiro con la Balestra da banco"
 image: /assets/images/2023/37mo-litab/banner1-37mo.jpg
 categories: 
-  - albo
+  - eventi
 author:
   name: Giampaolo Russo
 ---
