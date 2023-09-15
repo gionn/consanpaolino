@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Programma 37° Campionato Italiano di tiro con la Balestra da banco"
+title: "📜 Programma 37° Campionato Italiano di tiro con la Balestra da banco"
 image: /assets/images/2023/37mo-litab/banner1-37mo.jpg
 categories: 
   - eventi
@@ -13,7 +13,7 @@ Qui di seguito il programma completo degli eventi.
 
 <!-- more -->
 
-Dodici compagnie di Balestrieri facenti della [LITAB](https://www.litab.net/) provenienti da tutta Italia: Amelia, Assisi, Chioggia, Gualdo Tadino, Iglesias, Montefalco, Norcia, Pisa, Prarostino, Terra del Sole, Ventimiglia e le **Contrade di San Paolino di Lucca** si sfideranno per l'ambito titolo di Campioni nel tiro a squadra ed Individuali su tiro al corniolo.
+Dodici compagnie di Balestrieri facenti parte della [LITAB](https://www.litab.net/) provenienti da tutta Italia: Amelia, Assisi, Chioggia, Gualdo Tadino, Iglesias, Montefalco, Norcia, Pisa, Prarostino, Terra del Sole, Ventimiglia e le **Contrade di San Paolino di Lucca** si sfideranno per l'ambito titolo di Campioni nel tiro a squadra ed Individuali su tiro al corniolo.
 
 Sabato 16 Settembre
 
