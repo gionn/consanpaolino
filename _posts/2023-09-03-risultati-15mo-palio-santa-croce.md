@@ -36,4 +36,6 @@ Alla premiazione erano presenti il vicesindaco di Lucca *Giovanni Minniti*, il c
 
 Prossimo ed importante appuntamento il Campionato Italiano di Tiro con la Balestra Antica da Banco LITAB, giunto quest’anno alla sua *37esima edizione*, che andrà in scena **sabato 16 e domenica 17 settembre** rispettivamente a Piazza del Duomo con il torneo dei Maestri d'arme e dei Campioni e poi con la gara a squadre e individuale a Piazza della Cittadella a Pisa.
 
-Gallerie fotografiche 📸: (in arrivo)
+Gallerie fotografiche 📸:
+
+* [15mo Palio Santa Croce (Giuseppe Leonardi)](https://photos.app.goo.gl/4ZFYqBARD6b5FVRk7)
