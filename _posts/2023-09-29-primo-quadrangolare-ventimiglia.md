@@ -15,6 +15,6 @@ Si sfideranno quattro associazioni di tiro con la balestra da banco [LITAB](http
 Qui di seguito manifesto e programma della giornata.
 
 <figure class="align-center">
-    <img src="/assets/images/2023/231001-primo-quadrangolare-ventimiglia-banner.jpeg" alt="Manifesto e Programma del 1° Quadrangolare San Secondo a Ventimiglia">
+    <img src="/assets/images/2023/231001-primo-quadrangolare-ventimiglia-banner.jpg" alt="Manifesto e Programma del 1° Quadrangolare San Secondo a Ventimiglia">
   <figcaption>Manifesto e Programma del 1° Quadrangolare San Secondo a Ventimiglia</figcaption>
 </figure>
