@@ -1,37 +1,20 @@
 ---
 layout: post
-title: "Risultati 1° Quadrangolare San Secondo a Ventimiglia"
+title: "🎯 1° Quadrangolare San Secondo a Ventimiglia"
 categories: 
   - eventi
 author:
   name: Giampaolo Russo
 ---
 
-Ottimo risultato nella *Gara Individuale al Corniolo* del **1° Quadrangolare 'San Secondo' a Ventimiglia** dove il nostro balestriere **Matteo Naletto** si è distinto, piazzandosi primo.
-Qui di seguito i risultati della Gara a Squadre ed Individuale al Corniolo.
+La prossima **domenica 1 Ottobre** le Contrade sono state invitate a partecipare al **1° Quadrangolare 'San Secondo' a Ventimiglia**.
 
 <!-- more -->
 
-Risultati Gara a Squadre:
-
-* 🥇 Compagnia Balestrieri Roccapiatta-Prarostino
-* 🥈 Compagnia Balestrieri Ventimiglia
-* 🥉 Compagnia Balestrieri Pisa
-* 4° Ass. Contrade San Paolino di Lucca
-
-Le Contrade sono liete che i nostri balestrieri Mariela Gonzalez, Mauro De Luca e Lino Antonino, siano state di supporto e abbiano dato un buon contributo alla squadra di Roccapiatta-Prarostino.
-
-Risultati Gara individuale al Corniolo:
-
-* 🥇 Matteo Naletto (Ass. Contrade San Paolino di Lucca)
-* 🥈 Paola Maniscalco (Campagnia Balestrieri di Pisa)
-* 🥉 Dario Fraschia (Compagnia Balestrieri Roccapiatta-Prarostino)
-* 4° Cristina Baldini (Campagnia Balestrieri di Pisa)
+Si sfideranno quattro associazioni di tiro con la balestra da banco [LITAB](https://www.litab.net/): Lucca, Pisa, Prarostino e la città ospitante Ventimiglia in una gara a squadre e poi in una individuale di tiro al corniolo.
+Qui di seguito manifesto e programma della giornata.
 
 <figure class="align-center">
-    <img src="/assets/images/2023/231001-primo-corniolo-naletto.jpg" alt="Matteo Naletto 1° Classificato alla Gara Individuale al Corniolo">
-  <figcaption>Matteo Naletto 1° Classificato alla Gara Individuale al Corniolo</figcaption>
+    <img src="/assets/images/2023/231001-primo-quadrangolare-ventimiglia-banner.jpg" alt="Manifesto e Programma del 1° Quadrangolare San Secondo a Ventimiglia">
+  <figcaption>Manifesto e Programma del 1° Quadrangolare San Secondo a Ventimiglia</figcaption>
 </figure>
-
-Un ringraziamento particolare va alla *Compagnia Balestrieri Ventimiglia* per l'accoglienza, cordialità ed ospitalità dimostrata.
-Complimenti a Tutti, alla prossima !
