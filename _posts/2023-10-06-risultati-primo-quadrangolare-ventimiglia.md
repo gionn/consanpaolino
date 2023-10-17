@@ -19,7 +19,7 @@ Risultati Gara a Squadre:
 * 🥉 Compagnia Balestrieri Pisa
 * 4° Ass. Contrade San Paolino di Lucca
 
-Le Contrade sono liete che i nostri balestrieri Mariela Gonzalez, Mauro De Luca e Lino Antonino, siano state di supporto e abbiano dato un buon contributo alla squadra di Roccapiatta-Prarostino.
+Le Contrade sono liete che i nostri balestrieri Mariela Gonzalez, Mauro De Luca e Lino Antonino, siano stati di supporto e abbiano dato un buon contributo alla squadra di Roccapiatta-Prarostino.
 
 Risultati Gara individuale al Corniolo:
 
