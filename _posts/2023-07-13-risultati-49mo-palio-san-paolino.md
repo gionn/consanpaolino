@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "49mo Palio di San Paolino: trionfo in rosa delle Contrade"
+title: "🎯 49mo Palio di San Paolino: trionfo in rosa delle Contrade"
 image: /assets/images/2023/230712-cristina-fenili-49mo-psp-prima-et-meliore.jpg
 categories: 
   - albo

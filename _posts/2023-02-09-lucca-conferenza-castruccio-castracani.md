@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📜🎯 Lucca e la Valdinievole al tempo di Castruccio Castracani – Conferenza con il Prof. Daniele Zucconi"
+title: "📜 Lucca e la Valdinievole al tempo di Castruccio Castracani – Conferenza con il Prof. Daniele Zucconi"
 categories:
   - eventi
 author:

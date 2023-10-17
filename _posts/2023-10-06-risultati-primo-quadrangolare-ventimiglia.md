@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Risultati 1° Quadrangolare San Secondo a Ventimiglia"
+title: "🎯 Risultati 1° Quadrangolare San Secondo a Ventimiglia"
 categories: 
   - albo
 author:

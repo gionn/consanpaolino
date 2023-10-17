@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15° Palio della Santa Croce: successo senza pari (nuovamente in rosa) delle Contrade"
+title: "🎯 15° Palio della Santa Croce: successo senza pari (nuovamente in rosa) delle Contrade"
 image: /assets/images/2023/230903-cristina-winner-psc23_800S.jpg
 categories: 
   - albo

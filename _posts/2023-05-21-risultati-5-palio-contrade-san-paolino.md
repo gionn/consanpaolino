@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Il 🦀 trionfa nel V° Palio delle Contrade San Paolino (+risultati 2a gara sociale 🎯)"
+title: "🎯 Il 🦀 trionfa nel V° Palio delle Contrade San Paolino (e risultati 2a gara sociale)"
 image: /assets/images/2023/palio5-contrade/230521-palio5-banner.jpg
 categories:
   - albo
