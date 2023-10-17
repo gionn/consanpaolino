@@ -22,5 +22,5 @@ Al mattino si è disputata invece la 5ª gara sociale la cui classifica finale �
 
 * Primo et meliore: Luca Viviani della Contrada del Falcone 🦅 con **96** punti
 * Seconda et meliore: Simona Stefani della Contrada della Luna 🌜con **95** punti
-* Terza et meliore: Mauro Tolomei della Contrada del Granchio 🦀 con **94** punti
+* Terzo et meliore: Mauro Tolomei della Contrada del Granchio 🦀 con **94** punti
 * Quarto et meliore: Matteo Naletto della Contrada della Sirena 🧜🏻 con **94** punti
