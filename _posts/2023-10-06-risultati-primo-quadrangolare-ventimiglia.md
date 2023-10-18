@@ -33,5 +33,7 @@ Risultati Gara individuale al Corniolo:
   <figcaption>Matteo Naletto 1° Classificato alla Gara Individuale al Corniolo</figcaption>
 </figure>
 
+[Galleria fotografica 📸](https://photos.app.goo.gl/U4mDmtCT27Kx4PLy5)
+
 Un ringraziamento particolare va alla *Compagnia Balestrieri Ventimiglia* per l'accoglienza, cordialità ed ospitalità dimostrata.
 Complimenti a Tutti, alla prossima !
