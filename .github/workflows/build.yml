@@ -91,6 +91,13 @@ jobs:
           mkdir ./_site
           tar xf artifact.tar -C ./_site
 
+      - name: Configure robots disallow
+        run: |
+          cat << EOF > ./_site/robots.txt
+          User-agent: *
+          Disallow: /
+          EOF
+
       - name: Install rclone
         run: sudo apt-get install -y rclone
 
