@@ -82,6 +82,9 @@ collections:
   competitions:
     output: true
     permalink: /:collection/:year/:month/:day/:title
+  mestieri:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -102,6 +105,13 @@ defaults:
       layout: competition
       share: false
       sitemap: false
+  - scope:
+      path: "_mestieri"
+      type: mestieri
+    values:
+      layout: post
+      comments: false
+      share: false
 
 # Site Author
 author:
