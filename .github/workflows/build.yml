@@ -86,9 +86,11 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: github-pages
-      - run: |
-          tar xf artifact.tar
+      - name: Unpack artifact
+        run: |
+          tar xf artifact.tar -C ./_site
           ls -l
+          ls -l _site
       - name: Install rclone
         run: sudo apt-get install -y rclone
       - name: Setup rclone
@@ -107,4 +109,4 @@ jobs:
           storage_class = STANDARD
           EOF
       - name: Deploy
-        run: rclone sync ./_site/ scaleway-consanpaolino-preview:consanpaolino-preview
+        run: rclone sync ./_site/ scaleway:consanpaolino-preview
