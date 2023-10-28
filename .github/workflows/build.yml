@@ -86,5 +86,25 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: github-pages
-      - run: ls -l
-      - run: sudo apt-get install -y rclone
+      - run: |
+          tar xf artifact.tar
+          ls -l
+      - name: Install rclone
+        run: sudo apt-get install -y rclone
+      - name: Setup rclone
+        env:
+          RCLONE_CONFIG_SCALEWAY_ACCESS_KEY_ID: ${{ secrets.SCALEWAY_ACCESS_KEY_ID }}
+          RCLONE_CONFIG_SCALEWAY_SECRET_ACCESS_KEY: ${{ secrets.SCALEWAY_SECRET_ACCESS_KEY_ID }}
+        run: |
+          mkdir -p .config/rclone
+          cat << EOF > .config/rclone/rclone.conf
+          [scaleway]
+          type = s3
+          provider = Scaleway
+          region = fr-par
+          endpoint = s3.fr-par.scw.cloud
+          acl = public-read
+          storage_class = STANDARD
+          EOF
+      - name: Deploy
+        run: rclone sync ./_site/ scaleway-consanpaolino-preview:consanpaolino-preview
