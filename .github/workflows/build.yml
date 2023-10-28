@@ -24,8 +24,8 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
         with:
-          node-version-file: '.nvmrc'
-          cache: 'npm'
+          node-version-file: ".nvmrc"
+          cache: "npm"
 
       - name: Install node dependencies
         run: npm ci
@@ -43,7 +43,7 @@ jobs:
 
       - name: Build
         run: bundle exec jekyll build
-      
+
       - name: Validate HTML output
         run: bundle exec htmlproofer ./_site --ignore-missing-alt --disable-external --enforce-https false --allow-missing-href true
 
@@ -53,8 +53,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: '_site'
-
+          path: "_site"
 
   deploy:
     if: github.ref_name == 'master'
@@ -86,14 +85,15 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: github-pages
+
       - name: Unpack artifact
         run: |
           mkdir ./_site
           tar xf artifact.tar -C ./_site
-          ls -l
-          ls -l _site
+
       - name: Install rclone
         run: sudo apt-get install -y rclone
+
       - name: Setup rclone
         env:
           RCLONE_CONFIG_SCALEWAY_ACCESS_KEY_ID: ${{ secrets.SCALEWAY_ACCESS_KEY_ID }}
@@ -109,5 +109,6 @@ jobs:
           acl = public-read
           storage_class = STANDARD
           EOF
-      - name: Deploy
+
+      - name: Deploy preview
         run: rclone sync ./_site/ scaleway:consanpaolino-preview
