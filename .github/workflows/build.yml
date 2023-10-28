@@ -54,12 +54,21 @@ jobs:
         run: bundle exec htmlproofer ./_site --ignore-missing-alt --disable-external --enforce-https false --allow-missing-href true
 
       - name: Setup Pages
+        if: github.ref_name == 'master'
         uses: actions/configure-pages@v3
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
+        if: github.ref_name == 'master'
         uses: actions/upload-pages-artifact@v2
         with:
           path: "_site"
+
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v3
+        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+        with:
+          name: preview
+          path: _site
 
   deploy:
     if: github.ref_name == 'master'
@@ -90,7 +99,7 @@ jobs:
     steps:
       - uses: actions/download-artifact@v3
         with:
-          name: github-pages
+          name: preview
 
       - name: Unpack artifact
         run: |
