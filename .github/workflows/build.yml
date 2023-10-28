@@ -70,13 +70,13 @@ jobs:
           path: "_site"
 
       - name: Create preview artifact
-        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft && github.actor != 'dependabot[bot]'
         run: |
           tar czf artifact.tar.gz _site
 
       - name: Upload preview artifact
         uses: actions/upload-artifact@v3
-        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft && github.actor != 'dependabot[bot]'
         with:
           name: preview
           path: artifact.tar.gz
@@ -98,7 +98,7 @@ jobs:
           curl -sS http://www.bing.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
 
   preview:
-    if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+    if: github.event_name == 'pull_request' && ! github.event.pull_request.draft && github.actor != 'dependabot[bot]'
     concurrency:
       group: preview
       cancel-in-progress: false
