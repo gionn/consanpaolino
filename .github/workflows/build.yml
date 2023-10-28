@@ -2,6 +2,12 @@ name: Validate & Publish
 
 on:
   push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+    types: [opened, reopened, synchronize, ready_for_review]
 
 permissions:
   contents: read
@@ -9,7 +15,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages-${{ github.ref_name }}
+  group: pages-${{ github.head_ref || github.ref_name }}
   cancel-in-progress: true
 
 jobs:
@@ -24,8 +30,8 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
         with:
-          node-version-file: '.nvmrc'
-          cache: 'npm'
+          node-version-file: ".nvmrc"
+          cache: "npm"
 
       - name: Install node dependencies
         run: npm ci
@@ -41,9 +47,15 @@ jobs:
         with:
           bundler-cache: true
 
+      - name: Preview overrides
+        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+        run: |
+          yq eval '.permalink = "/:year/:title/"' _config.yml -i
+          sed -i -r 's,(url: /[a-z-]+),\1.html,' _data/navigation.yml
+
       - name: Build
         run: bundle exec jekyll build
-      
+
       - name: Validate HTML output
         run: bundle exec htmlproofer ./_site --ignore-missing-alt --disable-external --enforce-https false --allow-missing-href true
 
@@ -51,12 +63,23 @@ jobs:
         if: github.ref_name == 'master'
         uses: actions/configure-pages@v3
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         if: github.ref_name == 'master'
         uses: actions/upload-pages-artifact@v2
         with:
-          path: '_site'
+          path: "_site"
 
+      - name: Create preview artifact
+        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+        run: |
+          tar czf artifact.tar.gz _site
+
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v3
+        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+        with:
+          name: preview
+          path: artifact.tar.gz
 
   deploy:
     if: github.ref_name == 'master'
@@ -73,3 +96,51 @@ jobs:
         run: |
           curl -sS http://www.google.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
           curl -sS http://www.bing.com/ping?sitemap=https://consanpaolino.org/sitemap.xml
+
+  preview:
+    if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+    concurrency:
+      group: preview
+      cancel-in-progress: false
+    environment:
+      name: preview
+      url: https://consanpaolino-preview.s3-website.fr-par.scw.cloud
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - uses: actions/download-artifact@v3
+        with:
+          name: preview
+
+      - name: Unpack artifact
+        run: |
+          tar xf artifact.tar.gz
+
+      - name: Configure robots disallow
+        run: |
+          cat << EOF > ./_site/robots.txt
+          User-agent: *
+          Disallow: /
+          EOF
+
+      - name: Install rclone
+        run: sudo apt-get install -y rclone
+
+      - name: Configure rclone
+        run: |
+          mkdir -p $HOME/.config/rclone
+          cat << EOF > $HOME/.config/rclone/rclone.conf
+          [scaleway]
+          type = s3
+          provider = Scaleway
+          region = fr-par
+          endpoint = s3.fr-par.scw.cloud
+          acl = public-read
+          storage_class = STANDARD
+          EOF
+
+      - name: Deploy preview
+        env:
+          RCLONE_CONFIG_SCALEWAY_ACCESS_KEY_ID: ${{ secrets.SCALEWAY_ACCESS_KEY_ID }}
+          RCLONE_CONFIG_SCALEWAY_SECRET_ACCESS_KEY: ${{ secrets.SCALEWAY_SECRET_ACCESS_KEY_ID }}
+        run: rclone sync ./_site/ scaleway:consanpaolino-preview
