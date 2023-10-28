@@ -99,8 +99,8 @@ jobs:
           RCLONE_CONFIG_SCALEWAY_ACCESS_KEY_ID: ${{ secrets.SCALEWAY_ACCESS_KEY_ID }}
           RCLONE_CONFIG_SCALEWAY_SECRET_ACCESS_KEY: ${{ secrets.SCALEWAY_SECRET_ACCESS_KEY_ID }}
         run: |
-          mkdir -p .config/rclone
-          cat << EOF > .config/rclone/rclone.conf
+          mkdir -p $HOME/.config/rclone
+          cat << EOF > $HOME/.config/rclone/rclone.conf
           [scaleway]
           type = s3
           provider = Scaleway
