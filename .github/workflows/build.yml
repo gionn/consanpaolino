@@ -63,12 +63,17 @@ jobs:
         with:
           path: "_site"
 
+      - name: Create preview artifact
+        if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
+        run: |
+          tar czf artifact.tar.gz _site
+
       - name: Upload preview artifact
         uses: actions/upload-artifact@v3
         if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
         with:
           name: preview
-          path: _site
+          path: artifact.tar.gz
 
   deploy:
     if: github.ref_name == 'master'
@@ -103,8 +108,7 @@ jobs:
 
       - name: Unpack artifact
         run: |
-          mkdir ./_site
-          tar xf artifact.tar -C ./_site
+          tar xf artifact.tar.gz
 
       - name: Configure robots disallow
         run: |
