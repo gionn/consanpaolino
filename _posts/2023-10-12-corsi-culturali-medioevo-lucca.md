@@ -11,7 +11,7 @@ passioni di chiunque fosse interessato:
 
 <!-- more -->
 
-* Il Corso di **Miniatura Medievale**, sotto le mai esperte di Ornella.
+* Il Corso di **Miniatura Medievale**, sotto le mani esperte di Ornella.
 * Il Corso di **Incisione su Marmo**, con il maestro scalpellino Alberto.
 * Il Corso di **Cornamusa Medievale**, con il musico Alessandro.
 
