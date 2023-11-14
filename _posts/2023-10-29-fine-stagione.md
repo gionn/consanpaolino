@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "🦅🦀🌛🧜‍♀️ Finale di stagione 2023 🎯"
@@ -15,17 +14,17 @@ Dopo un tiro di prova a disposizione si sono effettuate in tutto tre tornate di 
 
 La gara si è svolta per tutta la mattinata ed alla fine la somma dei punteggi per ciascun balestriere ha determinato la classifica seguente:
 
-* *Primo et meliore:* Giampaolo Russo della **Luna** con **96** punti;
-* *Secondo et meliore:* Maria Chiara Isoppo della **Sirena** con **94** punti;
-* *Terza et meliore:* Francesco Bianchini della **Luna** con **92** punti;
-* *Quarto et meliore:* Giovanni Barsanti del **Granchio** con **92** punti.
+- *Primo et meliore:* Giampaolo Russo della **Luna** con **96** punti;
+- *Secondo et meliore:* Maria Chiara Isoppo della **Sirena** con **94** punti;
+- *Terza et meliore:* Francesco Bianchini della **Luna** con **92** punti;
+- *Quarto et meliore:* Giovanni Barsanti del **Granchio** con **92** punti.
 
 Con quest'ultima gara sociale si conclude quindi il **Campionato Sociale delle Contrade 2023** con i seguenti risultati:
 
-* 🥇 Simona Stefani della **Luna**
-* 🥈 Francesco Bianchini della **Luna**
-* 🥉 Giampaolo Russo della **Luna**
-* 4° Matteo Naletto della **Sirena**
+- 🥇 Simona Stefani della **Luna**
+- 🥈 Francesco Bianchini della **Luna**
+- 🥉 Giampaolo Russo della **Luna**
+- 4° Matteo Naletto della **Sirena**
 
 Le attività delle Contrade continueranno nella nostra [Casermetta](https://maps.app.goo.gl/SkoWk754MTjzj5Cb9) con uno spettacolo teatrale **domenica 26 Novembre alle 15,30** in collaborazione con il professor Daniele Zucconi con dialoghi tratti dal suo libro *L’ombra della pantera*.
 
