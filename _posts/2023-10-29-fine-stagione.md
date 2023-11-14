@@ -28,4 +28,4 @@ Con quest'ultima gara sociale si conclude quindi il **Campionato Sociale delle C
 
 Le attività delle Contrade continueranno nella nostra [Casermetta](https://maps.app.goo.gl/SkoWk754MTjzj5Cb9) con uno spettacolo teatrale **domenica 26 Novembre alle 15,30** in collaborazione con il professor Daniele Zucconi con dialoghi tratti dal suo libro *L’ombra della pantera*.
 
-Ed oltre al nuovo corso di formazione per balestrieri che partirà il prossimo **13 Novembre**, a Gennaio partiranno dei corsi nuovi di zecca: **Miniatura Medievale**, **Incisione su Marmo** e **Cornamusa Medievale**.
+Ed oltre al nuovo corso di formazione per balestrieri che partirà il prossimo **13 Novembre**, a Gennaio partiranno dei [corsi nuovi](/2023/corsi-culturali-medioevo-lucca/) di zecca: **Miniatura Medievale**, **Incisione su Marmo** e **Cornamusa Medievale**.
