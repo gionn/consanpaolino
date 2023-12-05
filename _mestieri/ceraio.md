@@ -1,7 +1,7 @@
 ---
 title: Ceraio
 image: 
-  path: /assets/images/mestieri/1200/ceraio-1_200.jpg
+  path: /assets/images/mestieri/1200/ceraio-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/ceraio-1_400.jpg
   caption: "Il ceraio"
 ---
