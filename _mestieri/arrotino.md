@@ -1,8 +1,8 @@
 ---
 title: Fabbro + Arrotino
 image: 
-  path: /assets/images/mestieri/1200/fabbro+arrotino-1-1200.jpg
-  thumbnail: /assets/images/mestieri/400/fabbro+arrotino-1-400.jpg
+  path: /assets/images/mestieri/1200/fabbro+arrotino-1_1200.jpg
+  thumbnail: /assets/images/mestieri/400/fabbro+arrotino-1_400.jpg
   caption: "Il fabbro e l'arrotino"
 ---
 

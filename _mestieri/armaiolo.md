@@ -2,7 +2,7 @@
 title: Armoraro
 image: 
   path: /assets/images/mestieri/1200/armoraro-1-1200.jpg
-  thumbnail: /assets/images/mestieri/400l/armoraro-1-400.jpg
+  thumbnail: /assets/images/mestieri/400/armoraro-1-400.jpg
   caption: "L'Armoraro"
 ---
 

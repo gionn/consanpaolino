@@ -1,8 +1,8 @@
 ---
 title: Falegname
 image: 
-  path: /assets/images/mestieri/1200/falegname-1-1200.jpg
-  thumbnail: /assets/images/mestieri/400/falegname-1-400.jpg
+  path: /assets/images/mestieri/1200/falegname-1_1200.jpg
+  thumbnail: /assets/images/mestieri/400/falegname-1_400.jpg
   caption: "Il falegname"
 ---
 
