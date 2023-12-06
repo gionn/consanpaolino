@@ -1,5 +1,7 @@
 ---
-title: 🖼️Il Miniatore
+title: 🖼️ Il Miniatore
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/miniatore-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/miniatore-1_400.jpg

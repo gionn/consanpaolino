@@ -1,9 +1,11 @@
 ---
-title: 🪚Il Falegname
+title: 🪚 Il Falegname
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/falegname-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/falegname-1_400.jpg
-  caption: "Il falegname"
+  caption: "Il Falegname"
 ---
 
 

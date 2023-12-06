@@ -1,5 +1,7 @@
 ---
-title: 🧣Il Tessitore
+title: 🧣 Il Tessitore
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/tessitore-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/tessitore-1_400.jpg

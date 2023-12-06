@@ -1,9 +1,11 @@
 ---
-title: 🔨🔪Il Fabbro e Arrotino
+title: 🔨 Il Fabbro e 🔪 l'Arrotino
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/fabbro+arrotino-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/fabbro+arrotino-1_400.jpg
-  caption: "Il fabbro e l'arrotino"
+  caption: "Il Fabbro e l'Arrotino"
 ---
 
 

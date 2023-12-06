@@ -1,5 +1,7 @@
 ---
-title: 🏺Il Vasaio
+title: 🏺 Il Vasaio
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/vasaio-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/vasaio-1_400.jpg

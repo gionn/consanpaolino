@@ -1,5 +1,7 @@
 ---
-title: 🪙Il Monetiere
+title: 🪙 Il Monetiere
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/monetiere-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/monetiere-1_400.jpg

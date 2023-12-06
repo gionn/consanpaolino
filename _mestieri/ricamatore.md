@@ -1,5 +1,7 @@
 ---
-title: 🪡Il Ricamatore
+title: 🪡 Il Ricamatore
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/ricamatore-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/ricamatore-1_400.jpg

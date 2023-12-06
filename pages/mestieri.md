@@ -1,5 +1,7 @@
 ---
 title: Mestieri
+author:
+  name: Giampaolo Russo
 layout: collection
 permalink: /mestieri/
 collection: mestieri

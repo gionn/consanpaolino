@@ -1,9 +1,11 @@
 ---
-title: 👡Lo Zoccolaro
+title: 👡 Lo Zoccolaro
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/zoccolaro-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/zoccolaro-1_400.jpg
-  caption: "Lo zoccolaro"
+  caption: "Lo Zoccolaro"
 ---
 
 

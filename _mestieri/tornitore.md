@@ -1,5 +1,7 @@
 ---
-title: 🪑Il Tornitore
+title: 🪑 Il Tornitore
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/tornitore-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/tornitore-1_400.jpg

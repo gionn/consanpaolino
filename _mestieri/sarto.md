@@ -1,5 +1,7 @@
 ---
-title: 🧵Il Sarto
+title: 🧵 Il Sarto
+author:
+  name: Giampaolo Russo
 image: 
   path: /assets/images/mestieri/1200/sarto-1_1200.jpg
   thumbnail: /assets/images/mestieri/400/sarto-1_400.jpg
