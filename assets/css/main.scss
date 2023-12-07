@@ -4,7 +4,14 @@ sitemap: false
 
 @charset "utf-8";
 
+/* DEFAULTS
+$base-font-size: 16px;
+$min-font-size: 16px;
+$max-font-size: 18px;
+*/
+
 $min-font-size: 18px;
+$max-font-size: 20px;
 
 @import "so-simple";
 
@@ -100,4 +107,8 @@ form.wj-contact input[type="submit"] {
     margin: 0.25em 0 1.5em 0;
     border: 1px solid transparent;
     height: auto;
+}
+
+.entries-grid .entry-title {
+  @include fluid-type($min-vw, $max-vw, 24px, 26px);
 }

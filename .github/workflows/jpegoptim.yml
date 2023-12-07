@@ -1,7 +1,9 @@
 name: Optimize jpg files
 
 on:
-  push:
+  pull_request:
+    branches:
+      - master
     paths:
       - '**.jpg'
 
@@ -21,10 +23,12 @@ jobs:
         run: sudo apt-get install -y jpegoptim
 
       - name: List all changed files
+        env:
+          CHANGED: ${{ steps.changed-files.outputs.added_files }}
         run: |
-          for file in ${{ steps.changed-files.outputs.added_files }}; do
-            echo "Found changed: $file"
+          for file in $CHANGED; do
             if [[ "$file" = *".jpg"* ]]; then
+              echo "Trying to optimize $file"
               jpegoptim "$file"
             fi
           done

@@ -51,7 +51,7 @@ jobs:
         if: github.event_name == 'pull_request' && ! github.event.pull_request.draft
         run: |
           yq eval '.permalink = "/:year/:title/"' _config.yml -i
-          sed -i -r 's,(url: /[a-z-]+),\1.html,' _data/navigation.yml
+          sed -i -r 's,(url: /[a-z-]+$),\1.html,' _data/navigation.yml
 
       - name: Build
         run: bundle exec jekyll build
