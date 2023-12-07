@@ -8,8 +8,9 @@ image:
   caption: "Il Sarto"
 ---
 
-
-Il mestiere del sarto nel Medioevo si afferma a partire dal XII secolo, in un contesto storico caratterizzato da importanti trasformazioni sociali, economiche e culturali.
+Il mestiere del sarto nel Medioevo si affermò a partire dal XII secolo, in un
+contesto storico caratterizzato da importanti trasformazioni sociali, economiche
+e culturali.
 
 <!-- more -->
 
@@ -18,4 +19,8 @@ Il mestiere del sarto nel Medioevo si afferma a partire dal XII secolo, in un co
   <figcaption>Il sarto e il suo laboratorio</figcaption>
 </figure>
 
-I sarti erano artigiani qualificati che tagliavano e cucivano abiti su misura, utilizzando materiali di origine animale o vegetale. Il colore degli abiti rivestiva un importante funzione sociale assieme al tipo di materiale utilizzato per la loro realizzazione, ed il mestiere del sarto è associato alla nascita della moda.
+I sarti erano artigiani qualificati che tagliavano e cucivano abiti su misura,
+utilizzando materiali di origine animale o vegetale. Il colore degli abiti
+rivestiva un importante funzione sociale, assieme al tipo di materiale
+utilizzato per la loro realizzazione, e il mestiere del sarto è associato alla
+nascita della moda.

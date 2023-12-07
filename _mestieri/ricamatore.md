@@ -8,8 +8,10 @@ image:
   caption: "Il Ricamatore"
 ---
 
-
-Il ricamo era un'arte importante nel Medioevo, e veniva utilizzato per decorare capi di abbigliamento, vessilli e altri oggetti. I ricami medievali erano spesso di grande valore artistico e storico, e rappresentano un'importante testimonianza della vita in questo periodo.
+Il ricamo era un'arte importante nel Medioevo, e veniva utilizzato per decorare
+capi di abbigliamento, vessilli e altri oggetti. I ricami medievali erano spesso
+di grande valore artistico e storico e rappresentano un'importante testimonianza
+della vita in questo periodo.
 
 <!-- more -->
 
@@ -18,4 +20,7 @@ Il ricamo era un'arte importante nel Medioevo, e veniva utilizzato per decorare 
   <figcaption>Ricamatrice all'opera</figcaption>
 </figure>
 
-Il ricamare, durante il Medioevo, era un'attività a prevalenza femminile svolta dalle classi più agiate. I materiali utilizzati erano di origine animale o vegetale, e le tecniche utilizzate erano diverse. L'Arazzo di Bayeux è l'esempio più importante di ricamo medievale.
+Il ricamo, durante il Medioevo, era un'attività prevalentemente femminile svolta
+dalle classi più agiate. I materiali utilizzati erano di origine animale o
+vegetale, e le tecniche utilizzate erano diverse. L'Arazzo di Bayeux è l'esempio
+più importante di ricamo medievale.

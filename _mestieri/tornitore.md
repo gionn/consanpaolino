@@ -8,8 +8,11 @@ image:
   caption: "Il Tornitore"
 ---
 
-
-Il tornio è uno strumento molto antico che è stato utilizzato per la prima volta in Egitto nel 1300 a.C. ed era anche conosciuto ed usato in Assiria e in Grecia. Gli antichi romani vennero a conoscenza di questa macchina e svilupparono ulteriormente il tornio realizzando macchine sempre più precise e performanti.
+Il tornio è uno strumento molto antico che è stato utilizzato per la prima volta
+in Egitto nel 1300 a.C., ed era anche conosciuto ed usato in Assiria e in
+Grecia. Gli antichi Romani vennero a conoscenza di questa macchina e
+svilupparono ulteriormente il tornio, realizzando macchine sempre più precise e
+performanti.
 
 <!-- more -->
 
@@ -18,4 +21,7 @@ Il tornio è uno strumento molto antico che è stato utilizzato per la prima vol
   <figcaption>Tornitura di una gamba per una sedia</figcaption>
 </figure>
 
-Nel periodo medievale il tornio prese sviluppo nella versione a “Palo” che poi venne perfezionato in epoca leonardesca con l’introduzione del pedale e della biella. La macchina è rimasta pressoché immutata nel suo funzionamento fino all’epoca industriale.
+Nel periodo medievale, il tornio prese sviluppo nella versione a "palo", che poi
+venne perfezionato in epoca leonardesca con l'introduzione del pedale e della
+biella. La macchina è rimasta pressoché immutata nel suo funzionamento fino
+all'epoca industriale.
