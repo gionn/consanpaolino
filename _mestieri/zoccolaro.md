@@ -8,10 +8,11 @@ image:
   caption: "Lo Zoccolaro"
 ---
 
-Nel XII secolo, i calzolai erano riuniti in corporazioni, che comprendevano
-diverse categorie specializzate, come i "Solarii", che producevano suole, e i
-"Patitari", che producevano zoccoli. A Venezia, erano chiamati "Caleghéri e
-Zavateri" (calzolai e ciabattini).
+Nel XII secolo, i calzolai erano organizzati in corporazioni, che comprendevano
+diverse categorie specializzate. Tra queste, vi erano i 'Solarii', specializzati
+nella produzione di suole, e i 'Patitari', che si dedicavano alla fabbricazione
+di zoccoli. A Venezia, questi artigiani erano noti come 'Caleghéri' (calzolai) e
+'Zavateri' (ciabattini).
 
 <!-- more -->
 

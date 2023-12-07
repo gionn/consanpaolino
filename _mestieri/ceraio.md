@@ -27,5 +27,5 @@ che erano utilizzate principalmente durante le festività religiose. Dopo il
 crollo dell'Impero Romano, l'olio di oliva divenne una materia prima di
 difficile reperibilità. Ciò fece in modo che le candele diventassero più comuni,
 anche in Europa, dove erano precedentemente poco diffuse. Nel Medioevo, i
-fabbricanti di candele (noti come candelai) fabbricavano le candele anche dai
-grassi avanzati in cucina.
+fabbricanti di candele (noti come candelai) iniziarono a produrre candele anche
+riutilizzando i grassi avanzati in cucina.

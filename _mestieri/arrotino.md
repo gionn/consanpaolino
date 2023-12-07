@@ -12,7 +12,8 @@ image:
 La figura del fabbro era spesso associata a quella del dio del fuoco e degli
 inferi, Efesto (Vulcano per i Romani). Questo legame conferiva al mestiere del
 fabbro un'aura magica e mistica, che lo ha accompagnato fino ai nostri tempi. I
-primi fabbri probabilmente riscaldavano il ferro nei fuochi di legna.
+primi fabbri, con ogni probabilità, riscaldavano il ferro in fuochi alimentati
+da legna.
 
 <!-- more -->
 
