@@ -8,8 +8,7 @@ image:
   caption: "Il Falegname"
 ---
 
-
-La falegnameria è un'arte antica che l'uomo pratica da millenni. Fin dall'inizio, l'uomo ha utilizzato il legno per costruire utensili, ripari, ponti, ruote e altri strumenti, non solo in Europa, ma in tutto il mondo.
+La falegnameria è un'arte antica praticata dall'uomo da millenni. Fin dall'inizio, l'uomo ha utilizzato il legno per costruire utensili, ripari, ponti, ruote e altri strumenti, non solo in Europa, ma in tutto il mondo.
 
 <!-- more -->
 
@@ -18,4 +17,8 @@ La falegnameria è un'arte antica che l'uomo pratica da millenni. Fin dall'inizi
   <figcaption>Trapanatura di un'asse di legno con antico trapano a corda</figcaption>
 </figure>
 
-Le prime testimonianze di falegnameria risalgono addirittura a 8.000 anni fa, quando furono costruiti i primi strumenti di lavoro. Nel Medioevo, la pratica del disboscamento per ricavare nuove aree da coltivare rese il legno sempre più scarso e costoso. Per questo motivo, si iniziò a sostituire il legno con materiali compositi alternativi, come il compensato e il truciolato.
+Le prime testimonianze di falegnameria risalgono addirittura a 8.000 anni fa,
+quando furono costruiti i primi strumenti di lavoro. Nel Medioevo, la pratica
+del disboscamento per ricavare nuove aree da coltivare rese il legno sempre più
+scarso e costoso. Per questo motivo, si iniziò a sostituire il legno con
+materiali compositi alternativi, come il compensato e il truciolare.
