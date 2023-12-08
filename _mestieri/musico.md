@@ -20,8 +20,4 @@ nelle funzioni religiose, come la messa, e nelle processioni.
   <figcaption>Esecuzione strumentale del musico</figcaption>
 </figure>
 
-I musicisti erano spesso giullari, che combinavano musica, danza e teatro. La
-musica profana, invece, era quella utilizzata nelle occasioni non religiose. Era
-spesso impiegata per accompagnare balli e festeggiamenti. I generi di musica
-profana più popolari nel Medioevo includevano il canto cortese, il canto
-popolare e la musica strumentale.
+La musica profana, invece, era quella utilizzata nelle occasioni non religiose. Era spesso impiegata per accompagnare balli e festeggiamenti. I generi di musica profana più popolari nel Medioevo includevano il canto cortese, il canto popolare e la musica strumentale. I musicisti erano spesso giullari, che combinavano musica, danza e teatro.
