@@ -12,7 +12,7 @@ Sicuramente ci avrai visto sfilare almeno una volta per le strade di **Lucca**
 in occasione delle festività di **San Paolino** a Luglio o della **Santa Croce**
 a Settembre.
 
-Qui di seguito trovi elencati i corsiorganizzati dalla nostra associazione
+Qui di seguito trovi elencati i corsi organizzati dalla nostra associazione
 attualmente attivi:
 
 * [Corso di tamburo storico](/corso-tamburo-lucca)
