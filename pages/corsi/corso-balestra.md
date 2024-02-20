@@ -17,8 +17,8 @@ di preparare, anno dopo anno, la rosa dei **12 tiratori** che parteciperanno al
 **campionato italiano** [LITAB](https://www.litab.net/), a cui partecipano 13 squadre con i migliori
 tiratori da tutta Italia.
 
-[Regolamento LITAB per balestra antica da banco (rev.19-11-2023) in formato PDF](/pages/corsi/files/20231119-regolamento-litab.pdf)
-[Slides corso ACSP Regolamento LITAB in formato PDF](/pages/corsi/files/20231119-regolamento-litab-slides-corso-acsp.pdf)
+* [Regolamento LITAB per balestra antica da banco (rev.19-11-2023) in formato PDF](/pages/corsi/files/20231119-regolamento-litab.pdf)
+* [Slides corso ACSP Regolamento LITAB in formato PDF](/pages/corsi/files/20231119-regolamento-litab-slides-corso-acsp.pdf)
 
 Accettiamo iscrizioni per il corso dai **16 anni** di età, ma per poter
 gareggiare sono necessari i **18 anni** compiuti.
