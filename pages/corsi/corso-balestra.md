@@ -14,14 +14,16 @@ davanti ad ogni condizione di tiro.
 
 L'obiettivo principale del gruppo balestrieri di Contrade San Paolino è quello
 di preparare, anno dopo anno, la rosa dei **12 tiratori** che parteciperanno al
-**campionato italiano** LITAB, a cui partecipano 13 squadre con i migliori
+**campionato italiano** [LITAB](https://www.litab.net/), a cui partecipano 13 squadre con i migliori
 tiratori da tutta Italia.
+
+[Regolamento LITAB per balestra antica da banco (rev.19-11-2023) in formato PDF](/corsi/files/20231119-regolamento-litab.pdf)
+[Slides corso ACSP Regolamento LITAB in formato PDF](/corsi/files/20231119-regolamento-litab-slides-corso-acsp.pdf)
 
 Accettiamo iscrizioni per il corso dai **16 anni** di età, ma per poter
 gareggiare sono necessari i **18 anni** compiuti.
 
-Dove siamo: [Campo Tiri della Repubblica di
-Lucca](https://goo.gl/maps/swrB4cqWqA52) a Pontetetto (LU).
+Dove siamo: [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/swrB4cqWqA52) a Pontetetto (LU).
 
 ## Richiedi informazioni
 
