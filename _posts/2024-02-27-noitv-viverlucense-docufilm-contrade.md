@@ -9,7 +9,7 @@ author:
   name: Giampaolo Russo
 ---
 
-**Viver Lucense** è un programma di approfondimento che l'emittente lucchese [NoiTV]https://www.noitv.it dedica ai personaggi ed alle realtà di spicco del territorio con cadenza settimanale. La puntata del 25 Febbraio 2024 è interamente riservata alle Contrade di S.Paolino dell'omonimo Terziere in cui era stata divisa la città di Lucca in epoca medievale.
+**Viver Lucense** è un programma di approfondimento che l'emittente lucchese [NoiTV](https://www.noitv.it) dedica ai personaggi ed alle realtà di spicco del territorio con cadenza settimanale. La puntata del 25 Febbraio 2024 è interamente riservata alle Contrade di S.Paolino dell'omonimo Terziere in cui era stata divisa la città di Lucca in epoca medievale.
 
 <!-- more -->
 
