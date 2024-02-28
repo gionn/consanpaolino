@@ -5,13 +5,14 @@ categories:
   - albo
 author:
   name: Giampaolo Russo
+image: /assets/images/2024/secondo-palio-marmotta-finale_600h.jpg
 ---
 
-Torna in grande spolvero il *2° Palio della Marmotta* con una numerosa partecipazione dei **Balestrieri delle Contrade di San Paolino** per il risveglio di massa dal letargo invernale in vista della primavera più assordante di sempre.
+ Per la seconda volta torna in grande spolvero il *Palio della Marmotta* con una numerosa partecipazione dei **Balestrieri delle Contrade di San Paolino** per il risveglio in massa dal letargo invernale più assordante di sempre in vista della primavera.
 
 <!-- more -->
 
-È una gara a turni dove i balestrieri estratti a sorte si fronteggiano in coppie ad eliminazione diretta. Chi vince e passa il turno si fronteggia con gli altri vincitori sempre accoppiati e così via fino agli ultimi due finalisti a contendersi il palio.
+È una gara a turni dove i balestrieri estratti a sorte si fronteggiano a coppie ad eliminazione diretta. Chi perde viene eliminato definitivamente ma chi vince e passa il turno ha la possibilità di continuare affrontando gli altri vincitori sempre accoppiati tra loro e così via fino agli ultimi due finalisti a contendersi il palio.
 
 Qui di seguito la classifica finale:
 
@@ -22,5 +23,5 @@ Qui di seguito la classifica finale:
 
 <figure class="align-center">
     <img src="/assets/images/2024/secondo-palio-marmotta_800w.jpg" alt="secondo palio marmotta">
-  <figcaption>Il Palio della Marmotta realizzato Luca Viviani vinto dalla Contrada del Granchio</figcaption>
+  <figcaption>Il Palio della Marmotta realizzato da Luca Viviani vinto dalla Contrada del Granchio</figcaption>
 </figure>
