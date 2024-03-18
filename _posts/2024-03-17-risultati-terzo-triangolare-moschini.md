@@ -5,7 +5,7 @@ categories:
   - albo
 author:
   name: Giampaolo Russo
-image: /assets/images/2024/terzo-trofeo-moschini-lucca.jpg
+image: /assets/images/2024/terzo-trofeo-moschini-lucca_1920w.jpg
 ---
 
  Le Contrade fanno il pieno vincendo sia la gara a squadre che la gara individuale al corniolo contro la Compagnia Balestrieri Pisa e Compagnia balestrieri Waldum.
