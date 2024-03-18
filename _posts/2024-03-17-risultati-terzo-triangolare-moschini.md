@@ -9,7 +9,7 @@ image: /assets/images/2024/terzo-trofeo-moschini-lucca.jpg
 ---
 
  Le Contrade fanno il pieno vincendo sia la gara a squadre che la gara individuale al corniolo contro la Compagnia Balestrieri Pisa e Compagnia balestrieri Waldum.
- 
+
 <!-- more -->
 
 Le Contrade di S. Paolino vincono la terza edizione del trofeo dedicato ad Umberto Moschini in un triangolare contro Pisa e Waldum (Gualdo Tadino).
