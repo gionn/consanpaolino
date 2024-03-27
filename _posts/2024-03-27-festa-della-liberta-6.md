@@ -16,12 +16,12 @@ Come da consolidata tradizione ritorna ogni anno dal lontano 1369 nella domenica
 
 Programma della Settimana della Libertà 2024:
 
-* Martedì 2 Aprile alle 21,15: Conferenza "Dal giogo pisano alla libertà" a cura del prof. Alessio Pisani
-* Mercoledì 3 Aprile alle 21,15: Concerto di musiche d'epoса medievale con introduzione contestuale a cura del *Duo Musikantika*
+* Martedì 2 Aprile alle 21,15: Conferenza "*Dal giogo pisano alla libertà*" a cura del prof. **Alessio Pisani**
+* Mercoledì 3 Aprile alle 21,15: *Concerto di musiche d'epoса medievale* con introduzione contestuale a cura del **Duo Musikantika**
 * Giovedì 4 Aprile 15,30-19,30: Mostra balestre e mestieri medievali
 * Venerdì 5 Aprile 15,30-19,30: Mostra balestre e mestieri medievali
-* Sabato 6 Aprile alle 15,30: Conferenza "Medioevo sulla Testa" a cura della docente e storica Sara Paci Piccolo
-* Domenica 7 Aprile alle 15,30: VI Disfida della Libertà
+* Sabato 6 Aprile alle 15,30: Conferenza "*Medioevo sulla Testa*" a cura della docente e storica **Sara Paci Piccolo**
+* Domenica 7 Aprile alle 15,30: **VI Disfida della Libertà**
 
 Tutti gli eventi si terranno [alla sede delle Contrade](https://maps.app.goo.gl/dYHpXg5736uyVP8M7) mentre la **Disfida** si terrà sul [Baluardo di S. Paolino](https://maps.app.goo.gl/A2xzhykpm7UPwwL86).
 
