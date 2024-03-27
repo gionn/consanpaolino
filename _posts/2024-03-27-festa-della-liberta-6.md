@@ -6,6 +6,8 @@ categories:
   - lucca
   - news
   - litab
+author:
+  name: Giampaolo Russo
 ---
 
 Come da consolidata tradizione ritorna ogni anno dal lontano 1369 nella domenica in Albis (dopo quella della Pasqua) la [Festa della Libertà](/2019/lucca-origini-festa-liberta) che quest'anno cadrà quindi il prossimo **7 Aprile**. L'importante ricorrenza per la città di Lucca celebra la liberazione dal giogo pisano e per questa occasione le Contrade di San Paolino hanno organizzato per **la sesta edizione della Disfida della Libertà** un'intera settimana di eventi culturali e storici.
