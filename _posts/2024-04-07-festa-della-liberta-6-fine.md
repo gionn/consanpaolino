@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "🎯 Risultati 6ª Disfida della Libertà"
+image: /assets/images/2024/disfida-libertà-6-litab-gruppo.jpg
 categories:
   - eventi
   - albo
