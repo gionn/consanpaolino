@@ -14,7 +14,9 @@ A conclusione di una [settimana ricca di eventi](/2024/festa-della-liberta-6) or
 
 <!-- more -->
 
-Ben nove squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggiato sul Baluardo di S. Paolino a fianco della passeggiata delle Mura di Lucca in una giornata intensa e ricca di festeggiamenti a cominciare nella mattinata dal corteo per le strade di Lucca assieme ad altri gruppi storici, che si sono poi ricongiunti presso il Duomo di S. Martino per la S.Messa e la cerimonia dei *Gonfalonieri dei Terzieri*. Nel pomeriggio si è poi disputata una gara di tiro a squadra su bersaglio a 5 ed individuale con la balestra da banco tra le associazioni di Amelia, Assisi, Chioggia, Gualdo Tadino (Waldum), Montefalco, Prarostino, Terra del Sole, Ventimiglia e le Contrade di S.Paolino di Lucca con i seguenti risultati e classifica:
+Ben nove squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggiato sul Baluardo di S. Paolino a fianco della passeggiata delle Mura di Lucca in una giornata intensa e ricca di festeggiamenti a cominciare nella mattinata dal corteo per le strade di Lucca assieme ad altri gruppi storici, che si sono poi ricongiunti presso il Duomo di S. Martino per la S.Messa e la cerimonia dei *Gonfalonieri dei Terzieri*.
+
+Nel pomeriggio si è poi disputata una gara di tiro a squadra su bersaglio a 5 ed individuale con la balestra da banco tra le associazioni di Amelia, Assisi, Chioggia, Gualdo Tadino (Waldum), Montefalco, Prarostino, Terra del Sole, Ventimiglia e le Contrade di S.Paolino di Lucca con i seguenti risultati e classifica:
 
 ### Gara a squadre su bersaglio a 5
 
