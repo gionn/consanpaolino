@@ -19,7 +19,7 @@ A tre anni circa dalla scomparsa, il ricordo di *Mario Puccetti* è ancora vivo 
 Nella prima gara, le squadre di Lucca e Gualdo Tadino, ciascuna formata da 12 balestrieri, hanno gareggiato tirando tutte verso lo stesso bersaglio designato. La somma dei punteggi di tutti i balestrieri delle rispettive città ha portato al risultato per Lucca di **304** punti e per Gualdo Tadino di **225** punti *consentendo a **Lucca** di classificarsi prima* con un ampio margine.
 
 Nella seconda gara di tiro al corniolo, tutti i balestrieri di entrambe le città hanno gareggiato mirando al medesimo bersaglio per il miglior tiro.
-Qui di seguito la classifica finale dove **Lucca** si è aggiudicato il *1° e 2° posto*, **Gualdo Tadino** il *3°*:
+Qui di seguito la classifica finale dove **Lucca** si è aggiudicata il *1° e 2° posto*, **Gualdo Tadino** il *3°*:
 
 * *Primo et meliore*: **Francesco Bianchini (ACSP)**
 * *Secondo et meliore*: **Gianluca Bertolucci (ACSP)**
