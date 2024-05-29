@@ -15,7 +15,7 @@ L’incisione su pietra e marmo è una pratica antica, iniziata nella Preistoria
 
 <figure class="align-center">
     <img src="/assets/images/mestieri/800/scalpellino_800.webp" alt="Lo scalpellino che incide una formella di marmo">
-  <figcaption>Varie armature</figcaption>
+  <figcaption>Lo scalpellino che incide una formella di marmo</figcaption>
 </figure>
 
 Le cave di Carrara e Pietrasanta/Seravezza erano essenziali per fornire i materiali necessari. Ancora oggi, nelle Pievi medievali, possiamo ammirare le testimonianze di questo mestiere, che riflettono la storia e l’arte di quel periodo. Per realizzare incisioni, si parte da un disegno che può essere trasferito sulla pietra o su una formella. Per le statue, si crea un bozzetto in creta e gesso, con punti di riferimento (“repère”) per la riproduzione in marmo. Gli scalpellini, attraverso sbozzatura, affinatura e levigatura, seguono le linee tracciate, dando vita alle opere con sensibilità e creatività, potendo elevarsi a scultori se dotati di particolare talento.
