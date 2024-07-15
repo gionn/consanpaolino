@@ -26,7 +26,7 @@ Risultati 50° Palio S. Paolino:
 
 * Prima et Meliore: *Antonietta Maranini* (CBL)
 * Secondo et Meliore: *Giampaolo Russo* (CSP) della Contrada della 🌜
-* Terza et Meliore: *Alessandro De Servi* (CBL)
+* Terzo et Meliore: *Alessandro De Servi* (CBL)
 * Quarto et Meliore: *Paolo Gianni* (CBL)
 
 <figure class="align-center">
