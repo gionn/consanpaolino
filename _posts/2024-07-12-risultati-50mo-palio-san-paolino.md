@@ -13,8 +13,8 @@ Protagonisti le Contrade di San Paolino (CSP) e la Compagnia Balestrieri di Lucc
 
 <!-- more -->
 
-Serata amara per le Contrade che non riesce a bissare la vittoria dello scorso anno.
-Tuttavia **Giampaolo Russo**, che ha tirato alla 12ma tornata, riesce ad aggiudicarsi uno splendido secondo posto.
+Serata amara per le Contrade che non è riuscita a bissare la vittoria dello scorso anno.
+Tuttavia **Giampaolo Russo** si aggiudica uno splendido secondo posto, avendo tirato alla 12ma tornata.
 Il Palio viene quindi vinto dalla CBL grazie ad *Antonietta Maranini*, un altro trionfo in rosa [dopo quello dello scorso anno delle Contrade](/2023/risultati-49mo-palio-san-paolino).
 
 <figure class="align-center">
