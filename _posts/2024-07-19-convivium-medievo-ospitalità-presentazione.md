@@ -43,4 +43,4 @@ evento con cui portiamo il nostro format di Lucca Medievale ad Altopascio – ha
 presidente delle Contrade San Paolino, Giovanni Barsanti – Ci auguriamo che Convivium.
 Medioevo e Ospitalità possa proseguire nel futuro con tante nuove edizioni”.
 
-👉 [Scarica il volantino e pragramma completo di Convivium](/assets/files/2024/flyer-convivium.pdf)
+👉 [Scarica il programma completo di Convivium](/assets/files/2024/flyer-convivium.pdf)
