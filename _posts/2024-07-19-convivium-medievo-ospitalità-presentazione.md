@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎪 Presentazione di **Convivium. Medievo ed Ospitalità**"
+title: "🎪 Presentazione di Convivium, Medievo ed Ospitalità"
 image: /assets/images/2024/convivium-banner-landscape.webp
 categories: 
   - eventi
