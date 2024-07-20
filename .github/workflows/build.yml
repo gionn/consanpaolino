@@ -75,7 +75,7 @@ jobs:
           tar czf artifact.tar.gz _site
 
       - name: Upload preview artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         if: github.event_name == 'pull_request' && ! github.event.pull_request.draft && github.actor != 'dependabot[bot]'
         with:
           name: preview
