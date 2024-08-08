@@ -5,7 +5,7 @@ image: /assets/images/2024/convivium-banner-landscape.webp
 categories: 
   - eventi
 author:
-  name: Giampaolo Russo
+  name: Martina Del Grosso, Giampaolo Russo
 ---
 
 Esibizioni, spettacoli itineranti, performance con il fuoco, dimostrazioni, lezioni didattiche aperte al pubblico e molto altro ancora. **Altopascio festeggia il patrono San Jacopo con la prima edizione di "Convivium. Medioevo e Ospitalità", che si terrà giovedì 25 luglio nel centro storico del paese del Tau**. L’evento va ad affiancarsi alle celebrazioni religiose previste per la giornata - messa e processione - riporteranno nel giorno del patrono anche la tradizione del Calderone, attraverso cui sarà distribuita pasta a tutti i presenti.
