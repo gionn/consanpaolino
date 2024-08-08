@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎪 Convivium, Medievo ed Ospitalità: 🎉 grande successo alla prima edizione"
+title: "🎪 Convivium, Medioevo ed Ospitalità: 🎉 grande successo alla prima edizione"
 image: /assets/images/2024/convivium-prima-banner.webp
 categories: 
   - eventi
