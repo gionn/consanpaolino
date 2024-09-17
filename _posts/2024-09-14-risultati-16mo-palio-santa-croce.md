@@ -29,10 +29,10 @@ Diverse novità rispetto alle edizioni passate:
 
 Alla fine della gara, tolte tutte le verrette una per una dal corniolo, alla presenza dei rispettivi Maestri d'arme delle due squadre, il risultato è stato il seguente:
 
-* Primo et Meliore: *Giampaolo Russo* (CSP)
-* Secondo et Meliore: *Giacomo Bini* (CSP)
-* Terzo et Meliore: *Stefano Giusti* (CSP)
-* Quarta et Meliore: *Mariela Gonzalez* (CSP)
+* Primo et Meliore: *Giampaolo Russo* (CSP) della contrada della 🌜
+* Secondo et Meliore: *Giacomo Bini* (CSP) della contrada del 🦅
+* Terzo et Meliore: *Stefano Giusti* (CSP) della contrada del 🦀
+* Quarta et Meliore: *Mariela Gonzalez* (CSP) della contrada della 🌜
 
 <figure class="align-center">
     <img src="/assets/images/2024/psc-16-russo-bini-giusti-gonzalez_600s.webp" alt="16mo palio santa croce vincitori">
