@@ -23,7 +23,7 @@ Diverse novità rispetto alle edizioni passate:
 **47** in totale i balestrieri partecipanti a questa sfida, **23** per la Compagnia Balestrieri di Lucca e **24** per le Contrade di San Paolino:
 
 <figure class="align-center">
-    <img src="/assets/images/2024/psc-16-ordine-di-tiro_600s.webp" alt="16° Palio della Santa Croce ordine di tiro">
+    <img src="/assets/images/2024/psc-16-ordine-di-tiro_700s.webp" alt="16° Palio della Santa Croce ordine di tiro">
   <figcaption>Ordine di tiro del 16° Palio della Santa Croce</figcaption>
 </figure>
 
