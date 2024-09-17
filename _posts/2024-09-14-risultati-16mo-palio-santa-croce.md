@@ -31,7 +31,7 @@ Alla fine della gara, tolte tutte le verrette una per una dal corniolo, alla pre
 
 * Primo et Meliore: *Giampaolo Russo* (CSP), della contrada della 🌜
 * Secondo et Meliore: *Giacomo Bini* (CSP), della contrada del 🦅
-* Terzo et Meliore: *Stefano Giusti* (CSP), della contrada della 
+* Terzo et Meliore: *Stefano Giusti* (CSP), della contrada della
 * Quarta et Meliore: *Mariela Gonzalez* (CSP), della contrada della 🌜
 
 Le Contrade di San Paolino si aggiudicano quindi il Palio, una vittoria eccezionale che verrà ricordata anche perché **l'intero medagliere** del Palio della Santa Croce viene vinto dai balestrieri delle CSP **per la terza volta di fila** dal 2022, il [25 settembre 2022](/2022/risultati-palio-santa-croce) in occasione del 14mo Palio, ed il [3 settembre 2023](/2023/risultati-15mo-palio-santa-croce) in occasione del 15mo Palio.
