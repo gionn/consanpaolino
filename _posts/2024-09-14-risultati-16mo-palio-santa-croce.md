@@ -5,7 +5,7 @@ image: /assets/images/2024/psc-16-banner-1.webp
 categories: 
   - albo
   - eventi
-  - palio
+  - lucca
 author:
   name: Jean-Pierre du Croissant de Lune, 📸 Tommaso Giannini 
 ---
