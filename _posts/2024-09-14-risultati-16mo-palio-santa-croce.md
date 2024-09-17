@@ -52,3 +52,5 @@ Prossimo appuntamento **domenica 22 Settembre alle 15:30** sul Baluardo S.Paolin
 Successivamente ci sarà il Campionato Italiano di Tiro con la Balestra Antica da Banco LITAB, giunto quest’anno alla sua *38esima edizione*, che andrà in scena **sabato 5 e domenica 6 Ottobre** a Ventimiglia(Im).
 
 Gallerie fotografiche 📸: **A breve**
+
+{% youtube "https://youtu.be/IBT3cgI2fLY" %}
