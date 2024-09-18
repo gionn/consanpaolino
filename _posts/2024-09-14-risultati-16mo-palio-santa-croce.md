@@ -18,7 +18,7 @@ Diverse novità rispetto alle edizioni passate:
 
 * Normalmente l'estrazione dell'ordine di tiro viene effettuata il giorno prima al termine del corteggio della Luminara. **I nomi sono stati estratti un'ora prima della gara** alla presenza dei rispettivi Maestri d'Arme e Presidenti delle associazioni CBL e CSP
 * In questa occasione è stato deciso che i balestrieri non avrebbero effettuato **nessun tiro di prova**, una pratica solitamente concessa prima di ogni gara per permettere loro di regolare al meglio la mira e la posizione di tiro.
-* Il Palio è stato disputato in concomitanza durante la prima settimana del **September Lucensis** programma di iniziative dedicate al settembre lucchese
+* Il Palio è stato disputato in concomitanza della prima settimana del **September Lucensis 2024** programma di iniziative dedicate al settembre lucchese
 
 **47** in totale i balestrieri partecipanti a questa sfida, **23** per la Compagnia Balestrieri di Lucca e **24** per le Contrade di San Paolino:
 
