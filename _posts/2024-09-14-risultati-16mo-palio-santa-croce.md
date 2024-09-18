@@ -46,7 +46,7 @@ Le Contrade di San Paolino si aggiudicano quindi il Palio, una vittoria eccezion
   <figcaption>16mo Palio Santa Croce - Verretta del Primo et Meliore</figcaption>
 </figure>
 
-Alla premiazione erano presenti il Sindaco di Lucca *Mario Pardini*, l’assessora con delega alla cultura e ai musei, *Mia Pisano* ed il consigliere delegato alle tradizioni storiche *Lorenzo Del Barga*.
+Alla premiazione erano presenti il Sindaco di Lucca *Mario Pardini*, l’assessora con delega alla cultura e ai musei *Mia Pisano*, ed il consigliere delegato alle tradizioni storiche *Lorenzo Del Barga*.
 
 Prossimo appuntamento **domenica 22 Settembre alle 15:30** sul Baluardo S.Paolino con il **5° Palio dei Balistarii della Repubblica di Lucca** nel quale si sfideranno tra di loro le Contrade dell'associazione CSP:  il 🦅 Falcone, il 🦀 Granchio, la 🌜 Luna e la 🧜‍♀️ Sirena.
 Successivamente ci sarà il Campionato Italiano di Tiro con la Balestra Antica da Banco LITAB, giunto quest’anno alla sua *38esima edizione*, che andrà in scena **sabato 5 e domenica 6 Ottobre** a Ventimiglia(Im).
