@@ -17,7 +17,7 @@ Nel primo pomeriggio di domenica 22 Settembre si sono sfidate tra loro le Contra
   <figcaption>5° Palio dei Balistarii - Ordine di tiro al corniolo</figcaption>
 </figure>
 
-Risultati del 5° dei Balistarii della Repubblica di Lucca:
+Risultati del 5° Palio dei Balistarii della Repubblica di Lucca:
 
 * Primo et meliore: **Lino Antonino** della Contrada del Granchio 🦀
 * Secondo et meliore: **Naletto Matteo** della Contrada della Sirena 🧜🏻
@@ -28,7 +28,7 @@ Risultati del 5° dei Balistarii della Repubblica di Lucca:
   <figcaption>5° Palio dei Balistarii - Il Palio realizzato da Paolo Lazzerini</figcaption>
 </figure>
 
-Pertanto il bellissimo Palio viene vinto dalla Contrada del Granchio 🦀. Il Palio è stato commissionato al pittore **Paolo Lazzerini** che esporrà una mostra di pittura "I Palii della Croce" assieme a molte delle sue opere, in occasione del *September Lucensis* dal 12 al 28 Settembre alla nostra Casermetta al Baluardo San Paolino.
+Pertanto il bellissimo Palio viene vinto dalla Contrada del Granchio 🦀. Il Palio è stato commissionato al pittore **Paolo Lazzerini** che esporrà una mostra di pittura "*I Palii della Croce*" assieme a molte delle sue opere, in occasione del *September Lucensis* dal 12 al 28 Settembre alla nostra Casermetta al Baluardo San Paolino.
 
 <figure class="align-center">
     <img src="/assets/images/2024/pdb-5-lino-primo-et-meliore_700S.webp" alt="5° Palio dei Balistarii - Primo et Meliore: Lino Antonino">
