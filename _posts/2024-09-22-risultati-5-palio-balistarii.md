@@ -14,7 +14,7 @@ Nel primo pomeriggio di domenica 22 Settembre si sono sfidate tra loro le Contra
 
 <figure class="align-center">
     <img src="/assets/images/2024/pdb-5-palio-lazzerini_700S.webp" alt="5° Palio dei Balistarii - Palio realizzato da Paolo Lazzerini">
-  <figcaption>5° Palio dei Balistarii - Palio realizzato da Paolo Lazzerini</figcaption>
+  <figcaption>5° Palio dei Balistarii - Il Palio realizzato da Paolo Lazzerini</figcaption>
 </figure>
 
 <figure class="align-center">
@@ -24,9 +24,9 @@ Nel primo pomeriggio di domenica 22 Settembre si sono sfidate tra loro le Contra
 
 Risultati del 5° dei Balistarii della Repubblica di Lucca:
 
-* Prima et meliore: **Lino Antonino** Contrada del Granchio
-* Seconda et meliore: **Naletto Matteo** della Contrada della Sirena 🧜🏻
-* Terza et meliore: **Giampaolo Russo** della Contrada della Luna 🌜
+* Primo et meliore: **Lino Antonino** Contrada del Granchio 🦀
+* Secondo et meliore: **Naletto Matteo** della Contrada della Sirena 🧜🏻
+* Terzo et meliore: **Giampaolo Russo** della Contrada della Luna 🌜
 
 <figure class="align-center">
     <img src="/assets/images/2024/pdb-5-lino-primo-et-meliore_700S.webp" alt="5° Palio dei Balistarii - Primo et Meliore: Lino Antonino">
@@ -34,16 +34,16 @@ Risultati del 5° dei Balistarii della Repubblica di Lucca:
 </figure>
 
 <figure class="align-center">
-    <img src="/assets/images/2024/pdb-5-naletto-secondo-et-meliore_700S.webp" alt="5° Palio dei Balistarii - Primo et Meliore: Naletto Matteo">
-  <figcaption>5° Palio dei Balistarii - Primo et Meliore: Naletto Matteo</figcaption>
+    <img src="/assets/images/2024/pdb-5-naletto-secondo-et-meliore_700S.webp" alt="5° Palio dei Balistarii - Secondo et Meliore: Naletto Matteo">
+  <figcaption>5° Palio dei Balistarii - Secondo et Meliore: Naletto Matteo</figcaption>
 </figure>
 
 <figure class="align-center">
-    <img src="/assets/images/2024/pdb-5-russo-terzo-et-meliore_700S.webp" alt="5° Palio dei Balistarii - Primo et Meliore: Russo Giampaolo">
-  <figcaption>5° Palio dei Balistarii - Primo et Meliore: Russo Giampaolo</figcaption>
+    <img src="/assets/images/2024/pdb-5-russo-terzo-et-meliore_700S.webp" alt="5° Palio dei Balistarii - Terzo et Meliore: Russo Giampaolo">
+  <figcaption>5° Palio dei Balistarii - Terzo et Meliore: Russo Giampaolo</figcaption>
 </figure>
 
-Prima della premiazione il nostro **Presidente Giovanni Barsanti** ha regalato una tessera di socio delle Contrade San Paolino a Tommaso Giannini, fotografo che ci ha spesso accompagnato durante le nostre sfide e omaggiato delle fotografie che ritraggono le Contrade.
+Prima della premiazione il nostro **Presidente Giovanni Barsanti** ha regalato una tessera di socio delle *Contrade San Paolino* a **Tommaso Giannini**, fotografo che ci ha spesso accompagnato durante le nostre sfide ed omaggiato delle fotografie che ritraggono le Contrade.
 
 <figure class="align-center">
     <img src="/assets/images/2024/pdb-5-giannini-socio_700S.webp" alt="5° Palio dei Balistarii - Tommaso Giannini Socio">
