@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎯 Risultati 5° Palio dei Balistarii"
+title: "🎯 5° Palio dei Balistarii: risultati"
 image: /assets/images/2024/pdb-5-csp_700S.webp
 categories:
   - albo
@@ -8,14 +8,9 @@ author:
   name: Giampaolo Russo, 📸 -> Tommaso Giannini e Mariela Gonzalez
 ---
 
-Nel primo pomeriggio di domenica 22 Settembre si sono sfidate tra loro le Contrade della nostra associazione: il 🦅 Falcone, il 🦀 Granchio, la 🌜 Luna e la 🧜‍♀️ Sirena, nel campo tiri imbastito sul Baluardo di S. Paolino. Il Palio è stato vinto dalla Contrada del Granchio 🦀 da **Lino Antonino**.
+Nel primo pomeriggio di domenica 22 Settembre si sono sfidate tra loro le Contrade della nostra associazione: il 🦅 Falcone, il 🦀 Granchio, la 🌜 Luna e la 🧜‍♀️ Sirena, nel campo tiri imbastito sul Baluardo di S. Paolino.
 
 <!-- more -->
-
-<figure class="align-center">
-    <img src="/assets/images/2024/pdb-5-palio-lazzerini_700S.webp" alt="5° Palio dei Balistarii - Palio realizzato da Paolo Lazzerini">
-  <figcaption>5° Palio dei Balistarii - Il Palio realizzato da Paolo Lazzerini</figcaption>
-</figure>
 
 <figure class="align-center">
     <img src="/assets/images/2024/pdb-5-ordine-di-tiro_700S.webp" alt="5° Palio dei Balistarii - Ordine di tiro al corniolo">
@@ -27,6 +22,13 @@ Risultati del 5° dei Balistarii della Repubblica di Lucca:
 * Primo et meliore: **Lino Antonino** della Contrada del Granchio 🦀
 * Secondo et meliore: **Naletto Matteo** della Contrada della Sirena 🧜🏻
 * Terzo et meliore: **Giampaolo Russo** della Contrada della Luna 🌜
+
+<figure class="align-center">
+    <img src="/assets/images/2024/pdb-5-palio-lazzerini_700S.webp" alt="5° Palio dei Balistarii - Palio realizzato da Paolo Lazzerini">
+  <figcaption>5° Palio dei Balistarii - Il Palio realizzato da Paolo Lazzerini</figcaption>
+</figure>
+
+Pertanto il bellissimo Palio viene vinto dalla Contrada del Granchio 🦀. Il Palio è stato commissionato al pittore **Paolo Lazzerini** che esporrà una mostra di pittura "I Palii della Croce" assieme a molte delle sue opere, in occasione del *September Lucensis* dal 12 al 28 Settembre alla nostra Casermetta al Baluardo San Paolino.
 
 <figure class="align-center">
     <img src="/assets/images/2024/pdb-5-lino-primo-et-meliore_700S.webp" alt="5° Palio dei Balistarii - Primo et Meliore: Lino Antonino">
