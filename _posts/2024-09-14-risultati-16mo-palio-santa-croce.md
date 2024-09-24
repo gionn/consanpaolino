@@ -51,6 +51,8 @@ Alla premiazione erano presenti il Sindaco di Lucca *Mario Pardini*, l’assesso
 Prossimo appuntamento **domenica 22 Settembre alle 15:30** sul Baluardo S.Paolino con il **5° Palio dei Balistarii della Repubblica di Lucca** nel quale si sfideranno tra di loro le Contrade dell'associazione CSP:  il 🦅 Falcone, il 🦀 Granchio, la 🌜 Luna e la 🧜‍♀️ Sirena.
 Successivamente ci sarà il Campionato Italiano di Tiro con la Balestra Antica da Banco LITAB, giunto quest’anno alla sua *38esima edizione*, che andrà in scena **sabato 5 e domenica 6 Ottobre** a Ventimiglia(Im).
 
-Gallerie fotografiche 📸: **A breve**
+Gallerie fotografiche 📸:
+
+* [Tommaso Giannini](https://drive.google.com/drive/folders/1ZU2jmdmhl5Dmje1zp__LL32Xt1oDTDGe?usp=drive_link)
 
 {% youtube "https://youtu.be/IBT3cgI2fLY" %}
