@@ -24,7 +24,7 @@ Nel primo pomeriggio di domenica 22 Settembre si sono sfidate tra loro le Contra
 
 Risultati del 5° dei Balistarii della Repubblica di Lucca:
 
-* Primo et meliore: **Lino Antonino** Contrada del Granchio 🦀
+* Primo et meliore: **Lino Antonino** della Contrada del Granchio 🦀
 * Secondo et meliore: **Naletto Matteo** della Contrada della Sirena 🧜🏻
 * Terzo et meliore: **Giampaolo Russo** della Contrada della Luna 🌜
 
