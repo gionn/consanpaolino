@@ -13,39 +13,37 @@ I balestrieri delle Contrade San Paolino conquistano il **4° tricolore** della 
 
 <!-- more -->
 
-Il Campionato prevede in totale 4 gare: il sabato 5 Ottobre si disputano i tornei tra i Maestri d'Arme e tra i Campioni dei balestrieri delle 12 città facenti parte della Litab, ed in seguito la domenica 6 ottobre la gara a squadre ed individuale di tiro al corniolo.
-
-Nella prima giornata, dopo un tiro di prova ciascuno, si sono sfidati con un tiro singolo i Maestri d'Arme delle 12 città, gara che è stata vinta dal nostro **Mauro Tolomei** con uno splendido tiro alla rotella, mentre invece sfuma la vittoria nel torneo dei Campioni nel quale disputava il nostro Campione **Francesco Bianchini** che va alla città di *Chioggia*.
+Il Campionato prevede in totale **4 gare**. Nella prima giornata, dopo un tiro di prova ciascuno, si sono sfidati con un tiro singolo i Maestri d'Arme delle 12 città facenti parte della [Litab](https://www.litab.net/), gara che è stata vinta dal nostro **Mauro Tolomei** con uno splendido tiro alla rotella, mentre invece sfuma la vittoria nel torneo dei Campioni delle 12, nel quale disputava il nostro Campione **Francesco Bianchini** che va alla città di *Chioggia*.
 
 <figure class="align-center">
     <img src="/assets/images/2024/38mo-tolomei-primo-et-meliore-maestri_700S.webp" alt="Tolomei Mauro primo et meliore Maestri d'Arme">
   <figcaption>A sinistra, Tolomei Mauro primo et meliore dei Maestri d'Arme</figcaption>
 </figure>
 
-Nel pomeriggio della seconda giornata si è disputata la gara a squadre, **la più competitiva delle gare del Compionato** dove si sono sfidati 12 balestrieri per ciascuna delle 12 città, selezionati attraverso una sessione di tiri di prova svoltasi al mattino al tiro alla rotella (bersaglio), lanciando a turno le loro frecce senza togliere le precedenti. In questa gara le Contrade hanno trionfato con un risultato di **328 punti** che non ha lasciato scampo alle avversarie, **battendo inoltre il record personale di 324 punti** conseguito nella precedente vittoria al *Campionato Nazionale del 2019* disputato a *Montefalco*.
+Nel pomeriggio della seconda giornata si è disputata la gara a squadre, **la più competitiva delle gare del Campionato** dove si sono sfidati 12 balestrieri per ciascuna delle 12 città, selezionati attraverso una sessione di tiri di prova svoltasi al mattino al tiro alla rotella (bersaglio), lanciando a turno le loro frecce senza togliere le precedenti. In questa gara le Contrade hanno trionfato con un risultato di **328 punti** che non ha lasciato scampo alle avversarie, **battendo inoltre il record personale di 324 punti** conseguito nella precedente vittoria al *Campionato Nazionale del 2019* disputato a *Montefalco*.
 
 <figure class="align-center">
     <img src="/assets/images/2024/38mo-tiro-a-squadre-rotella-csp_700S.webp" alt="Rotella delle Contrade nel tiro a squadre">
   <figcaption>Rotella delle Contrade nel tiro a squadre</figcaption>
 </figure>
 
-Il torneo individuale al Corniolo viene vinto dalla città di *Norcia*.
+Dopo la gara a squadre si è disputata l'ultima gara, il torneo individuale al Corniolo che è stato vinto dalla città di *Norcia*.
 
 Qui di seguito le classifiche finali delle 4 gare:
 
-Torneo del Maestro D'Arme:
+**Torneo del Maestro D'Arme:**
 
 * 🥇 **Tolomei Mauro** (Contrade S.Paolino Lucca)
 * 🥈 Pantaleoni Manrico (Amelia)
 * 🥉 Nordio Sandro (Chioggia)
 
-Torneo del Campione:
+**Torneo del Campione:**
 
 * 🥇 D'Ambrosio Bernardo (Chioggia)
 * 🥈 Rivoiro Flavio (Prarostino)
 * 🥉 Proietti Raffaele (Amelia)
 
-Torneo a Squadre:
+**Torneo a Squadre:**
 
 | **#** | **Squadra**              | **Punteggio** |
 |:-----:|--------------------------|---------------|
@@ -64,7 +62,7 @@ Torneo a Squadre:
 
 [Risultati per squadra](/assets/files/2024/38mo-campionato-litab-risultati-squadre.pdf)
 
-Torneo individuale al Corniolo:
+**Torneo individuale al Corniolo:**
 
 * 🥇 Mauro Elisei (Norcia)
 * 🥈 Cecchinato Gianni (Chioggia)
