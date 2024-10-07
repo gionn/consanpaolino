@@ -7,6 +7,8 @@ categories:
   - eventi
 image:
   path: /assets/images/2024/38mo-csp-prima-et-meliore-squadre_700S.webp
+author:
+  name: Giampaolo Russo
 ---
 
 I balestrieri delle Contrade San Paolino conquistano il **4° tricolore** della loro carriera al **38mo Campionato Italiano LITAB** che si è disputato nel weekend del 5 e 6 Ottobre a Ventimiglia(IM) diventando **campioni italiani di balestra da banco**.
