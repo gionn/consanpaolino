@@ -18,8 +18,8 @@ I balestrieri delle Contrade San Paolino conquistano il **4° tricolore** della 
 Il Campionato prevede in totale **4 gare**. Nella prima giornata, dopo un tiro di prova ciascuno, si sono sfidati con un tiro singolo i Maestri d'Arme delle 12 città facenti parte della [Litab](https://www.litab.net/), gara che è stata vinta dal nostro **Mauro Tolomei** con uno splendido tiro alla rotella, mentre invece sfuma la vittoria nel torneo dei Campioni delle 12, nel quale disputava il nostro Campione **Francesco Bianchini** che va alla città di *Chioggia*.
 
 <figure class="align-center">
-    <img src="/assets/images/2024/38mo-tolomei-primo-et-meliore-maestri_700S.webp" alt="Tolomei Mauro primo et meliore Maestri d'Arme">
-  <figcaption>A sinistra, Tolomei Mauro primo et meliore dei Maestri d'Arme</figcaption>
+    <img src="/assets/images/2024/38mo-tolomei-primo-et-meliore-maestri_700S.webp" alt="Tolomei Mauro Campione Italiano Maestri d'Armi Litab">
+  <figcaption>A sinistra, Tolomei Mauro Campione Italiano Maestri d'Armi Litab</figcaption>
 </figure>
 
 Nel pomeriggio della seconda giornata si è disputata la gara a squadre, **la più competitiva delle gare del Campionato** dove si sono sfidati 12 balestrieri per ciascuna delle 12 città, selezionati attraverso una sessione di tiri di prova svoltasi al mattino al tiro alla rotella (bersaglio), lanciando a turno le loro frecce senza togliere le precedenti. In questa gara le Contrade hanno trionfato con un risultato di **328 punti** che non ha lasciato scampo alle avversarie, **battendo inoltre il record personale di 324 punti** conseguito nella precedente vittoria al *Campionato Nazionale del 2019* disputato a *Montefalco*.
