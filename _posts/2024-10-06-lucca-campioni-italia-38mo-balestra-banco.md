@@ -11,7 +11,7 @@ author:
   name: Giampaolo Russo
 ---
 
-I balestrieri delle Contrade San Paolino conquistano il **4° tricolore** della loro carriera al **38mo Campionato Italiano LITAB** che si è disputato nel weekend del 5 e 6 Ottobre a Ventimiglia(IM) diventando **campioni italiani di balestra da banco**.
+I balestrieri delle Contrade San Paolino conquistano il **4° tricolore** della loro carriera al **38mo Campionato Italiano LITAB** che si è disputato nel weekend del 5 e 6 Ottobre a Ventimiglia(IM) ottenendo il titolo di **campioni italiani di balestra da banco**.
 
 <!-- more -->
 
