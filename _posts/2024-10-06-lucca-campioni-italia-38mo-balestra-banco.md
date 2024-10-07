@@ -62,7 +62,7 @@ Torneo a Squadre:
 |   11  | Norcia                   |           277 |
 |   12  | Gualdo Tadino            |           257 |
 
-[Risultati per squadra](/assets/files/2019/campionato/risultati.pdf)
+[Risultati per squadra](/assets/files/2024/38mo-campionato-litab-risultati-squadre.pdf)
 
 Torneo individuale al Corniolo:
 
