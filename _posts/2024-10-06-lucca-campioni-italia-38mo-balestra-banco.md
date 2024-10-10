@@ -15,7 +15,6 @@ I balestrieri delle Contrade San Paolino conquistano il **4° tricolore** della 
 
 <!-- more -->
 
-
 <figure class="align-center">
     <img src="/assets/images/2024/38mo-trofeo-campioni-litab.webp" alt="Trofeo LITAB Titolo Campioni d'Italia">
   <figcaption>Trofeo LITAB Titolo Campioni d'Italia</figcaption>
@@ -80,3 +79,4 @@ Menzioni particolari vanno ai nostri balestrieri:
 
 * **Nicholas Bossi**, premiato dalla città di Ventimiglia quale **balestriere più giovane in gara** ed autore del **miglior tiro alla rotella** nella gara del tiro in squadra
 * **Lino Alessia**, che prestata alla città di Norcia totalizza il miglior risultato nella loro rotella
+
