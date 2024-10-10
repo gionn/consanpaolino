@@ -15,6 +15,12 @@ I balestrieri delle Contrade San Paolino conquistano il **4° tricolore** della 
 
 <!-- more -->
 
+
+<figure class="align-center">
+    <img src="/assets/images/2024/38mo-trofeo-campioni-litab.webp" alt="Trofeo LITAB Titolo Campioni d'Italia">
+  <figcaption>Trofeo LITAB Titolo Campioni d'Italia</figcaption>
+</figure>
+
 Il Campionato prevede in totale **4 gare**. Nella prima giornata, dopo un tiro di prova ciascuno, si sono sfidati con un tiro singolo i *Maestri d'Arme* delle 12 città facenti parte della [LITAB](https://www.litab.net/), gara che è stata vinta dal nostro **Mauro Tolomei** con uno splendido tiro alla rotella, mentre invece sfuma la vittoria nel *Torneo dei Campioni* delle 12 città, nel quale disputava il nostro *Campione* **Francesco Bianchini** che va alla città di *Chioggia*.
 
 <figure class="align-center">
@@ -74,8 +80,3 @@ Menzioni particolari vanno ai nostri balestrieri:
 
 * **Nicholas Bossi**, premiato dalla città di Ventimiglia quale **balestriere più giovane in gara** ed autore del **miglior tiro alla rotella** nella gara del tiro in squadra
 * **Lino Alessia**, che prestata alla città di Norcia totalizza il miglior risultato nella loro rotella
-
-<figure class="align-center">
-    <img src="/assets/images/2024/38mo-lino-alessia-miglior-tiro-a-squadre-norcia_700S.webp" alt="Tiro di Lino Alessia nella rotella di Norcia nel Torneo a squadre">
-  <figcaption>Tiro di Lino Alessia nella rotella di Norcia nel Torneo a squadre</figcaption>
-</figure>
