@@ -79,4 +79,3 @@ Menzioni particolari vanno ai nostri balestrieri:
 
 * **Nicholas Bossi**, premiato dalla città di Ventimiglia quale **balestriere più giovane in gara** ed autore del **miglior tiro alla rotella** nella gara del tiro in squadra
 * **Lino Alessia**, che prestata alla città di Norcia totalizza il miglior risultato nella loro rotella
-
