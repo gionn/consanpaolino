@@ -16,13 +16,13 @@ Congratulazioni alla città di **Chioggia** che si aggiudica il trofeo per la ga
 
 Qui di seguito la classifica gara a squadre:
 
-* *1°* **Chioggia** con 320 punti
+* *1°* Chioggia con 320 punti
 * *2°* Contrade S.Paolino Lucca con 293 punti
 * *3°* Compagnia Balestrieri Pisa 257 punti
 
 Gara individuale al corniolo:
 
-* *1°* **Maniscalco Paola** (**Pisa**)
+* *1°* Maniscalco Paola (Pisa)
 * *2°* Boscolo Alberto (Chioggia)
 * *3°* Boscolo Mauro (Chioggia)
 
