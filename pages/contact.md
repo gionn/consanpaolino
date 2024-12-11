@@ -16,7 +16,7 @@ redirect_from:
 | Maestro d'Armi  | Mauro Tolomei     | 335 6812160 |
 | Segreteria      | Giampaolo Russo   | 392 7267671 |
 
-## 🏰 Il nostro indirizzo:
+## 🏰 Il nostro indirizzo
 
 Associazione Contrade di San Paolino APS<br/>
 Casermetta San Paolino, Viale delle Mura Urbane<br/>
@@ -25,7 +25,7 @@ CF 92050570461<br/>
 
 🧭️ [Sede centrale Casermetta San Paolino](https://goo.gl/maps/ZLWQE3A6ExJgA9Da9)
 
-## 📙 Iscrizioni ed Affiliazioni:
+## 📙 Iscrizioni ed Affiliazioni
 
 * iscritta nel
   [registro regionale delle associazioni di promozione sociale](https://www.regione.toscana.it/terzosettore/i-registri-regionali)
@@ -36,7 +36,7 @@ CF 92050570461<br/>
   previsto dalla Legge Regionale nr. 5/2012
 * affiliata al Centro Sportivo Educativo Nazionale ([CSEN](https://www.csen.it))
 
-## 🎯 Il nostro campo tiro:
+## 🎯 Il nostro campo tiro
 
 🧭️ [Campo Tiri della Repubblica di Lucca](https://goo.gl/maps/j7VtRqNSK9Eyjjmf7) (Via di Pattana, Pontetetto, LU)
 
