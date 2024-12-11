@@ -36,7 +36,6 @@ social:
     - https://www.facebook.com/consanpaolino
     - https://www.facebook.com/luccamedievale
     - https://www.instagram.com/consanpaolino/
-    - https://t.me/consanpaolino
     - https://www.youtube.com/channel/UC8fqZye7eBrSWTbd5dzyUCg
 exclude:
   - bin
@@ -122,9 +121,6 @@ author:
 
 # Footer
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
   - title: Facebook
     url: https://fb.com/consanpaolino
     icon: fab fa-facebook-square
@@ -137,9 +133,6 @@ footer_links:
   - title: youtube
     url: https://www.youtube.com/channel/UC8fqZye7eBrSWTbd5dzyUCg
     icon: fab fa-youtube
-  - title: telegram
-    url: https://t.me/consanpaolino
-    icon: fab fa-telegram
 
 jekyll-minifier:
   compress_css: false
