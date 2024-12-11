@@ -34,6 +34,7 @@ CF 92050570461<br/>
   rievocazione e ricostruzione
   storica](https://www.regione.toscana.it/-/elenco-associazioni-e-manifestazioni),
   previsto dalla Legge Regionale nr. 5/2012
+* affiliata alla Lega Italiana Tiro Alla Balestra ([LITAB](https://www.litab.net)) dal 1994
 * affiliata al Centro Sportivo Educativo Nazionale ([CSEN](https://www.csen.it))
 
 ## Il nostro campo tiro
