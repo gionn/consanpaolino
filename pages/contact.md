@@ -14,7 +14,7 @@ redirect_from:
 | Presidente      | Giovanni Barsanti | 335 6812150 |
 | Vice Presidente | Massimo Mazzei    | 333 2971175 |
 | Maestro d'Armi  | Mauro Tolomei     | 335 6812160 |
-| Segreteria      | Giampaolo Russo   | 392 7267671 |
+| Segretario      | Giampaolo Russo   | 392 7267671 |
 
 ## Il nostro indirizzo
 
