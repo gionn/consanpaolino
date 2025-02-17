@@ -19,7 +19,7 @@ image: /assets/images/2025/palio-marmotta-3-group_700S.webp
 
 <figure class="align-center">
     <img src="/assets/images/2025/palio-marmotta-3-trofei_700S.webp" alt="terzo palio marmotta trofei">
-  <figcaption>Il trofeo al centro e gli altri premi</figcaption>
+  <figcaption>Il trofeo (provvisorio) al centro e gli altri premi</figcaption>
 </figure>
 
 Qui di seguito la classifica finale:
