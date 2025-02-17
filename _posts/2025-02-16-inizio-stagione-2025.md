@@ -8,7 +8,7 @@ author:
 image: /assets/images/2025/palio-marmotta-3-group_700S.webp
 ---
 
- La vita va avanti e domenica 16 Febbraio 2025 ripartono le attività delle Contrade con un doppio appuntamento: al mattino con la **gara goliardica** del *Palio della Marmotta*, per dare la sveglia ai nostri Balestrieri dal letargo invernale, mentre nel pomeriggio saranno protagoniste **le attività didattiche** con la conferenza dedicata alla figura di *Pia de’ Tolomei*, resa immortale dai versi del *Sommo Poeta* nel Purgatorio della Divina Commedia.
+ La vita va avanti, e domenica 16 Febbraio 2025 sono ripartite le attività delle Contrade con un doppio appuntamento: al mattino con la **gara goliardica** del *Palio della Marmotta*, per dare la sveglia ai nostri Balestrieri dal letargo invernale, mentre nel pomeriggio sono state protagoniste **le attività didattiche** con la conferenza dedicata alla figura di *Pia de’ Tolomei*, resa immortale dai versi del *Sommo Poeta* nel Purgatorio della Divina Commedia.
 
 <!-- more -->
 
