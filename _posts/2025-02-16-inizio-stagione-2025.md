@@ -31,7 +31,7 @@ Qui di seguito la classifica finale:
 
 <figure class="align-center">
     <img src="/assets/images/2025/palio-marmotta-3-winners_700S.webp" alt="vincitori terzo palio marmotta">
-  <figcaption>I quattro vincitori dal primo al quarto riquadro (il vincitore è sul lato destro in ognuno) (📷 Loris Lazzarin)</figcaption>
+  <figcaption>I quattro vincitori da sinistra a destra a partire dall'alto (il vincitore è sul lato destro in ognuno) (📷 Loris Lazzarin)</figcaption>
 </figure>
 
 ## Conferenza: La Pia in Dante
