@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stagione 2025, si riparte"
+title: "⏰Stagione 2025, si riparte"
 categories: 
   - albo
 author:
@@ -8,7 +8,7 @@ author:
 image: /assets/images/2025/palio-marmotta-3-group_700S.webp
 ---
 
- Domenica 16 Febbraio 2025, ripartono le attività delle Contrade con un doppio appuntamento: al mattino con la **gara goliardica** del *Palio della Marmotta* per dare la sveglia ai nostri Balestrieri dal letargo invernale mentre nel pomeriggio saranno protagoniste **le attività didattiche** con la conferenza dedicata alla figura di *Pia de’ Tolomei*, resa immortale dai versi del *Sommo Poeta* nel Purgatorio della Divina Commedia.
+ La vita va avanti e domenica 16 Febbraio 2025 ripartono le attività delle Contrade con un doppio appuntamento: al mattino con la **gara goliardica** del *Palio della Marmotta*, per dare la sveglia ai nostri Balestrieri dal letargo invernale, mentre nel pomeriggio saranno protagoniste **le attività didattiche** con la conferenza dedicata alla figura di *Pia de’ Tolomei*, resa immortale dai versi del *Sommo Poeta* nel Purgatorio della Divina Commedia.
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ Qui di seguito la classifica finale:
 * *4°* Filippo Rossi
 
 <figure class="align-center">
-    <img src="/assets/images/2025/palio-marmotta-3-winners_700S.webp" alt="terzo palio marmotta vincitori">
+    <img src="/assets/images/2025/palio-marmotta-3-winners_700S.webp" alt="vincitori terzo palio marmotta">
   <figcaption>I quattro vincitori dal primo al quarto riquadro (il vincitore è sul lato destro in ognuno)</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Qui di seguito la classifica finale:
 
 "Se nella cultura popolare Pia de' Tolomei è stata, ed è tuttora, simbolo di oppressione e del potere maschile, la poesia di Dante ce la rivela come un'ombra persistente nelle profondità dell'animo di Dante. La cronaca dei fatti è carente di verità storica, in un'epoca e in luoghi dominati dagli Aldobrandeschi, eredi dei Vescovi di Lucca, ma la psicologia del Sommo Poeta che emerge dai suoi versi è una fonte inesauribile di indagine."
 
-Gli argomenti della conferenza, seguiti con un buon livello di interesse e di partecipazione, sono stati presentati dalla nostra socia **Michela Stefani**, docente ed italianista, che ha quindi diretto gli interventi dei relatori presenti: **Sergio Landi**, saggista ed autore dell'omonimo libro "*La Pia in Dante*", nel quale emerge una lettura intima del personaggio di Pia e dello storico **Daniele Zucconi** che ha aiutato a rappresentare il contesto storico nel quale si muoveva Dante Alighieri.
+Gli argomenti della conferenza, seguiti con un buon livello di interesse e di partecipazione, sono stati presentati dalla nostra socia **Michela Stefani**, docente ed italianista, che ha quindi diretto gli interventi dei relatori presenti: **Sergio Landi**, saggista ed autore dell'omonimo libro "*La Pia in Dante*", nel quale emerge un'interessante lettura del personaggio di Pia e dello storico **Daniele Zucconi** che ha aiutato a rappresentare il contesto storico nel quale si mosse Dante Alighieri.
 
 <figure class="align-center">
     <img src="/assets/images/2025/pia-in-dante-gruppo_700S.webp" alt="terzo palio marmotta vincitori">
