@@ -3,6 +3,7 @@ layout: post
 title: "⏰Stagione 2025, si riparte"
 categories: 
   - albo
+  - conferenze
 author:
   name: Giampaolo Russo
 image: /assets/images/2025/palio-marmotta-3-group_700S.webp
@@ -41,5 +42,5 @@ Gli argomenti della conferenza, seguiti con un buon livello di interesse e di pa
 
 <figure class="align-center">
     <img src="/assets/images/2025/pia-in-dante-gruppo_700S.webp" alt="terzo palio marmotta vincitori">
-  <figcaption>Da sinistra verso destra: l'assessore Giovanni Minniti del Comune di Lucca, il presidente Giovanni Barsanti delle Contrade San Paolino, la docente Michela Stefani, lo storico Daniele Zucconi e il saggista Srgio Landi</figcaption>
+  <figcaption>Da sinistra verso destra: l'assessore Giovanni Minniti del Comune di Lucca, il presidente Giovanni Barsanti delle Contrade San Paolino, la docente Michela Stefani, lo storico Daniele Zucconi e il saggista Sergio Landi</figcaption>
 </figure>
