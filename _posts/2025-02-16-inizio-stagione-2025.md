@@ -25,13 +25,31 @@ image: /assets/images/2025/palio-marmotta-3-group_700S.webp
 Qui di seguito la classifica finale:
 
 * *1°* Mauro Tolomei
+
+<figure class="align-center">
+    <img src="/assets/images/2025/palio-marmotta-3-tolomei_700S.webp" alt="terzo palio marmotta primo">
+  <figcaption>Mauro Tolomei (📷 Loris Lazzarin)</figcaption>
+</figure>
+
 * *2°* Davide Alessandra
+
+<figure class="align-center">
+    <img src="/assets/images/2025/palio-marmotta-3-alessandra_700S.webp" alt="terzo palio marmotta secondo">
+  <figcaption>Davide Alessandra (📷 Loris Lazzarin)</figcaption>
+</figure>
+
 * *3°* Mariela Gonzalez
+
+<figure class="align-center">
+    <img src="/assets/images/2025/palio-marmotta-3-gonzalez_700S.webp" alt="terzo palio marmotta terzo">
+  <figcaption>Mariela Gonzalez (📷 Loris Lazzarin)</figcaption>
+</figure>
+
 * *4°* Filippo Rossi
 
 <figure class="align-center">
-    <img src="/assets/images/2025/palio-marmotta-3-winners_700S.webp" alt="vincitori terzo palio marmotta">
-  <figcaption>I quattro vincitori da sinistra a destra a partire dall'alto (il vincitore è sul lato destro in ognuno) (📷 Loris Lazzarin)</figcaption>
+    <img src="/assets/images/2025/palio-marmotta-3-rossi_700S.webp" alt="terzo palio marmotta quarto">
+  <figcaption>Filippo Rossi (📷 Loris Lazzarin)</figcaption>
 </figure>
 
 ## Conferenza: La Pia in Dante
