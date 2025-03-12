@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Corsi per bambini e ragazzi di tamburo e balestra
-permalink: /corsi-bambini-tamburo-balestra-lucca
+permalink: /corsi-bambini-tamburo-balestra-lucca/
 redirect_from:
   - /2018-02-01-corsi-tamburo-lucca/
 ---
