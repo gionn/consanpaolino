@@ -15,8 +15,7 @@ Sono aperte le iscrizioni per:
 * Suonare il tamburo, a partire da **8 anni** di età
 * Tiro con la balestra, a partire da **16 anni** di età
 
-È richiesta solamente l'iscrizione annuale all'associazione (20 €), e ti
-forniremo noi tutto il materiale necessario!
+È richiesta solamente l'iscrizione annuale all'associazione (30€), e ti forniremo noi tutto il materiale necessario!
 
 ## Richiedi informazioni
 
