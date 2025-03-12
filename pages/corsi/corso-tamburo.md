@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Corso di tamburo storico a Lucca
-permalink: /corso-tamburo-lucca
+permalink: /corso-tamburo-lucca/
 redirect_from:
   - /2018-02-01-corsi-tamburo-lucca/
 ---
