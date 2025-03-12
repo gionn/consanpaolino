@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Corsi per bambini e ragazzi di tamburo e balestra
-permalink: /corsi-bambini-tamburo-balestra-lucca
+permalink: /corsi-bambini-tamburo-balestra-lucca/
 redirect_from:
   - /2018-02-01-corsi-tamburo-lucca/
 ---
@@ -15,8 +15,7 @@ Sono aperte le iscrizioni per:
 * Suonare il tamburo, a partire da **8 anni** di età
 * Tiro con la balestra, a partire da **16 anni** di età
 
-È richiesta solamente l'iscrizione annuale all'associazione (20 €), e ti
-forniremo noi tutto il materiale necessario!
+È richiesta solamente l'iscrizione annuale all'associazione (30€), e ti forniremo noi tutto il materiale necessario!
 
 ## Richiedi informazioni
 
@@ -38,11 +37,3 @@ attualmente attivi e rispondere a tutte le tue domande.
 </form>
 
 {% youtube "https://youtu.be/TE5AcJkCBVM" %}
-
-![volantino corso tamburo Lucca](/assets/images/2018/corsi/elisa-tamburina.jpg)
-
-Le armi ti affascinano? Allora potrebbe interessarti anche il nostro [corso di
-balestra](/corso-balestra-lucca)!
-
-Sei un appassionato di musica? Allora potrebbe interessarti il nostro [corso di
-tamburo](/corso-tamburo-lucca)!
