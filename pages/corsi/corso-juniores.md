@@ -38,11 +38,3 @@ attualmente attivi e rispondere a tutte le tue domande.
 </form>
 
 {% youtube "https://youtu.be/TE5AcJkCBVM" %}
-
-![volantino corso tamburo Lucca](/assets/images/2018/corsi/elisa-tamburina.jpg)
-
-Le armi ti affascinano? Allora potrebbe interessarti anche il nostro [corso di
-balestra](/corso-balestra-lucca)!
-
-Sei un appassionato di musica? Allora potrebbe interessarti il nostro [corso di
-tamburo](/corso-tamburo-lucca)!

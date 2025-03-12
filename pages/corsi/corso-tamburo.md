@@ -26,7 +26,7 @@ attualmente attivi e rispondere a tutte le tue domande.
     <input type="email" name="_replyto" placeholder="Il tuo indirizzo email" required>
     <input type="telephone" name="telephone" id="telephone" placeholder="Un tuo contatto telefonico" required>
     <input type="text" name="luogo" placeholder="Dove vivi?" required>
-    <input type="text" name="età" placeholder="Quanti anni hai?">
+    <input type="text" name="età" placeholder="Quanti anni hai?" required>
     <textarea type="text" name="message" rows="6" placeholder="Parlaci di te o inserisci eventuali domande, ti risponderemo appena possibile."></textarea>
     <input type="hidden" name="_subject" value="Richiesta iscrizione tamburino">
     <input type="text" name="_gotcha" style="display:none">
@@ -35,11 +35,3 @@ attualmente attivi e rispondere a tutte le tue domande.
 </form>
 
 {% youtube "https://youtu.be/v9Tp6NW3pRg" %}
-
-I corsi sono aperti anche per i [bambini a partire dagli 8 anni di
-età](/corsi-bambini-tamburo-balestra-lucca)!
-
-Le armi ti affascinano? Allora potrebbe interessarti anche il nostro [corso di
-balestra](/corso-balestra-lucca)!
-
-![volantino corso tamburo Lucca](/assets/images/2018/corsi/corsi-tamburo.jpg)
