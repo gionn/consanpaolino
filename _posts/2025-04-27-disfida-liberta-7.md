@@ -11,7 +11,7 @@ author:
   name: Giampaolo Russo
 ---
 
-A conclusione di un'intera settimana ricca di eventi, tra cui tre conferenze didattiche e una mostra di balestre antiche da banco ed alcuni mestieri medievali, oggi domenica 27 aprile 2025 si è disputata oggi la VII Disfida della Libertà che comprende una gara a squadre ed una individuale al corniolo.
+A conclusione di [un'intera settimana ricca di eventi](https://www.facebook.com/photo?fbid=983585847253310&set=a.502262768718956), tra cui tre conferenze didattiche e una mostra di balestre antiche da banco ed alcuni mestieri medievali, oggi domenica 27 aprile 2025 si è disputata oggi la VII Disfida della Libertà che comprende una gara a squadre ed una individuale al corniolo.
 
 <!-- more -->
 
