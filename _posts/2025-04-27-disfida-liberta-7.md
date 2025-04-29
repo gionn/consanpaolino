@@ -39,7 +39,7 @@ Nove squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggiat
 
 [Classifica dettagliata della VII disfida in formato PDF](/assets/files/2025/csp-vii(2025)-disfida-della-libertà-classifica.pdf)
 
-### Foto premiazione
+### Foto premiazione VII disfida
 
 <figure class="align-center">
     <img src="/assets/images/2025/csp-vii-disfida-squadre-1.jpg" alt="prima classificata squadre montefalco">
