@@ -11,7 +11,7 @@ author:
   name: Giampaolo Russo
 ---
 
-A conclusione di un'intera [settimana ricca di eventi](https://www.facebook.com/photo?fbid=983585847253310&set=a.502262768718956), tra cui tre conferenze didattiche ed una mostra di balestre antiche da banco assieme ad alcuni mestieri medievali, *domenica 27 aprile 2025* si è disputata oggi la **VII Disfida della Libertà** che comprende una gara di tiro a squadre su bersaglio a 5 ed una di tiro individuale al corniolo.
+A conclusione di un'intera [settimana ricca di eventi](https://www.facebook.com/photo?fbid=983585847253310&set=a.502262768718956), tra cui tre conferenze didattiche ed una mostra di balestre antiche da banco assieme ad alcuni mestieri medievali, *domenica 27 aprile 2025* si è disputata la **VII Disfida della Libertà** che comprende una gara di tiro a squadre su bersaglio a 5 ed una di tiro individuale al corniolo.
 
 <!-- more -->
 
