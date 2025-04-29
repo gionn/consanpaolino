@@ -38,3 +38,25 @@ Nove squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggiat
 * Terzo et meliore: **Montagna Antonio** di Terra del Sole
 
 [Classifica dettagliata della VII disfida in formato PDF](/assets/files/2025/csp-vii(2025)-disfida-della-libertà-classifica.pdf)
+
+### Foto premiazione
+
+<figure class="align-center">
+    <img src="/assets/images/2025/csp-vii-disfida-squadre-1.jpg" alt="prima classificata squadre montefalco">
+  <figcaption>1ª classificata Montefalco</figcaption>
+</figure>
+
+<figure class="align-center">
+    <img src="/assets/images/2025/csp-vii-disfida-squadre-2.jpg" alt="seconda classificata squadre lucca">
+  <figcaption>2ª classificata CSP - Lucca</figcaption>
+</figure>
+
+<figure class="align-center">
+    <img src="/assets/images/2025/csp-vii-disfida-squadre-3.jpg" alt="seconda classificata squadre terra del sole">
+  <figcaption>3ª classificata CSP - Terra del Sole</figcaption>
+</figure>
+
+<figure class="align-center">
+    <img src="/assets/images/2025/csp-vii-disfida-corniolo-1.jpg" alt="primo et meliore corniolo pavi lino assisi">
+  <figcaption>1° et meliore Pavi Lino - Assisi</figcaption>
+</figure>
