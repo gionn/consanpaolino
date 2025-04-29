@@ -47,13 +47,13 @@ Nove squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggiat
 </figure>
 
 <figure class="align-center">
-    <img src="/assets/images/2025/csp-vii-disfida-squadre-2.jpg" alt="seconda classificata squadre lucca">
+    <img src="/assets/images/2025/csp-vii-disfida-squadre-2.jpg" alt="seconda classificata squadre csp lucca">
   <figcaption>2ª classificata CSP - Lucca</figcaption>
 </figure>
 
 <figure class="align-center">
     <img src="/assets/images/2025/csp-vii-disfida-squadre-3.jpg" alt="seconda classificata squadre terra del sole">
-  <figcaption>3ª classificata CSP - Terra del Sole</figcaption>
+  <figcaption>3ª classificata Terra del Sole</figcaption>
 </figure>
 
 <figure class="align-center">
