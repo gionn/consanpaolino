@@ -8,7 +8,7 @@ author:
   name: Giampaolo Russo
 ---
 
-Giovedì 1 Maggio le Contrade sono state invitate dalla Compagnia Balestrieri di Assisi a disputare un gara amichevole a ridosso del **Calendimaggio** di Assisi: una festa tradizionale che si svolge ogni anno intorno al 1° maggio e coinvolge le due "Parti" della città, la *Nobilissima Parte de Sopra* e la *Magnifica Parte de Sotto*, in una serie di cortei, rievocazioni storiche, giochi e competizioni.
+Giovedì 1 Maggio le Contrade sono state invitate dalla Compagnia Balestrieri di Assisi a disputare una gara amichevole a ridosso del **Calendimaggio** di Assisi: una festa tradizionale che si svolge ogni anno intorno al 1° maggio e coinvolge le due "Parti" della città, la *Nobilissima Parte de Sopra* e la *Magnifica Parte de Sotto*, in una serie di cortei, rievocazioni storiche, giochi e competizioni.
 
 <!-- more -->
 
