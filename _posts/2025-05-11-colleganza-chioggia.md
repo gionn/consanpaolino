@@ -3,7 +3,7 @@ layout: post
 title: "🎯 XI torneo della Colleganza: risultati e classifiche"
 image: /assets/images/2025/colleganza-25-corniolo.webp
 categories:
-  - eventi
+  - albo
 author:
   name: Giampaolo Russo
 ---
