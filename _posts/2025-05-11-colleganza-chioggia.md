@@ -8,13 +8,13 @@ author:
   name: Giampaolo Russo
 ---
 
-Domenica 11 maggio le Contrade sono state invitate all'XI torneo della *Colleganza*, che prende questo nome con lo scopo di "collegare" ed essere vicini assieme con le maggiori realtà di tiro con la balestra da banco (sia LITAB che FIB). Oltre ai padroni di casa di Chioggia si sono fronteggiate oltre a noi, la compagnia balestrieri di Terra del Sole e la compagnia balestrieri della Repubblica di San Marino.
+Domenica 11 maggio le Contrade sono state invitate all'XI torneo della *Colleganza*, torneo che prende questo nome con lo scopo di "collegare" ed essere vicini assieme con le maggiori realtà di tiro con la balestra da banco (sia LITAB che FIB). Oltre ai padroni di casa di Chioggia si sono fronteggiate, oltre a noi, la compagnia balestrieri di Terra del Sole e la compagnia balestrieri della Repubblica di San Marino.
 
 <!-- more -->
 
 La gara prevede un torneo a squadre su bersaglio singolo ed un torneo di tiro individuale al corniolo. Qui di seguito le classifiche ed i risultati di entrambe le gare:
 
-### Torneo a squadre su bersaglio singolo
+### Classifica Torneo a squadre su bersaglio singolo
 
 | **#** | **Squadra**              | **Punteggio** |
 |:-----:|--------------------------|---------------|
@@ -23,7 +23,7 @@ La gara prevede un torneo a squadre su bersaglio singolo ed un torneo di tiro in
 |   3   | Repubblica San Marino    |           317 |
 |   4   | CSP - Lucca              |           311 |
 
-### Classifica gara a squadre **Contrade**
+### Classifica tiri **Contrade** nella gara a squadre
 
 | **#** | **Squadra**              | **Punteggio** |
 |:-----:|--------------------------|---------------|
@@ -42,7 +42,7 @@ La gara prevede un torneo a squadre su bersaglio singolo ed un torneo di tiro in
 
 Un imprevisto meccanico ha compromesso il primo tiro di *Gianluca Bertolucci*, facendo sfumare una probabile vittoria o un piazzamento migliore nella classifica totale: la rottura del troncafili, un componente della corda della balestra che serve a dare il colpo più compatto possibile alla verretta, ha fatto in modo da deviare la stessa fuori bersaglio. Nonostante questo, la squadra ha dimostrato tenacia e precisione nei tiri successivi, mettendo a segno inoltre 5 centri per un totale di 150 punti.
 
-### Gara individuale al corniolo
+### Classifica Gara individuale al corniolo
 
 * Primo et meliore: **Bruno Valandro** di Chioggia
 * Secondo et meliore: **Nicola Pieraccini** di Terra del Sole
