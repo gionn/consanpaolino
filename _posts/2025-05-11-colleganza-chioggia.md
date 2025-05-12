@@ -8,7 +8,7 @@ author:
   name: Giampaolo Russo
 ---
 
-Domenica 11 maggio le Contrade sono state invitate all'XI torneo della *Colleganza*, torneo che prende questo nome con lo scopo di "collegare" ed essere vicini assieme con le maggiori realtà di tiro con la balestra da banco (sia LITAB che FIB). Oltre ai padroni di casa di Chioggia si sono fronteggiate, oltre a noi, la compagnia balestrieri di Terra del Sole e la compagnia balestrieri della Repubblica di San Marino.
+Domenica 11 maggio le Contrade sono state invitate all’XI torneo della Colleganza, torneo che prende questo nome con lo scopo di “collegare” le maggiori realtà di tiro con la balestra da banco. Oltre ai padroni di casa di Chioggia si sono fronteggiate, la compagnia balestrieri di Terra del Sole e la compagnia balestrieri della Repubblica di San Marino e le Contrade S.Paolino.
 
 <!-- more -->
 
@@ -40,7 +40,7 @@ La gara prevede un torneo a squadre su bersaglio singolo ed un torneo di tiro in
 |  11   | Lino Antonino            |            28 |
 |  12   | Tolomei M.               |            30 |
 
-Un imprevisto meccanico ha compromesso il primo tiro di *Gianluca Bertolucci*, facendo sfumare una probabile vittoria o un piazzamento migliore nella classifica totale: la rottura del troncafili, un componente della corda della balestra che serve a dare il colpo più compatto possibile alla verretta, ha fatto in modo da deviare la stessa fuori bersaglio. Nonostante questo, la squadra ha dimostrato tenacia e precisione nei tiri successivi, mettendo a segno inoltre 5 centri per un totale di 150 punti.
+Un imprevisto meccanico ha compromesso il primo tiro di *Gianluca Bertolucci*, facendo sfumare una probabile vittoria o un piazzamento migliore nella classifica totale. Nonostante questo, la squadra ha dimostrato tenacia e precisione nei tiri successivi, mettendo a segno inoltre 5 centri per un totale di 150 punti. Ulteriore sfortuna il 4° posto in corniolo di Mauro Tolomei con 30.
 
 ### Classifica Gara individuale al corniolo
 
