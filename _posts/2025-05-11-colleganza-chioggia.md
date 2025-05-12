@@ -40,6 +40,11 @@ La gara prevede un torneo a squadre su bersaglio singolo ed un torneo di tiro in
 |  11   | Lino Antonino            |            28 |
 |  12   | Tolomei M.               |            30 |
 
+<figure class="align-center">
+    <img src="/assets/images/2025/colleganza-25-bersaglio-singolo-squadra.webp" alt="XI colleganza bersaglio singolo squadra">
+  <figcaption>XI Colleganza bersaglio singolo squadra Contrade</figcaption>
+</figure>
+
 Un imprevisto meccanico ha compromesso il primo tiro di *Gianluca Bertolucci*, facendo sfumare una probabile vittoria o un piazzamento migliore nella classifica totale. Nonostante questo, la squadra ha dimostrato tenacia e precisione nei tiri successivi, mettendo a segno inoltre 5 centri per un totale di 150 punti. Ulteriore sfortuna il 4° posto in corniolo di Mauro Tolomei con 30.
 
 ### Classifica Gara individuale al corniolo
