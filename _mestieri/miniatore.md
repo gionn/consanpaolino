@@ -16,11 +16,6 @@ processo complesso e laborioso, che richiedeva abilità e talento.
 
 <!-- more -->
 
-<figure class="align-center">
-    <img src="/assets/images/mestieri/800/miniatore-2_800.jpg" alt="Vari esempi di miniature realizzate a mano">
-  <figcaption>Vari esempi di miniature realizzate a mano</figcaption>
-</figure>
-
 Il supporto veniva preparato segnando righe o griglie per poi iscrivere e
 disegnare rispettando uno schema preciso. Si procedeva poi a scrivere, disegnare
 e illustrare a colori. Inizialmente, all'interno dei monasteri si fabbricava
