@@ -16,11 +16,6 @@ veniva poi acceso.
 
 <!-- more -->
 
-<figure class="align-center">
-    <img src="/assets/images/mestieri/800/ceraio-2_800.jpg" alt="Formazione della candela per colatura della cera">
-  <figcaption>Formazione della candela per colatura della cera</figcaption>
-</figure>
-
 Intorno al 500 a.C., i Romani inventarono le prime candele simili a quelle che
 conosciamo oggi, realizzate con fogli di papiro intrisi di sego o cera d'api,
 che erano utilizzate principalmente durante le festività religiose. Dopo il

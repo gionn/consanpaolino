@@ -15,11 +15,6 @@ della vita in questo periodo.
 
 <!-- more -->
 
-<figure class="align-center">
-    <img src="/assets/images/mestieri/800/ricamatore-2_800.jpg" alt="Ricamatrice all'opera">
-  <figcaption>Ricamatrice all'opera</figcaption>
-</figure>
-
 Il ricamo, durante il Medioevo, era un'attività prevalentemente femminile svolta
 dalle classi più agiate. I materiali utilizzati erano di origine animale o
 vegetale, e le tecniche utilizzate erano diverse. L'Arazzo di Bayeux è l'esempio
